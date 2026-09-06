@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_096",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 096",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "TERMINO",
+      "clue": "Un período fijo, o una palabra específica"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "PERDIDA",
+      "clue": "El estado de ya no tener algo"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "SONIDO",
+      "clue": "Algo que se oye"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "answer": "OTOÑO",
+      "clue": "Estación entre el verano y el invierno"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "MEDICO",
+      "clue": "Profesional médico que atiende pacientes"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "PROBLEMA",
+      "clue": "Un asunto difícil que necesita solución"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "VERANO",
+      "clue": "Estación más calurosa del año"
+    }
+  ]
+}

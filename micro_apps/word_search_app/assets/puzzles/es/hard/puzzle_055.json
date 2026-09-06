@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_055",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 54,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "XNSVTRCZCUEO",
+    "JBJGBMHQFSOC",
+    "TXIHBCOQFHPA",
+    "OEBOLETOHUXH",
+    "NOICATSEGOMR",
+    "TSCOUXJKCLQU",
+    "ZJIOSALRNGDD",
+    "MOCHILAIHYXL",
+    "PJLVDBXSAGSV",
+    "VOETROPASAPP",
+    "EOTREUPOREAT",
+    "IXATSIPOTUAM"
+  ],
+  "words": [
+    {
+      "word": "AEROPUERTO",
+      "row": 10,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "AUTOPISTA",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "BARCO",
+      "row": 8,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "BICICLETA",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BOLETO",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ESTACION",
+      "row": 4,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PASAPORTE",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "TAXI",
+      "row": 11,
+      "col": 3,
+      "dir": "W"
+    },
+    {
+      "word": "VIAJE",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    }
+  ]
+}

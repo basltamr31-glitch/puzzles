@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_018",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 018",
+  "rows": 12,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "ENVIRONMENT",
+      "clue": "The natural world around us"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "PASSENGER",
+      "clue": "A person traveling in a vehicle, not driving it"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "EXHIBITION",
+      "clue": "A public display of art or objects"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "CHARACTER",
+      "clue": "A person portrayed in a story"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "ITEM",
+      "clue": "A single article or object"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "MEDICINE",
+      "clue": "The science of treating illness"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "INTERNET",
+      "clue": "The global network connecting computers"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 12,
+      "answer": "STATE",
+      "clue": "A condition, or a political territory"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "WAR",
+      "clue": "Armed conflict between nations"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "LOSS",
+      "clue": "The state of no longer having something"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "VOLCANO",
+      "clue": "A mountain that can erupt with lava"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 10,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 1,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    }
+  ]
+}

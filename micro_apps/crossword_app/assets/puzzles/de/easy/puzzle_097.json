@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_097",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 097",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "VATER",
+      "clue": "Männlicher Elternteil",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ZUCKER",
+      "clue": "Süße kristalline Substanz",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "NASE",
+      "clue": "Körperteil zum Riechen",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "HERZ",
+      "clue": "Organ, das das Blut durch den Körper pumpt",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "SCHAF",
+      "clue": "Wolliges Weidetier, das blökt",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "WAL",
+      "clue": "Riesiges Meeressäugetier",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "SEE",
+      "clue": "Großes Gewässer, von Land umgeben",
+      "category": "place"
+    }
+  ]
+}

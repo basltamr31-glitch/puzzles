@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_096",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 95,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "CPLIQTYTCOUABU",
+    "ATISBPDLDXNEOR",
+    "CTBHALYFLZALXZ",
+    "QUHHSTADIUMQIB",
+    "KGNLKNRVAMBMND",
+    "OZAVEPOHDWSFGM",
+    "ZHHSTTLIONAWNL",
+    "WAKXBKEAPCOYIJ",
+    "USGQAIEDOMKRLM",
+    "WGOALYRQUHAECB",
+    "BIICLNEKJXNHYV",
+    "ROCJCAFQSKGCCE",
+    "EFHEQEEAODGRXZ",
+    "TPUYLMRMCIQABW"
+  ],
+  "words": [
+    {
+      "word": "ARCHERY",
+      "row": 13,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "BASKETBALL",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BOXING",
+      "row": 0,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "CHAMPIONSHIP",
+      "row": 11,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "CYCLING",
+      "row": 11,
+      "col": 12,
+      "dir": "N"
+    },
+    {
+      "word": "GOAL",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 5,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "REFEREE",
+      "row": 13,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "SOCCER",
+      "row": 8,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "STADIUM",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SWIM",
+      "row": 5,
+      "col": 10,
+      "dir": "SE"
+    }
+  ]
+}

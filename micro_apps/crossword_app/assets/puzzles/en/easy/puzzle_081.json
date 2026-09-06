@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_081",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 081",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "RUN",
+      "clue": "To move quickly on foot",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "DANCE",
+      "clue": "To move rhythmically to music",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "CHILD",
+      "clue": "Young human, not yet an adult",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "WATER",
+      "clue": "Clear liquid essential for life",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "RED",
+      "clue": "Color of blood or a ripe tomato",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "FRIEND",
+      "clue": "Someone you like and trust",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "CAT",
+      "clue": "Common household pet that meows",
+      "category": "animal"
+    }
+  ]
+}

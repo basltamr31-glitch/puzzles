@@ -1,0 +1,122 @@
+{
+  "id": "it_expert_072",
+  "language": "it",
+  "difficulty": "expert",
+  "title": "Cruciverba 072",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "ORGANIZZAZIONE",
+      "clue": "Un gruppo di persone che lavora per un obiettivo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 13,
+      "answer": "UNITA",
+      "clue": "Una singola misura o pezzo standard"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "LOGICA",
+      "clue": "Un ragionamento condotto secondo regole rigide"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "RIVOLUZIONARIO",
+      "clue": "Che comporta un cambiamento drastico e profondo"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "GEOGRAFICO",
+      "clue": "Relativo alle caratteristiche fisiche della Terra"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 2,
+      "answer": "VOCABOLARIO",
+      "clue": "L'insieme delle parole usate in una lingua"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 1,
+      "answer": "PRONUNCIA",
+      "clue": "Il modo in cui si dice una parola"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "answer": "SQUADRA",
+      "clue": "Un gruppo che lavora insieme verso un obiettivo"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 9,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "PIANO",
+      "clue": "Una proposta dettagliata per fare qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "TIPO",
+      "clue": "Una categoria o genere di qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 11,
+      "answer": "ARTE",
+      "clue": "Espressione creativa, come la pittura"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 14,
+      "answer": "CIELO",
+      "clue": "Lo spazio sopra la terra"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "MAPPA",
+      "clue": "Un disegno che mostra dove si trovano i luoghi"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    }
+  ]
+}

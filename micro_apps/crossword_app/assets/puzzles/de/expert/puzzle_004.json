@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_004",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 004",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "TRADITIONELL",
+      "clue": "Alten Bräuchen folgend"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "STAAT",
+      "clue": "Ein Zustand, oder ein politisches Gebiet"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "PHILOSOPHISCH",
+      "clue": "Auf das Studium grundlegender Wahrheiten bezogen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "MATHEMATISCH",
+      "clue": "Auf das Studium von Zahlen und Formen bezogen"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 13,
+      "answer": "UNGLAUBLICH",
+      "clue": "Zu außergewöhnlich, um geglaubt zu werden"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "EINHEIT",
+      "clue": "Ein einzelnes Standardmaß"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "VERHANDLUNG",
+      "clue": "Eine Diskussion zur Erreichung einer Einigung"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 6,
+      "answer": "ERHALTUNG",
+      "clue": "Der Schutz von Natur und Ressourcen"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "GESETZ",
+      "clue": "Eine von der Regierung durchgesetzte Regel"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "KRIEG",
+      "clue": "Bewaffneter Konflikt zwischen Nationen"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 4,
+      "answer": "PODEST",
+      "clue": "Eine erhöhte Plattform"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 0,
+      "answer": "KLANG",
+      "clue": "Etwas, das man hört"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "answer": "RAUM",
+      "clue": "Ein leerer Bereich, oder das Universum"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 2,
+      "answer": "HIMMEL",
+      "clue": "Der Raum über der Erde"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 10,
+      "answer": "ZIEL",
+      "clue": "Das Ergebnis, auf das jemand hinarbeitet"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 6,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    }
+  ]
+}

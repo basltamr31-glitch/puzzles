@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_056",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 056",
+  "rows": 12,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "answer": "VACCINE",
+      "clue": "A substance that protects against disease"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 10,
+      "answer": "OIL",
+      "clue": "Slippery liquid used for cooking or fuel"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "INVENTION",
+      "clue": "A newly created device or process"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 4,
+      "answer": "MONUMENT",
+      "clue": "A structure built to honor a person or event"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "PENINSULA",
+      "clue": "Land almost surrounded by water"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "LANDSCAPE",
+      "clue": "The visible scenery of an area of land"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "TAX",
+      "clue": "Money owed to the government"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "COST",
+      "clue": "The amount paid for something"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "CHALLENGE",
+      "clue": "A task that tests one's abilities"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "ICE",
+      "clue": "Frozen water"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "TYPE",
+      "clue": "A category or kind of something"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "answer": "VOTE",
+      "clue": "A formal choice made in an election"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "PARAGRAPH",
+      "clue": "A distinct section of writing"
+    }
+  ]
+}

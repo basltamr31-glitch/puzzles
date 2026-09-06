@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_059",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 059",
+  "rows": 12,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "اختراع",
+      "clue": "ابتكار جهاز أو وسيلة جديدة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "طعم",
+      "clue": "ما يُحس به عند تذوق الطعام"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "سرعة",
+      "clue": "مقدار المسافة المقطوعة في زمن معين"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "نفسية",
+      "clue": "صفة تتعلق بالنفس والعقل"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "answer": "طول",
+      "clue": "مقدار امتداد الشيء"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 8,
+      "answer": "ميدان",
+      "clue": "ساحة واسعة في المدينة"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "فلسفة",
+      "clue": "دراسة الأسئلة الأساسية حول الوجود"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "بيئة",
+      "clue": "المحيط الطبيعي الذي نعيش فيه"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 11,
+      "answer": "اقتصاد",
+      "clue": "علم إنتاج السلع والخدمات وتوزيعها"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "حرية",
+      "clue": "القدرة على التصرف دون قيود"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 9,
+      "answer": "معدن",
+      "clue": "مادة صلبة كالحديد أو الذهب"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 9,
+      "answer": "مشروع",
+      "clue": "خطة أو عمل يُنفذ لتحقيق هدف"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 8,
+      "answer": "ضعف",
+      "clue": "قلة القوة أو القدرة"
+    }
+  ]
+}

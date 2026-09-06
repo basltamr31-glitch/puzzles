@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_066",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 066",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "CONSECUENCIA",
+      "clue": "Un resultado o efecto de una acción"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "MODELO",
+      "clue": "Una representación de algo, a menudo más pequeña"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "FUERZA",
+      "clue": "El poder ejercido sobre algo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "APRECIACION",
+      "clue": "El reconocimiento del valor de algo"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "REVOLUCIONARIO",
+      "clue": "Que implica un cambio drástico y profundo"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "IMAGINACION",
+      "clue": "La capacidad de formar nuevas ideas"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "GENERACION",
+      "clue": "Un grupo de personas de edad similar"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 10,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 12,
+      "answer": "FABRICACION",
+      "clue": "La producción de bienes a gran escala"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "ACTUACION",
+      "clue": "Un acto de presentación ante un público"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 0,
+      "answer": "UNIDAD",
+      "clue": "Una única medida o pieza estándar"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "EDAD",
+      "clue": "Cuántos años ha vivido alguien"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "ORDEN",
+      "clue": "Una secuencia, o una instrucción a seguir"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 2,
+      "answer": "ARTE",
+      "clue": "Expresión creativa, como la pintura"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 11,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    }
+  ]
+}

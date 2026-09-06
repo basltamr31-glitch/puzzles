@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_039",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 38,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "REUHTERVJL",
+    "THUXCRTMSB",
+    "JDIVBQAOMI",
+    "LLHUBLXICT",
+    "BUVGAVIONO",
+    "IATQTPEGOA",
+    "FGAREOALVR",
+    "STLCARTEOS",
+    "VTNGUTFGVS",
+    "EZLFMSABVH"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BATEAU",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CARTE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GARE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PORT",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TRAIN",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "VELO",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_083",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 083",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "CONSTRUCCION",
+      "clue": "El proceso de construir algo"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "VOCABULARIO",
+      "clue": "El conjunto de palabras usadas en un idioma"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "NEGOCIACION",
+      "clue": "Una discusión para llegar a un acuerdo"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "VALOR",
+      "clue": "Cuánto vale algo"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "TRADUCCION",
+      "clue": "La conversión de un texto a otro idioma"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "answer": "LOGICA",
+      "clue": "Un razonamiento llevado según reglas estrictas"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 7,
+      "answer": "GANANCIA",
+      "clue": "Un aumento de algo, como riqueza"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 14,
+      "answer": "CIRCUNSTANCIA",
+      "clue": "Una condición ligada a un evento"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 8,
+      "answer": "RANGO",
+      "clue": "La extensión entre dos límites"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 9,
+      "answer": "FUERZA",
+      "clue": "El poder ejercido sobre algo"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 6,
+      "answer": "REGLA",
+      "clue": "Una instrucción oficial sobre cómo comportarse"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 11,
+      "answer": "META",
+      "clue": "El objetivo hacia el que alguien trabaja"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 4,
+      "answer": "NIVEL",
+      "clue": "Un estándar o altura particular"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 10,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 0,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    }
+  ]
+}

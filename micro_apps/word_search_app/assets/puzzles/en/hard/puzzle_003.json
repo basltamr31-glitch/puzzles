@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_003",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 2,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "EGWRQCITSXOD",
+    "PDPZMASTONEY",
+    "KYBFAELNSKFW",
+    "WATERFALLMQH",
+    "REROMCNDUONO",
+    "RQFHLNDUOQDV",
+    "WIWOCEANLWCN",
+    "WLVLTYISNPZB",
+    "TUVELAYBRAXZ",
+    "VOXHRILQIBQK",
+    "CKLEKTTUSCRF",
+    "ZJEKNINGQHJU"
+  ],
+  "words": [
+    {
+      "word": "FOREST",
+      "row": 5,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "ISLAND",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 2,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "MEADOW",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "OCEAN",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 9,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "RIVER",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "STONE",
+      "row": 1,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "WATERFALL",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

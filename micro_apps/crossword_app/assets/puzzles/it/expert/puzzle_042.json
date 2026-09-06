@@ -1,0 +1,122 @@
+{
+  "id": "it_expert_042",
+  "language": "it",
+  "difficulty": "expert",
+  "title": "Cruciverba 042",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "CIELO",
+      "clue": "Lo spazio sopra la terra"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "GUADAGNO",
+      "clue": "Un aumento di qualcosa, come la ricchezza"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "CONSEGUENZA",
+      "clue": "Un risultato o effetto di un'azione"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 0,
+      "answer": "COLLABORAZIONE",
+      "clue": "L'atto di lavorare insieme"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 11,
+      "answer": "MODELLO",
+      "clue": "Una rappresentazione di qualcosa, spesso più piccola"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 7,
+      "answer": "LIVELLO",
+      "clue": "Uno standard o un'altezza particolare"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "RIVOLUZIONARIO",
+      "clue": "Che comporta un cambiamento drastico e profondo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "SQUADRA",
+      "clue": "Un gruppo che lavora insieme verso un obiettivo"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 8,
+      "answer": "LOGICA",
+      "clue": "Un ragionamento condotto secondo regole rigide"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "TERMINE",
+      "clue": "Un periodo fisso, o una parola specifica"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 10,
+      "answer": "FORMA",
+      "clue": "Il contorno o l'aspetto di qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 8,
+      "answer": "REGOLA",
+      "clue": "Un'istruzione ufficiale su come comportarsi"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "OPPORTUNITA",
+      "clue": "Una buona possibilità di progresso"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "LEGGE",
+      "clue": "Una regola imposta da un governo"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 14,
+      "answer": "PIANO",
+      "clue": "Una proposta dettagliata per fare qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 13,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    }
+  ]
+}

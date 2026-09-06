@@ -1,0 +1,50 @@
+{
+  "id": "de_easy_087",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 087",
+  "rows": 6,
+  "cols": 5,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "SEE",
+      "clue": "Großes Gewässer, von Land umgeben",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ZEIT",
+      "clue": "Was Uhren messen",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "WORT",
+      "clue": "Eine sprachliche Einheit mit Bedeutung",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "WOLF",
+      "clue": "Wildtier, verwandt mit dem Hund",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "FRAU",
+      "clue": "Erwachsene weibliche Person",
+      "category": "people"
+    }
+  ]
+}

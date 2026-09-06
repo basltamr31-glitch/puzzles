@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_076",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 076",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "SCHNEE",
+      "clue": "Gefrorene weiße Flocken im Winter",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "BRAUN",
+      "clue": "Farbe von Erde und Schokolade",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "ZUCKER",
+      "clue": "Süße kristalline Substanz",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "TIGER",
+      "clue": "Große gestreifte Raubkatze",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "ENTE",
+      "clue": "Wasservogel, der schnattert",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "TAG",
+      "clue": "Ein 24-Stunden-Zeitraum",
+      "category": "time"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_073",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 72,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "ELGAERYSSMOS",
+    "OPYIJOFDQWOL",
+    "VBYWRDOGULKX",
+    "DZEBRABBITEK",
+    "YQMPHDFHRSZY",
+    "LMWTYIZFRUUD",
+    "RSBHYTQOEMBO",
+    "VZGXNIHPLODA",
+    "ZTVKSGOUFUJE",
+    "SRLCEEOAUSSO",
+    "UHCVXRZAMEZJ",
+    "HLCOURZKTPKH"
+  ],
+  "words": [
+    {
+      "word": "DOLPHIN",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "EAGLE",
+      "row": 0,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "GOAT",
+      "row": 8,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "HORSE",
+      "row": 7,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "MOUSE",
+      "row": 6,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "RABBIT",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SQUIRREL",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "TIGER",
+      "row": 6,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

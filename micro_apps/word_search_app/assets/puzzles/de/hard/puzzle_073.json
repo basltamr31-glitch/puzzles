@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_073",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 72,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "EFJEPECFUYUA",
+    "LTJAFFFGZEER",
+    "FLDITUESAHFO",
+    "RXEYZZGREEFU",
+    "CSHIZNEADLER",
+    "VDMDAGBBIENE",
+    "SZXOIDZDRFMN",
+    "KMRTVAOYMAUS",
+    "HOJCIKVHUNDF",
+    "FGSZOHXBUTEG",
+    "DAKRZRHLRJNS",
+    "JPKBMGDVSFRA"
+  ],
+  "words": [
+    {
+      "word": "ADLER",
+      "row": 4,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "BIENE",
+      "row": 5,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "ELEFANT",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "HASE",
+      "row": 2,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "HUND",
+      "row": 8,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "MAUS",
+      "row": 7,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "PFERD",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TIGER",
+      "row": 7,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    }
+  ]
+}

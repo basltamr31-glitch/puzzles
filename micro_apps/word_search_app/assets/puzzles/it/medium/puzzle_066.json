@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_066",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 65,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "NFKDZBABIC",
+    "VIOQPIMFEB",
+    "MPUROEDSQI",
+    "EAMHMBBIUS",
+    "LTELOAZKTC",
+    "AAAADNGIPO",
+    "PTETOAKGBT",
+    "BARTRNGUIT",
+    "CLFEOARFPO",
+    "PIHCAFFEFO"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CAFFE",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "LATTE",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MELA",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "POMODORO",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

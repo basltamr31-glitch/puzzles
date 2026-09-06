@@ -1,0 +1,73 @@
+{
+  "id": "it_medium_036",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 036",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "TEMPORALE",
+      "clue": "Tempesta con tuoni e fulmini"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "LUCE",
+      "clue": "La chiarezza che permette di vedere"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "LAVORO",
+      "clue": "Un impiego retribuito svolto regolarmente"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "POTERE",
+      "clue": "La capacità di fare o controllare qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "MAPPA",
+      "clue": "Un disegno che mostra dove si trovano i luoghi"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "PALAZZO",
+      "clue": "Grande residenza di un re o una regina"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    }
+  ]
+}

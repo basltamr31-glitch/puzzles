@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_024",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 024",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 9,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "GUERRA",
+      "clue": "Un conflicto armado entre naciones"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "EXTRAORDINARIO",
+      "clue": "Muy inusual o notable"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 8,
+      "answer": "LOGICA",
+      "clue": "Un razonamiento llevado según reglas estrictas"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "answer": "VOCABULARIO",
+      "clue": "El conjunto de palabras usadas en un idioma"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "FILOSOFIA",
+      "clue": "El estudio de preguntas fundamentales sobre la existencia"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "CONTEMPORANEO",
+      "clue": "Perteneciente a la época actual"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 9,
+      "answer": "EMPLEO",
+      "clue": "Un trabajo remunerado que se hace regularmente"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 14,
+      "answer": "OPORTUNIDAD",
+      "clue": "Una buena oportunidad de progreso"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "COSTO",
+      "clue": "La cantidad pagada por algo"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 7,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "TASA",
+      "clue": "Una medida de la rapidez con la que ocurre algo"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 13,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "answer": "ARTE",
+      "clue": "Expresión creativa, como la pintura"
+    }
+  ]
+}

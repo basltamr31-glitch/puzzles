@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_069",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 069",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "ISOLA",
+      "clue": "Terra completamente circondata dall'acqua",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "PESCE",
+      "clue": "Animale acquatico che respira con le branchie",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "MESE",
+      "clue": "Una delle dodici divisioni di un anno",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "LUPO",
+      "clue": "Animale selvatico imparentato con il cane",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "GAMBA",
+      "clue": "Arto usato per camminare",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "SOLE",
+      "clue": "Stella al centro del nostro sistema solare",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ORO",
+      "clue": "Metallo prezioso di colore giallo",
+      "category": "nature"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_005",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 005",
+  "rows": 12,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "INVENTO",
+      "clue": "Un dispositivo o proceso recién creado"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "MONTAÑA",
+      "clue": "Un relieve natural muy elevado"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "PAISAJE",
+      "clue": "El escenario visible de una región"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "TEMPERATURA",
+      "clue": "Una medida de calor o frío"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 11,
+      "answer": "FORMA",
+      "clue": "El contorno o aspecto de algo"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 1,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "TERMINO",
+      "clue": "Un período fijo, o una palabra específica"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "CIRUGIA",
+      "clue": "Un procedimiento médico para tratar una afección"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "TECNOLOGIA",
+      "clue": "Aplicación de la ciencia con fines prácticos"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "answer": "NIVEL",
+      "clue": "Un estándar o altura particular"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 9,
+      "answer": "TASA",
+      "clue": "Una medida de la rapidez con la que ocurre algo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "EDAD",
+      "clue": "Cuántos años ha vivido alguien"
+    }
+  ]
+}

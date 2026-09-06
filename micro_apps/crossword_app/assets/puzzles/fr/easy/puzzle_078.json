@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_078",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 078",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "JOUR",
+      "clue": "Une période de 24 heures",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "SOMMEIL",
+      "clue": "Repos les yeux fermés",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "VERT",
+      "clue": "Couleur de l'herbe et des feuilles",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "LION",
+      "clue": "Grand félin, roi de la savane",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "OURS",
+      "clue": "Grand animal poilu qui vit dans les bois",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SOURIRE",
+      "clue": "Expression heureuse du visage",
+      "category": "body"
+    }
+  ]
+}

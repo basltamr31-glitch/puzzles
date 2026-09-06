@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_026",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 25,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "HUSRHDVH",
+    "ULAIGXFQ",
+    "PANUTFRA",
+    "UUDTOFEH",
+    "XIIUMYSP",
+    "FPATATAH",
+    "UVOOTSDI",
+    "FOQUESOK"
+  ],
+  "words": [
+    {
+      "word": "FRESA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PAN",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "QUESO",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SANDIA",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

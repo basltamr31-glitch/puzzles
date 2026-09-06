@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_034",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 33,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "FXBAIVAHHHROFD",
+    "BCEFFACNSILRBI",
+    "QEECPNRQPBPHUZ",
+    "ULNLUGBBPXTQCX",
+    "TEXOMUMINESTRA",
+    "PINUMRESRYNXHL",
+    "EMCPVICCYLGOVL",
+    "CDETTALOGARFIE",
+    "RMVPERATROTCUT",
+    "IZMFRETTDLEGHT",
+    "UHDPBYFOXNLSRI",
+    "EVBCLHMMYFLRXR",
+    "NCUEDOOOPMXAFF",
+    "FKUGPDTBISPZZN"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CAFFE",
+      "row": 1,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "FRITTELLA",
+      "row": 12,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "LATTE",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "LIMONE",
+      "row": 7,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "MIELE",
+      "row": 6,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 4,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "PERA",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "POMODORO",
+      "row": 13,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "TORTA",
+      "row": 8,
+      "col": 10,
+      "dir": "W"
+    }
+  ]
+}

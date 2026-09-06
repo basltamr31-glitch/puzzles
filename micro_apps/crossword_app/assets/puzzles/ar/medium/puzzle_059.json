@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_059",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 059",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "حب",
+      "clue": "شعور عميق بالمودة تجاه شخص أو شيء"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "واجب",
+      "clue": "ما يجب على الشخص القيام به"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "اختبار",
+      "clue": "وسيلة لتقييم المعرفة أو المهارة"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "راتب",
+      "clue": "المال الذي يتقاضاه الموظف"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "حكومة",
+      "clue": "الجهة التي تدير شؤون الدولة"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "مطار",
+      "clue": "مكان تقلع وتهبط فيه الطائرات"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "رمل",
+      "clue": "حبيبات ناعمة تغطي الصحراء والشواطئ"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "طالبة",
+      "clue": "أنثى تدرس في مدرسة أو جامعة"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "أمطار",
+      "clue": "جمع مطر"
+    }
+  ]
+}

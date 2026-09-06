@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_018",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 17,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "OYGTALUUWT",
+    "YVXWOUEPCH",
+    "GEOZXMUMHR",
+    "OGCDTEAEOD",
+    "EJBSRYRTCN",
+    "NSAVOCADOF",
+    "WPDMIUXHLT",
+    "TNUUSEPDAE",
+    "TFYSZHLNTX",
+    "DWBCHEESEL"
+  ],
+  "words": [
+    {
+      "word": "AVOCADO",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CHEESE",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "JAM",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "LEMON",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "SOUP",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "TEA",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATO",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

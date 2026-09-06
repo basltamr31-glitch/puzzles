@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_071",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 70,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "ITHDZFHT",
+    "TMBILLET",
+    "PVALISER",
+    "HEAHRNLA",
+    "AUZITAXI",
+    "PMEXNION",
+    "AIVOYAGE",
+    "KLBUSAQA"
+  ],
+  "words": [
+    {
+      "word": "BILLET",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "VALISE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

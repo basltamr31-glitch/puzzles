@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_092",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 092",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "SCHULE",
+      "clue": "Ort, an dem Kinder lernen",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "OHR",
+      "clue": "Körperteil zum Hören",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "BIENE",
+      "clue": "Summendes Insekt, das Honig macht",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "SEITE",
+      "clue": "Ein Blatt in einem Buch",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "TAL",
+      "clue": "Niedriges Land zwischen Bergen",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "MEER",
+      "clue": "Große Fläche mit Salzwasser",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "BABY",
+      "clue": "Sehr junges Kind",
+      "category": "people"
+    }
+  ]
+}

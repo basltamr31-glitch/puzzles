@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_041",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 40,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "KULKRVJGHCYN",
+    "DXOBSTUWUUPT",
+    "GNYHIPMDHZNA",
+    "YOCVSCGNXIRD",
+    "KUOFITNAFELE",
+    "FLOWHLKLHGWY",
+    "UHMJVMETHEED",
+    "GLNKKDNTOVRM",
+    "DGBZRAHLXYSC",
+    "ASHJPIMIWTPV",
+    "HECLARBEZRYJ",
+    "LGWHBFXDLXVH"
+  ],
+  "words": [
+    {
+      "word": "DELFIN",
+      "row": 7,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "ELEFANT",
+      "row": 4,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "FUCHS",
+      "row": 5,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "HUND",
+      "row": 0,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "KAMEL",
+      "row": 7,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "LOEWE",
+      "row": 8,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "PANTHER",
+      "row": 9,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "WOLF",
+      "row": 5,
+      "col": 3,
+      "dir": "W"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 10,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "ZIEGE",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

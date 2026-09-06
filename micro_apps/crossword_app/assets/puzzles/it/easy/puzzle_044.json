@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_044",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 044",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "TERRA",
+      "clue": "Il pianeta in cui viviamo",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "SORRISO",
+      "clue": "Espressione felice del viso",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SEDIA",
+      "clue": "Mobile su cui ci si siede",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "NUVOLA",
+      "clue": "Massa bianca o grigia che fluttua nel cielo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "BOSCO",
+      "clue": "Grande estensione coperta di alberi",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ORA",
+      "clue": "Un'unità di tempo di sessanta minuti",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

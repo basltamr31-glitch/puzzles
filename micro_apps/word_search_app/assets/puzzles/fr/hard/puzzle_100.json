@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_100",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 99,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "NSNXATPCRXAT",
+    "TAPISLYQZOVH",
+    "ALHTFUESQTBE",
+    "KLYFIKFOZIZA",
+    "EEOVESIAHCMU",
+    "SDPSHNBNDCRZ",
+    "EERUTREVUOCS",
+    "IBELPPMTGFCL",
+    "YADFARJARDIN",
+    "DIPNUMTSTEOE",
+    "BNAIUHPSNTVN",
+    "DCNTTUFELBAT"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "CHAISE",
+      "row": 4,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "COUVERTURE",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "FENETRE",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "JARDIN",
+      "row": 8,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPE",
+      "row": 7,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SALLEDEBAIN",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 11,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "TAPIS",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TASSE",
+      "row": 7,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

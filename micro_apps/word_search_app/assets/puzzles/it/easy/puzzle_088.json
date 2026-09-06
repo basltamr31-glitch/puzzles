@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_088",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 87,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "CNNOPBSD",
+    "IASCCQTS",
+    "YVQUANAT",
+    "OMUALADE",
+    "SCACCHIV",
+    "BDDZITOK",
+    "OQRCORSA",
+    "QLANUOTO"
+  ],
+  "words": [
+    {
+      "word": "CALCIO",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CORSA",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "NUOTO",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SQUADRA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "STADIO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

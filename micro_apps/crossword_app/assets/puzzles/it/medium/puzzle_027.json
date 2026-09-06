@@ -1,0 +1,66 @@
+{
+  "id": "it_medium_027",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 027",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "TASSA",
+      "clue": "Denaro dovuto al governo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "STUDENTE",
+      "clue": "Persona che studia in una scuola"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "AQUILA",
+      "clue": "Grande uccello rapace dalla vista acuta"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "SPECCHIO",
+      "clue": "Superficie vetrata riflettente"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "CASTELLO",
+      "clue": "Grande edificio fortificato, dimora della nobiltà"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "PINGUINO",
+      "clue": "Uccello che non vola, vive in climi freddi"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "CIELO",
+      "clue": "Lo spazio sopra la terra"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_093",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 92,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "ALIANREGNIFN",
+    "TGPFHOYMTOOF",
+    "KYPYKCENKNRD",
+    "FDCJELBOWLEC",
+    "FHNXQURIILHF",
+    "RICZJQOCKNEE",
+    "NSCZYZWNIIAW",
+    "YSIMDNAHKHDV",
+    "KYQGJOCEKDDE",
+    "NRKHTXZYSOYC",
+    "DSUYTMDTGUHL",
+    "IZGRHZPPGUOR"
+  ],
+  "words": [
+    {
+      "word": "ANKLE",
+      "row": 7,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "CHIN",
+      "row": 8,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "ELBOW",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "EYEBROW",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "FINGERNAIL",
+      "row": 0,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "FOOT",
+      "row": 1,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "FOREHEAD",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 7,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "KNEE",
+      "row": 5,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "NECK",
+      "row": 2,
+      "col": 7,
+      "dir": "W"
+    }
+  ]
+}

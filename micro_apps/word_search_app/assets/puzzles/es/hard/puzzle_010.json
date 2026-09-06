@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_010",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 9,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "JYFUFEDCDRXB",
+    "AJNTJNHJBDAZ",
+    "FMGXIOLOIAFP",
+    "AISXDGUZPECE",
+    "CETALOCOHCEG",
+    "MLOANRSCTCPC",
+    "ONRFHDEZBJJX",
+    "AYTRQLIMONFI",
+    "CQIFUPDAPUNL",
+    "ABLDEATUSCCC",
+    "FPLZSEKCGBJI",
+    "ETAMOTNOECNM"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 8,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 4,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "LECHE",
+      "row": 7,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "LIMON",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "MIEL",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "QUESO",
+      "row": 7,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SANDIA",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SOPA",
+      "row": 5,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "TOMATE",
+      "row": 11,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "TORTILLA",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

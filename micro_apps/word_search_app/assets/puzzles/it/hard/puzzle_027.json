@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_027",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 26,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "NQASZQMEKIVC",
+    "DEMFMGFDVGDV",
+    "PRATOXVLYSEQ",
+    "DEPPNGYGMQTL",
+    "QALUTALHAOOU",
+    "RUTRAZAIBBEN",
+    "ZPPHGCGAAKTQ",
+    "BEXBNGTCOVPS",
+    "GQOIAICCAIHG",
+    "UILIAHPIETRA",
+    "PZPCIELOTNEV",
+    "CSONGFMIMCPK"
+  ],
+  "words": [
+    {
+      "word": "CIELO",
+      "row": 10,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "GHIACCIAIO",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "GHIACCIO",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MONTAGNA",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PIETRA",
+      "row": 9,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "PRATO",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SPIAGGIA",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "VENTO",
+      "row": 10,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_002",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 002",
+  "rows": 9,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "SON",
+      "clue": "Quelque chose que l'on entend"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "VOTE",
+      "clue": "Un choix formel fait lors d'une élection"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "IDEE",
+      "clue": "Une pensée ou un plan"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "ETE",
+      "clue": "Saison la plus chaude de l'année"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "AIGLE",
+      "clue": "Grand oiseau de proie à la vue perçante"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "VALEUR",
+      "clue": "Combien vaut quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "MESSAGE",
+      "clue": "Information envoyée d'une personne à une autre"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "CHEVALIER",
+      "clue": "Guerrier médiéval en armure à cheval"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_086",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 086",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "CIELO",
+      "clue": "El espacio sobre la tierra"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "AGRICULTURA",
+      "clue": "La práctica del cultivo de la tierra"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ESCALA",
+      "clue": "El tamaño de algo en relación con otro"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "LABORATORIO",
+      "clue": "Una sala equipada para investigación científica"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "NAVEGACION",
+      "clue": "El proceso de planificar y seguir una ruta"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "LEY",
+      "clue": "Una regla impuesta por un gobierno"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "TERREMOTO",
+      "clue": "Una sacudida repentina del suelo"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "answer": "IDIOMA",
+      "clue": "Un sistema de palabras usado para comunicarse"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 11,
+      "answer": "CIRUGIA",
+      "clue": "Un procedimiento médico para tratar una afección"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 9,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "TASA",
+      "clue": "Una medida de la rapidez con la que ocurre algo"
+    }
+  ]
+}

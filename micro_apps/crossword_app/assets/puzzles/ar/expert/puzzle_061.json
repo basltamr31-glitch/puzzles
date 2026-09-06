@@ -1,0 +1,122 @@
+{
+  "id": "ar_expert_061",
+  "language": "ar",
+  "difficulty": "expert",
+  "title": "اللغز 061",
+  "rows": 14,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "مستشفيات",
+      "clue": "جمع مستشفى، أماكن علاج المرضى"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "جسم",
+      "clue": "الكيان المادي للإنسان أو الحيوان"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "حرية",
+      "clue": "القدرة على التصرف دون قيود"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "answer": "حرب",
+      "clue": "نزاع مسلح بين أطراف"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "تكنولوجيا",
+      "clue": "العلوم التطبيقية المستخدمة لأغراض عملية"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "تاريخية",
+      "clue": "صفة تتعلق بالتاريخ"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 4,
+      "answer": "واجب",
+      "clue": "ما يجب على الشخص القيام به"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "answer": "عقل",
+      "clue": "أداة التفكير في الإنسان"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "answer": "وزن",
+      "clue": "مقدار ثقل الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 10,
+      "answer": "نوع",
+      "clue": "صنف أو فئة من الأشياء"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "قلب",
+      "clue": "العضو الذي يضخ الدم في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "اكتشافات",
+      "clue": "جمع اكتشاف"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "تحديات",
+      "clue": "جمع تحدٍ، صعوبات تواجه الشخص"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 2,
+      "answer": "رقم",
+      "clue": "رمز يدل على عدد"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 10,
+      "answer": "عدد",
+      "clue": "قيمة رياضية تُستخدم للعد"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "نظام",
+      "clue": "مجموعة قواعد منظمة"
+    }
+  ]
+}

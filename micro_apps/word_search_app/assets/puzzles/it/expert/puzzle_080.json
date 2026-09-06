@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_080",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 79,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "NVHHAVFVQMUYPC",
+    "DSRYEEAKETACIF",
+    "RXBNBXUKYYHZKN",
+    "RDAEOTOUNEIUUF",
+    "RNRRNRIBGZQRBA",
+    "VLIYBMDURSOOGI",
+    "GAHHUIANRMAAAK",
+    "BPTBCRTGALSNVS",
+    "PYNEDCSRGRHAII",
+    "LZPALLAVOLOPFG",
+    "RBUEDTKCKHCKDF",
+    "VQTAOKAKSFKNPZ",
+    "SINNETEZFXEYGF",
+    "ZUASLUYQKCYFMI"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "ATLETA",
+      "row": 11,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "BOXE",
+      "row": 4,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "CORSA",
+      "row": 10,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 8,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "MARATONA",
+      "row": 6,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "NUOTO",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "PALLAVOLO",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 11,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "SQUADRA",
+      "row": 12,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "STADIO",
+      "row": 8,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "TENNIS",
+      "row": 12,
+      "col": 5,
+      "dir": "W"
+    }
+  ]
+}

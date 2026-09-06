@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_092",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 092",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "STRADA",
+      "clue": "Percorso su cui circolano le auto",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "PESCE",
+      "clue": "Animale acquatico che respira con le branchie",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "LEGNO",
+      "clue": "Materiale di cui sono fatti gli alberi",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "TERRA",
+      "clue": "Il pianeta in cui viviamo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "NEVE",
+      "clue": "Fiocchi bianchi e ghiacciati che cadono d'inverno",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "RANA",
+      "clue": "Anfibio verde che salta e gracida",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "APE",
+      "clue": "Insetto che ronza e produce miele",
+      "category": "animal"
+    }
+  ]
+}

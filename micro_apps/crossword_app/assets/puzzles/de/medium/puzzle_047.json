@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_047",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 047",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "KISSEN",
+      "clue": "Weiches Polster zum Ausruhen des Kopfes"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "FENSTER",
+      "clue": "Glasöffnung in einer Wand, die Licht einlässt"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "PINGUIN",
+      "clue": "Flugunfähiger Vogel aus kalten Regionen"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "SPIEL",
+      "clue": "Eine Aktivität zum Vergnügen, oft mit Regeln"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "LATERNE",
+      "clue": "Ein tragbares Licht in einem Gehäuse"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "WERT",
+      "clue": "Wie viel etwas wert ist"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "KANZLEI",
+      "clue": "Büroräume, oft für Anwälte oder Behörden"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 6,
+      "answer": "DORF",
+      "clue": "Kleine Gemeinde, kleiner als eine Stadt"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "IDEE",
+      "clue": "Ein Gedanke oder Plan"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    }
+  ]
+}

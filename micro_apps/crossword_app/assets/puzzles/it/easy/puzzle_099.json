@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_099",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 099",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "VETRO",
+      "clue": "Materiale duro e trasparente",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "PIOGGIA",
+      "clue": "Acqua che cade dalle nuvole",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "PORTA",
+      "clue": "Pannello che si apre per entrare in una stanza",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "APE",
+      "clue": "Insetto che ronza e produce miele",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "LEGNO",
+      "clue": "Materiale di cui sono fatti gli alberi",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "CUORE",
+      "clue": "Organo che pompa il sangue nel corpo",
+      "category": "body"
+    }
+  ]
+}

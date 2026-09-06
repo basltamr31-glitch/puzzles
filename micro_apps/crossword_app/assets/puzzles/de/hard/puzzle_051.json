@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_051",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 051",
+  "rows": 13,
+  "cols": 11,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "answer": "BERUF",
+      "clue": "Bezahlte Arbeit, die man regelmäßig verrichtet"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "CHARAKTER",
+      "clue": "Eine Figur in einer Geschichte"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "GALAXIE",
+      "clue": "Ein riesiges System von Sternen"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "STAAT",
+      "clue": "Ein Zustand, oder ein politisches Gebiet"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "LUFT",
+      "clue": "Das Gas, das wir atmen"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "LICHT",
+      "clue": "Helligkeit, die das Sehen ermöglicht"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "TRADITION",
+      "clue": "Ein über Generationen weitergegebener Brauch"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 6,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "answer": "TROPEN",
+      "clue": "Heiße Klimazone nahe dem Äquator"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "ALTER",
+      "clue": "Wie viele Jahre jemand gelebt hat"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 10,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_080",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 79,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "BVEFJFBNXG",
+    "OYNMPUSFEQ",
+    "XRZITENNIS",
+    "ETSLLSANAA",
+    "FCARBITRET",
+    "BQHADVAAAH",
+    "ZKDEGMTZDL",
+    "NNCYCLISME",
+    "QGBXSSOXOT",
+    "TDCIYLNIHE"
+  ],
+  "words": [
+    {
+      "word": "ARBITRE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "BOXE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CYCLISME",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ECHECS",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "NATATION",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "STADE",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "TENNIS",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

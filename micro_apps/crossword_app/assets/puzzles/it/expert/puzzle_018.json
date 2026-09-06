@@ -1,0 +1,122 @@
+{
+  "id": "it_expert_018",
+  "language": "it",
+  "difficulty": "expert",
+  "title": "Cruciverba 018",
+  "rows": 14,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "UNITA",
+      "clue": "Una singola misura o pezzo standard"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "RIVOLUZIONARIO",
+      "clue": "Che comporta un cambiamento drastico e profondo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "TASSA",
+      "clue": "Denaro dovuto al governo"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "PSICOLOGIA",
+      "clue": "Lo studio scientifico della mente e del comportamento"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 6,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 13,
+      "answer": "CHIAVE",
+      "clue": "Strumento metallico usato per aprire una serratura"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "RISCHIO",
+      "clue": "La possibilità che accada qualcosa di brutto"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "OPPORTUNITA",
+      "clue": "Una buona possibilità di progresso"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "MODELLO",
+      "clue": "Una rappresentazione di qualcosa, spesso più piccola"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 3,
+      "answer": "MISURA",
+      "clue": "Quanto grande o piccolo è qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "FILOSOFICO",
+      "clue": "Relativo allo studio delle verità fondamentali"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "FORZA",
+      "clue": "Il potere esercitato su qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "LEGGE",
+      "clue": "Una regola imposta da un governo"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 9,
+      "answer": "COSTO",
+      "clue": "La somma pagata per qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 11,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 3,
+      "answer": "FORMA",
+      "clue": "Il contorno o l'aspetto di qualcosa"
+    }
+  ]
+}

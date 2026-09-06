@@ -1,0 +1,101 @@
+{
+  "id": "it_hard_014",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 014",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "COMPUTER",
+      "clue": "Apparecchio elettronico che elabora dati"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "ESPERIMENTO",
+      "clue": "Un test scientifico per scoprire qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "VACCINO",
+      "clue": "Una sostanza che protegge da una malattia"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "TERMINE",
+      "clue": "Un periodo fisso, o una parola specifica"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "answer": "OGGETTO",
+      "clue": "Un articolo o una cosa singola"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "GRAVITA",
+      "clue": "La forza che attrae gli oggetti tra loro"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "FRASE",
+      "clue": "Un gruppo di parole che esprime un pensiero completo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CHIAVE",
+      "clue": "Strumento metallico usato per aprire una serratura"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "answer": "SOCIETA",
+      "clue": "Una grande comunità che vive insieme"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 4,
+      "answer": "FATTO",
+      "clue": "Qualcosa che si sa essere vero"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 2,
+      "answer": "VOTO",
+      "clue": "Una scelta formale fatta in un'elezione"
+    }
+  ]
+}

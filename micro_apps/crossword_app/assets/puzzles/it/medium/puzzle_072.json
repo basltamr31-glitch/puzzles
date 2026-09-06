@@ -1,0 +1,73 @@
+{
+  "id": "it_medium_072",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 072",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "CONTADINO",
+      "clue": "Persona che coltiva la terra"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "INSEGNANTE",
+      "clue": "Persona che istruisce gli studenti"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "CANTANTE",
+      "clue": "Persona che fa musica con la voce"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "BIBLIOTECA",
+      "clue": "Edificio o stanza piena di libri"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "CIELO",
+      "clue": "Lo spazio sopra la terra"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "AEREO",
+      "clue": "Velivolo con ali fisse"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "GIACCA",
+      "clue": "Un cappotto corto"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    }
+  ]
+}

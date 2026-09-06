@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_085",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 085",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "BENZIN",
+      "clue": "Flüssiger Treibstoff für Autos"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "answer": "ZUGANG",
+      "clue": "Möglichkeit, etwas zu betreten oder zu nutzen"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "AUSGRABUNG",
+      "clue": "Das Freilegen von Überresten aus der Erde"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "VERTEILUNG",
+      "clue": "Die Handlung des Ausgebens von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 9,
+      "answer": "RAUM",
+      "clue": "Ein leerer Bereich, oder das Universum"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 0,
+      "answer": "FAKT",
+      "clue": "Etwas, das als wahr bekannt ist"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "KRAFT",
+      "clue": "Stärke oder Energie, die auf etwas wirkt"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "AKTUELL",
+      "clue": "Zur Gegenwart gehörend, gegenwärtig"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "AUTONOMIE",
+      "clue": "Freiheit von äußerer Kontrolle"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 9,
+      "answer": "GESETZ",
+      "clue": "Eine von der Regierung durchgesetzte Regel"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 13,
+      "answer": "BEDEUTUNG",
+      "clue": "Die Wichtigkeit von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 3,
+      "answer": "ANERKENNUNG",
+      "clue": "Anerkennung des Wertes von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "answer": "FALL",
+      "clue": "Ein Beispiel für etwas, oder ein Behälter"
+    }
+  ]
+}

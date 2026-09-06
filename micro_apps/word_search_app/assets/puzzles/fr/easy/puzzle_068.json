@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_068",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 67,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "SCHAISEA",
+    "JUNFPVND",
+    "AISNOLVD",
+    "RSTBRMBQ",
+    "DIAUTKFX",
+    "INBGENQK",
+    "NELAMPEU",
+    "NUETHICX"
+  ],
+  "words": [
+    {
+      "word": "CHAISE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CUISINE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "JARDIN",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PORTE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

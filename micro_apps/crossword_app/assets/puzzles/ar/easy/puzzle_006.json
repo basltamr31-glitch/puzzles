@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_006",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 006",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "طير",
+      "clue": "حيوان له أجنحة ويستطيع الطيران",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "طفل",
+      "clue": "إنسان صغير السن",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "كلب",
+      "clue": "حيوان أليف يُعرف بالوفاء",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "نهر",
+      "clue": "مجرى مائي طبيعي كبير",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "أرنب",
+      "clue": "حيوان له أذنان طويلتان يقفز",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "نمر",
+      "clue": "قط كبير مخطط",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "حصان",
+      "clue": "حيوان كبير يُركب",
+      "category": "animal"
+    }
+  ]
+}

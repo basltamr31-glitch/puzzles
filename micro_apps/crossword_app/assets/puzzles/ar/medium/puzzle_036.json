@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_036",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 036",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "نظارة",
+      "clue": "أداة تُوضع على العين لتحسين الرؤية"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "قانون",
+      "clue": "قاعدة يفرضها المجتمع أو الدولة"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "طالبة",
+      "clue": "أنثى تدرس في مدرسة أو جامعة"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "سعادة",
+      "clue": "شعور بالفرح والرضا"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "طول",
+      "clue": "مقدار امتداد الشيء"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "فنان",
+      "clue": "شخص يبدع في مجال من مجالات الفن"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "متحف",
+      "clue": "مكان تُعرض فيه القطع الأثرية والتاريخية"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "مطار",
+      "clue": "مكان تقلع وتهبط فيه الطائرات"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "خطة",
+      "clue": "تصور مُعد مسبقاً لتحقيق هدف"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "نجاح",
+      "clue": "تحقيق هدف مرجو"
+    }
+  ]
+}

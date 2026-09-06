@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_085",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 085",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "SKULPTUR",
+      "clue": "Ein dreidimensionales Kunstwerk"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "GEWINN",
+      "clue": "Eine Zunahme von etwas, wie Vermögen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "INDUSTRIE",
+      "clue": "Wirtschaftliche Tätigkeit im Bereich Fertigung"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "answer": "ABENTEUER",
+      "clue": "Ein aufregendes und gewagtes Erlebnis"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "UMWELT",
+      "clue": "Die natürliche Welt um uns herum"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "KULTUR",
+      "clue": "Die Bräuche und Überzeugungen einer Gesellschaft"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "PLAN",
+      "clue": "Ein detaillierter Vorschlag zur Erledigung von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 7,
+      "answer": "TROPEN",
+      "clue": "Heiße Klimazone nahe dem Äquator"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 7,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 5,
+      "answer": "LOGIK",
+      "clue": "Nach strengen Regeln geführte Argumentation"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    }
+  ]
+}

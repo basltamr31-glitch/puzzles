@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_006",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 006",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "GREEN",
+      "clue": "Color of grass and leaves",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "ARM",
+      "clue": "Limb between the shoulder and the hand",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "RIVER",
+      "clue": "A large natural stream of flowing water",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "RAIN",
+      "clue": "Water falling from clouds",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "DANCE",
+      "clue": "To move rhythmically to music",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "FRIEND",
+      "clue": "Someone you like and trust",
+      "category": "people"
+    }
+  ]
+}

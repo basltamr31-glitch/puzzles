@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_021",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 021",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "WILDNIS",
+      "clue": "Eine wilde, unbebaute Naturregion"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "HIMMEL",
+      "clue": "Der Raum über der Erde"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "EINHEIT",
+      "clue": "Ein einzelnes Standardmaß"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "TELESKOP",
+      "clue": "Instrument zur Betrachtung entfernter Objekte"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "CHEMISCH",
+      "clue": "Auf Stoffe und ihre Reaktionen bezogen"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "answer": "BENZIN",
+      "clue": "Flüssiger Treibstoff für Autos"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 6,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ORDNUNG",
+      "clue": "Eine Reihenfolge, oder eine Anweisung"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 10,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "ERNTE",
+      "clue": "Das Einbringen reifer Feldfrüchte"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "RAUM",
+      "clue": "Ein leerer Bereich, oder das Universum"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "WIRTSCHAFT",
+      "clue": "Das System von Produktion und Handel"
+    }
+  ]
+}

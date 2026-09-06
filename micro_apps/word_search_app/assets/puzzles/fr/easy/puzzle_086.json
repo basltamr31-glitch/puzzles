@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_086",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 85,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "SXPGCMHB",
+    "VFBAHACA",
+    "SSBNANOS",
+    "ETSTPTLK",
+    "OROBEELE",
+    "DEMLAAIT",
+    "EBTVUUES",
+    "KKUUEARU"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CHAPEAU",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "COLLIER",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GANT",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ROBE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

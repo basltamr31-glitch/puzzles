@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_022",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 022",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "TIER",
+      "clue": "Jedes Lebewesen, das keine Pflanze ist"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "SPINNE",
+      "clue": "Achtbeiniges Tier, das Netze spinnt"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "MUSIK",
+      "clue": "Organisierter Klang mit Melodie und Rhythmus"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "KANZLEI",
+      "clue": "Büroräume, oft für Anwälte oder Behörden"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "GESCHICHTE",
+      "clue": "Das Studium vergangener Ereignisse"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "GARTEN",
+      "clue": "Grundstück zum Anbau von Blumen oder Gemüse"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "EINHEIT",
+      "clue": "Ein einzelnes Standardmaß"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "BENZIN",
+      "clue": "Flüssiger Treibstoff für Autos"
+    }
+  ]
+}

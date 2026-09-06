@@ -1,0 +1,73 @@
+{
+  "id": "de_medium_036",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 036",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "REGEL",
+      "clue": "Eine offizielle Anweisung, wie man sich verhält"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "KIRCHE",
+      "clue": "Christlicher Ort der Andacht"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "KNOPF",
+      "clue": "Ein kleiner Verschluss an Kleidung"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "GITARRE",
+      "clue": "Saiteninstrument, das gezupft wird"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "SCHIRM",
+      "clue": "Gerät, das vor Regen schützt"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "TEAM",
+      "clue": "Eine Gruppe, die gemeinsam auf ein Ziel hinarbeitet"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "PALAST",
+      "clue": "Prächtige Residenz eines Königs"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "MACHT",
+      "clue": "Die Fähigkeit, etwas zu tun oder zu kontrollieren"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 7,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    }
+  ]
+}

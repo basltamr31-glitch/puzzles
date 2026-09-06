@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_070",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 070",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "FLUSS",
+      "clue": "Großer natürlicher Wasserlauf",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "GLAS",
+      "clue": "Hartes, durchsichtiges Fenstermaterial",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "NASE",
+      "clue": "Körperteil zum Riechen",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "SEITE",
+      "clue": "Ein Blatt in einem Buch",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "FAMILIE",
+      "clue": "Eltern, Kinder und Verwandte zusammen",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "ARM",
+      "clue": "Gliedmaße zwischen Schulter und Hand",
+      "category": "body"
+    }
+  ]
+}

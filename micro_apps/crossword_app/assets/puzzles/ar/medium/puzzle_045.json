@@ -1,0 +1,73 @@
+{
+  "id": "ar_medium_045",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 045",
+  "rows": 10,
+  "cols": 5,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "فن",
+      "clue": "تعبير إبداعي بالرسم أو الموسيقى أو غيرها"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "answer": "أنف",
+      "clue": "عضو الشم في الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "فكرة",
+      "clue": "تصور ذهني حول موضوع ما"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "سفارة",
+      "clue": "مقر تمثيل دولة في دولة أخرى"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "جسم",
+      "clue": "الكيان المادي للإنسان أو الحيوان"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "برنامج",
+      "clue": "خطة منظمة لتنفيذ أنشطة معينة"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "صناعة",
+      "clue": "نشاط تصنيع المنتجات"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "مزرعة",
+      "clue": "أرض تُستخدم لتربية الحيوانات وزراعة المحاصيل"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "صوت",
+      "clue": "ما يُسمع عند الكلام أو الحركة"
+    }
+  ]
+}

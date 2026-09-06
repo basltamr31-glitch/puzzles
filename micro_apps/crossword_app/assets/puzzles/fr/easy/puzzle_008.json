@@ -1,0 +1,58 @@
+{
+  "id": "fr_easy_008",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 008",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "VALLEE",
+      "clue": "Terre basse entre des montagnes",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "PLUIE",
+      "clue": "Eau qui tombe des nuages",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "CHAISE",
+      "clue": "Meuble sur lequel on s'assoit",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ILE",
+      "clue": "Terre entièrement entourée d'eau",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "EAU",
+      "clue": "Liquide clair essentiel à la vie",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "MUR",
+      "clue": "Structure verticale qui divise une pièce",
+      "category": "home"
+    }
+  ]
+}

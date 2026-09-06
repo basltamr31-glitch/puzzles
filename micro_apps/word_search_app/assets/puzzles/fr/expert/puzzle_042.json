@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_042",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 41,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "QKXCLHNNNNNCMC",
+    "VZIOIEYKVAZMVV",
+    "FGXUTSFLPPXKML",
+    "UEEVBQXQJOHZMP",
+    "RXDGCVSHPILNKA",
+    "AEPHATCARXIQXJ",
+    "DRQEHMHTLPCAZE",
+    "UQFZMFOPZSCQEM",
+    "YAKTBMCRMONSRI",
+    "CSEHATONFUZKRP",
+    "RUOTNLLPPPSKUC",
+    "MEESAPASTEQUEX",
+    "DZYJNGTIUCSIBQ",
+    "BEQUEHQSTYPCBK"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 8,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BEURRE",
+      "row": 12,
+      "col": 12,
+      "dir": "N"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 12,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "CAFE",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 9,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "GATEAU",
+      "row": 12,
+      "col": 5,
+      "dir": "NW"
+    },
+    {
+      "word": "LAIT",
+      "row": 10,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "PASTEQUE",
+      "row": 11,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "POMME",
+      "row": 10,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "SOUPE",
+      "row": 7,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 6,
+      "col": 7,
+      "dir": "SW"
+    }
+  ]
+}

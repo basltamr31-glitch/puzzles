@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_031",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 031",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "قصيدة",
+      "clue": "نص أدبي موزون وله قافية"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "صناعة",
+      "clue": "نشاط تصنيع المنتجات"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "سفارة",
+      "clue": "مقر تمثيل دولة في دولة أخرى"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "حق",
+      "clue": "ما يستحقه الشخص"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "فكرة",
+      "clue": "تصور ذهني حول موضوع ما"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "محامي",
+      "clue": "شخص متخصص في الدفاع القانوني"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "حقيبة",
+      "clue": "وعاء يُستخدم لحمل الأغراض"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "نجاح",
+      "clue": "تحقيق هدف مرجو"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "أنف",
+      "clue": "عضو الشم في الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 6,
+      "answer": "حرية",
+      "clue": "القدرة على التصرف دون قيود"
+    }
+  ]
+}

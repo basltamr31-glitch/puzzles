@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_031",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 031",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "FUERZA",
+      "clue": "El poder ejercido sobre algo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "ESPACIO",
+      "clue": "Un área vacía, o el universo más allá de la Tierra"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "MUSEO",
+      "clue": "Edificio que exhibe objetos históricos"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "CONEJO",
+      "clue": "Animal de orejas largas conocido por saltar"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "GANANCIA",
+      "clue": "Un aumento de algo, como riqueza"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "answer": "RANGO",
+      "clue": "La extensión entre dos límites"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "MENSAJE",
+      "clue": "Información enviada de una persona a otra"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "NUMERO",
+      "clue": "Un valor matemático, como uno o dos"
+    }
+  ]
+}

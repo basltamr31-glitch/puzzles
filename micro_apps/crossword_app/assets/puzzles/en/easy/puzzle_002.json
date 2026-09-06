@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_002",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 002",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "ARM",
+      "clue": "Limb between the shoulder and the hand",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "GLASS",
+      "clue": "Hard, clear material used for windows",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "MONTH",
+      "clue": "One of twelve divisions of a year",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "SHEEP",
+      "clue": "Woolly farm animal that says \"baa\"",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "BRIDGE",
+      "clue": "Structure built to cross a river or gap",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "BEE",
+      "clue": "Buzzing insect that makes honey",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "WEEK",
+      "clue": "A period of seven days",
+      "category": "time"
+    }
+  ]
+}

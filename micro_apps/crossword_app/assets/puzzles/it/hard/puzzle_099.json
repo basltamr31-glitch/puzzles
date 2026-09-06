@@ -1,0 +1,94 @@
+{
+  "id": "it_hard_099",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 099",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "PUBBLICO",
+      "clue": "Il gruppo che assiste a uno spettacolo"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "MAPPA",
+      "clue": "Un disegno che mostra dove si trovano i luoghi"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "SQUADRA",
+      "clue": "Un gruppo che lavora insieme verso un obiettivo"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "answer": "GHIACCIO",
+      "clue": "Acqua congelata"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "PAESAGGIO",
+      "clue": "Lo scenario visibile di una regione"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "UNITA",
+      "clue": "Una singola misura o pezzo standard"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "DIPINTO",
+      "clue": "Un'immagine realizzata con la pittura"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "MONTAGNA",
+      "clue": "Un rilievo naturale molto elevato"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "TERMINE",
+      "clue": "Un periodo fisso, o una parola specifica"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "ORDINE",
+      "clue": "Una sequenza, o un'istruzione da seguire"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 9,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    }
+  ]
+}

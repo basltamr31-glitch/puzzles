@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_077",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 76,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "CQXTEOFUMN",
+    "BAYORMGORT",
+    "PEPBSQUIJV",
+    "DAXIQYNFNN",
+    "TEBLEMPRPG",
+    "PTDLUOAEOB",
+    "SRMOLRLNJQ",
+    "BLFUMENTON",
+    "KRLYLJCEJN",
+    "AEOMMAMPAQ"
+  ],
+  "words": [
+    {
+      "word": "DEDO",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "FRENTE",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MANO",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "MENTON",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "OJO",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "OREJA",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PIE",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TOBILLO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

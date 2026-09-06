@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_069",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 069",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "OURS",
+      "clue": "Grand animal poilu qui vit dans les bois",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "MER",
+      "clue": "Grande étendue d'eau salée",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "STYLO",
+      "clue": "Outil pour écrire avec de l'encre",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "PORTE",
+      "clue": "Panneau qui s'ouvre pour entrer dans une pièce",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "SOUPE",
+      "clue": "Plat liquide chaud, souvent avec des légumes",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "SEL",
+      "clue": "Assaisonnement blanc qui relève les plats",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "CHEVAL",
+      "clue": "Grand animal que l'on monte",
+      "category": "animal"
+    }
+  ]
+}

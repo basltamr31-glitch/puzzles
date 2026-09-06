@@ -1,0 +1,122 @@
+{
+  "id": "ar_expert_016",
+  "language": "ar",
+  "difficulty": "expert",
+  "title": "اللغز 016",
+  "rows": 12,
+  "cols": 11,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "answer": "عقل",
+      "clue": "أداة التفكير في الإنسان"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "طعم",
+      "clue": "ما يُحس به عند تذوق الطعام"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "answer": "قوة",
+      "clue": "القدرة على القيام بعمل أو التأثير"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "رمل",
+      "clue": "حبيبات ناعمة تغطي الصحراء والشواطئ"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "answer": "رأس",
+      "clue": "الجزء العلوي من الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "مطارات",
+      "clue": "جمع مطار"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "مدارس",
+      "clue": "جمع مدرسة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "سلام",
+      "clue": "حالة خلو من الحرب والنزاع"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "مكتبات",
+      "clue": "جمع مكتبة"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "ثقافية",
+      "clue": "صفة تتعلق بالثقافة"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "نظام",
+      "clue": "مجموعة قواعد منظمة"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "صوت",
+      "clue": "ما يُسمع عند الكلام أو الحركة"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "answer": "سرعة",
+      "clue": "مقدار المسافة المقطوعة في زمن معين"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "answer": "عدد",
+      "clue": "قيمة رياضية تُستخدم للعد"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "ظل",
+      "clue": "منطقة مظلمة يحجب فيها الضوء"
+    }
+  ]
+}

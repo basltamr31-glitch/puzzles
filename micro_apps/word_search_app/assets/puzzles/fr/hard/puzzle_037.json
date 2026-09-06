@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_037",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 36,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "XEPHYDUBNVNB",
+    "LBFIMTEPRMOG",
+    "AXNHQEYEDAHC",
+    "VFQYGRJJTISV",
+    "LPASIGGGENOU",
+    "LAIEKKITNORF",
+    "YIVEXOERTNEV",
+    "DRAEDSOURCIL",
+    "ASQIETEQVALS",
+    "XOCYXNIRUSLT",
+    "MDCCUQLTVUEB",
+    "EVBRXQRTXPON"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 0,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "DOIGT",
+      "row": 7,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "FRONT",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "GENOU",
+      "row": 4,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "MAIN",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "OEIL",
+      "row": 7,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "OREILLE",
+      "row": 4,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "PIED",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SOURCIL",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "VENTRE",
+      "row": 6,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

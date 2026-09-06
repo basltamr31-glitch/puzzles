@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_025",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 24,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "DDHSWZKQGGKLOR",
+    "XSRATWWDWUBDSB",
+    "SQUIRRELKQIVNO",
+    "CXSMBETFUYXLIS",
+    "UDRJAHQMQWNFKV",
+    "HAMRFTYGLOINRL",
+    "NXMEKNOZESUOMN",
+    "CNLEMACPHWGREV",
+    "CWCDTPQBOKNAQJ",
+    "FGXNADRALPEBND",
+    "VHKHVLNCPFPBDP",
+    "ZCLENANKEVLICC",
+    "IMQXXLVGAETTHV",
+    "CIQMMHINNHENMT"
+  ],
+  "words": [
+    {
+      "word": "BIRD",
+      "row": 3,
+      "col": 4,
+      "dir": "NW"
+    },
+    {
+      "word": "CAMEL",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "DEER",
+      "row": 8,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "FISH",
+      "row": 4,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "GOAT",
+      "row": 5,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "HARE",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "HIPPOPOTAMUS",
+      "row": 12,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "MOUSE",
+      "row": 6,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "PANTHER",
+      "row": 8,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "PENGUIN",
+      "row": 10,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "RABBIT",
+      "row": 7,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "SQUIRREL",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

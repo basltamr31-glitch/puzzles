@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_097",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 097",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "answer": "ORDNUNG",
+      "clue": "Eine Reihenfolge, oder eine Anweisung"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "ERHALTUNG",
+      "clue": "Der Schutz von Natur und Ressourcen"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "ERRUNGENSCHAFT",
+      "clue": "Etwas erfolgreich Erreichtes"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 14,
+      "answer": "METEOROLOGIE",
+      "clue": "Die wissenschaftliche Erforschung des Wetters"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "FANTASIE",
+      "clue": "Die Fähigkeit, neue Ideen zu bilden"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 12,
+      "answer": "MATHEMATISCH",
+      "clue": "Auf das Studium von Zahlen und Formen bezogen"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "PLAN",
+      "clue": "Ein detaillierter Vorschlag zur Erledigung von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 5,
+      "answer": "LUFT",
+      "clue": "Das Gas, das wir atmen"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 2,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 9,
+      "answer": "MACHT",
+      "clue": "Die Fähigkeit, etwas zu tun oder zu kontrollieren"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "answer": "KLANG",
+      "clue": "Etwas, das man hört"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "HIMMEL",
+      "clue": "Der Raum über der Erde"
+    }
+  ]
+}

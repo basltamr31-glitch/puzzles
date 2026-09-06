@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_023",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 023",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "VIOLIN",
+      "clue": "Instrumento de cuerda tocado con un arco"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "TESORO",
+      "clue": "Un valioso alijo escondido"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "ANIMAL",
+      "clue": "Todo ser vivo que no sea una planta"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "PRIMAVERA",
+      "clue": "Estación en la que florecen las flores"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "EDAD",
+      "clue": "Cuántos años ha vivido alguien"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "VELA",
+      "clue": "Una barra de cera con una mecha, quemada por luz"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "IMAGEN",
+      "clue": "Una foto o un dibujo"
+    }
+  ]
+}

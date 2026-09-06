@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_033",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 32,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "ENGWGRUSTFUZEA",
+    "PANIUGNEPEEHSY",
+    "REKBTKWFMETKDH",
+    "TXVRNTNFWESPRR",
+    "WUOYAIUALQIOHY",
+    "LCVOHBPRUOZPTQ",
+    "BTGPPBUIIQWCYH",
+    "IVLMEARGTOZMRV",
+    "ROZMLRXPYSAPBC",
+    "DFBQEWATNPKUBF",
+    "QVWLLWYHLJVQIC",
+    "VKGTWBXQOSKFZE",
+    "EAZEWPQCNMNMCQ",
+    "EQVCUGMXGBHSPQ"
+  ],
+  "words": [
+    {
+      "word": "BIRD",
+      "row": 6,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "DOLPHIN",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "EAGLE",
+      "row": 13,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 9,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 7,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "GOAT",
+      "row": 6,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "HARE",
+      "row": 10,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "PENGUIN",
+      "row": 1,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "RABBIT",
+      "row": 8,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "SHEEP",
+      "row": 1,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "SQUIRREL",
+      "row": 3,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "WOLF",
+      "row": 6,
+      "col": 10,
+      "dir": "NW"
+    }
+  ]
+}

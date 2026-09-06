@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_067",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 66,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "YBZDPPZDFCVD",
+    "LFDIIIFLSRVZ",
+    "BEZSXEFEAGCI",
+    "KNTKNDNIEBLA",
+    "EGRANRCYAXDU",
+    "DZXPRADERAEB",
+    "ARBOLVZHCJSV",
+    "XKUGOUISIFID",
+    "OFPLAYAEQCEP",
+    "XQXOUCIVNQRE",
+    "GTHBMGNINTTA",
+    "KMHPXQEUQSOB"
+  ],
+  "words": [
+    {
+      "word": "ARBOL",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BOSQUE",
+      "row": 11,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CASCADA",
+      "row": 9,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "DESIERTO",
+      "row": 4,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "GLACIAR",
+      "row": 7,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "NIEBLA",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PLAYA",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PRADERA",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VIENTO",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    }
+  ]
+}

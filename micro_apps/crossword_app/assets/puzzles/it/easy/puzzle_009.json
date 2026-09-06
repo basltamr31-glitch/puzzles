@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_009",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 009",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "MURO",
+      "clue": "Struttura verticale che divide una stanza",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "VETRO",
+      "clue": "Materiale duro e trasparente",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "GAMBA",
+      "clue": "Arto usato per camminare",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "ORA",
+      "clue": "Un'unità di tempo di sessanta minuti",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "TORTA",
+      "clue": "Dolce da forno",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "RANA",
+      "clue": "Anfibio verde che salta e gracida",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

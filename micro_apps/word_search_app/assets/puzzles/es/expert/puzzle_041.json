@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_041",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 40,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "XOIUJJQZDKTQRT",
+    "BPEALIUGAKROZB",
+    "EDAUFYZBFCDEOA",
+    "XSAUDUDPANTERA",
+    "BHZEODYMRNRCRL",
+    "VOCVGEEXIADBOA",
+    "BSQNSLJFJPERRO",
+    "GIDXLALZTCRRBD",
+    "QEVOJENOCUITGG",
+    "KLBEDQOOZRKOJV",
+    "COBHSEENRTZXMK",
+    "HAFLEJFPUUHXES",
+    "FNOFHTNMJFOUSB",
+    "OFJABVLTQNOPGK"
+  ],
+  "words": [
+    {
+      "word": "ABEJA",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "AGUILA",
+      "row": 1,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "CAMELLO",
+      "row": 2,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "CEBRA",
+      "row": 7,
+      "col": 9,
+      "dir": "NE"
+    },
+    {
+      "word": "CONEJO",
+      "row": 8,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "DELFIN",
+      "row": 9,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 6,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "LEON",
+      "row": 7,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "LOBO",
+      "row": 7,
+      "col": 4,
+      "dir": "SW"
+    },
+    {
+      "word": "PANTERA",
+      "row": 3,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "PERRO",
+      "row": 6,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "ZORRO",
+      "row": 1,
+      "col": 12,
+      "dir": "S"
+    }
+  ]
+}

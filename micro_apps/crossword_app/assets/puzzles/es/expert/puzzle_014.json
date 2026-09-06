@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_014",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 014",
+  "rows": 15,
+  "cols": 14,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "INTERNACIONAL",
+      "clue": "Que involucra a más de un país"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "TRADUCCION",
+      "clue": "La conversión de un texto a otro idioma"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "LOGICA",
+      "clue": "Un razonamiento llevado según reglas estrictas"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "answer": "PERDIDA",
+      "clue": "El estado de ya no tener algo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "LLAVE",
+      "clue": "Herramienta metálica usada para abrir una cerradura"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "MAGNIFICO",
+      "clue": "Extremadamente hermoso o impresionante"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "POBLACION",
+      "clue": "El número de personas que viven en una zona"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 0,
+      "answer": "GANANCIA",
+      "clue": "Un aumento de algo, como riqueza"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "answer": "CIVILIZACION",
+      "clue": "Una sociedad compleja y organizada"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "NIVEL",
+      "clue": "Un estándar o altura particular"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "answer": "RIESGO",
+      "clue": "La posibilidad de que algo malo suceda"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 6,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 12,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 10,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    }
+  ]
+}

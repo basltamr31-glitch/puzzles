@@ -1,0 +1,122 @@
+{
+  "id": "it_expert_093",
+  "language": "it",
+  "difficulty": "expert",
+  "title": "Cruciverba 093",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "PERDITA",
+      "clue": "Lo stato di non avere più qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "TASSA",
+      "clue": "Denaro dovuto al governo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "INCREDIBILE",
+      "clue": "Troppo straordinario per essere creduto"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "CONSERVAZIONE",
+      "clue": "La protezione della natura e delle risorse"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "FILOSOFIA",
+      "clue": "Lo studio delle domande fondamentali sull'esistenza"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "answer": "CHIAVE",
+      "clue": "Strumento metallico usato per aprire una serratura"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "SPAZIO",
+      "clue": "Un'area vuota, o l'universo oltre la Terra"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "LUCE",
+      "clue": "La chiarezza che permette di vedere"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 13,
+      "answer": "INDIPENDENZA",
+      "clue": "Libertà dal controllo esterno"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 8,
+      "answer": "LOGICA",
+      "clue": "Un ragionamento condotto secondo regole rigide"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 9,
+      "answer": "TIPO",
+      "clue": "Una categoria o genere di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 2,
+      "answer": "UNITA",
+      "clue": "Una singola misura o pezzo standard"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "answer": "MISURA",
+      "clue": "Quanto grande o piccolo è qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 0,
+      "answer": "GUADAGNO",
+      "clue": "Un aumento di qualcosa, come la ricchezza"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 6,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 11,
+      "answer": "PIANO",
+      "clue": "Una proposta dettagliata per fare qualcosa"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_009",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 8,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "LVSYUVKUXB",
+    "XGTTMJDELD",
+    "DAYNHGBXEF",
+    "HFPHHRDYZH",
+    "RUIRKATZEU",
+    "EYNMMVSIBY",
+    "LGGDTWDERW",
+    "MAUSFWVGAH",
+    "PGIRAFFEAS",
+    "DUNMOJRJMW"
+  ],
+  "words": [
+    {
+      "word": "GIRAFFE",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HASE",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "HUND",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "KATZE",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MAUS",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "ZIEGE",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

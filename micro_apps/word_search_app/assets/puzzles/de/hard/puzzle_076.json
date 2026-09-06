@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_076",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 75,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "REMMIZEDABUC",
+    "JKZREUTYYRVE",
+    "ZYZXZRETSNEF",
+    "VTLLHNPZXIVJ",
+    "MYZSGHPYGVYX",
+    "DPSAJXIIDIYC",
+    "SWBKUECHEAJU",
+    "CTMWINHPCBKD",
+    "JOUSGSMEKMRL",
+    "BHLHTASSEYVK",
+    "PWISLGJEWDWW",
+    "GMYSMXAMNPAX"
+  ],
+  "words": [
+    {
+      "word": "BADEZIMMER",
+      "row": 0,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "DECKE",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "FENSTER",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "KISSEN",
+      "row": 6,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "KUECHE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPE",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "STUHL",
+      "row": 6,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "TASSE",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TUER",
+      "row": 1,
+      "col": 6,
+      "dir": "W"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_088",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 87,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "OESHLTMOWJOVND",
+    "XKCVLJTMALWKRV",
+    "GWEHLARNLQXTLF",
+    "UEWQAEOARCHERY",
+    "IQUSBMBKAGENGF",
+    "WCEQTYPCCRMNHY",
+    "DITOEASIEIFIDE",
+    "AAELKZDFOTZSWP",
+    "BVLUSGEIRNTBAS",
+    "NOHTARAMUSSJPD",
+    "VLTEBEFOCMGHFA",
+    "MLASPDZFBJJNIR",
+    "JIJOBUSPMYYRMP",
+    "JWCDGRJHDBDAGD"
+  ],
+  "words": [
+    {
+      "word": "ARCHERY",
+      "row": 3,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 11,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "BASKETBALL",
+      "row": 10,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "CHAMPIONSHIP",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "GOAL",
+      "row": 13,
+      "col": 4,
+      "dir": "NW"
+    },
+    {
+      "word": "MARATHON",
+      "row": 9,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "RACE",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "REFEREE",
+      "row": 9,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "STADIUM",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SWIM",
+      "row": 8,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "TENNIS",
+      "row": 2,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "VOLLEYBALL",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

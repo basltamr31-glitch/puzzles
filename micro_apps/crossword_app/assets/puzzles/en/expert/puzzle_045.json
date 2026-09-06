@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_045",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 045",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "LAW",
+      "clue": "A rule enforced by a government"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "VOCABULARY",
+      "clue": "The body of words used in a language"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "SPACE",
+      "clue": "An empty area, or the universe beyond Earth"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "MANUFACTURING",
+      "clue": "The making of goods on a large scale"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 12,
+      "answer": "INSPIRATION",
+      "clue": "A sudden creative or motivating influence"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "QUALIFICATION",
+      "clue": "A skill or achievement that fits someone for a role"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 14,
+      "answer": "EXAGGERATION",
+      "clue": "A statement that overstates the truth"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "DISTRIBUTION",
+      "clue": "The action of sharing something out"
+    },
+    {
+      "direction": "down",
+      "row": 12,
+      "col": 2,
+      "answer": "TAX",
+      "clue": "Money owed to the government"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "FACT",
+      "clue": "Something known to be true"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 9,
+      "answer": "LIGHT",
+      "clue": "Brightness that lets you see"
+    },
+    {
+      "direction": "down",
+      "row": 12,
+      "col": 8,
+      "answer": "WAR",
+      "clue": "Armed conflict between nations"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "LOSS",
+      "clue": "The state of no longer having something"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "RISK",
+      "clue": "The chance that something bad might happen"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "ITEM",
+      "clue": "A single article or object"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "UNIT",
+      "clue": "A single standard measure or piece"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_081",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 80,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "MDDBBANZPIKY",
+    "CAXXIRTPFJDH",
+    "FIVAPSMIHVGD",
+    "FTMDAGANGBTT",
+    "TIUKNDBGMRKE",
+    "JYHCTTOULXET",
+    "EDRDELFINQHV",
+    "YGGTRCONEJOA",
+    "QCABALLOVEJA",
+    "LCPTTHOEAKXT",
+    "FCEFOKBBRVDM",
+    "OTOANRKOOXBB"
+  ],
+  "words": [
+    {
+      "word": "CABALLO",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CONEJO",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "DELFIN",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GATO",
+      "row": 7,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "LOBO",
+      "row": 8,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "OVEJA",
+      "row": 8,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "PANTERA",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "RATON",
+      "row": 7,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

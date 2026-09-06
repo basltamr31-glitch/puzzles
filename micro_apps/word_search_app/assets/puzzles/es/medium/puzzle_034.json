@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_034",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 33,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "ZAIXZDTEFI",
+    "GBOBDZMJCK",
+    "FDTYIKTGCS",
+    "PLATANOIUI",
+    "IPCPSFRSSL",
+    "QZABOKTZFM",
+    "SUFTPKIGAN",
+    "APERAQLPOU",
+    "IFUSPTLENR",
+    "CHOCOLATEU"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PERA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PLATANO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "QUESO",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SOPA",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TORTILLA",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_055",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 055",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "VERDE",
+      "clue": "Colore dell'erba e delle foglie",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "PENNA",
+      "clue": "Strumento per scrivere con inchiostro",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "DONNA",
+      "clue": "Persona adulta di sesso femminile",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "NEVE",
+      "clue": "Fiocchi bianchi e ghiacciati che cadono d'inverno",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "TESTA",
+      "clue": "Parte superiore del corpo, con il cervello",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "ORA",
+      "clue": "Un'unità di tempo di sessanta minuti",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_026",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 25,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "DTQPFXEOKXRSQM",
+    "XYCVTORTAPEXPR",
+    "BGCBFORRUBSENK",
+    "UMPAALEMAFAHSF",
+    "GDDMGPBLAPLCTB",
+    "TPCZSCMLOGOOAA",
+    "ZOZTRBLEFYGNAQ",
+    "KMIELEXONEAIRB",
+    "HOKVTFESBNREOL",
+    "TDYTPURKAUFMSS",
+    "DOITGNBRGFPXUO",
+    "ZRNIDOSNACCAZN",
+    "FOTNPOACREYZAP",
+    "GKMEOXOHKMZIIG"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 12,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "BANANA",
+      "row": 4,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "BURRO",
+      "row": 2,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CAFFE",
+      "row": 12,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 9,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "FRITTELLA",
+      "row": 12,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "MELA",
+      "row": 3,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "MIELE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PERA",
+      "row": 4,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "POMODORO",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TORTA",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

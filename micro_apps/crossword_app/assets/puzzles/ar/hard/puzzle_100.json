@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_100",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 100",
+  "rows": 12,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "اكتشاف",
+      "clue": "العثور على شيء جديد لأول مرة"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "مجتمع",
+      "clue": "مجموعة كبيرة من الناس تعيش معاً"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "اقتصاد",
+      "clue": "علم إنتاج السلع والخدمات وتوزيعها"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "answer": "تعليم",
+      "clue": "عملية اكتساب المعرفة والمهارات"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "answer": "أنف",
+      "clue": "عضو الشم في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 10,
+      "answer": "مشروع",
+      "clue": "خطة أو عمل يُنفذ لتحقيق هدف"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 9,
+      "answer": "طول",
+      "clue": "مقدار امتداد الشيء"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 10,
+      "answer": "شكل",
+      "clue": "الهيئة الخارجية للشيء"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "دراسة",
+      "clue": "عملية تعلم واكتساب المعرفة"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "لقاءات",
+      "clue": "جمع لقاء، اجتماعات بين أشخاص"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "حديقة",
+      "clue": "مكان به أشجار وزهور للنزهة"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 12,
+      "answer": "ظل",
+      "clue": "منطقة مظلمة يحجب فيها الضوء"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 10,
+      "answer": "أذن",
+      "clue": "عضو السمع في الجسم"
+    }
+  ]
+}

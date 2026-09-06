@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_026",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 25,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "UYQNMIELQCNYBF",
+    "VTFGZUFBHXEVIJ",
+    "LOCJIVAOBJFDIN",
+    "SUEGFNCEMMOPJZ",
+    "AOUKAONRTPZVEC",
+    "INQNLAGICAMXAK",
+    "BGEAHZAONVGUAV",
+    "FNTXYLBPPUOLSS",
+    "XOSIHJBEXJGTQR",
+    "FRAISEYJNOYSHC",
+    "DTPRUOYYDOTJJJ",
+    "RIHRVNATYLMFUK",
+    "LCRDRUDSORJLCE",
+    "CESZUDREZQFOFI"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 1,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "BEURRE",
+      "row": 8,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "CAFE",
+      "row": 3,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 0,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "CITRON",
+      "row": 12,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "FRAISE",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GATEAU",
+      "row": 6,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "LAIT",
+      "row": 7,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "MIEL",
+      "row": 0,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PASTEQUE",
+      "row": 10,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "POIRE",
+      "row": 7,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "POMME",
+      "row": 3,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

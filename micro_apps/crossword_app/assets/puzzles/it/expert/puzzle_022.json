@@ -1,0 +1,122 @@
+{
+  "id": "it_expert_022",
+  "language": "it",
+  "difficulty": "expert",
+  "title": "Cruciverba 022",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 9,
+      "answer": "VALORE",
+      "clue": "Quanto vale qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "answer": "VOTO",
+      "clue": "Una scelta formale fatta in un'elezione"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 14,
+      "answer": "INTELLIGENZA",
+      "clue": "La capacità di acquisire e applicare conoscenza"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "CIRCOSTANZA",
+      "clue": "Una condizione legata a un evento"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "COSTRUZIONE",
+      "clue": "Il processo di costruire qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "MATEMATICO",
+      "clue": "Relativo allo studio dei numeri e delle forme"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "CIELO",
+      "clue": "Lo spazio sopra la terra"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "SCALA",
+      "clue": "La dimensione di qualcosa rispetto a un'altra"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "SVILUPPO",
+      "clue": "Il processo di crescita o miglioramento"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 8,
+      "answer": "CIVILTA",
+      "clue": "Una società complessa e organizzata"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "MISURA",
+      "clue": "Quanto grande o piccolo è qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "RISCHIO",
+      "clue": "La possibilità che accada qualcosa di brutto"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 6,
+      "answer": "PERDITA",
+      "clue": "Lo stato di non avere più qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 8,
+      "answer": "FORMA",
+      "clue": "Il contorno o l'aspetto di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "answer": "QUALIFICA",
+      "clue": "Un'abilità che rende qualcuno idoneo a un ruolo"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_070",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 69,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "AANSZOIEFX",
+    "BAMANTELHF",
+    "IHANDSCHUH",
+    "VPJDPDTATW",
+    "DKWARMBAND",
+    "PULLOVERJG",
+    "IMEEOOLSNL",
+    "GRGNIAVZNI",
+    "IDWLFDNXNH",
+    "XRRMOJACKE"
+  ],
+  "words": [
+    {
+      "word": "ARMBAND",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "HANDSCHUH",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HUT",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "JACKE",
+      "row": 9,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "KLEID",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MANTEL",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PULLOVER",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALEN",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

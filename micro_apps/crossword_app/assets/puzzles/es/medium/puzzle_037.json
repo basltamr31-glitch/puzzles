@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_037",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 037",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "CONDUCTOR",
+      "clue": "Persona que maneja un vehículo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "INSECTO",
+      "clue": "Pequeña criatura de seis patas como una hormiga"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "JARDIN",
+      "clue": "Terreno para cultivar flores o verduras"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "VENTANA",
+      "clue": "Abertura de vidrio que deja entrar la luz"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "IMAGEN",
+      "clue": "Una foto o un dibujo"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "COCINA",
+      "clue": "Habitación donde se preparan las comidas"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "BICICLETA",
+      "clue": "Vehículo de dos ruedas movido a pedales"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    }
+  ]
+}

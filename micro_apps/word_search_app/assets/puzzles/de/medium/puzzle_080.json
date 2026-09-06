@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_080",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 79,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "ZIFXINOGUO",
+    "SZTWTLCOIG",
+    "FTSPORTLER",
+    "UPAXRDRPRX",
+    "SPIDVVTTEN",
+    "SCHWIMMENM",
+    "BOXENOINNS",
+    "AMBDYNNNEI",
+    "LNULYSSINU",
+    "LDMNRLZSCK"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FUSSBALL",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "RENNEN",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "SCHWIMMEN",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SPORTLER",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STADION",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "TENNIS",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TOR",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

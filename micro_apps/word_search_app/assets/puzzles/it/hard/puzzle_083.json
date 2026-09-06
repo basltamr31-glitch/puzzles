@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_083",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 82,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "UOIAICCAIHGO",
+    "DAIGGOIPZIPC",
+    "DRZGVGCEUBBU",
+    "BDTCGNAMLINT",
+    "KONACLUVLOED",
+    "DZISOLAVCHBF",
+    "EPICCRLFOXBA",
+    "SLVAYUOBULIX",
+    "ENSTLFBSOVAT",
+    "RNTAHFUDEVHR",
+    "THKUXFQPSSAZ",
+    "ONDKBQNUINGA"
+  ],
+  "words": [
+    {
+      "word": "CASCATA",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CIELO",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "DESERTO",
+      "row": 5,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "GHIACCIAIO",
+      "row": 0,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "ISOLA",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 1,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "SPIAGGIA",
+      "row": 7,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "VULCANO",
+      "row": 4,
+      "col": 7,
+      "dir": "W"
+    }
+  ]
+}

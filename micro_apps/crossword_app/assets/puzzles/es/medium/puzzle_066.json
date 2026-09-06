@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_066",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 066",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "ESPACIO",
+      "clue": "Un área vacía, o el universo más allá de la Tierra"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "GRANJERO",
+      "clue": "Persona que cultiva la tierra"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "PREGUNTA",
+      "clue": "Una frase formulada para obtener información"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "RIESGO",
+      "clue": "La posibilidad de que algo malo suceda"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "ESTACION",
+      "clue": "Parada para trenes o autobuses"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "SECRETO",
+      "clue": "Información que se mantiene oculta"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "OTOÑO",
+      "clue": "Estación entre el verano y el invierno"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    }
+  ]
+}

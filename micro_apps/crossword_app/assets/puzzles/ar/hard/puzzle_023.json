@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_023",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 023",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "بيئة",
+      "clue": "المحيط الطبيعي الذي نعيش فيه"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "دراسة",
+      "clue": "عملية تعلم واكتساب المعرفة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "مستقبل",
+      "clue": "الزمن الذي لم يأتِ بعد"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "صناعات",
+      "clue": "جمع صناعة"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "عالمية",
+      "clue": "صفة تتعلق بالعالم كله"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ثقافة",
+      "clue": "مجموعة عادات وتقاليد ومعارف مجتمع"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "سلام",
+      "clue": "حالة خلو من الحرب والنزاع"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "استثمار",
+      "clue": "توظيف المال لتحقيق أرباح"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "احتفال",
+      "clue": "مناسبة يجتمع فيها الناس للفرح"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "اختراع",
+      "clue": "ابتكار جهاز أو وسيلة جديدة"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 5,
+      "answer": "فن",
+      "clue": "تعبير إبداعي بالرسم أو الموسيقى أو غيرها"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "حجم",
+      "clue": "مقدار المساحة التي يشغلها جسم"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 9,
+      "answer": "طاقة",
+      "clue": "القدرة على القيام بعمل أو حركة"
+    }
+  ]
+}

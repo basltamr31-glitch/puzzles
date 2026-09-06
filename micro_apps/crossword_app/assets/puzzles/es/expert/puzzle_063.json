@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_063",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 063",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "NEGOCIACION",
+      "clue": "Una discusión para llegar a un acuerdo"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "TERMINO",
+      "clue": "Un período fijo, o una palabra específica"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "TRADUCCION",
+      "clue": "La conversión de un texto a otro idioma"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "FABRICACION",
+      "clue": "La producción de bienes a gran escala"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "answer": "CONSERVACION",
+      "clue": "La protección de la naturaleza y los recursos"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "ORGANIZACION",
+      "clue": "Un grupo de personas que trabaja hacia una meta"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 8,
+      "answer": "EDAD",
+      "clue": "Cuántos años ha vivido alguien"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "SONIDO",
+      "clue": "Algo que se oye"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 9,
+      "answer": "ARTE",
+      "clue": "Expresión creativa, como la pintura"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 12,
+      "answer": "LLAVE",
+      "clue": "Herramienta metálica usada para abrir una cerradura"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 12,
+      "answer": "LEY",
+      "clue": "Una regla impuesta por un gobierno"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 3,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 7,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    }
+  ]
+}

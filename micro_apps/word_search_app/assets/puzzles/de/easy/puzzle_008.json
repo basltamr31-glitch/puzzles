@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_008",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 7,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "RPTOKDEP",
+    "ERBDNWSA",
+    "NHOCKEYP",
+    "NIXLBFBW",
+    "ETEAMLWL",
+    "NONUNRXI",
+    "WRRFHSSS",
+    "XOJLEFIR"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LAUF",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "RENNEN",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TEAM",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TOR",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

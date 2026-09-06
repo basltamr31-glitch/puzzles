@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_098",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 098",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "ROJO",
+      "clue": "Color de la sangre o un tomate maduro",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "OSO",
+      "clue": "Animal grande y peludo que vive en el bosque",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "LOBO",
+      "clue": "Animal salvaje emparentado con el perro",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "PELO",
+      "clue": "Lo que crece en la piel, especialmente la cabeza",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "VIENTO",
+      "clue": "Aire en movimiento",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "CORAZON",
+      "clue": "Órgano que bombea sangre por el cuerpo",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "PEZ",
+      "clue": "Animal acuático que respira por branquias",
+      "category": "animal"
+    }
+  ]
+}

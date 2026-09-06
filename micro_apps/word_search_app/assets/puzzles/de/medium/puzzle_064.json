@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_064",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 63,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "MRMPRCWREL",
+    "FLAUFBAMRV",
+    "WFTDXTMGUR",
+    "ZFWFFOVFEE",
+    "ITDSTADION",
+    "CSCHACHWFN",
+    "WTXSSDSRXE",
+    "HKEUNBOXEN",
+    "TJMARATHON",
+    "TRIJMVNLRG"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "LAUF",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MARATHON",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RADFAHREN",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "RENNEN",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SCHACH",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "STADION",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 6,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

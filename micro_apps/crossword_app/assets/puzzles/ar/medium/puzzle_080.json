@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_080",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 080",
+  "rows": 9,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "محامي",
+      "clue": "شخص متخصص في الدفاع القانوني"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "مجلة",
+      "clue": "مطبوعة دورية تحتوي مقالات"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "قطار",
+      "clue": "وسيلة نقل تسير على سكة حديدية"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "مزرعة",
+      "clue": "أرض تُستخدم لتربية الحيوانات وزراعة المحاصيل"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "رياضة",
+      "clue": "نشاط بدني يُمارس للياقة أو المتعة"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "صحراء",
+      "clue": "أرض جافة قليلة الأمطار"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "مطار",
+      "clue": "مكان تقلع وتهبط فيه الطائرات"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "أمطار",
+      "clue": "جمع مطر"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "answer": "قصة",
+      "clue": "سرد لأحداث خيالية أو واقعية"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_094",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 094",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "EQUATEUR",
+      "clue": "La ligne imaginaire autour du milieu de la Terre"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "MEDECINE",
+      "clue": "La science du traitement des maladies"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "CONTINENT",
+      "clue": "Une des grandes masses continentales de la Terre"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "GLACE",
+      "clue": "De l'eau gelée, ou un dessert froid"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "MONUMENT",
+      "clue": "Une structure construite en l'honneur de quelqu'un"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "TECHNOLOGIE",
+      "clue": "Application de la science à des fins pratiques"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "MONTAGNE",
+      "clue": "Un relief naturel très élevé"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "TAXE",
+      "clue": "Argent dû au gouvernement"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 7,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 11,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "ZONE",
+      "clue": "Une région ou partie particulière de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 9,
+      "answer": "SON",
+      "clue": "Quelque chose que l'on entend"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "TELESCOPE",
+      "clue": "Instrument utilisé pour observer des objets lointains"
+    }
+  ]
+}

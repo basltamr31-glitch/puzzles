@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_023",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 22,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "PZEIMJSV",
+    "XTICKETN",
+    "VPLWWZAD",
+    "AIRPORTW",
+    "XSBUSHIP",
+    "LWHRXGOM",
+    "CBTRAINW",
+    "MOGJPKDU"
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SHIP",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "STATION",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_068",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 67,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "VQZYDHXGEM",
+    "BFUUILRIYQ",
+    "AEIIBYFFRQ",
+    "TEDRUGLJKB",
+    "HQSHELFTHQ",
+    "RDCARPETUT",
+    "OVDYGILHSV",
+    "OJHALLWAYR",
+    "MGTWJGJJCH",
+    "CUPGIHRYQE"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BED",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CARPET",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CUP",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FIREPLACE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RUG",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SHELF",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

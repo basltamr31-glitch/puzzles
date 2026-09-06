@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_001",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 001",
+  "rows": 10,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "نوع",
+      "clue": "صنف أو فئة من الأشياء"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "answer": "نظام",
+      "clue": "مجموعة قواعد منظمة"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "قوة",
+      "clue": "القدرة على القيام بعمل أو التأثير"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "مساحة",
+      "clue": "مقدار السطح الذي يشغله شيء ما"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "معلومات",
+      "clue": "جمع معلومة"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "اختراع",
+      "clue": "ابتكار جهاز أو وسيلة جديدة"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "مواصلات",
+      "clue": "وسائل النقل بين الأماكن"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "answer": "رأس",
+      "clue": "الجزء العلوي من الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "حساب",
+      "clue": "عملية رياضية أو مالية"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 8,
+      "answer": "بيئة",
+      "clue": "المحيط الطبيعي الذي نعيش فيه"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "answer": "دراسة",
+      "clue": "عملية تعلم واكتساب المعرفة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "شكل",
+      "clue": "الهيئة الخارجية للشيء"
+    }
+  ]
+}

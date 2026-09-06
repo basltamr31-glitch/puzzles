@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_090",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 89,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "LQLSGSRGVNSDKD",
+    "XPNWHMSOATSXKU",
+    "THFZJTBDODOMTS",
+    "WSWHBWBFGBNJIU",
+    "HHACWYYILLARDC",
+    "COTLIGRPAFDNUC",
+    "SBSDAERBEOVUHH",
+    "EHAPPLEAGNMOCC",
+    "ANPYQLBYVRCIVL",
+    "DQQTSPWVROWTLJ",
+    "XICPOTAHLDCWIK",
+    "OGJAUORANGEAGK",
+    "KCBWKOTATOPXDO",
+    "QYUBGESBFFJYYO"
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "AVOCADO",
+      "row": 7,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "BREAD",
+      "row": 6,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "CAKE",
+      "row": 10,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 5,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "MILK",
+      "row": 7,
+      "col": 10,
+      "dir": "SE"
+    },
+    {
+      "word": "ORANGE",
+      "row": 11,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PASTA",
+      "row": 8,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "POTATO",
+      "row": 12,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 13,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "SOUP",
+      "row": 13,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "STRAWBERRY",
+      "row": 13,
+      "col": 6,
+      "dir": "N"
+    }
+  ]
+}

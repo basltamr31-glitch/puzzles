@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_086",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 086",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "PRONONCIATION",
+      "clue": "La manière dont un mot est prononcé"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "METEOROLOGIE",
+      "clue": "L'étude scientifique du temps"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "REGLE",
+      "clue": "Une instruction officielle sur la façon de se comporter"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "HUILE",
+      "clue": "Liquide glissant utilisé pour cuisiner ou comme carburant"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 1,
+      "answer": "ANNIVERSAIRE",
+      "clue": "Le retour annuel d'une date spéciale"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "CONTEMPORAIN",
+      "clue": "Appartenant à l'époque actuelle"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "TYPE",
+      "clue": "Une catégorie ou sorte de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "CIRCONSTANCE",
+      "clue": "Une condition liée à un événement"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "answer": "ESPACE",
+      "clue": "Une zone vide, ou l'univers au-delà de la Terre"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "PLAN",
+      "clue": "Une proposition détaillée pour faire quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 7,
+      "answer": "FORME",
+      "clue": "Le contour ou l'aspect de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 9,
+      "answer": "NIVEAU",
+      "clue": "Un standard ou une hauteur particulière"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 14,
+      "answer": "MATHEMATIQUE",
+      "clue": "Relatif à l'étude des nombres et des formes"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 1,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 5,
+      "answer": "CLE",
+      "clue": "Outil métallique utilisé pour ouvrir une serrure"
+    }
+  ]
+}

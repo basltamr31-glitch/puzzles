@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_067",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 66,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "DQETNTNHCRMVDB",
+    "ZITORNUKTVXKAT",
+    "HZSFPENKOPSTLG",
+    "IEXHIVSITQQTJH",
+    "KLRUXIJETQXZOO",
+    "OQLJXEREDPKISX",
+    "SPPLROZGKASIZD",
+    "TEQYFBVLVXCOPE",
+    "GRXYJNQNNXGSRB",
+    "MARAAPXMADORAF",
+    "JUCCRLPTULEYIC",
+    "PGLACIEREIVIRL",
+    "JOZZDLZIPPYAIP",
+    "VNTYXCLUCAETEQ"
+  ],
+  "words": [
+    {
+      "word": "CASCADE",
+      "row": 10,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "CIEL",
+      "row": 13,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "DESERT",
+      "row": 5,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "FORET",
+      "row": 7,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "GLACIER",
+      "row": 11,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PIERRE",
+      "row": 12,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "PLUIE",
+      "row": 6,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "PRAIRIE",
+      "row": 7,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "RIVIERE",
+      "row": 11,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 8,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "VENT",
+      "row": 3,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 13,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

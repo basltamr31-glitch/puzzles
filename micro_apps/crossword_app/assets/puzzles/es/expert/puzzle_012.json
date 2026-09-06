@@ -1,0 +1,108 @@
+{
+  "id": "es_expert_012",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 012",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "TRADICIONAL",
+      "clue": "Que sigue costumbres muy establecidas"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 7,
+      "answer": "OBJETO",
+      "clue": "Un artículo o cosa única"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 0,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "EXAGERACION",
+      "clue": "Una declaración que exagera la verdad"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "EMPLEO",
+      "clue": "Un trabajo remunerado que se hace regularmente"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "DISTRIBUCION",
+      "clue": "La acción de repartir algo"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "COMUNICACION",
+      "clue": "El intercambio de información entre personas"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "PSICOLOGIA",
+      "clue": "El estudio científico de la mente y la conducta"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 10,
+      "answer": "CIELO",
+      "clue": "El espacio sobre la tierra"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 0,
+      "answer": "SIGNIFICADO",
+      "clue": "La importancia de algo"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "PODER",
+      "clue": "La capacidad de hacer o controlar algo"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "APRECIACION",
+      "clue": "El reconocimiento del valor de algo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 10,
+      "answer": "LEY",
+      "clue": "Una regla impuesta por un gobierno"
+    }
+  ]
+}

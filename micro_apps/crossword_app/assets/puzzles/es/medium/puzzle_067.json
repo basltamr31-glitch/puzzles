@@ -1,0 +1,66 @@
+{
+  "id": "es_medium_067",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 067",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "OTOÑO",
+      "clue": "Estación entre el verano y el invierno"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "OBJETO",
+      "clue": "Un artículo o cosa única"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "BOTELLA",
+      "clue": "Un recipiente de cuello estrecho para líquidos"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "PUEBLO",
+      "clue": "Comunidad pequeña, más pequeña que una ciudad"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "PERDIDA",
+      "clue": "El estado de ya no tener algo"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "ESCALA",
+      "clue": "El tamaño de algo en relación con otro"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "HIELO",
+      "clue": "Agua congelada"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "DRAGON",
+      "clue": "Criatura mítica que escupe fuego"
+    }
+  ]
+}

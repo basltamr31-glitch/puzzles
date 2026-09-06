@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_043",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 42,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "LMEADOWGLK",
+    "WZRQRERAPD",
+    "TOZVFISDMW",
+    "WZQNOSVEAJ",
+    "YTIVMLKERE",
+    "YVDMUACYRT",
+    "BPGGWNGAYQ",
+    "LCLOUDWIND",
+    "GYPHXAXGZO",
+    "DUDJCUGNMR"
+  ],
+  "words": [
+    {
+      "word": "CLOUD",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DESERT",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "ISLAND",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MEADOW",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RIVER",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "SKY",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "WIND",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    }
+  ]
+}

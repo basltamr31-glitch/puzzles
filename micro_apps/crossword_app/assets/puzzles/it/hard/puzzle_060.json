@@ -1,0 +1,87 @@
+{
+  "id": "it_hard_060",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 060",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "DIZIONARIO",
+      "clue": "Un libro che elenca parole e i loro significati"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "CHIRURGIA",
+      "clue": "Una procedura medica per trattare una condizione"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "MONUMENTO",
+      "clue": "Una struttura costruita in onore di qualcuno"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "TELESCOPIO",
+      "clue": "Strumento usato per osservare oggetti lontani"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "SCHELETRO",
+      "clue": "La struttura ossea di un corpo"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "answer": "TERREMOTO",
+      "clue": "Uno scuotimento improvviso del terreno"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "VACCINO",
+      "clue": "Una sostanza che protegge da una malattia"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "CHIAVE",
+      "clue": "Strumento metallico usato per aprire una serratura"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "answer": "CIELO",
+      "clue": "Lo spazio sopra la terra"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 7,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "LUCE",
+      "clue": "La chiarezza che permette di vedere"
+    }
+  ]
+}

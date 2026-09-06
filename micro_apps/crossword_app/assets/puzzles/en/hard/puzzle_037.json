@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_037",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 037",
+  "rows": 11,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "answer": "ECONOMY",
+      "clue": "The system of production and trade in a region"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "DISCOVERY",
+      "clue": "The act of finding something new"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "POWER",
+      "clue": "The ability to do or control something"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "answer": "AIR",
+      "clue": "The gas we breathe"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "ATMOSPHERE",
+      "clue": "The layer of gases surrounding a planet"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "SOCIETY",
+      "clue": "A large community of people living together"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "answer": "TYPE",
+      "clue": "A category or kind of something"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "SHAPE",
+      "clue": "The form or outline of something"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "SKY",
+      "clue": "The space above the earth, seen from the ground"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "AREA",
+      "clue": "A particular region or part of something"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 9,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "IDEA",
+      "clue": "A thought or plan"
+    }
+  ]
+}

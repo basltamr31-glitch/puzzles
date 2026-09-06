@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_033",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 32,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "DPHCCECRBPVC",
+    "ORSOALIUQARN",
+    "STGNVPEONDNB",
+    "ZUVIAKRGZBSM",
+    "ZSAGLUAARBEZ",
+    "KMOLLEMMACHG",
+    "XGAIOUKPQZSI",
+    "LAROCEPXOVRX",
+    "XTCTFIGOESBB",
+    "LTDDVZOMQNZZ",
+    "SORRPXQIZKNQ",
+    "ZXNSSHGEGNFC"
+  ],
+  "words": [
+    {
+      "word": "AQUILA",
+      "row": 1,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CAMMELLO",
+      "row": 5,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CAPRA",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CAVALLO",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CONIGLIO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "GATTO",
+      "row": 6,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "LUPO",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "ORSO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PECORA",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 4,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

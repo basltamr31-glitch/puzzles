@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_079",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 78,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "RFNHKARYXU",
+    "KEALASIXZO",
+    "XTIORFIYDA",
+    "UBISTFEMZO",
+    "EYACEDANUP",
+    "IPNHKPTBJN",
+    "TPCINEAUZS",
+    "GPMFUHTSMI",
+    "HCTFUTOHSX",
+    "YJZUGDNFXZ"
+  ],
+  "words": [
+    {
+      "word": "BAHNHOF",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "BUS",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "HAFEN",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "KARTE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "REISEPASS",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "ZUG",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

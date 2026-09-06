@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_005",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 4,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "WBWELKNADJHGBM",
+    "SEELAIFFKNUMAQ",
+    "TQTBFZJCRPGWDM",
+    "HZWORBEYEENKUF",
+    "OOQWONXIDKGUIA",
+    "ERFSUFSULHANWL",
+    "KWAJWVVTUXATIS",
+    "TAXLUCMROIGNNF",
+    "CLPMPRDXHMIQDL",
+    "XBYWKFZBSSAYAI",
+    "ICSKLYMMLLYCET",
+    "DKKMFRDCSNNIHC",
+    "GFKMKDCLALYATP",
+    "RUOQTEVGVJEPFA"
+  ],
+  "words": [
+    {
+      "word": "ANKLE",
+      "row": 0,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "CHIN",
+      "row": 11,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "ELBOW",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "EYEBROW",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "FINGER",
+      "row": 7,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "FOOT",
+      "row": 5,
+      "col": 5,
+      "dir": "NW"
+    },
+    {
+      "word": "HAND",
+      "row": 5,
+      "col": 9,
+      "dir": "SE"
+    },
+    {
+      "word": "HEAD",
+      "row": 11,
+      "col": 12,
+      "dir": "N"
+    },
+    {
+      "word": "KNEE",
+      "row": 3,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "NECK",
+      "row": 4,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "SHOULDER",
+      "row": 9,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "STOMACH",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_039",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 039",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "قطار",
+      "clue": "وسيلة نقل تسير على سكة حديدية"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "أمطار",
+      "clue": "جمع مطر"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "اختبار",
+      "clue": "وسيلة لتقييم المعرفة أو المهارة"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "رواية",
+      "clue": "عمل أدبي نثري طويل"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "answer": "شركة",
+      "clue": "مؤسسة تجارية أو صناعية"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "مطار",
+      "clue": "مكان تقلع وتهبط فيه الطائرات"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "خبر",
+      "clue": "معلومة جديدة عن حدث ما"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "خطة",
+      "clue": "تصور مُعد مسبقاً لتحقيق هدف"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "رسالة",
+      "clue": "نص مكتوب يُرسل من شخص إلى آخر"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "معلم",
+      "clue": "رجل يعمل في التدريس"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_089",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 089",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "GLACE",
+      "clue": "De l'eau gelée, ou un dessert froid"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "CARTE",
+      "clue": "Un dessin qui montre où se trouvent les lieux"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "TAXE",
+      "clue": "Argent dû au gouvernement"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "CHANTEUR",
+      "clue": "Personne qui fait de la musique avec sa voix"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "COUSSIN",
+      "clue": "Coussin doux pour reposer la tête"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "SECRET",
+      "clue": "Information gardée cachée des autres"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "answer": "TYPE",
+      "clue": "Une catégorie ou sorte de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "FAIT",
+      "clue": "Quelque chose de connu comme vrai"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "LANTERNE",
+      "clue": "Une lumière portative dans un boîtier"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "MUSEE",
+      "clue": "Bâtiment qui expose des objets historiques"
+    }
+  ]
+}

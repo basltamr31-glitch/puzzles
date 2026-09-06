@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_014",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 014",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "PAINTING",
+      "clue": "A picture made using paint"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "TECHNOLOGY",
+      "clue": "Application of science for practical purposes"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "CASE",
+      "clue": "An instance of something, or a container"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "CONTINENT",
+      "clue": "One of Earth's seven large landmasses"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "TRADITION",
+      "clue": "A custom passed down through generations"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "MUSCLE",
+      "clue": "Tissue that produces movement in the body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "VALUE",
+      "clue": "How much something is worth"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "answer": "SENTENCE",
+      "clue": "A group of words expressing a complete thought"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 7,
+      "answer": "ITEM",
+      "clue": "A single article or object"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 10,
+      "answer": "TAX",
+      "clue": "Money owed to the government"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "answer": "STATE",
+      "clue": "A condition, or a political territory"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "ORDER",
+      "clue": "A sequence, or an instruction to do something"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 7,
+      "answer": "UNIT",
+      "clue": "A single standard measure or piece"
+    }
+  ]
+}

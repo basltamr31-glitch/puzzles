@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_097",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 097",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "PLAY",
+      "clue": "To have fun, often with games or toys",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "PATH",
+      "clue": "A narrow track for walking",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "LAMP",
+      "clue": "Device that gives off light in a room",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "CAT",
+      "clue": "Common household pet that meows",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "OCEAN",
+      "clue": "One of Earth's five huge bodies of salt water",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "NIGHT",
+      "clue": "The dark part of the day",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "PEN",
+      "clue": "Writing tool that uses ink",
+      "category": "object"
+    }
+  ]
+}

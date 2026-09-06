@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_067",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 66,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "AAYPSXIC",
+    "ROYIXOZF",
+    "JVIENTOJ",
+    "PRADERAC",
+    "FDPRSTIH",
+    "NQMARMAY",
+    "LLUVIAOC",
+    "SYQJONQI"
+  ],
+  "words": [
+    {
+      "word": "LLUVIA",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MAR",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PRADERA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RIO",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "VIENTO",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

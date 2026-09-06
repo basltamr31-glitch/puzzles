@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_047",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 047",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "RED",
+      "clue": "Color of blood or a ripe tomato",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "DREAM",
+      "clue": "Images and thoughts that happen while sleeping",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "PAGE",
+      "clue": "One sheet in a book",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "ROCK",
+      "clue": "Hard mineral material, or a large stone",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "ARM",
+      "clue": "Limb between the shoulder and the hand",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "APPLE",
+      "clue": "Round fruit that can be red or green",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "MEAT",
+      "clue": "Animal flesh eaten as food",
+      "category": "food"
+    }
+  ]
+}

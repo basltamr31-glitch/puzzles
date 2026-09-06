@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_084",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 084",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "LAIT",
+      "clue": "Liquide blanc provenant des vaches",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "FEUILLE",
+      "clue": "Partie verte et plate d'une plante",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ETOILE",
+      "clue": "Point lumineux visible dans le ciel nocturne",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "ILE",
+      "clue": "Terre entièrement entourée d'eau",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "LIVRE",
+      "clue": "Pages reliées que l'on lit",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "FER",
+      "clue": "Métal gris résistant, utilisé dans l'acier",
+      "category": "nature"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_044",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 43,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "CUAVODKAEEUF",
+    "MIODXMUNWDVR",
+    "DBMFVWEJWZFK",
+    "TXMOYZCGJWOM",
+    "CTZRRGHIMCFS",
+    "LRETSNEFFFXG",
+    "NNTPSAYXGGEN",
+    "SLSGPFNXMAIN",
+    "BADEZIMMERMP",
+    "MMXPMHCSITVT",
+    "WPFAFOSHDEFO",
+    "NEKCEDZPENFD"
+  ],
+  "words": [
+    {
+      "word": "BADEZIMMER",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DECKE",
+      "row": 11,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "FENSTER",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "GARTEN",
+      "row": 6,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "KAMIN",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "KUECHE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPE",
+      "row": 7,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 10,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "TISCH",
+      "row": 9,
+      "col": 9,
+      "dir": "W"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "it_hard_093",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 093",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "BIOLOGIA",
+      "clue": "Lo studio scientifico degli esseri viventi"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "answer": "MISURA",
+      "clue": "Quanto grande o piccolo è qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "GUADAGNO",
+      "clue": "Un aumento di qualcosa, come la ricchezza"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "TRADIZIONE",
+      "clue": "Un'usanza tramandata attraverso le generazioni"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "FOTOGRAFIA",
+      "clue": "L'arte di scattare immagini"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "TASTIERA",
+      "clue": "Insieme di tasti usati per digitare"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "TEATRO",
+      "clue": "Un edificio dove si rappresentano spettacoli"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "COSTO",
+      "clue": "La somma pagata per qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 9,
+      "answer": "TIPO",
+      "clue": "Una categoria o genere di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "VOTO",
+      "clue": "Una scelta formale fatta in un'elezione"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "OBIETTIVO",
+      "clue": "Lo scopo verso cui qualcuno lavora"
+    }
+  ]
+}

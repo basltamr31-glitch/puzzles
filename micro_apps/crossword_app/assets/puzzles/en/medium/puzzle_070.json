@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_070",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 070",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "SPACE",
+      "clue": "An empty area, or the universe beyond Earth"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "TUNNEL",
+      "clue": "An underground passage"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "CAPTAIN",
+      "clue": "Leader of a ship or team"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "RISK",
+      "clue": "The chance that something bad might happen"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "DRIVER",
+      "clue": "Person who operates a vehicle"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "DRAGON",
+      "clue": "Mythical fire-breathing creature"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "JOB",
+      "clue": "Paid work someone does regularly"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "VALUE",
+      "clue": "How much something is worth"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "SUBWAY",
+      "clue": "Underground train system in a city"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "COST",
+      "clue": "The amount paid for something"
+    }
+  ]
+}

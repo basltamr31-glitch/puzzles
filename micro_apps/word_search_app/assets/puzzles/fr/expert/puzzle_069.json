@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_069",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 68,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "UGJIAVGJGTAXRL",
+    "BDHNRAYJISQCCA",
+    "LTRSSEUVVRQRBR",
+    "TSSESFZKDTEYAA",
+    "CIQGDXREABEZZG",
+    "MFOXLVIPMRHSRV",
+    "ETKRTPLAUAJAAC",
+    "KPHCLTJUYSIXUV",
+    "PJTALIMLVEXNQQ",
+    "QEPVDUEEETTKOO",
+    "OGAHIOUONEGASM",
+    "JNTJVVBZTTIBAY",
+    "JPMKULICRUOSMS",
+    "RCKRGQYSEDDNUE"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "DOIGT",
+      "row": 13,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "EPAULE",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GENOU",
+      "row": 10,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "JAMBE",
+      "row": 7,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "MAIN",
+      "row": 5,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "MENTON",
+      "row": 8,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "OEIL",
+      "row": 10,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "PIED",
+      "row": 6,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "SOURCIL",
+      "row": 12,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "TETE",
+      "row": 11,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "VENTRE",
+      "row": 8,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

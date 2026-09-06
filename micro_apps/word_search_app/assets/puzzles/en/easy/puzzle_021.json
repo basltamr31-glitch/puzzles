@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_021",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 20,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "DJUXHGSM",
+    "SOCDSOVB",
+    "MFOOTEYE",
+    "TIEEOVQF",
+    "KNEEMGCT",
+    "DGLVAWDV",
+    "HEADCHBT",
+    "YRKPHORZ"
+  ],
+  "words": [
+    {
+      "word": "EYE",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "FINGER",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FOOT",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HEAD",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KNEE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STOMACH",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_059",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 059",
+  "rows": 12,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "answer": "VALEUR",
+      "clue": "Combien vaut quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "TAXE",
+      "clue": "Argent dû au gouvernement"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "PASSAGER",
+      "clue": "Une personne voyageant dans un véhicule"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "ESPACE",
+      "clue": "Une zone vide, ou l'univers au-delà de la Terre"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "PEINTURE",
+      "clue": "Une image réalisée avec de la peinture"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "GOUVERNEMENT",
+      "clue": "Le groupe qui dirige officiellement un pays"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "FAIT",
+      "clue": "Quelque chose de connu comme vrai"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 10,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 8,
+      "answer": "CARTE",
+      "clue": "Un dessin qui montre où se trouvent les lieux"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "answer": "GRAVITE",
+      "clue": "La force qui attire les objets entre eux"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "PLAN",
+      "clue": "Une proposition détaillée pour faire quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "CLE",
+      "clue": "Outil métallique utilisé pour ouvrir une serrure"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "GLACE",
+      "clue": "De l'eau gelée, ou un dessert froid"
+    }
+  ]
+}

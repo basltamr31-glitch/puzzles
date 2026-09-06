@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_014",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 13,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "NLHVMPANAQGLRE",
+    "TOZEQARMCIIKEA",
+    "LQBSTNGZCCHRCF",
+    "YDPTBTYLAAOAFT",
+    "SNYIQOEPICZULA",
+    "IXTTLFPPGOSTLO",
+    "KAFOAOSCRCNBRU",
+    "KPGVTLPRIANECN",
+    "NTOTTELAICCARB",
+    "ZGODASRXIRLSDY",
+    "TAPZVPCQXZMFMV",
+    "ROTNAUGHIPOFOI",
+    "GSOARUTNICKKIH",
+    "LLQKCMOAMIUSRP"
+  ],
+  "words": [
+    {
+      "word": "BRACCIALETTO",
+      "row": 8,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "CALZINO",
+      "row": 7,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "CAPPOTTO",
+      "row": 2,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "CINTURA",
+      "row": 12,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CRAVATTA",
+      "row": 13,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "GIACCA",
+      "row": 5,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "GUANTO",
+      "row": 11,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "MAGLIONE",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTOFOLE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SCARPETTE",
+      "row": 9,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "SCIARPA",
+      "row": 5,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "VESTITO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

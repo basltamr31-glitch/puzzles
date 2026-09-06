@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_021",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 20,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "MXZDKHEKITAH",
+    "TEDUOCJGPTMY",
+    "JIYFIHJHFPGL",
+    "EUPEVENTREEX",
+    "ZMSHVVBMZLCV",
+    "QLYXLICRUOSN",
+    "RHVOFLJAMBEJ",
+    "LPMZGLPCAHJU",
+    "KSKGHEETBBOP",
+    "TUQMAINFEIGQ",
+    "ZTJRHFRONTRR",
+    "DLJLHZXKUBEZ"
+  ],
+  "words": [
+    {
+      "word": "CHEVILLE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "COUDE",
+      "row": 1,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "EPAULE",
+      "row": 8,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "FRONT",
+      "row": 10,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "GENOU",
+      "row": 7,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "JAMBE",
+      "row": 6,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "MAIN",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SOURCIL",
+      "row": 5,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "TETE",
+      "row": 8,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "VENTRE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_087",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 087",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "IDEE",
+      "clue": "Une pensée ou un plan"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "CONSTRUCTION",
+      "clue": "Le processus de construction de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "COLLABORATION",
+      "clue": "L'action de travailler ensemble"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "ORDRE",
+      "clue": "Une séquence, ou une instruction à suivre"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 4,
+      "answer": "VOTE",
+      "clue": "Un choix formel fait lors d'une élection"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "TERME",
+      "clue": "Une période fixe, ou un mot spécifique"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 12,
+      "answer": "INGENIERIE",
+      "clue": "L'application de la science pour construire des choses"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 0,
+      "answer": "CONTEMPORAIN",
+      "clue": "Appartenant à l'époque actuelle"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "SON",
+      "clue": "Quelque chose que l'on entend"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "VALEUR",
+      "clue": "Combien vaut quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "PHILOSOPHIE",
+      "clue": "L'étude des questions fondamentales de l'existence"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "answer": "REGLE",
+      "clue": "Une instruction officielle sur la façon de se comporter"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "POUVOIR",
+      "clue": "La capacité de faire ou de contrôler quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 9,
+      "answer": "OBJET",
+      "clue": "Un article ou une chose unique"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 7,
+      "answer": "PERTE",
+      "clue": "L'état de ne plus avoir quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "TAILLE",
+      "clue": "La grandeur ou petitesse de quelque chose"
+    }
+  ]
+}

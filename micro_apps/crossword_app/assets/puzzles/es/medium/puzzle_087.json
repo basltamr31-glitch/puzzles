@@ -1,0 +1,80 @@
+{
+  "id": "es_medium_087",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 087",
+  "rows": 9,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "NIVEL",
+      "clue": "Un estándar o altura particular"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "MEDICO",
+      "clue": "Profesional médico que atiende pacientes"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "VIOLIN",
+      "clue": "Instrumento de cuerda tocado con un arco"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "PALACIO",
+      "clue": "Gran residencia de un rey o una reina"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "ARTE",
+      "clue": "Expresión creativa, como la pintura"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "PUERTO",
+      "clue": "Un lugar protegido donde atracan los barcos"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "BOTON",
+      "clue": "Un pequeño cierre en la ropa"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "LEY",
+      "clue": "Una regla impuesta por un gobierno"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    }
+  ]
+}

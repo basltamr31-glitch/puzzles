@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_055",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 055",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "مشروع",
+      "clue": "خطة أو عمل يُنفذ لتحقيق هدف"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "سلام",
+      "clue": "حالة خلو من الحرب والنزاع"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "دولية",
+      "clue": "صفة تتعلق بأكثر من دولة"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "answer": "مواصلات",
+      "clue": "وسائل النقل بين الأماكن"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "رمل",
+      "clue": "حبيبات ناعمة تغطي الصحراء والشواطئ"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "صوت",
+      "clue": "ما يُسمع عند الكلام أو الحركة"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "مساحة",
+      "clue": "مقدار السطح الذي يشغله شيء ما"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "منظمة",
+      "clue": "مؤسسة تعمل على تحقيق أهداف مشتركة"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "ميدان",
+      "clue": "ساحة واسعة في المدينة"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "اقتصاد",
+      "clue": "علم إنتاج السلع والخدمات وتوزيعها"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "استثمار",
+      "clue": "توظيف المال لتحقيق أرباح"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "فن",
+      "clue": "تعبير إبداعي بالرسم أو الموسيقى أو غيرها"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 8,
+      "answer": "مناخ",
+      "clue": "حالة الطقس السائدة في منطقة"
+    }
+  ]
+}

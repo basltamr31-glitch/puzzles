@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_018",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 018",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "FOTOGRAFIA",
+      "clue": "El arte de tomar imágenes"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 10,
+      "answer": "BIOLOGIA",
+      "clue": "El estudio científico de los seres vivos"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 8,
+      "answer": "EDAD",
+      "clue": "Cuántos años ha vivido alguien"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "ARTE",
+      "clue": "Expresión creativa, como la pintura"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ECUADOR",
+      "clue": "La línea imaginaria alrededor del centro de la Tierra"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "GANANCIA",
+      "clue": "Un aumento de algo, como riqueza"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "ESQUELETO",
+      "clue": "La estructura de huesos de un cuerpo"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "ORACION",
+      "clue": "Un grupo de palabras que expresa un pensamiento completo"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "PINTURA",
+      "clue": "Una imagen hecha con pintura"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "INVENTO",
+      "clue": "Un dispositivo o proceso recién creado"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "VALOR",
+      "clue": "Cuánto vale algo"
+    }
+  ]
+}

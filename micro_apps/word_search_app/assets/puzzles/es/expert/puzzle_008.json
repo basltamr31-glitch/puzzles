@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_008",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 7,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "MGRUFLOBIELOVE",
+    "VHLKUKGZVKJMKR",
+    "QAXGTNAPQNXSVI",
+    "RHLHBAZTERCIJV",
+    "YQTHOTSECNOLAB",
+    "IVULLARERRACGJ",
+    "SDTHOCKEYDTIOH",
+    "BOXEOIDATSECAP",
+    "EQUIPOKFCILJFO",
+    "DJMTFNEMKITLAX",
+    "XEDKSMIZDZAZKZ",
+    "DPLFYOJNESJSCB",
+    "UQDXIHSPVKRIBL",
+    "UKHZKNAPTPXEBO"
+  ],
+  "words": [
+    {
+      "word": "AJEDREZ",
+      "row": 9,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "ATLETA",
+      "row": 10,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "BALONCESTO",
+      "row": 4,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "BOXEO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CARRERA",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CICLISMO",
+      "row": 7,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "EQUIPO",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ESTADIO",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "FUTBOL",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "NATACION",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "VOLEIBOL",
+      "row": 0,
+      "col": 12,
+      "dir": "W"
+    }
+  ]
+}

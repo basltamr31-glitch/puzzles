@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_092",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 91,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "NSMOATVIDO",
+    "QXSYBCBKIS",
+    "SCAFFALEVF",
+    "BHRIEVGEAL",
+    "CFLNDCENNR",
+    "GSPECCHIOU",
+    "GMUSTZTHPA",
+    "PORTATQAPT",
+    "SCQRQNOAYG",
+    "ZZLAMPADAN"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "DIVANO",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LETTO",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PORTA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

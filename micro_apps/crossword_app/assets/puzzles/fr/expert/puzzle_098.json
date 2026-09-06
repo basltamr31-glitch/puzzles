@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_098",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 098",
+  "rows": 14,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 8,
+      "answer": "SCENE",
+      "clue": "Une plate-forme surélevée, ou une phase d'un processus"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 10,
+      "answer": "REGLE",
+      "clue": "Une instruction officielle sur la façon de se comporter"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "EXAGERATION",
+      "clue": "Une déclaration qui exagère la vérité"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 10,
+      "answer": "TAXE",
+      "clue": "Argent dû au gouvernement"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 3,
+      "answer": "INTELLIGENCE",
+      "clue": "La capacité d'acquérir et d'appliquer des connaissances"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 3,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "OPPORTUNITE",
+      "clue": "Une bonne chance de progrès"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "ECOSYSTEME",
+      "clue": "Une communauté d'êtres vivants et leur milieu"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 6,
+      "answer": "IDEE",
+      "clue": "Une pensée ou un plan"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 14,
+      "answer": "GLACE",
+      "clue": "De l'eau gelée, ou un dessert froid"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "OBJET",
+      "clue": "Un article ou une chose unique"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "HUILE",
+      "clue": "Liquide glissant utilisé pour cuisiner ou comme carburant"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "answer": "POUVOIR",
+      "clue": "La capacité de faire ou de contrôler quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 13,
+      "answer": "CLE",
+      "clue": "Outil métallique utilisé pour ouvrir une serrure"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 9,
+      "answer": "FORME",
+      "clue": "Le contour ou l'aspect de quelque chose"
+    }
+  ]
+}

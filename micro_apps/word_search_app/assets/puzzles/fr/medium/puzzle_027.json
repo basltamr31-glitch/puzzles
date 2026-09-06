@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_027",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 26,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "KDGMARBREB",
+    "VSALARPFYI",
+    "KBRXABCDPX",
+    "QDCZZCTEIQ",
+    "YTEEOJISEO",
+    "MONTAGNERV",
+    "HSCTNFVRRH",
+    "YNIFORETEJ",
+    "HGEGAQNXZN",
+    "XELKQQTHCB"
+  ],
+  "words": [
+    {
+      "word": "ARBRE",
+      "row": 0,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "ARCENCIEL",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "DESERT",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "FORET",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "MONTAGNE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PIERRE",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "VENT",
+      "row": 6,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_076",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 75,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "ONEMLLFF",
+    "EPEVIJPR",
+    "SHVKFJPT",
+    "TSILLAMC",
+    "AAMQHRJR",
+    "NVIDPDFV",
+    "TBCOCINA",
+    "ECAMANTA"
+  ],
+  "words": [
+    {
+      "word": "CAMA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COCINA",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "JARDIN",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MANTA",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SILLA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

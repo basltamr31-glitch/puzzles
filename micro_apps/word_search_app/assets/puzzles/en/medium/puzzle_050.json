@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_050",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 49,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "ZKGJZZHWBO",
+    "RMBAACDSNA",
+    "JMFMPSUBHV",
+    "VKRGYPWCUO",
+    "CNKNLGLHTC",
+    "OSBIDXTEEA",
+    "YUGSIBREAD",
+    "NZICJDWSJO",
+    "MPORANGEGG",
+    "FGZKPEPKJQ"
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "AVOCADO",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "BREAD",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CHEESE",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "EGG",
+      "row": 8,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "JAM",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ORANGE",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

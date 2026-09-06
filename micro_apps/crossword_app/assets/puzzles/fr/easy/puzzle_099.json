@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_099",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 099",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "TERRE",
+      "clue": "La planète où nous vivons",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "VERT",
+      "clue": "Couleur de l'herbe et des feuilles",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "HORLOGE",
+      "clue": "Appareil qui indique l'heure",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "EAU",
+      "clue": "Liquide clair essentiel à la vie",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "OEIL",
+      "clue": "Organe utilisé pour voir",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "ECOLE",
+      "clue": "Lieu où les enfants apprennent",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "OISEAU",
+      "clue": "Animal à plumes qui peut voler",
+      "category": "animal"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_025",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 025",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "CAKE",
+      "clue": "Sweet baked dessert, often for birthdays",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "BEAR",
+      "clue": "Large furry animal that lives in the woods",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "GLASS",
+      "clue": "Hard, clear material used for windows",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "ARM",
+      "clue": "Limb between the shoulder and the hand",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "SWIM",
+      "clue": "To move through water using your body",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "LEG",
+      "clue": "Limb used for walking",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "SALT",
+      "clue": "White seasoning that makes food savory",
+      "category": "food"
+    }
+  ]
+}

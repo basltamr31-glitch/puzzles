@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_084",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 83,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "QDABTNZHLEII",
+    "CDRPXJMSMZGF",
+    "ZHJVCIGMIEMZ",
+    "PHELHOTCRUTQ",
+    "NOMMAXATORAG",
+    "CXRRIHEAICPK",
+    "QMMTSNPBRHIH",
+    "NIABEDELLASX",
+    "ASOFZGREPMAL",
+    "EJECSKJJVBHG",
+    "UQZZFVNXURRO",
+    "GCJTPZXXIEHA"
+  ],
+  "words": [
+    {
+      "word": "CHAISE",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CHAMBRE",
+      "row": 5,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CHEMINEE",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "FENETRE",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "LAMPE",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "MIROIR",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "PORTE",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SALLEDEBAIN",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "TABLE",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TAPIS",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

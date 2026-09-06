@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_019",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 18,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "MCDQBZMANKDAVI",
+    "UOGSSHMGSGEAIS",
+    "ZMUOYVRSHXLAVZ",
+    "XZDASEYDDONKUF",
+    "HMVNHNMZVEANII",
+    "QUCHYTOUUZEYOG",
+    "TBPFGONCIQAFOL",
+    "OUVSSKTBSFNYNK",
+    "QNEBBIAASOASOS",
+    "BOUIALGVRIBTNQ",
+    "COXYOGNPLPCBNM",
+    "OPZSPIAGGIANOG",
+    "ZBIUDSOLERAMPV",
+    "SGMRHFVZOZPZMA"
+  ],
+  "words": [
+    {
+      "word": "BOSCO",
+      "row": 9,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "FIUME",
+      "row": 7,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 13,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "ISOLA",
+      "row": 12,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "MARE",
+      "row": 12,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "MONTAGNA",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 6,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "PRATO",
+      "row": 10,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "SOLE",
+      "row": 12,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SPIAGGIA",
+      "row": 11,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VENTO",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

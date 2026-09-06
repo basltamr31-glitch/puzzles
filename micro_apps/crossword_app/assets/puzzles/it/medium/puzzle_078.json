@@ -1,0 +1,73 @@
+{
+  "id": "it_medium_078",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 078",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "INVERNO",
+      "clue": "Stagione più fredda dell'anno"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "MUSICA",
+      "clue": "Suono organizzato, spesso con melodia e ritmo"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "OSPEDALE",
+      "clue": "Luogo dove si curano i malati"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "LEZIONE",
+      "clue": "Un periodo di apprendimento su un argomento"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "answer": "LEGGE",
+      "clue": "Una regola imposta da un governo"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "FORMA",
+      "clue": "Il contorno o l'aspetto di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "PROBLEMA",
+      "clue": "Una questione difficile da risolvere"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "PITTORE",
+      "clue": "Artista che lavora con la pittura"
+    }
+  ]
+}

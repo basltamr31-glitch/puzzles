@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_072",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 072",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "مكتبة",
+      "clue": "مكان به مجموعة كبيرة من الكتب"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "مدينة",
+      "clue": "منطقة حضرية كبيرة"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "لاعب",
+      "clue": "شخص يمارس رياضة معينة"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "طبيعة",
+      "clue": "العالم الطبيعي المحيط بنا"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "answer": "عقل",
+      "clue": "أداة التفكير في الإنسان"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "answer": "بطء",
+      "clue": "قلة السرعة"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "واجب",
+      "clue": "ما يجب على الشخص القيام به"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "برنامج",
+      "clue": "خطة منظمة لتنفيذ أنشطة معينة"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "عرض",
+      "clue": "المسافة بين جانبي الشيء"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    }
+  ]
+}

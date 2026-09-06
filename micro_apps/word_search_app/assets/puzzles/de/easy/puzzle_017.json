@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_017",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 16,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "KPUDRFYG",
+    "FIGUPUKI",
+    "MNZRAKAR",
+    "AGJNNGMA",
+    "UUBFTZEF",
+    "SIGIHVLF",
+    "ANXTEFJE",
+    "TPFERDKM"
+  ],
+  "words": [
+    {
+      "word": "GIRAFFE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KAMEL",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MAUS",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHER",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PFERD",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

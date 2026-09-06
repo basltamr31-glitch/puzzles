@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_079",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 78,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "TKDGMRPGKEBK",
+    "EZEVPIBLNYPD",
+    "MVUOAUTOAYSM",
+    "FFHCSCIMVDMQ",
+    "EVQVSZAYETRX",
+    "RIDQAOONERTY",
+    "OATTPLHIZZTE",
+    "HGSOOAIYVAUN",
+    "OGVORIBGXEFY",
+    "NIATTELCICIB",
+    "QOTROPOREADB",
+    "DYLUNVZOYEPI"
+  ],
+  "words": [
+    {
+      "word": "AEROPORTO",
+      "row": 10,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "AUTO",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BICICLETTA",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "NAVE",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "PASSAPORTO",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "STAZIONE",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "TRENO",
+      "row": 5,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "VACANZA",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "VALIGIA",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "VIAGGIO",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

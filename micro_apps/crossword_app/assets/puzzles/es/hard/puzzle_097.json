@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_097",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 097",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "answer": "FORMA",
+      "clue": "El contorno o aspecto de algo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "CELEBRACION",
+      "clue": "Un evento que marca una ocasión especial"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "LITERATURA",
+      "clue": "Obras escritas valoradas por su mérito artístico"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "answer": "NIVEL",
+      "clue": "Un estándar o altura particular"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "RANGO",
+      "clue": "La extensión entre dos límites"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "PERDIDA",
+      "clue": "El estado de ya no tener algo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "AVENTURA",
+      "clue": "Una experiencia emocionante y audaz"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "answer": "COMPUTADORA",
+      "clue": "Aparato electrónico que procesa datos"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "answer": "CIELO",
+      "clue": "El espacio sobre la tierra"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 6,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "TAMAÑO",
+      "clue": "Cuán grande o pequeño es algo"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 8,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_038",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 038",
+  "rows": 15,
+  "cols": 14,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "TAXE",
+      "clue": "Argent dû au gouvernement"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "EQUIPE",
+      "clue": "Un groupe travaillant ensemble vers un but"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "VALEUR",
+      "clue": "Combien vaut quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "NIVEAU",
+      "clue": "Un standard ou une hauteur particulière"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "PLAN",
+      "clue": "Une proposition détaillée pour faire quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "INDEPENDANCE",
+      "clue": "La liberté de tout contrôle extérieur"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "VOTE",
+      "clue": "Un choix formel fait lors d'une élection"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 0,
+      "answer": "INTERNATIONAL",
+      "clue": "Impliquant plus d'un pays"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 1,
+      "answer": "TRADUCTION",
+      "clue": "La conversion d'un texte d'une langue à une autre"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "SIGNIFICATION",
+      "clue": "L'importance de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "APPRECIATION",
+      "clue": "La reconnaissance de la valeur de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 9,
+      "answer": "PERTE",
+      "clue": "L'état de ne plus avoir quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 8,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 12,
+      "answer": "CIEL",
+      "clue": "L'espace au-dessus de la terre"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "TYPE",
+      "clue": "Une catégorie ou sorte de quelque chose"
+    }
+  ]
+}

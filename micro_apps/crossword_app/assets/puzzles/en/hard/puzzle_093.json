@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_093",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 093",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "INVENTION",
+      "clue": "A newly created device or process"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "CHALLENGE",
+      "clue": "A task that tests one's abilities"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 10,
+      "answer": "SOUND",
+      "clue": "Something you hear"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "SUBMARINE",
+      "clue": "A vessel that travels underwater"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "LANDSCAPE",
+      "clue": "The visible scenery of an area of land"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "answer": "LIGHT",
+      "clue": "Brightness that lets you see"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 5,
+      "answer": "WEB",
+      "clue": "A net spun by a spider, or the internet, informally"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 9,
+      "answer": "IDEA",
+      "clue": "A thought or plan"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 12,
+      "answer": "LAW",
+      "clue": "A rule enforced by a government"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "CASE",
+      "clue": "An instance of something, or a container"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "KEYBOARD",
+      "clue": "Set of keys used to type on a device"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "OIL",
+      "clue": "Slippery liquid used for cooking or fuel"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "COST",
+      "clue": "The amount paid for something"
+    }
+  ]
+}

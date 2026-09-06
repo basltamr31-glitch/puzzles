@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_011",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 011",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "MONTH",
+      "clue": "One of twelve divisions of a year",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "FROG",
+      "clue": "Green amphibian that hops and croaks",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "HOUR",
+      "clue": "A unit of time equal to sixty minutes",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "DESERT",
+      "clue": "Dry, sandy area with little rain",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ANT",
+      "clue": "Small hardworking insect that lives in colonies",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "ARM",
+      "clue": "Limb between the shoulder and the hand",
+      "category": "body"
+    }
+  ]
+}

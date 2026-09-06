@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_089",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 88,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "KBJIGSMN",
+    "VJCFGDPC",
+    "DJEMAEPA",
+    "BXBBTLBB",
+    "PERROFCR",
+    "RUAGUILA",
+    "VAOSVNMX",
+    "PTIOGSZV"
+  ],
+  "words": [
+    {
+      "word": "AGUILA",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CABRA",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CEBRA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "DELFIN",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GATO",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PERRO",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

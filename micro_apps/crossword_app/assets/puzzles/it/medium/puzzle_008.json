@@ -1,0 +1,80 @@
+{
+  "id": "it_medium_008",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 008",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SPAZIO",
+      "clue": "Un'area vuota, o l'universo oltre la Terra"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "VIOLINO",
+      "clue": "Strumento a corde suonato con un archetto"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "MUSICA",
+      "clue": "Suono organizzato, spesso con melodia e ritmo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "FORMA",
+      "clue": "Il contorno o l'aspetto di qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "FATTO",
+      "clue": "Qualcosa che si sa essere vero"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "GHIACCIO",
+      "clue": "Acqua congelata"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "CIELO",
+      "clue": "Lo spazio sopra la terra"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "UFFICIO",
+      "clue": "Stanza usata per il lavoro professionale"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    }
+  ]
+}

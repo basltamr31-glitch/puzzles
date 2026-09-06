@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_058",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 57,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "ZCFAPUXB",
+    "BURROCKP",
+    "BCAFFEPP",
+    "ANGURIAI",
+    "ZVOUHNTY",
+    "OULLNSAZ",
+    "IPANEITS",
+    "ESPYBHAU"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BURRO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CAFFE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PANE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

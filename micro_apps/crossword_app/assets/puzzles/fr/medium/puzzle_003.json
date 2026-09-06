@@ -1,0 +1,73 @@
+{
+  "id": "fr_medium_003",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 003",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "IMAGE",
+      "clue": "Une photo ou un dessin"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "TUNNEL",
+      "clue": "Un passage souterrain"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "COUSSIN",
+      "clue": "Coussin doux pour reposer la tête"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "GUITARE",
+      "clue": "Instrument à cordes que l'on gratte"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "METEO",
+      "clue": "État de l'atmosphère, chaud, froid, pluvieux"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "LANTERNE",
+      "clue": "Une lumière portative dans un boîtier"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "HUILE",
+      "clue": "Liquide glissant utilisé pour cuisiner ou comme carburant"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "MUSIQUE",
+      "clue": "Son organisé, souvent avec mélodie et rythme"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "REGLE",
+      "clue": "Une instruction officielle sur la façon de se comporter"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_051",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 50,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "FARGOIJWFG",
+    "UGNGDJFAXV",
+    "POZJFNOTSO",
+    "LCRQGTREEL",
+    "JGLACIERXC",
+    "BTNOIUSFKA",
+    "OHMOUNTAIN",
+    "EKXSYDJLTO",
+    "YILSEFTLPZ",
+    "YCDHXRXEUX"
+  ],
+  "words": [
+    {
+      "word": "CLOUD",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "FOREST",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GLACIER",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TREE",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "WATERFALL",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

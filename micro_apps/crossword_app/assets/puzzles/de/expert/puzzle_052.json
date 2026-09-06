@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_052",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 052",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "BERUF",
+      "clue": "Bezahlte Arbeit, die man regelmäßig verrichtet"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "INTERNATIONAL",
+      "clue": "Mehr als ein Land betreffend"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "INGENIEURWESEN",
+      "clue": "Die Anwendung von Wissenschaft zum Bau von Dingen"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "FALL",
+      "clue": "Ein Beispiel für etwas, oder ein Behälter"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "BEDEUTUNG",
+      "clue": "Die Wichtigkeit von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "ZIEL",
+      "clue": "Das Ergebnis, auf das jemand hinarbeitet"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "ANERKENNUNG",
+      "clue": "Anerkennung des Wertes von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "PRACHTVOLL",
+      "clue": "Äußerst schön oder beeindruckend"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 14,
+      "answer": "EINHEIT",
+      "clue": "Ein einzelnes Standardmaß"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 11,
+      "answer": "GEWINN",
+      "clue": "Eine Zunahme von etwas, wie Vermögen"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "PLAN",
+      "clue": "Ein detaillierter Vorschlag zur Erledigung von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 6,
+      "answer": "FAKT",
+      "clue": "Etwas, das als wahr bekannt ist"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 11,
+      "answer": "WERT",
+      "clue": "Wie viel etwas wert ist"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 11,
+      "answer": "IDEE",
+      "clue": "Ein Gedanke oder Plan"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 4,
+      "answer": "TEAM",
+      "clue": "Eine Gruppe, die gemeinsam auf ein Ziel hinarbeitet"
+    }
+  ]
+}

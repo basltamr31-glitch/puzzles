@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_032",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 032",
+  "rows": 13,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "answer": "ضعف",
+      "clue": "قلة القوة أو القدرة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "عدد",
+      "clue": "قيمة رياضية تُستخدم للعد"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "answer": "معدن",
+      "clue": "مادة صلبة كالحديد أو الذهب"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "مسؤولية",
+      "clue": "واجب يجب على الشخص القيام به"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "دولية",
+      "clue": "صفة تتعلق بأكثر من دولة"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "رأس",
+      "clue": "الجزء العلوي من الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "منظمة",
+      "clue": "مؤسسة تعمل على تحقيق أهداف مشتركة"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "بيئة",
+      "clue": "المحيط الطبيعي الذي نعيش فيه"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "answer": "فن",
+      "clue": "تعبير إبداعي بالرسم أو الموسيقى أو غيرها"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 2,
+      "answer": "مسافة",
+      "clue": "المقدار الفاصل بين مكانين"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "نظارات",
+      "clue": "جمع نظارة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "حضارة",
+      "clue": "مرحلة متقدمة من تطور مجتمع"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 0,
+      "answer": "مناخ",
+      "clue": "حالة الطقس السائدة في منطقة"
+    }
+  ]
+}

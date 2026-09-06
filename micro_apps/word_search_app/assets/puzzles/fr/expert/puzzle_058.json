@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_058",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 57,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "ICCHJBFQXDEZCO",
+    "FEAUXGOYJYUNHG",
+    "HRYALUYJOJACOF",
+    "EROABICZNKUCJQ",
+    "LEIMDJRORXZJZH",
+    "OTOMATEXCYXHOL",
+    "PEAZZGPRTCPLYC",
+    "ADULOOEFILGRIC",
+    "TEVYOETTQOEVID",
+    "MMNFCCRVRUPPEO",
+    "VMIAIOORJGKXYT",
+    "UOAVNCUHUGZXNC",
+    "HPPUTAHECEDZOR",
+    "XEYGAUBDDOBRFL"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 13,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "BEURRE",
+      "row": 13,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 12,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "CITRON",
+      "row": 6,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "CREPE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "LAIT",
+      "row": 2,
+      "col": 4,
+      "dir": "SW"
+    },
+    {
+      "word": "MIEL",
+      "row": 4,
+      "col": 3,
+      "dir": "W"
+    },
+    {
+      "word": "PAIN",
+      "row": 12,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "POIRE",
+      "row": 9,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "POMMEDETERRE",
+      "row": 12,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "TOMATE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

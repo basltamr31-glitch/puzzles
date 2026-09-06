@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_010",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 9,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "MANBITEMTK",
+    "TNGLZHFGIV",
+    "BURRORDLMM",
+    "BICFLMSFQO",
+    "ZASMIAVUBT",
+    "NUNCMXLCEP",
+    "HDMAOPANEZ",
+    "SHGFNTTNEL",
+    "KOVFEATQCP",
+    "CMIELEEONG"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "BURRO",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CAFFE",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "LATTE",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LIMONE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MIELE",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PANE",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

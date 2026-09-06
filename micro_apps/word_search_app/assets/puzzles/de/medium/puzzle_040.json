@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_040",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 39,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "JWHKAPRWLS",
+    "FUSSBALLAP",
+    "CDMZCGMIKO",
+    "LHAKKHLHWR",
+    "MWRTMUAOKT",
+    "FRAOETUCEL",
+    "HKTIGAFKHE",
+    "SCHWIMMENR",
+    "MFOGHTTYKG",
+    "HINEBHCCDN"
+  ],
+  "words": [
+    {
+      "word": "FUSSBALL",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LAUF",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MARATHON",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SCHACH",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SCHWIMMEN",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SPORTLER",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TEAM",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

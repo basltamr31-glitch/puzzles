@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_034",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 034",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "بقرة",
+      "clue": "حيوان أليف يُربى لحليبه",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "شرق",
+      "clue": "جهة شروق الشمس",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "لبن",
+      "clue": "سائل أبيض يأتي من الأبقار",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "جبل",
+      "clue": "مرتفع طبيعي كبير من الأرض",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "حصان",
+      "clue": "حيوان كبير يُركب",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "طالب",
+      "clue": "شخص يدرس في مدرسة أو جامعة",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "طاولة",
+      "clue": "أثاث ذو سطح مستوٍ للأكل أو العمل",
+      "category": "home"
+    }
+  ]
+}

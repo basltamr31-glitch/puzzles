@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_074",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 73,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "IFLIMONE",
+    "DMEKYGSY",
+    "UACSPNHQ",
+    "DNHSCIXN",
+    "VZESAGHJ",
+    "QAKOFRHE",
+    "CNTPERAI",
+    "OACAYEDK"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "LECHE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "LIMON",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MANZANA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SOPA",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

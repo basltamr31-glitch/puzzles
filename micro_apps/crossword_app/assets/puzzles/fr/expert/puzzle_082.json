@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_082",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 082",
+  "rows": 14,
+  "cols": 14,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "ECOSYSTEME",
+      "clue": "Une communauté d'êtres vivants et leur milieu"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "GENERATION",
+      "clue": "Un groupe de personnes nées à la même époque"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 11,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 9,
+      "answer": "HUILE",
+      "clue": "Liquide glissant utilisé pour cuisiner ou comme carburant"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "CONSTRUCTION",
+      "clue": "Le processus de construction de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "APPRECIATION",
+      "clue": "La reconnaissance de la valeur de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "VOTE",
+      "clue": "Un choix formel fait lors d'une élection"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "answer": "GLACE",
+      "clue": "De l'eau gelée, ou un dessert froid"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "COUT",
+      "clue": "Le montant payé pour quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 8,
+      "answer": "TAUX",
+      "clue": "Une mesure de la vitesse à laquelle quelque chose se produit"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 9,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 2,
+      "answer": "PLAN",
+      "clue": "Une proposition détaillée pour faire quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "CIEL",
+      "clue": "L'espace au-dessus de la terre"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 13,
+      "answer": "EQUIPE",
+      "clue": "Un groupe travaillant ensemble vers un but"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "FORCE",
+      "clue": "La puissance exercée sur quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "OBJET",
+      "clue": "Un article ou une chose unique"
+    }
+  ]
+}

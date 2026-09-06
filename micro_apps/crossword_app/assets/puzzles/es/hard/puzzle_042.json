@@ -1,0 +1,87 @@
+{
+  "id": "es_hard_042",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 042",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "answer": "EMPLEO",
+      "clue": "Un trabajo remunerado que se hace regularmente"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "COMPUTADORA",
+      "clue": "Aparato electrónico que procesa datos"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "EXPERIMENTO",
+      "clue": "Una prueba científica para descubrir algo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "CIRUGIA",
+      "clue": "Un procedimiento médico para tratar una afección"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 8,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "CONTINENTE",
+      "clue": "Una de las grandes masas de tierra"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "answer": "VACUNA",
+      "clue": "Una sustancia que protege contra una enfermedad"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "FESTIVAL",
+      "clue": "Un día o período de celebración"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "LEY",
+      "clue": "Una regla impuesta por un gobierno"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "HIELO",
+      "clue": "Agua congelada"
+    }
+  ]
+}

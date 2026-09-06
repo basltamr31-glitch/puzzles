@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_034",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 33,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "HDXJHMJK",
+    "VCKSLIDK",
+    "PERATFGE",
+    "UXBNORPF",
+    "AKADMEPB",
+    "KMCIASAC",
+    "XPLATANO",
+    "UVVHEOUB"
+  ],
+  "words": [
+    {
+      "word": "FRESA",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PAN",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PLATANO",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SANDIA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

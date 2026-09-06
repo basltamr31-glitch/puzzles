@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_097",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 96,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "URMREKSROOBC",
+    "JAIDPUTKMQLB",
+    "SASNQTJNOILF",
+    "UHURCQEZUUCS",
+    "GRFOQGCATDVR",
+    "ENIETGUBOKZL",
+    "VXCVFIRENARD",
+    "KAHEJREIYQBA",
+    "TSEXVAULPEPS",
+    "OPVHQFILMQXZ",
+    "TNAHPELERGIT",
+    "LJLOUPCZFKAD"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ECUREUIL",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 10,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LION",
+      "row": 2,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "LOUP",
+      "row": 11,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MOUTON",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "RENARD",
+      "row": 6,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "TIGRE",
+      "row": 10,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

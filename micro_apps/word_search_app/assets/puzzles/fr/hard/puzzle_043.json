@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_043",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 42,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "OMHQZZNZKRTO",
+    "DNGTPLZOYSTF",
+    "KVNFITFFELAE",
+    "TUPSRFQNOBRQ",
+    "CMITDIDFSRCS",
+    "KHNCQUVMEAEP",
+    "FISOQZFIVENT",
+    "OREIULPPEACZ",
+    "XPHNDNQGCRIZ",
+    "MCZVECALGGEP",
+    "YPIEVUOEGALP",
+    "ZCFGNVURNVIK"
+  ],
+  "words": [
+    {
+      "word": "ARCENCIEL",
+      "row": 2,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "FORET",
+      "row": 2,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "GLACE",
+      "row": 9,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "NUAGE",
+      "row": 11,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "PIERRE",
+      "row": 7,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "PLAGE",
+      "row": 10,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PLUIE",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "RIVIERE",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "VENT",
+      "row": 6,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 11,
+      "col": 5,
+      "dir": "NE"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_081",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 081",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "PILOTE",
+      "clue": "Personne qui pilote un avion"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "VEHICULE",
+      "clue": "Toute machine servant à transporter des gens"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "LUMIERE",
+      "clue": "La clarté qui permet de voir"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "answer": "TAXE",
+      "clue": "Argent dû au gouvernement"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ARAIGNEE",
+      "clue": "Créature à huit pattes qui tisse des toiles"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "MODELE",
+      "clue": "Une représentation de quelque chose, souvent plus petite"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "FENETRE",
+      "clue": "Ouverture vitrée qui laisse entrer la lumière"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "COUT",
+      "clue": "Le montant payé pour quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "ETE",
+      "clue": "Saison la plus chaude de l'année"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "SON",
+      "clue": "Quelque chose que l'on entend"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_034",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 034",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "حرب",
+      "clue": "نزاع مسلح بين أطراف"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "امتحان",
+      "clue": "تقييم رسمي لمستوى الطالب"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "لاعب",
+      "clue": "شخص يمارس رياضة معينة"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "نجاح",
+      "clue": "تحقيق هدف مرجو"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "صحيفة",
+      "clue": "مطبوعة يومية تنشر الأخبار"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "answer": "عدد",
+      "clue": "قيمة رياضية تُستخدم للعد"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "طبيعة",
+      "clue": "العالم الطبيعي المحيط بنا"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "answer": "محطة",
+      "clue": "مكان توقف القطارات أو الحافلات"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "زراعة",
+      "clue": "نشاط زرع النباتات والمحاصيل"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "مفتاح",
+      "clue": "أداة معدنية تُستخدم لفتح الأقفال"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_017",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 017",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "EQUIPE",
+      "clue": "Un groupe travaillant ensemble vers un but"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "CULTURE",
+      "clue": "Les coutumes et croyances d'une société"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "PERSONNAGE",
+      "clue": "Une personne dépeinte dans une histoire"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "ENVIRONNEMENT",
+      "clue": "Le monde naturel qui nous entoure"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "CELEBRATION",
+      "clue": "Un événement marquant une occasion spéciale"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "ESPACE",
+      "clue": "Une zone vide, ou l'univers au-delà de la Terre"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "answer": "FORME",
+      "clue": "Le contour ou l'aspect de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "PHRASE",
+      "clue": "Un groupe de mots exprimant une pensée complète"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "VOTE",
+      "clue": "Un choix formel fait lors d'une élection"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 10,
+      "answer": "SON",
+      "clue": "Quelque chose que l'on entend"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 8,
+      "answer": "FORCE",
+      "clue": "La puissance exercée sur quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "REGLE",
+      "clue": "Une instruction officielle sur la façon de se comporter"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "ORDINATEUR",
+      "clue": "Appareil électronique qui traite des données"
+    }
+  ]
+}

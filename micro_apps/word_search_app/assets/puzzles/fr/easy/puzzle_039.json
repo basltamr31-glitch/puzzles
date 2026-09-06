@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_039",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 38,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "BBYVPZDP",
+    "TICODXSI",
+    "RLMITNAT",
+    "ALVTAQCG",
+    "IEUUJIAG",
+    "NTERMDDA",
+    "EAYEIEOR",
+    "HEVALISE"
+  ],
+  "words": [
+    {
+      "word": "BILLET",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GARE",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SACADOS",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TRAIN",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VALISE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VOITURE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

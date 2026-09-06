@@ -1,0 +1,50 @@
+{
+  "id": "en_easy_076",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 076",
+  "rows": 7,
+  "cols": 5,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "LEAF",
+      "clue": "Flat green part of a plant",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "TREE",
+      "clue": "Tall plant with a trunk, branches, and leaves",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "STAR",
+      "clue": "A glowing point of light in the night sky",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "YEAR",
+      "clue": "A period of twelve months",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "SEED",
+      "clue": "What a plant grows from",
+      "category": "nature"
+    }
+  ]
+}

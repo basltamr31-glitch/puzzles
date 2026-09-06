@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_058",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 058",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "TECHNOLOGIE",
+      "clue": "Anwendung von Wissenschaft für praktische Zwecke"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "PASSAGIER",
+      "clue": "Eine Person, die in einem Fahrzeug mitfährt"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 8,
+      "answer": "STAAT",
+      "clue": "Ein Zustand, oder ein politisches Gebiet"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "answer": "PLAN",
+      "clue": "Ein detaillierter Vorschlag zur Erledigung von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "LANDSCHAFT",
+      "clue": "Die sichtbare Szenerie eines Gebiets"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 12,
+      "answer": "CHEMISCH",
+      "clue": "Auf Stoffe und ihre Reaktionen bezogen"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "ALTER",
+      "clue": "Wie viele Jahre jemand gelebt hat"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "THEATER",
+      "clue": "Ein Gebäude, in dem Stücke aufgeführt werden"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "TROPEN",
+      "clue": "Heiße Klimazone nahe dem Äquator"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 1,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    }
+  ]
+}

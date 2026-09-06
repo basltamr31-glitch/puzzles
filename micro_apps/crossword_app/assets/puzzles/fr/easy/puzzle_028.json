@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_028",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 028",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "PLAGE",
+      "clue": "Zone sablonneuse au bord de la mer",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "SABLE",
+      "clue": "Petits grains présents sur les plages",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "LAMPE",
+      "clue": "Objet qui donne de la lumière",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "PAIN",
+      "clue": "Aliment cuit à base de farine et d'eau",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "BOUCHE",
+      "clue": "Ouverture utilisée pour manger et parler",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "FEMME",
+      "clue": "Personne adulte de sexe féminin",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "FEU",
+      "clue": "Flammes chaudes et lumineuses",
+      "category": "nature"
+    }
+  ]
+}

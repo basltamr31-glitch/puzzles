@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_019",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 18,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "VSBFMXLGEN",
+    "OPLMBHULSC",
+    "MNZGTOSDTP",
+    "IOIPRQXGKD",
+    "WHUBEOPORE",
+    "IMINETICIS",
+    "RRKYTAACVE",
+    "PYGGLACIER",
+    "IWYSJZIHRT",
+    "XVOISLANDZ"
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "DESERT",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "GLACIER",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ICE",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "ISLAND",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "RIVER",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "TREE",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

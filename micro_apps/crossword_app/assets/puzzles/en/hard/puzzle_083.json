@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_083",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 083",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "answer": "FACT",
+      "clue": "Something known to be true"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "answer": "MEDICINE",
+      "clue": "The science of treating illness"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 4,
+      "answer": "PAINTING",
+      "clue": "A picture made using paint"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 11,
+      "answer": "RANGE",
+      "clue": "The extent between limits"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ENVIRONMENT",
+      "clue": "The natural world around us"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "DISCOVERY",
+      "clue": "The act of finding something new"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "GOAL",
+      "clue": "The aim someone is working toward"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "VOLCANO",
+      "clue": "A mountain that can erupt with lava"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "POWER",
+      "clue": "The ability to do or control something"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "TYPE",
+      "clue": "A category or kind of something"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "WAR",
+      "clue": "Armed conflict between nations"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "WEB",
+      "clue": "A net spun by a spider, or the internet, informally"
+    }
+  ]
+}

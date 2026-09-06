@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_079",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 78,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "MOGMCVTY",
+    "AXHHFCIL",
+    "PLANEOCF",
+    "BTRAINKR",
+    "NYBPKQEW",
+    "LBOTYSTW",
+    "ZYRSHUWW",
+    "TBICYCLE"
+  ],
+  "words": [
+    {
+      "word": "BICYCLE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HARBOR",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PLANE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TICKET",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TRAIN",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

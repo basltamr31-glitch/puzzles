@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_043",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 043",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "SATELITE",
+      "clue": "Un objeto que orbita un planeta"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "TERMINO",
+      "clue": "Un período fijo, o una palabra específica"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 10,
+      "answer": "ORACION",
+      "clue": "Un grupo de palabras que expresa un pensamiento completo"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "AGRICULTURA",
+      "clue": "La práctica del cultivo de la tierra"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 3,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "EMPLEO",
+      "clue": "Un trabajo remunerado que se hace regularmente"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "answer": "TEATRO",
+      "clue": "Un edificio donde se representan obras"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 4,
+      "answer": "MEDICINA",
+      "clue": "La ciencia del tratamiento de enfermedades"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "NIVEL",
+      "clue": "Un estándar o altura particular"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "ORDEN",
+      "clue": "Una secuencia, o una instrucción a seguir"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "VALOR",
+      "clue": "Cuánto vale algo"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "@@locale": "ar",
+  "appName": "سودوكو",
+  "onboardingTitle": "سودوكو",
+  "onboardingSubtitle": "ألغاز أرقام كلاسيكية لكل المستويات — 400 شبكة للحل، بدون حساب وبدون إنترنت.",
+  "continueButton": "متابعة",
+  "chooseDifficultyTitle": "اختر مستوى الصعوبة",
+  "chooseDifficultySubtitle": "يمكنك لعب أي مستوى صعوبة في أي وقت.",
+  "difficultyEasy": "سهل",
+  "difficultyMedium": "متوسط",
+  "difficultyHard": "صعب",
+  "difficultyExpert": "خبير",
+  "puzzleListTitle": "ألغاز {difficulty}",
+  "@puzzleListTitle": {
+    "placeholders": {
+      "difficulty": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleStatusCompleted": "مكتمل",
+  "puzzleStatusInProgress": "قيد التقدم",
+  "puzzleStatusNotStarted": "لم يبدأ",
+  "puzzleStatusLocked": "مقفل",
+  "puzzleLockedMessage": "أكمل اللغز السابق لفتح هذا اللغز.",
+  "puzzleNumberLabel": "لغز {number}",
+  "@puzzleNumberLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleCluesLabel": "{count} رقمًا معطى",
+  "@puzzleCluesLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "puzzlesSolvedLabel": "تم حل {solved} من {total}",
+  "@puzzlesSolvedLabel": {
+    "placeholders": {
+      "solved": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "noPuzzlesTitle": "لا توجد ألغاز بعد",
+  "noPuzzlesMessage": "ألغاز جديدة لهذا المستوى قادمة قريبًا.",
+  "cellSemanticLabel": "الصف {row}، العمود {column}",
+  "@cellSemanticLabel": {
+    "placeholders": {
+      "row": {
+        "type": "int"
+      },
+      "column": {
+        "type": "int"
+      }
+    }
+  },
+  "cellEmpty": "فارغة",
+  "numberPadDigitLabel": "أدخل {digit}",
+  "@numberPadDigitLabel": {
+    "placeholders": {
+      "digit": {
+        "type": "int"
+      }
+    }
+  },
+  "numberPadNoteLabel": "ملاحظة {digit}",
+  "@numberPadNoteLabel": {
+    "placeholders": {
+      "digit": {
+        "type": "int"
+      }
+    }
+  },
+  "undoButton": "تراجع",
+  "eraseButton": "مسح",
+  "notesButton": "ملاحظات",
+  "hintButton": "تلميح",
+  "hintConfirmTitle": "استخدام تلميح؟",
+  "hintConfirmMessage": "سيتم ملء الرقم في الخانة المحددة.",
+  "watchAdForHint": "شاهد فيديو قصيرًا للحصول على تلميح",
+  "checkButton": "تحقق",
+  "checkNoMistakes": "لا أخطاء حتى الآن.",
+  "restartPuzzleButton": "إعادة البدء",
+  "restartConfirmTitle": "إعادة بدء هذا اللغز؟",
+  "restartConfirmMessage": "سيتم مسح تقدمك في هذا اللغز.",
+  "puzzleCompletedTitle": "اكتمل اللغز!",
+  "puzzleCompletedTime": "تم الحل في {time}",
+  "@puzzleCompletedTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "nextPuzzleButton": "اللغز التالي",
+  "backToPuzzlesButton": "العودة إلى الألغاز",
+  "settingsTitle": "الإعدادات",
+  "settingsUiLanguage": "لغة التطبيق",
+  "settingsAppearance": "المظهر",
+  "themeModeSystem": "النظام",
+  "themeModeLight": "فاتح",
+  "themeModeDark": "داكن",
+  "settingsSound": "المؤثرات الصوتية",
+  "settingsVibration": "الاهتزاز",
+  "settingsMusic": "الموسيقى الخلفية",
+  "musicTrackOff": "إيقاف",
+  "musicTrackCalm": "هادئة",
+  "musicTrackGentle": "لطيفة",
+  "musicTrackUplifting": "منعشة",
+  "musicTrackFocus": "تركيز",
+  "musicTrackBright": "مشرقة",
+  "musicTrackNight": "ليلية",
+  "settingsReminders": "تذكير باللعب",
+  "remindersPermissionDenied": "الإشعارات معطّلة لهذا التطبيق. يمكنك تفعيلها من إعدادات جهازك.",
+  "reminderTitle": "هناك لغز في انتظارك",
+  "reminderBody": "خذ استراحة وحلّ لغزاً — لن يستغرق سوى بضع دقائق.",
+  "settingsTestSound": "اختبار الصوت",
+  "soundTestOk": "تم تشغيل الصوت.",
+  "soundTestFailed": "فشل تشغيل الصوت: {error}",
+  "@soundTestFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsRemoveAds": "إزالة الإعلانات",
+  "settingsRestorePurchases": "استعادة المشتريات",
+  "settingsAdPrivacyOptions": "خيارات خصوصية الإعلانات",
+  "settingsPrivacy": "سياسة الخصوصية",
+  "privacyPolicyViewOnline": "عرض عبر الإنترنت",
+  "settingsAbout": "حول التطبيق",
+  "settingsVersion": "الإصدار {version}",
+  "@settingsVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "removeAdsTitle": "إزالة الإعلانات",
+  "removeAdsDescription": "استمتع بكل لغز بدون إعلانات بانر أو إعلانات بينية — إلى الأبد، بعملية شراء واحدة.",
+  "removeAdsPrice": "١٫٠٠ دولار",
+  "removeAdsPurchaseButton": "شراء — ١٫٠٠ دولار",
+  "removeAdsPurchaseButtonWithPrice": "شراء — {price}",
+  "@removeAdsPurchaseButtonWithPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "musicToggleOn": "تشغيل الموسيقى",
+  "musicToggleOff": "إيقاف الموسيقى",
+  "settingsDeveloper": "المطوّر",
+  "settingsDeveloperName": "BT developer",
+  "settingsCopyright": "© BaLa Dream",
+  "removeAdsAlreadyOwned": "أنت تملك بالفعل إزالة الإعلانات. شكرًا لدعمك!",
+  "purchasePending": "جارٍ معالجة عملية الشراء…",
+  "purchaseError": "تعذر إتمام عملية الشراء. يرجى المحاولة مرة أخرى.",
+  "purchaseStoreUnavailable": "المتجر غير متاح حاليًا. تأكد من تسجيل الدخول ثم حاول مرة أخرى.",
+  "purchaseProductUnavailable": "هذا الشراء غير متاح حاليًا. يرجى المحاولة لاحقًا.",
+  "purchaseCancelled": "تم إلغاء عملية الشراء.",
+  "restoreSuccess": "تمت استعادة مشترياتك.",
+  "restoreNothingFound": "لم يتم العثور على مشتريات سابقة.",
+  "errorGeneric": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+  "errorNoInternet": "أنت غير متصل بالإنترنت. تتطلب هذه الميزة اتصالاً بالإنترنت.",
+  "errorAdUnavailable": "لا يوجد إعلان متاح حاليًا. يرجى المحاولة لاحقًا.",
+  "errorPuzzleMissing": "تعذر تحميل هذا اللغز.",
+  "cancelButton": "إلغاء",
+  "okButton": "موافق",
+  "confirmButton": "تأكيد"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_026",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 026",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "PAPIER",
+      "clue": "Dünnes Material zum Schreiben oder Drucken",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "MEER",
+      "clue": "Große Fläche mit Salzwasser",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "SCHAF",
+      "clue": "Wolliges Weidetier, das blökt",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "ROT",
+      "clue": "Farbe von Blut oder einer reifen Tomate",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "STIFT",
+      "clue": "Schreibwerkzeug",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "BROT",
+      "clue": "Gebackenes Nahrungsmittel aus Mehl und Wasser",
+      "category": "food"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_079",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 079",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "AIGLE",
+      "clue": "Grand oiseau de proie à la vue perçante"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "BOUGIE",
+      "clue": "Un bâton de cire avec une mèche, brûlé pour la lumière"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "POCHE",
+      "clue": "Une petite pochette cousue dans les vêtements"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "TAILLE",
+      "clue": "La grandeur ou petitesse de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "GLACE",
+      "clue": "De l'eau gelée, ou un dessert froid"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "ECHELLE",
+      "clue": "La taille de quelque chose par rapport à une autre"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "VEHICULE",
+      "clue": "Toute machine servant à transporter des gens"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "HIVER",
+      "clue": "Saison la plus froide de l'année"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "CLE",
+      "clue": "Outil métallique utilisé pour ouvrir une serrure"
+    }
+  ]
+}

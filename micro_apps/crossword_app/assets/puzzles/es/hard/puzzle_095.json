@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_095",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 095",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "ESQUELETO",
+      "clue": "La estructura de huesos de un cuerpo"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "GUERRA",
+      "clue": "Un conflicto armado entre naciones"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "COSECHA",
+      "clue": "La recolección de cultivos maduros"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "PERSONAJE",
+      "clue": "Una persona representada en una historia"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "BIOLOGIA",
+      "clue": "El estudio científico de los seres vivos"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 8,
+      "answer": "COSTO",
+      "clue": "La cantidad pagada por algo"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 11,
+      "answer": "TECLADO",
+      "clue": "Conjunto de teclas usadas para escribir"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "EXHIBICION",
+      "clue": "Una exposición pública de arte u objetos"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "answer": "ORACION",
+      "clue": "Un grupo de palabras que expresa un pensamiento completo"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 12,
+      "answer": "NIVEL",
+      "clue": "Un estándar o altura particular"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "AMBIENTE",
+      "clue": "El mundo natural que nos rodea"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 5,
+      "answer": "FESTIVAL",
+      "clue": "Un día o período de celebración"
+    }
+  ]
+}

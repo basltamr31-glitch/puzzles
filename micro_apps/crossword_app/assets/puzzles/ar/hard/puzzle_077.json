@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_077",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 077",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "صناعات",
+      "clue": "جمع صناعة"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "صوت",
+      "clue": "ما يُسمع عند الكلام أو الحركة"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "علمية",
+      "clue": "صفة تتعلق بالعلم"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "اتصالات",
+      "clue": "وسائل التواصل بين الأشخاص"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "ثقافة",
+      "clue": "مجموعة عادات وتقاليد ومعارف مجتمع"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "answer": "استكشاف",
+      "clue": "عملية البحث والتقصي عن أمر مجهول"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 1,
+      "answer": "معلومات",
+      "clue": "جمع معلومة"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 1,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "answer": "شكل",
+      "clue": "الهيئة الخارجية للشيء"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 4,
+      "answer": "نوع",
+      "clue": "صنف أو فئة من الأشياء"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "answer": "مناخ",
+      "clue": "حالة الطقس السائدة في منطقة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "أذن",
+      "clue": "عضو السمع في الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "حق",
+      "clue": "ما يستحقه الشخص"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_035",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 34,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "TESTRAND",
+    "YAKTTZRX",
+    "XZSBTIPK",
+    "CROLNPGY",
+    "AINSELGM",
+    "WINDBWXH",
+    "WIESEETA",
+    "JUYOLLBA"
+  ],
+  "words": [
+    {
+      "word": "INSEL",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "NEBEL",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SONNE",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "STRAND",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "WIESE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

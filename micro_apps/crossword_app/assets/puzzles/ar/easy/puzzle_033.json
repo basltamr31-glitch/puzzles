@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_033",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 033",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "فأر",
+      "clue": "قارض صغير ذو ذيل طويل",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "طير",
+      "clue": "حيوان له أجنحة ويستطيع الطيران",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "أسبوع",
+      "clue": "مدة سبعة أيام",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "يوم",
+      "clue": "مدة أربع وعشرين ساعة",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "طفل",
+      "clue": "إنسان صغير السن",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "ليل",
+      "clue": "الجزء المظلم من اليوم",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "لبن",
+      "clue": "سائل أبيض يأتي من الأبقار",
+      "category": "food"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_014",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 13,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "CTANGKTTJPRH",
+    "VATABROCCJVK",
+    "EGYCFUGJTGSX",
+    "SVBSQCFVGAZH",
+    "TDVURHVANBLQ",
+    "IPANTALONMSS",
+    "DDVBVQREODHV",
+    "OYNCPULSERAU",
+    "GUANTENALFLC",
+    "IJQNITECLACU",
+    "OGIRBAKDGHKQ",
+    "SCHGFKXYXGEI"
+  ],
+  "words": [
+    {
+      "word": "ABRIGO",
+      "row": 10,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "BUFANDA",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CALCETIN",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CHAQUETA",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CINTURON",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "CORBATA",
+      "row": 1,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "GUANTE",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PANTALON",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PULSERA",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

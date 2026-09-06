@@ -1,0 +1,80 @@
+{
+  "id": "it_medium_004",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 004",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "FORZA",
+      "clue": "Il potere esercitato su qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "CHIAVE",
+      "clue": "Strumento metallico usato per aprire una serratura"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "FINESTRA",
+      "clue": "Apertura vetrata che lascia entrare la luce"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "INVERNO",
+      "clue": "Stagione più fredda dell'anno"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ARTE",
+      "clue": "Espressione creativa, come la pittura"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "FORMA",
+      "clue": "Il contorno o l'aspetto di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "VOTO",
+      "clue": "Una scelta formale fatta in un'elezione"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "GALLERIA",
+      "clue": "Un passaggio sotterraneo"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 7,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    }
+  ]
+}

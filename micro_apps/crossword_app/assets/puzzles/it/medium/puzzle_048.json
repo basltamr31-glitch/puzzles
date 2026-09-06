@@ -1,0 +1,66 @@
+{
+  "id": "it_medium_048",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 048",
+  "rows": 9,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "RISCHIO",
+      "clue": "La possibilità che accada qualcosa di brutto"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "MODELLO",
+      "clue": "Una rappresentazione di qualcosa, spesso più piccola"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "RAGNO",
+      "clue": "Creatura a otto zampe che tesse ragnatele"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "CANTANTE",
+      "clue": "Persona che fa musica con la voce"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "DELFINO",
+      "clue": "Intelligente mammifero marino"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "FATTO",
+      "clue": "Qualcosa che si sa essere vero"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_089",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 88,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "EFDCOCODRILOTI",
+    "DVQHRLDMVZTJOI",
+    "JKCILEAUJABEBG",
+    "FRRATONRGIYNZM",
+    "CHBADNBHASHOGN",
+    "HAYNJYEOIARCNJ",
+    "CABVDIJKIRSDJY",
+    "BSXRQZOXOOVDLY",
+    "HQDDAIFBUXJEXG",
+    "NCGEFGVNGKRNUA",
+    "SNHUVNUOURPIJH",
+    "FNZVNFJIDSQEQN",
+    "SMETNAFELEBIBB",
+    "EKSKGDQMYAJFZY"
+  ],
+  "words": [
+    {
+      "word": "ABEJA",
+      "row": 13,
+      "col": 9,
+      "dir": "NE"
+    },
+    {
+      "word": "AGUILA",
+      "row": 8,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CABALLO",
+      "row": 6,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CABRA",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "COCODRILO",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CONEJO",
+      "row": 5,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 12,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "GATO",
+      "row": 3,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "LEON",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LOBO",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "RATON",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ZORRO",
+      "row": 3,
+      "col": 12,
+      "dir": "SW"
+    }
+  ]
+}

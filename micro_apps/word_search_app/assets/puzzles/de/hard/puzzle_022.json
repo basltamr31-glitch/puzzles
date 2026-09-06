@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_022",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 21,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "OUUUPLYAOTXI",
+    "KAXFPUBNZKSV",
+    "ATDRDCWKXECB",
+    "VGUIIUFUKRHV",
+    "GUERTELCXVAE",
+    "OLPANTOFFELN",
+    "KHUHCSDNAHSA",
+    "DHZYJHCLETKO",
+    "VWXFDALHNYEY",
+    "YKYYPLCEUUTW",
+    "WLFZMYEKEHTZ",
+    "ALETNAMNEGER"
+  ],
+  "words": [
+    {
+      "word": "GUERTEL",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HALSKETTE",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "HANDSCHUH",
+      "row": 6,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "JACKE",
+      "row": 7,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "KLEID",
+      "row": 6,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "PANTOFFELN",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "REGENMANTEL",
+      "row": 11,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SCHAL",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "SOCKE",
+      "row": 6,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "TURNSCHUHE",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_027",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 26,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "DXGTTZJSEE",
+    "LTISLAZBVC",
+    "CHIELOSRTN",
+    "RAAIUNEYSJ",
+    "SZSJVLXGQV",
+    "ILRCIELOMZ",
+    "ERMQAYOQXP",
+    "ITPFMDRTFM",
+    "BNIEBLAIFQ",
+    "ODESIERTOL"
+  ],
+  "words": [
+    {
+      "word": "CASCADA",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CIELO",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "DESIERTO",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HIELO",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ISLA",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LLUVIA",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "NIEBLA",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RIO",
+      "row": 7,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

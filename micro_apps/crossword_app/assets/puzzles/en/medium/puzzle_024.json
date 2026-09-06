@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_024",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 024",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "AUTUMN",
+      "clue": "Season between summer and winter"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "CASTLE",
+      "clue": "Large fortified building, home of nobility"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "MUSEUM",
+      "clue": "Building that displays historical or artistic objects"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "VOTE",
+      "clue": "A formal choice made in an election"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "FACTORY",
+      "clue": "Building where goods are manufactured"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "answer": "TERM",
+      "clue": "A fixed period of time, or a specific word"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "ICE",
+      "clue": "Frozen water"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "LOGIC",
+      "clue": "Reasoning conducted according to strict rules"
+    }
+  ]
+}

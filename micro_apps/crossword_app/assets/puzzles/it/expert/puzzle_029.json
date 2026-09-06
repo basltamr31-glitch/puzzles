@@ -1,0 +1,122 @@
+{
+  "id": "it_expert_029",
+  "language": "it",
+  "difficulty": "expert",
+  "title": "Cruciverba 029",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "MATEMATICO",
+      "clue": "Relativo allo studio dei numeri e delle forme"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "RISCHIO",
+      "clue": "La possibilità che accada qualcosa di brutto"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "FILOSOFICO",
+      "clue": "Relativo allo studio delle verità fondamentali"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "VOCABOLARIO",
+      "clue": "L'insieme delle parole usate in una lingua"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "answer": "SQUADRA",
+      "clue": "Un gruppo che lavora insieme verso un obiettivo"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "LOGICA",
+      "clue": "Un ragionamento condotto secondo regole rigide"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "answer": "VOTO",
+      "clue": "Una scelta formale fatta in un'elezione"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "answer": "CIELO",
+      "clue": "Lo spazio sopra la terra"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 9,
+      "answer": "REGOLA",
+      "clue": "Un'istruzione ufficiale su come comportarsi"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 14,
+      "answer": "INGEGNERIA",
+      "clue": "L'applicazione della scienza per costruire cose"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 9,
+      "answer": "ORDINE",
+      "clue": "Una sequenza, o un'istruzione da seguire"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 8,
+      "answer": "UNITA",
+      "clue": "Una singola misura o pezzo standard"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "PRONUNCIA",
+      "clue": "Il modo in cui si dice una parola"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 2,
+      "answer": "OPPORTUNITA",
+      "clue": "Una buona possibilità di progresso"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "TIPO",
+      "clue": "Una categoria o genere di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "answer": "OBIETTIVO",
+      "clue": "Lo scopo verso cui qualcuno lavora"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_091",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 091",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "AUTONOMIE",
+      "clue": "Freiheit von äußerer Kontrolle"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "VORSTELLUNG",
+      "clue": "Eine Darbietung vor einem Publikum"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 4,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "VERANTWORTUNG",
+      "clue": "Eine Pflicht, die jemand erfüllen muss"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "KONSEQUENZ",
+      "clue": "Ein Ergebnis oder eine Folge einer Handlung"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "PHILOSOPHISCH",
+      "clue": "Auf das Studium grundlegender Wahrheiten bezogen"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 7,
+      "answer": "REGEL",
+      "clue": "Eine offizielle Anweisung, wie man sich verhält"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "UMSTAND",
+      "clue": "Eine mit einem Ereignis verbundene Bedingung"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 5,
+      "answer": "GEWINN",
+      "clue": "Eine Zunahme von etwas, wie Vermögen"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 11,
+      "answer": "LICHT",
+      "clue": "Helligkeit, die das Sehen ermöglicht"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 14,
+      "answer": "HIMMEL",
+      "clue": "Der Raum über der Erde"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 10,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 10,
+      "answer": "STAAT",
+      "clue": "Ein Zustand, oder ein politisches Gebiet"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 13,
+      "answer": "ZUGANG",
+      "clue": "Möglichkeit, etwas zu betreten oder zu nutzen"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 9,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    }
+  ]
+}

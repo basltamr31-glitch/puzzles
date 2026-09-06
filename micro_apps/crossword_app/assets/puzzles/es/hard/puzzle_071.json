@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_071",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 071",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "TECNOLOGIA",
+      "clue": "Aplicación de la ciencia con fines prácticos"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "answer": "VOLCAN",
+      "clue": "Una montaña que puede entrar en erupción"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "FOTOGRAFIA",
+      "clue": "El arte de tomar imágenes"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 12,
+      "answer": "EDAD",
+      "clue": "Cuántos años ha vivido alguien"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "PERSONAJE",
+      "clue": "Una persona representada en una historia"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "GALAXIA",
+      "clue": "Un enorme sistema de estrellas"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "VACUNA",
+      "clue": "Una sustancia que protege contra una enfermedad"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "answer": "VALOR",
+      "clue": "Cuánto vale algo"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "CELEBRACION",
+      "clue": "Un evento que marca una ocasión especial"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "LEY",
+      "clue": "Una regla impuesta por un gobierno"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "ARTE",
+      "clue": "Expresión creativa, como la pintura"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_084",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 83,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "YCALCQNLYG",
+    "VOOZHCLLRL",
+    "HUSGEJZYLC",
+    "JSRVMATKAH",
+    "LSFCIRAQMA",
+    "MITXNDBHPI",
+    "SNTSEILMES",
+    "RHZFENETRE",
+    "QVPVCMTYSD",
+    "FCEYNCCSFB"
+  ],
+  "words": [
+    {
+      "word": "CHAISE",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CHEMINEE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FENETRE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "JARDIN",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPE",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "LIT",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "TABLE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

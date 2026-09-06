@@ -1,0 +1,122 @@
+{
+  "id": "it_expert_007",
+  "language": "it",
+  "difficulty": "expert",
+  "title": "Cruciverba 007",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "COSTRUZIONE",
+      "clue": "Il processo di costruire qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "CHIAVE",
+      "clue": "Strumento metallico usato per aprire una serratura"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "TERMINE",
+      "clue": "Un periodo fisso, o una parola specifica"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "TRADIZIONALE",
+      "clue": "Che segue usanze consolidate"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 13,
+      "answer": "INCREDIBILE",
+      "clue": "Troppo straordinario per essere creduto"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 6,
+      "answer": "FILOSOFIA",
+      "clue": "Lo studio delle domande fondamentali sull'esistenza"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "ORGANIZZAZIONE",
+      "clue": "Un gruppo di persone che lavora per un obiettivo"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 11,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "ESAGERAZIONE",
+      "clue": "Un'affermazione che esagera la verità"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 3,
+      "answer": "MAPPA",
+      "clue": "Un disegno che mostra dove si trovano i luoghi"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "CIVILTA",
+      "clue": "Una società complessa e organizzata"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 2,
+      "answer": "SPAZIO",
+      "clue": "Un'area vuota, o l'universo oltre la Terra"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "CONSEGUENZA",
+      "clue": "Un risultato o effetto di un'azione"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 9,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 11,
+      "answer": "LAVORO",
+      "clue": "Un impiego retribuito svolto regolarmente"
+    }
+  ]
+}

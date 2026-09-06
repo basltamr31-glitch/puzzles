@@ -1,0 +1,101 @@
+{
+  "id": "it_hard_007",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 007",
+  "rows": 12,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "FESTIVAL",
+      "clue": "Un giorno o periodo di celebrazione"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "TELESCOPIO",
+      "clue": "Strumento usato per osservare oggetti lontani"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "INDUSTRIA",
+      "clue": "Attività economica legata alla produzione"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "TERREMOTO",
+      "clue": "Uno scuotimento improvviso del terreno"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "DIZIONARIO",
+      "clue": "Un libro che elenca parole e i loro significati"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "answer": "SCALA",
+      "clue": "La dimensione di qualcosa rispetto a un'altra"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 12,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "GUERRA",
+      "clue": "Un conflitto armato tra nazioni"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 6,
+      "answer": "CHIMICO",
+      "clue": "Relativo alle sostanze e alle loro reazioni"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "TIPO",
+      "clue": "Una categoria o genere di qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 9,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 9,
+      "answer": "ARTE",
+      "clue": "Espressione creativa, come la pittura"
+    }
+  ]
+}

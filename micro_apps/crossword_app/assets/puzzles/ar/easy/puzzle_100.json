@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_100",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 100",
+  "rows": 7,
+  "cols": 5,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "نمر",
+      "clue": "قط كبير مخطط",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "خروف",
+      "clue": "حيوان صوفي أليف",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "طفل",
+      "clue": "إنسان صغير السن",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "خبز",
+      "clue": "طعام يُصنع من الدقيق ويُخبز",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "طالب",
+      "clue": "شخص يدرس في مدرسة أو جامعة",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ثلج",
+      "clue": "ماء متجمد أبيض يتساقط في الشتاء",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "سنة",
+      "clue": "مدة اثني عشر شهراً",
+      "category": "time"
+    }
+  ]
+}

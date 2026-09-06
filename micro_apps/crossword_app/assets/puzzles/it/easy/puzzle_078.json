@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_078",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 078",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "GAMBA",
+      "clue": "Arto usato per camminare",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "SALE",
+      "clue": "Condimento bianco che rende saporito il cibo",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "CAPELLI",
+      "clue": "Ciò che cresce sulla testa",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "ACQUA",
+      "clue": "Liquido chiaro essenziale per la vita",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "AMICO",
+      "clue": "Qualcuno che ti piace e in cui hai fiducia",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ANNO",
+      "clue": "Un periodo di dodici mesi",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "ORO",
+      "clue": "Metallo prezioso di colore giallo",
+      "category": "nature"
+    }
+  ]
+}

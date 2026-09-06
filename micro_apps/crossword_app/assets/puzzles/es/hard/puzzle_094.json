@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_094",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 094",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "ESCULTURA",
+      "clue": "Una obra de arte tridimensional"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "answer": "EDAD",
+      "clue": "Cuántos años ha vivido alguien"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "answer": "MODELO",
+      "clue": "Una representación de algo, a menudo más pequeña"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "GRAVEDAD",
+      "clue": "La fuerza que atrae los objetos entre sí"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "FOTOGRAFIA",
+      "clue": "El arte de tomar imágenes"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "GALAXIA",
+      "clue": "Un enorme sistema de estrellas"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 12,
+      "answer": "UNIDAD",
+      "clue": "Una única medida o pieza estándar"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "VACUNA",
+      "clue": "Una sustancia que protege contra una enfermedad"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "META",
+      "clue": "El objetivo hacia el que alguien trabaja"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 10,
+      "answer": "MUSCULO",
+      "clue": "Tejido que produce movimiento en el cuerpo"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 4,
+      "answer": "TERMINO",
+      "clue": "Un período fijo, o una palabra específica"
+    }
+  ]
+}

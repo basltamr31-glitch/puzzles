@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_045",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 44,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "XAZZAOLR",
+    "LEGBJRIA",
+    "HYVSQUPP",
+    "NECKDPKI",
+    "OBQDCEGA",
+    "ARMODPBR",
+    "FOOTGVGH",
+    "JWCIDWHB"
+  ],
+  "words": [
+    {
+      "word": "ARM",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "EYEBROW",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FOOT",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LEG",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LIP",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "NECK",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

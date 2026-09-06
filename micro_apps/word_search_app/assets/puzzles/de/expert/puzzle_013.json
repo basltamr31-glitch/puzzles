@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_013",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 12,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "BYAWSTBLZTBCST",
+    "VKDKATHMFUUGNT",
+    "XYHLGDEPJASSRB",
+    "PGCZBLSFZYYYBX",
+    "EKIJHTAFHCWYTB",
+    "PBCJIAUZWZLLTE",
+    "TKKRESGRMZTSRM",
+    "RFNJSTENEYTWVP",
+    "PNOCSTNAIGVSKJ",
+    "DIEELLBOGENNOH",
+    "HHCUABRHXMBIPU",
+    "WNHIHBASJXVSFT",
+    "WCEMXNUIABXBUG",
+    "SLLSDEETMGEKVL"
+  ],
+  "words": [
+    {
+      "word": "AUGENBRAUE",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BAUCH",
+      "row": 10,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "BEIN",
+      "row": 10,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "ELLBOGEN",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FINGER",
+      "row": 11,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "FUSS",
+      "row": 4,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "HALS",
+      "row": 11,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "HAND",
+      "row": 10,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "KNOECHEL",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "KOPF",
+      "row": 8,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "SCHULTER",
+      "row": 13,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "STIRN",
+      "row": 3,
+      "col": 6,
+      "dir": "SW"
+    }
+  ]
+}

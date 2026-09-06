@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_053",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 053",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "WEATHER",
+      "clue": "The state of the atmosphere, hot, cold, rainy, etc."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "TROUSERS",
+      "clue": "Another word for pants"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "STAGE",
+      "clue": "A raised platform, or a phase of a process"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "RULE",
+      "clue": "An official instruction on how to behave"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "TEAM",
+      "clue": "A group working together toward a goal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "TRUMPET",
+      "clue": "Brass instrument played by buzzing the lips"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "ROLE",
+      "clue": "A part someone plays in a story or job"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "IDEA",
+      "clue": "A thought or plan"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "UNIT",
+      "clue": "A single standard measure or piece"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "LETTER",
+      "clue": "A written message, or a symbol in the alphabet"
+    }
+  ]
+}

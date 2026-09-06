@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_005",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 005",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "OISEAU",
+      "clue": "Animal à plumes qui peut voler",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "SUCRE",
+      "clue": "Substance cristalline sucrée",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "COEUR",
+      "clue": "Organe qui pompe le sang dans le corps",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ROUTE",
+      "clue": "Voie sur laquelle circulent les voitures",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "DESERT",
+      "clue": "Zone sèche et sablonneuse avec peu de pluie",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "FER",
+      "clue": "Métal gris résistant, utilisé dans l'acier",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "LAC",
+      "clue": "Grande étendue d'eau entourée de terre",
+      "category": "place"
+    }
+  ]
+}

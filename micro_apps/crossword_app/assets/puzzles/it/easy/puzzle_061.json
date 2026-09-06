@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_061",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 061",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "CUORE",
+      "clue": "Organo che pompa il sangue nel corpo",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "MADRE",
+      "clue": "Genitore femminile",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "LUPO",
+      "clue": "Animale selvatico imparentato con il cane",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ORSO",
+      "clue": "Grande animale peloso che vive nei boschi",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "DESERTO",
+      "clue": "Zona secca e sabbiosa con poca pioggia",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "FIUME",
+      "clue": "Grande corso d'acqua naturale",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

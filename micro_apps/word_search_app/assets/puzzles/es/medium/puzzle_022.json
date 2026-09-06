@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_022",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 21,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "MYPJFYBQVB",
+    "CHAQUETACX",
+    "CINTURONOE",
+    "CZTTKFAARS",
+    "EBUFANDABK",
+    "ARFCBFPYAP",
+    "CALCETINTP",
+    "LSANDALIAS",
+    "VESTIDOQGN",
+    "NRKGQPVKOV"
+  ],
+  "words": [
+    {
+      "word": "BUFANDA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CALCETIN",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CHAQUETA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CINTURON",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CORBATA",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "PANTUFLAS",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALIAS",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

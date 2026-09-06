@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_017",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 16,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "ARDILLAT",
+    "PANTERAD",
+    "ANCLVYHE",
+    "GRHYFMQL",
+    "LOBOCOIF",
+    "KCABRAEI",
+    "XOVEJAXN",
+    "OTHCNPNU"
+  ],
+  "words": [
+    {
+      "word": "ARDILLA",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CABRA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DELFIN",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LOBO",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "OVEJA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PANTERA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

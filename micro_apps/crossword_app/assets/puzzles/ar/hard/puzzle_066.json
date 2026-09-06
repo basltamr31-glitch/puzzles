@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_066",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 066",
+  "rows": 11,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "مجتمع",
+      "clue": "مجموعة كبيرة من الناس تعيش معاً"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "مؤسسة",
+      "clue": "جهة تعمل بشكل منظم لتحقيق أهداف"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "لافتات",
+      "clue": "جمع لافتة، لوحات تحمل إعلانات"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "اكتشاف",
+      "clue": "العثور على شيء جديد لأول مرة"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 11,
+      "answer": "علاقة",
+      "clue": "رابطة بين شخصين أو أكثر"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "طاقة",
+      "clue": "القدرة على القيام بعمل أو حركة"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 10,
+      "answer": "عقل",
+      "clue": "أداة التفكير في الإنسان"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "صوت",
+      "clue": "ما يُسمع عند الكلام أو الحركة"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "حديقة",
+      "clue": "مكان به أشجار وزهور للنزهة"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "مفتاح",
+      "clue": "أداة معدنية تُستخدم لفتح الأقفال"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 6,
+      "answer": "قوة",
+      "clue": "القدرة على القيام بعمل أو التأثير"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "نظام",
+      "clue": "مجموعة قواعد منظمة"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "مسؤولية",
+      "clue": "واجب يجب على الشخص القيام به"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_084",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 83,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "RNFLAQCX",
+    "DLNQCGOT",
+    "ITAKDOCA",
+    "BAMQNOUZ",
+    "BVCYGCCZ",
+    "QOSSEDIA",
+    "ULETTONZ",
+    "COPERTAR"
+  ],
+  "words": [
+    {
+      "word": "COPERTA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CUCINA",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LETTO",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SEDIA",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TAZZA",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

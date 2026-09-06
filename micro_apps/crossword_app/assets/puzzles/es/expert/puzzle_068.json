@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_068",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 068",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "TRADICIONAL",
+      "clue": "Que sigue costumbres muy establecidas"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "CIRCUNSTANCIA",
+      "clue": "Una condición ligada a un evento"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "EXAGERACION",
+      "clue": "Una declaración que exagera la verdad"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "IMAGINACION",
+      "clue": "La capacidad de formar nuevas ideas"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "SIGNIFICADO",
+      "clue": "La importancia de algo"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 5,
+      "answer": "INGENIERIA",
+      "clue": "La aplicación de la ciencia para construir cosas"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 14,
+      "answer": "FILOSOFIA",
+      "clue": "El estudio de preguntas fundamentales sobre la existencia"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "answer": "NIVEL",
+      "clue": "Un estándar o altura particular"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 6,
+      "answer": "OBJETO",
+      "clue": "Un artículo o cosa única"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 11,
+      "answer": "MODELO",
+      "clue": "Una representación de algo, a menudo más pequeña"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 10,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 5,
+      "answer": "EMPLEO",
+      "clue": "Un trabajo remunerado que se hace regularmente"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "answer": "VALOR",
+      "clue": "Cuánto vale algo"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "HIELO",
+      "clue": "Agua congelada"
+    }
+  ]
+}

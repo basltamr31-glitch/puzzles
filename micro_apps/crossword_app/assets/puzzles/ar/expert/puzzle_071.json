@@ -1,0 +1,122 @@
+{
+  "id": "ar_expert_071",
+  "language": "ar",
+  "difficulty": "expert",
+  "title": "اللغز 071",
+  "rows": 14,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 7,
+      "answer": "حرية",
+      "clue": "القدرة على التصرف دون قيود"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "تاريخية",
+      "clue": "صفة تتعلق بالتاريخ"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "ثقافية",
+      "clue": "صفة تتعلق بالثقافة"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 9,
+      "answer": "واجب",
+      "clue": "ما يجب على الشخص القيام به"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "answer": "فلسفية",
+      "clue": "صفة تتعلق بالفلسفة"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 6,
+      "answer": "سرعة",
+      "clue": "مقدار المسافة المقطوعة في زمن معين"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 2,
+      "answer": "عدالة",
+      "clue": "إعطاء كل ذي حق حقه"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "إمكانيات",
+      "clue": "جمع إمكانية، قدرات متاحة"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "معلمون",
+      "clue": "جمع معلم، رجال يعملون في التدريس"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "حدائق",
+      "clue": "جمع حديقة"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 5,
+      "answer": "عقل",
+      "clue": "أداة التفكير في الإنسان"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "حب",
+      "clue": "شعور عميق بالمودة تجاه شخص أو شيء"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 4,
+      "answer": "فن",
+      "clue": "تعبير إبداعي بالرسم أو الموسيقى أو غيرها"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "قلب",
+      "clue": "العضو الذي يضخ الدم في الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "جسم",
+      "clue": "الكيان المادي للإنسان أو الحيوان"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "حساب",
+      "clue": "عملية رياضية أو مالية"
+    }
+  ]
+}

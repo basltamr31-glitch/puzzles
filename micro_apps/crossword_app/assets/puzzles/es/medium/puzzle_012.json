@@ -1,0 +1,80 @@
+{
+  "id": "es_medium_012",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 012",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "PREGUNTA",
+      "clue": "Una frase formulada para obtener información"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "TECHO",
+      "clue": "Superficie interior en lo alto de una habitación"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "CAPITAN",
+      "clue": "Líder de un barco o equipo"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "PALACIO",
+      "clue": "Gran residencia de un rey o una reina"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "VIOLIN",
+      "clue": "Instrumento de cuerda tocado con un arco"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "TASA",
+      "clue": "Una medida de la rapidez con la que ocurre algo"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "EDAD",
+      "clue": "Cuántos años ha vivido alguien"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ARTE",
+      "clue": "Expresión creativa, como la pintura"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "VENTANA",
+      "clue": "Abertura de vidrio que deja entrar la luz"
+    }
+  ]
+}

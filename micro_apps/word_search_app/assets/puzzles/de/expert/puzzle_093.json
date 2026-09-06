@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_093",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 92,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "CVHYCWEKKASGLO",
+    "AINRMGDFEDELOT",
+    "AUNJBXKXYJJLHT",
+    "TLTGSGPMCTAGTE",
+    "UEVSBPCLEDNMFW",
+    "BYULMBOYAKNIEB",
+    "WFGAYEBLJFNANZ",
+    "KVGHRXEIGGIBHM",
+    "HNEGOBLLEYKETK",
+    "XDXJACNRITSXDF",
+    "NGDUZMRETLUHCS",
+    "EXCOSPLPGNVLOP",
+    "NHKVAOFRLUJCEZ",
+    "OYRAUORBZRAHEM"
+  ],
+  "words": [
+    {
+      "word": "AUGENBRAUE",
+      "row": 13,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "BAUCH",
+      "row": 8,
+      "col": 5,
+      "dir": "SW"
+    },
+    {
+      "word": "BEIN",
+      "row": 5,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "ELLBOGEN",
+      "row": 8,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "FINGER",
+      "row": 4,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "FUSS",
+      "row": 6,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "HALS",
+      "row": 7,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "HAND",
+      "row": 7,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "KINN",
+      "row": 8,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "KNIE",
+      "row": 5,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "SCHULTER",
+      "row": 10,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "STIRN",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    }
+  ]
+}

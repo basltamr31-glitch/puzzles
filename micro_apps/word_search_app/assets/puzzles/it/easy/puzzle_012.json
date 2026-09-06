@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_012",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 11,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "BOTHHYEX",
+    "CUSCINOV",
+    "ACIOYSLT",
+    "MBXPGBEN",
+    "EDDEKATT",
+    "RGHRDGTQ",
+    "AEUTNNOS",
+    "DIVANOYF"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CAMERA",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "COPERTA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DIVANO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LETTO",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

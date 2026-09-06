@@ -1,0 +1,58 @@
+{
+  "id": "es_easy_091",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 091",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SUEÑO",
+      "clue": "Descanso con los ojos cerrados",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "LUNA",
+      "clue": "Satélite natural de la Tierra",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "RANA",
+      "clue": "Anfibio verde que salta y croa",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "ROJO",
+      "clue": "Color de la sangre o un tomate maduro",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "PAJARO",
+      "clue": "Animal con plumas que puede volar",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "OJO",
+      "clue": "Órgano usado para ver",
+      "category": "body"
+    }
+  ]
+}

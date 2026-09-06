@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_043",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 043",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "مجلة",
+      "clue": "مطبوعة دورية تحتوي مقالات"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "مكتبة",
+      "clue": "مكان به مجموعة كبيرة من الكتب"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "زراعة",
+      "clue": "نشاط زرع النباتات والمحاصيل"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "برنامج",
+      "clue": "خطة منظمة لتنفيذ أنشطة معينة"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "فكرة",
+      "clue": "تصور ذهني حول موضوع ما"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "answer": "رسام",
+      "clue": "شخص يبدع في الرسم"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "معلمة",
+      "clue": "امرأة تعمل في التدريس"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "لاعب",
+      "clue": "شخص يمارس رياضة معينة"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "أذن",
+      "clue": "عضو السمع في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "رأس",
+      "clue": "الجزء العلوي من الجسم"
+    }
+  ]
+}

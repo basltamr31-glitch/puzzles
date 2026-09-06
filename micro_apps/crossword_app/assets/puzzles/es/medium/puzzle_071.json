@@ -1,0 +1,80 @@
+{
+  "id": "es_medium_071",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 071",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "GRANJERO",
+      "clue": "Persona que cultiva la tierra"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "PINGUINO",
+      "clue": "Ave que no vuela, vive en climas fríos"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "REGLA",
+      "clue": "Una instrucción oficial sobre cómo comportarse"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "AVION",
+      "clue": "Aeronave de alas fijas"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "PERDIDA",
+      "clue": "El estado de ya no tener algo"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "VELA",
+      "clue": "Una barra de cera con una mecha, quemada por luz"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    }
+  ]
+}

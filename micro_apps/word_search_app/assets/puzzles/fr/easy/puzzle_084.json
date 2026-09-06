@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_084",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 83,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "JGZXOBNO",
+    "ICHAMBRE",
+    "QCUISINE",
+    "ETAGEREP",
+    "PABAFCRO",
+    "XSOTNURR",
+    "ZSSUDLIT",
+    "IEDZBGAE"
+  ],
+  "words": [
+    {
+      "word": "CHAMBRE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CUISINE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LIT",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PORTE",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TASSE",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

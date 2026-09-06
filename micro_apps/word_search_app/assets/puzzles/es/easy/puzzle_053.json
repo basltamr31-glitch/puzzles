@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_053",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 52,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "LVAOLDCE",
+    "JFBJUKUY",
+    "PMRYRPES",
+    "PMANFILJ",
+    "XTZTCELC",
+    "LHOMBROO",
+    "LFUTNNDD",
+    "OQMBMANO"
+  ],
+  "words": [
+    {
+      "word": "BRAZO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CODO",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CUELLO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HOMBRO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MANO",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PIERNA",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_059",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 58,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "PIOGGIAM",
+    "DNPIETRA",
+    "MMLPXCAR",
+    "NSVIYBVE",
+    "FOGLIAMY",
+    "PLUOUAHL",
+    "NEBBIAAN",
+    "XVSSAOAG"
+  ],
+  "words": [
+    {
+      "word": "FOGLIA",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MARE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PIETRA",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOLE",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

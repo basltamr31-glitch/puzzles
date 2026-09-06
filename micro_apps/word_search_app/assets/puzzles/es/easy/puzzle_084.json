@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_084",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 83,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "HAAPRQDZ",
+    "CSILLAUZ",
+    "OYTAZAYN",
+    "MHPMXRSA",
+    "IESPEJOS",
+    "VYAAMMFP",
+    "PUERTAAU",
+    "ALGAPDJC"
+  ],
+  "words": [
+    {
+      "word": "ESPEJO",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PUERTA",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SILLA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TAZA",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

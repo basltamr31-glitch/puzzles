@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_051",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 50,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "DKQVLMHPBNOMZO",
+    "OLFURVVSDLIVIA",
+    "CRAKFCRREVXXSE",
+    "AJDMFLJXNYMAFD",
+    "XKQCIELOTYXRJQ",
+    "LICZHEBUNXEGXY",
+    "JLHYIQRCVIBPXM",
+    "UUOENRDESIERTO",
+    "OVZBJEMLTUABAN",
+    "TSLHOJABNIRVLT",
+    "PPLDASKBCQBGXA",
+    "ONAQGINACLOVGN",
+    "MUDGGTLBOPLAYA",
+    "NHLHZGRTGKAMMB"
+  ],
+  "words": [
+    {
+      "word": "ARBOL",
+      "row": 8,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "CIELO",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "DESIERTO",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIAR",
+      "row": 13,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "HOJA",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ISLA",
+      "row": 6,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "LLUVIA",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "MONTANA",
+      "row": 6,
+      "col": 13,
+      "dir": "S"
+    },
+    {
+      "word": "NIEBLA",
+      "row": 5,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "NUBE",
+      "row": 5,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "PLAYA",
+      "row": 12,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 11,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

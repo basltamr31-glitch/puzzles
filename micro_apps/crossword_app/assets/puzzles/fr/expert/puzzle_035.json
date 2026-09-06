@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_035",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 035",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "ECHELLE",
+      "clue": "La taille de quelque chose par rapport à une autre"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "FORCE",
+      "clue": "La puissance exercée sur quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "REVOLUTIONNAIRE",
+      "clue": "Impliquant un changement radical et profond"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "LOGIQUE",
+      "clue": "Un raisonnement mené selon des règles strictes"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "IMAGINATION",
+      "clue": "La capacité de former de nouvelles idées"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 13,
+      "answer": "PERFORMANCE",
+      "clue": "Un acte de présentation devant un public"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 3,
+      "answer": "OBJET",
+      "clue": "Un article ou une chose unique"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "PERTE",
+      "clue": "L'état de ne plus avoir quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "CIEL",
+      "clue": "L'espace au-dessus de la terre"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "ESPACE",
+      "clue": "Une zone vide, ou l'univers au-delà de la Terre"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 3,
+      "answer": "VOTE",
+      "clue": "Un choix formel fait lors d'une élection"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "PLAN",
+      "clue": "Une proposition détaillée pour faire quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 3,
+      "answer": "ECOSYSTEME",
+      "clue": "Une communauté d'êtres vivants et leur milieu"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 9,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 1,
+      "answer": "GLACE",
+      "clue": "De l'eau gelée, ou un dessert froid"
+    }
+  ]
+}

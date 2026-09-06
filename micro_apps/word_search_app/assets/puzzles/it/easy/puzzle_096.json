@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_096",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 95,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "KSXBLBXX",
+    "PAIFEYQC",
+    "QATENNIS",
+    "HOCKEYYT",
+    "ARBITROA",
+    "CORSARPD",
+    "RSCACCHI",
+    "ZTIHDCCO"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CORSA",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "STADIO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

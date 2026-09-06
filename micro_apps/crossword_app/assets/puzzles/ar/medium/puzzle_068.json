@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_068",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 068",
+  "rows": 10,
+  "cols": 8,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "صوت",
+      "clue": "ما يُسمع عند الكلام أو الحركة"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "اختبار",
+      "clue": "وسيلة لتقييم المعرفة أو المهارة"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "عرض",
+      "clue": "المسافة بين جانبي الشيء"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "سعادة",
+      "clue": "شعور بالفرح والرضا"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "قصيدة",
+      "clue": "نص أدبي موزون وله قافية"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "طبيعة",
+      "clue": "العالم الطبيعي المحيط بنا"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "قلب",
+      "clue": "العضو الذي يضخ الدم في الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "برنامج",
+      "clue": "خطة منظمة لتنفيذ أنشطة معينة"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "answer": "عمل",
+      "clue": "نشاط يقوم به الإنسان لكسب المال"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "answer": "فن",
+      "clue": "تعبير إبداعي بالرسم أو الموسيقى أو غيرها"
+    }
+  ]
+}

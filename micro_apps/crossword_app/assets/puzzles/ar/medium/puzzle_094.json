@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_094",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 094",
+  "rows": 9,
+  "cols": 8,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "رمل",
+      "clue": "حبيبات ناعمة تغطي الصحراء والشواطئ"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "سؤال",
+      "clue": "عبارة تُطرح للحصول على معلومة"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "مصنع",
+      "clue": "مكان تُصنع فيه المنتجات"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "رأس",
+      "clue": "الجزء العلوي من الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "عدد",
+      "clue": "قيمة رياضية تُستخدم للعد"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "فكرة",
+      "clue": "تصور ذهني حول موضوع ما"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "بطولة",
+      "clue": "منافسة كبرى لتحديد الأفضل"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "متحف",
+      "clue": "مكان تُعرض فيه القطع الأثرية والتاريخية"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "موسيقى",
+      "clue": "أصوات منظمة ذات إيقاع ولحن"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "بطء",
+      "clue": "قلة السرعة"
+    }
+  ]
+}

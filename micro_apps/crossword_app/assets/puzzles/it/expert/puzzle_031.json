@@ -1,0 +1,122 @@
+{
+  "id": "it_expert_031",
+  "language": "it",
+  "difficulty": "expert",
+  "title": "Cruciverba 031",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "GENERAZIONE",
+      "clue": "Un gruppo di persone della stessa età"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "CIVILTA",
+      "clue": "Una società complessa e organizzata"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "CIELO",
+      "clue": "Lo spazio sopra la terra"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "APPREZZAMENTO",
+      "clue": "Il riconoscimento del valore di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 11,
+      "answer": "OPPORTUNITA",
+      "clue": "Una buona possibilità di progresso"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "CONSERVAZIONE",
+      "clue": "La protezione della natura e delle risorse"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "PSICOLOGIA",
+      "clue": "Lo studio scientifico della mente e del comportamento"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "LUCE",
+      "clue": "La chiarezza che permette di vedere"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 13,
+      "answer": "SVILUPPO",
+      "clue": "Il processo di crescita o miglioramento"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 7,
+      "answer": "MAPPA",
+      "clue": "Un disegno che mostra dove si trovano i luoghi"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 2,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "REGOLA",
+      "clue": "Un'istruzione ufficiale su come comportarsi"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "PIANO",
+      "clue": "Una proposta dettagliata per fare qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "ORDINE",
+      "clue": "Una sequenza, o un'istruzione da seguire"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 0,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    }
+  ]
+}

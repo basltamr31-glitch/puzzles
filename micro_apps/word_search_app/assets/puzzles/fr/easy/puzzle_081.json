@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_081",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 80,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "NACCTAVG",
+    "ADHZEBRE",
+    "CHEVREYR",
+    "VLVCPIPK",
+    "OLAHCLCL",
+    "HXLLOLJO",
+    "BCHAMEAU",
+    "XYCQHRVP"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CHAMEAU",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CHEVRE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LOUP",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

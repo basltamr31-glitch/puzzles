@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_034",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 33,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "QPZMCYHY",
+    "CAFFEHEU",
+    "LNVRMGPP",
+    "PGQOCEEB",
+    "LUVRHERQ",
+    "TRTORTAG",
+    "LIMONEPR",
+    "LATTEGQL"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CAFFE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LATTE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LIMONE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PERA",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TORTA",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_023",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 22,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "AKUEVFUBZC",
+    "LVRZIBFIAN",
+    "FRIVALIGIA",
+    "BOCGGAULNV",
+    "USTRGSGIOE",
+    "STAZIONEMH",
+    "ITXGOVXTGA",
+    "AOILHITTQU",
+    "RMTLAEPOGM",
+    "QNUODTLITH"
+  ],
+  "words": [
+    {
+      "word": "BIGLIETTO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "NAVE",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "STAZIONE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "VALIGIA",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VIAGGIO",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ZAINO",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

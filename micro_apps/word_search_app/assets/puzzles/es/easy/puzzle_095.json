@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_095",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 94,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "ZJDRTCMO",
+    "UPUERTOB",
+    "ACZNLNCD",
+    "ZVMCOCHE",
+    "GJAITQIP",
+    "NUPERRLE",
+    "NMALETAE",
+    "CKSUNOXN"
+  ],
+  "words": [
+    {
+      "word": "COCHE",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MALETA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MAPA",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PUERTO",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TREN",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

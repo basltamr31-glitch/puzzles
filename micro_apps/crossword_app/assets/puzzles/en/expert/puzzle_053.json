@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_053",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 053",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "ENTERTAINMENT",
+      "clue": "Activities that provide amusement"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "AUTOBIOGRAPHY",
+      "clue": "A person's own written life story"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "ADMINISTRATION",
+      "clue": "The management of an organization"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "VALUE",
+      "clue": "How much something is worth"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 11,
+      "answer": "TEAM",
+      "clue": "A group working together toward a goal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "CELEBRATION",
+      "clue": "A joyful event honoring an occasion"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "TRANSPORTATION",
+      "clue": "The action of moving people or goods"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 11,
+      "answer": "TAX",
+      "clue": "Money owed to the government"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 10,
+      "answer": "POWER",
+      "clue": "The ability to do or control something"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 14,
+      "answer": "TERM",
+      "clue": "A fixed period of time, or a specific word"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 5,
+      "answer": "LOGIC",
+      "clue": "Reasoning conducted according to strict rules"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "WEB",
+      "clue": "A net spun by a spider, or the internet, informally"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 11,
+      "answer": "AIR",
+      "clue": "The gas we breathe"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "WAR",
+      "clue": "Armed conflict between nations"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "answer": "RISK",
+      "clue": "The chance that something bad might happen"
+    }
+  ]
+}

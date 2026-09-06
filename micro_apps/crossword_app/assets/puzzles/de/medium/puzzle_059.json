@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_059",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 059",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "KOMPASS",
+      "clue": "Werkzeug, das die Nordrichtung zeigt"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "KNOPF",
+      "clue": "Ein kleiner Verschluss an Kleidung"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "FAHRRAD",
+      "clue": "Zweirädriges Fahrzeug, mit Pedalen bewegt"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "KLIMA",
+      "clue": "Langfristiges Muster von Wetterbedingungen"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "HASE",
+      "clue": "Langohriges, hüpfendes Tier"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "PLAN",
+      "clue": "Ein detaillierter Vorschlag zur Erledigung von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "KISSEN",
+      "clue": "Weiches Polster zum Ausruhen des Kopfes"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "LOGIK",
+      "clue": "Nach strengen Regeln geführte Argumentation"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "answer": "TIER",
+      "clue": "Jedes Lebewesen, das keine Pflanze ist"
+    }
+  ]
+}

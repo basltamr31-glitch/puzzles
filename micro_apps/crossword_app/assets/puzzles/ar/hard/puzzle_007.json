@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_007",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 007",
+  "rows": 11,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "answer": "مهرجان",
+      "clue": "احتفال كبير يضم فعاليات فنية"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "سلام",
+      "clue": "حالة خلو من الحرب والنزاع"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 10,
+      "answer": "جسم",
+      "clue": "الكيان المادي للإنسان أو الحيوان"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "مسؤولية",
+      "clue": "واجب يجب على الشخص القيام به"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "answer": "طول",
+      "clue": "مقدار امتداد الشيء"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "رائحة",
+      "clue": "ما يُحس به عند الشم"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "مفتاح",
+      "clue": "أداة معدنية تُستخدم لفتح الأقفال"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "تعليم",
+      "clue": "عملية اكتساب المعرفة والمهارات"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "رمل",
+      "clue": "حبيبات ناعمة تغطي الصحراء والشواطئ"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "مواصلات",
+      "clue": "وسائل النقل بين الأماكن"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 6,
+      "answer": "حجر",
+      "clue": "مادة صلبة طبيعية"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "اختراع",
+      "clue": "ابتكار جهاز أو وسيلة جديدة"
+    }
+  ]
+}

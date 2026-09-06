@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_071",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 70,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "NLHPORTO",
+    "KNXGELOZ",
+    "ZEAQADBM",
+    "ZPUMEYVL",
+    "BQTAXITY",
+    "EROPAFVV",
+    "NSGPBUSS",
+    "VACANZAG"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MAPPA",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PORTO",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VACANZA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

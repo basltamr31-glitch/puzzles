@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_076",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 75,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "TZBMPYRCRR",
+    "OCRYBVNAZD",
+    "UPBZYPARWK",
+    "BRMPFVEPIV",
+    "CPKITCHENC",
+    "POBLRUGTDY",
+    "WNCLVRVOOY",
+    "BSRODOORWO",
+    "QZIWFNLRBW",
+    "QBEDROOMML"
+  ],
+  "words": [
+    {
+      "word": "BEDROOM",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CARPET",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "DOOR",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MIRROR",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PILLOW",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "RUG",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "WINDOW",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

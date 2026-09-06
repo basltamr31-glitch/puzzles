@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_095",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 94,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "XBWFSVMCQW",
+    "SUITCASEFJ",
+    "SPGUVCVFJJ",
+    "BACKPACKSO",
+    "BSCEBTUETU",
+    "ASTATIONTR",
+    "APANROABCN",
+    "COXDJNMDPE",
+    "QRIOFDXSNY",
+    "GTLOACSKGF"
+  ],
+  "words": [
+    {
+      "word": "BACKPACK",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CAR",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "STATION",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SUITCASE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "VACATION",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_094",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 93,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "LXEFCXZU",
+    "EZDXODJK",
+    "HDGXLGON",
+    "RVFELALY",
+    "OVEZINPJ",
+    "BASKETSV",
+    "ECHARPED",
+    "VESTETSC"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COLLIER",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ECHARPE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GANT",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ROBE",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VESTE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

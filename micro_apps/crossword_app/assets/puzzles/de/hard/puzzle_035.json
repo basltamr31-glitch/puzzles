@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_035",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 035",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "EXPERIMENT",
+      "clue": "Ein wissenschaftlicher Test zur Entdeckung"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "ASTRONAUT",
+      "clue": "Eine für die Raumfahrt ausgebildete Person"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "KRAFT",
+      "clue": "Stärke oder Energie, die auf etwas wirkt"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "answer": "FALL",
+      "clue": "Ein Beispiel für etwas, oder ein Behälter"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "UNIVERSUM",
+      "clue": "Der gesamte Raum und alles darin"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "answer": "UMWELT",
+      "clue": "Die natürliche Welt um uns herum"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "TEMPERATUR",
+      "clue": "Ein Maß dafür, wie heiß oder kalt etwas ist"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "LICHT",
+      "clue": "Helligkeit, die das Sehen ermöglicht"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 9,
+      "answer": "SATZ",
+      "clue": "Eine Gruppe von Wörtern mit vollständigem Sinn"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 9,
+      "answer": "ZIEL",
+      "clue": "Das Ergebnis, auf das jemand hinarbeitet"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "answer": "DENKMAL",
+      "clue": "Ein Bauwerk zu Ehren einer Person"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "LOGIK",
+      "clue": "Nach strengen Regeln geführte Argumentation"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_035",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 34,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "FUIRHBPRTV",
+    "GIHVLXOBMZ",
+    "NOUKPUQSXP",
+    "VKRMIGNSCI",
+    "KUNDESERTO",
+    "YDLTTEVHDG",
+    "BBKCREEQRG",
+    "QRFAADNFYI",
+    "PDFFRNTTCA",
+    "FALBEROXMY"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BOSCO",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "DESERTO",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FIUME",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PIETRA",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "VENTO",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "VULCANO",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

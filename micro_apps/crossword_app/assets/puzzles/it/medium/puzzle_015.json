@@ -1,0 +1,73 @@
+{
+  "id": "it_medium_015",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 015",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "TEMPORALE",
+      "clue": "Tempesta con tuoni e fulmini"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "MACCHINA",
+      "clue": "Apparecchio usato per scattare fotografie, o un'auto"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "GHIACCIO",
+      "clue": "Acqua congelata"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "MERCATO",
+      "clue": "Luogo dove si comprano e vendono merci"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "RISCHIO",
+      "clue": "La possibilità che accada qualcosa di brutto"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "LUCE",
+      "clue": "La chiarezza che permette di vedere"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "CASTELLO",
+      "clue": "Grande edificio fortificato, dimora della nobiltà"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_092",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 092",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "AEROPUERTO",
+      "clue": "Lugar donde despegan y aterrizan los aviones"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "ESPEJO",
+      "clue": "Superficie de vidrio reflectante"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "CASTILLO",
+      "clue": "Gran edificio fortificado, hogar de la nobleza"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "DELFIN",
+      "clue": "Inteligente mamífero marino"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "EMPLEO",
+      "clue": "Un trabajo remunerado que se hace regularmente"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "MODELO",
+      "clue": "Una representación de algo, a menudo más pequeña"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "TECHO",
+      "clue": "Superficie interior en lo alto de una habitación"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "LEY",
+      "clue": "Una regla impuesta por un gobierno"
+    }
+  ]
+}

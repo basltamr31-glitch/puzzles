@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_094",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 93,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "FNSYQTMTRD",
+    "PRBDGIACCA",
+    "CAPPELLOPU",
+    "PANTALONEN",
+    "CINTURAITI",
+    "NANZOVSQZP",
+    "SAUDZFFHVT",
+    "CALZINONAN",
+    "BISANDALIB",
+    "SCARPETTES"
+  ],
+  "words": [
+    {
+      "word": "CALZINO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CAPPELLO",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CINTURA",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GIACCA",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PANTALONE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PANTOFOLE",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SANDALI",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCARPETTE",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

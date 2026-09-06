@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_098",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 098",
+  "rows": 14,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "COLABORACION",
+      "clue": "El acto de trabajar juntos"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "answer": "LLAVE",
+      "clue": "Herramienta metálica usada para abrir una cerradura"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "answer": "TRADUCCION",
+      "clue": "La conversión de un texto a otro idioma"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "answer": "POBLACION",
+      "clue": "El número de personas que viven en una zona"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "DESARROLLO",
+      "clue": "El proceso de crecer o mejorar"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 2,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "FORMA",
+      "clue": "El contorno o aspecto de algo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "EQUIPO",
+      "clue": "Un grupo que trabaja junto hacia una meta"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "RANGO",
+      "clue": "La extensión entre dos límites"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 11,
+      "answer": "LEY",
+      "clue": "Una regla impuesta por un gobierno"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 9,
+      "answer": "OBJETO",
+      "clue": "Un artículo o cosa única"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "ARTE",
+      "clue": "Expresión creativa, como la pintura"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 14,
+      "answer": "HIELO",
+      "clue": "Agua congelada"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 10,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "NIVEL",
+      "clue": "Un estándar o altura particular"
+    }
+  ]
+}

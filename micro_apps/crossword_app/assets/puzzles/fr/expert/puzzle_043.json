@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_043",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 043",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "NIVEAU",
+      "clue": "Un standard ou une hauteur particulière"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "PHILOSOPHIE",
+      "clue": "L'étude des questions fondamentales de l'existence"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "TRADITIONNEL",
+      "clue": "Suivant des coutumes bien établies"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "ANNIVERSAIRE",
+      "clue": "Le retour annuel d'une date spéciale"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "ORGANISATION",
+      "clue": "Un groupe de personnes travaillant vers un but"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "FABRICATION",
+      "clue": "La production de biens à grande échelle"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "DEVELOPPEMENT",
+      "clue": "Le processus de croissance ou d'amélioration"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "REGLE",
+      "clue": "Une instruction officielle sur la façon de se comporter"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 14,
+      "answer": "INGENIERIE",
+      "clue": "L'application de la science pour construire des choses"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 10,
+      "answer": "TAUX",
+      "clue": "Une mesure de la vitesse à laquelle quelque chose se produit"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "answer": "CLE",
+      "clue": "Outil métallique utilisé pour ouvrir une serrure"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 5,
+      "answer": "UNITE",
+      "clue": "Une seule mesure ou pièce standard"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 11,
+      "answer": "IDEE",
+      "clue": "Une pensée ou un plan"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 10,
+      "answer": "FORME",
+      "clue": "Le contour ou l'aspect de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 10,
+      "answer": "ORDRE",
+      "clue": "Une séquence, ou une instruction à suivre"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SON",
+      "clue": "Quelque chose que l'on entend"
+    }
+  ]
+}

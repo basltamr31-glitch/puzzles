@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_061",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 061",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "PLAYA",
+      "clue": "Zona de arena junto al mar",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "LUNA",
+      "clue": "Satélite natural de la Tierra",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "SOPA",
+      "clue": "Plato líquido caliente, a menudo con verduras",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "BOCA",
+      "clue": "Abertura usada para comer y hablar",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "ARENA",
+      "clue": "Pequeños granos sueltos en las playas",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "RATON",
+      "clue": "Pequeño roedor de cola larga",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "NUBE",
+      "clue": "Masa blanca o gris que flota en el cielo",
+      "category": "nature"
+    }
+  ]
+}

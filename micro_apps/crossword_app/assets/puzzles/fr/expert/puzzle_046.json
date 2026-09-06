@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_046",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 046",
+  "rows": 13,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "VOTE",
+      "clue": "Un choix formel fait lors d'une élection"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "FORCE",
+      "clue": "La puissance exercée sur quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "INGENIERIE",
+      "clue": "L'application de la science pour construire des choses"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "SCENE",
+      "clue": "Une plate-forme surélevée, ou une phase d'un processus"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "INCROYABLE",
+      "clue": "Trop extraordinaire pour être cru"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 11,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "OBJET",
+      "clue": "Un article ou une chose unique"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "METEOROLOGIE",
+      "clue": "L'étude scientifique du temps"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 14,
+      "answer": "GUERRE",
+      "clue": "Un conflit armé entre nations"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "answer": "TERME",
+      "clue": "Une période fixe, ou un mot spécifique"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 14,
+      "answer": "MODELE",
+      "clue": "Une représentation de quelque chose, souvent plus petite"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "answer": "VALEUR",
+      "clue": "Combien vaut quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "DEVELOPPEMENT",
+      "clue": "Le processus de croissance ou d'amélioration"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 1,
+      "answer": "HUILE",
+      "clue": "Liquide glissant utilisé pour cuisiner ou comme carburant"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 9,
+      "answer": "TAUX",
+      "clue": "Une mesure de la vitesse à laquelle quelque chose se produit"
+    }
+  ]
+}

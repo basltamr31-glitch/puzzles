@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_018",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 17,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "DILCAFFE",
+    "PAIMFSRO",
+    "UNMELAAM",
+    "ZLOSDAGG",
+    "PANEXKOB",
+    "QXEDYMLA",
+    "EPATATAI",
+    "UOOEERUI"
+  ],
+  "words": [
+    {
+      "word": "CAFFE",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LIMONE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MELA",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

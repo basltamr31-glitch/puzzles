@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_097",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 097",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "SKY",
+      "clue": "The space above the earth, seen from the ground"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "SPRING",
+      "clue": "Season when flowers bloom"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "LANTERN",
+      "clue": "A portable light in a case"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "ANIMAL",
+      "clue": "Any living creature that isn't a plant"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "RATE",
+      "clue": "A measure of how fast something happens"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "NURSE",
+      "clue": "Medical professional who cares for patients"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "SUMMER",
+      "clue": "Hottest season of the year"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "GOAL",
+      "clue": "The aim someone is working toward"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 7,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    }
+  ]
+}

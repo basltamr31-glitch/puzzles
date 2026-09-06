@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_004",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 3,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "AMUAINVLNNKA",
+    "FPFQJYVSQWYO",
+    "YCEILINGBHSW",
+    "BATHROOMKQOW",
+    "MOORDEBYWNOJ",
+    "REBNQGPHQLTT",
+    "CQZMKHALLWAY",
+    "AWESACRIATSJ",
+    "JXEZTEPRACAF",
+    "FDUDPFGARDEN",
+    "UPWMVQGQYREU",
+    "JEZFOYANTVXG"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BEDROOM",
+      "row": 4,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "CARPET",
+      "row": 8,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CEILING",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DESK",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "FIREPLACE",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "GARDEN",
+      "row": 9,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PILLOW",
+      "row": 8,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "STAIRCASE",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    }
+  ]
+}

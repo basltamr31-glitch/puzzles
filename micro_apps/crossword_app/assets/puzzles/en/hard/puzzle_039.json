@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_039",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 039",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ENVIRONMENT",
+      "clue": "The natural world around us"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "ROLE",
+      "clue": "A part someone plays in a story or job"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "SKELETON",
+      "clue": "The framework of bones in a body"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "FESTIVAL",
+      "clue": "A day or period of celebration"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "GOVERNMENT",
+      "clue": "The group that officially runs a country"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 6,
+      "answer": "SCALE",
+      "clue": "The size of something relative to another"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "VOTE",
+      "clue": "A formal choice made in an election"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 4,
+      "answer": "AREA",
+      "clue": "A particular region or part of something"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "NAVIGATION",
+      "clue": "The process of planning and following a route"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 7,
+      "answer": "GALAXY",
+      "clue": "A huge system of stars held together by gravity"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 12,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "answer": "OIL",
+      "clue": "Slippery liquid used for cooking or fuel"
+    }
+  ]
+}

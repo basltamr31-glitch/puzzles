@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_067",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 66,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "FAMAVOZEEX",
+    "OPLUIEVDGT",
+    "SLRVSDNUQC",
+    "CACAIHRTZT",
+    "AGXRINOLMU",
+    "SEQBUREVPY",
+    "CRORLKIXJT",
+    "ARCENCIELO",
+    "DZPPDDPLYY",
+    "EHRAKLATEB"
+  ],
+  "words": [
+    {
+      "word": "ARBRE",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ARCENCIEL",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CASCADE",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "ILE",
+      "row": 7,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "PLAGE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PLUIE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PRAIRIE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "VENT",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    }
+  ]
+}

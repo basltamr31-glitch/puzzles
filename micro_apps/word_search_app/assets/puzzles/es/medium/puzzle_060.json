@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_060",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 59,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "EABBSMESAY",
+    "USKNEKSCCK",
+    "QBPDKATYYS",
+    "ZAKEALAOAI",
+    "CNTTJFNYDL",
+    "UOYNGOTZML",
+    "LVCHIMENEA",
+    "HGTIYBCQFM",
+    "DZJNNRNFLP",
+    "APCLFAJYIU"
+  ],
+  "words": [
+    {
+      "word": "ALFOMBRA",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BANO",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "COCINA",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MESA",
+      "row": 0,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SILLA",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

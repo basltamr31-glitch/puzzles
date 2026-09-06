@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_059",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 58,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "FTOWTFMONIDTRG",
+    "DVNJSFOKEJRTGU",
+    "LMRRERDUGSEAME",
+    "DJDETPABOSEWLR",
+    "ASBOHECLBVMIBF",
+    "ZSJAHCMANYNOWV",
+    "MXTWUESTEINUOH",
+    "JFAVVMOTGVZBJM",
+    "HGAROUSLEUCEXU",
+    "RXKTYOMXRLESNI",
+    "AUEFDARLIKGREB",
+    "ZWAFVYXDLAWIPS",
+    "TVBOXNFOVNNUZS",
+    "CHPVDDWATCSZNU"
+  ],
+  "words": [
+    {
+      "word": "BAUM",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "BERG",
+      "row": 10,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "BLATT",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GLETSCHER",
+      "row": 10,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "INSEL",
+      "row": 9,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "MEER",
+      "row": 4,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "REGENBOGEN",
+      "row": 9,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "VULKAN",
+      "row": 7,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "WALD",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "WIESE",
+      "row": 5,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "WOLKE",
+      "row": 13,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "WUESTE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

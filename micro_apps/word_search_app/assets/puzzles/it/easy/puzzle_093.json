@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_093",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 92,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "IXSNHGGF",
+    "DUZSVIUB",
+    "KDNPQKMM",
+    "NIGAMBAE",
+    "UTQLGDNN",
+    "DOPLYDOT",
+    "FBRACCIO",
+    "MYAROSOG"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DITO",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GAMBA",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MANO",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MENTO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SPALLA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

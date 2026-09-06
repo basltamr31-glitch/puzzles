@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_074",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 73,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "PNKASVBR",
+    "WMVIJEKI",
+    "WTIFCMPC",
+    "IOCOOKIE",
+    "DMICFOZM",
+    "WAYCFZZN",
+    "VTSQEBAI",
+    "NOBREADF"
+  ],
+  "words": [
+    {
+      "word": "BREAD",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "COFFEE",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "COOKIE",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PIZZA",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "RICE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATO",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

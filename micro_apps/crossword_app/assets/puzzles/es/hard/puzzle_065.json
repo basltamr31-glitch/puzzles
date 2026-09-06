@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_065",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 065",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "TERREMOTO",
+      "clue": "Una sacudida repentina del suelo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "CONTINENTE",
+      "clue": "Una de las grandes masas de tierra"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 8,
+      "answer": "REGLA",
+      "clue": "Una instrucción oficial sobre cómo comportarse"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 7,
+      "answer": "VOLCAN",
+      "clue": "Una montaña que puede entrar en erupción"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "answer": "SATELITE",
+      "clue": "Un objeto que orbita un planeta"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ORACION",
+      "clue": "Un grupo de palabras que expresa un pensamiento completo"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "AUDIENCIA",
+      "clue": "El grupo que ve una actuación"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "INDUSTRIA",
+      "clue": "Actividad económica relacionada con la fabricación"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "UNIDAD",
+      "clue": "Una única medida o pieza estándar"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "HIELO",
+      "clue": "Agua congelada"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    }
+  ]
+}

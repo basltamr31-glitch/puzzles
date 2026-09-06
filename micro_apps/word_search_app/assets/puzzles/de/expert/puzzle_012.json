@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_012",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 11,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "OOFERUMYYOWWYO",
+    "DMNPSETMFTHRHU",
+    "ZZUXCSUCFSNTNC",
+    "EZSBSBATIWEACV",
+    "DHUBENLTEHMLXK",
+    "CIGNAAEJIPWMEA",
+    "RNSTGDGTDSPTFW",
+    "DWDECKEGRACIPA",
+    "IFREMMIZFALHCS",
+    "DARWDXPOIVGRAH",
+    "XMHGWMSVLMSLMH",
+    "ARCZFJYCNIMAKO",
+    "LMODSDZSOWKECS",
+    "EPLBYIVYPVCMRP"
+  ],
+  "words": [
+    {
+      "word": "BADEZIMMER",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "DECKE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GARTEN",
+      "row": 9,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "KAMIN",
+      "row": 11,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "REGAL",
+      "row": 8,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "SCHLAFZIMMER",
+      "row": 8,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "SOFA",
+      "row": 10,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 10,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "TASSE",
+      "row": 4,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 3,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "TISCH",
+      "row": 4,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "TUER",
+      "row": 3,
+      "col": 7,
+      "dir": "NW"
+    }
+  ]
+}

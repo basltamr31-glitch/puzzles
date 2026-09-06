@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_029",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 029",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "FAHRZEUG",
+      "clue": "Jede Maschine zum Transport von Personen"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "STAAT",
+      "clue": "Ein Zustand, oder ein politisches Gebiet"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "AUFGABE",
+      "clue": "Eine Lerneinheit zu einem Thema"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "MUSIK",
+      "clue": "Organisierter Klang mit Melodie und Rhythmus"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "MALER",
+      "clue": "Künstler, der mit Farbe arbeitet"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "DELFIN",
+      "clue": "Intelligentes Meeressäugetier"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "TEAM",
+      "clue": "Eine Gruppe, die gemeinsam auf ein Ziel hinarbeitet"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "RAUM",
+      "clue": "Ein leerer Bereich, oder das Universum"
+    }
+  ]
+}

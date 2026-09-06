@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_057",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 56,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "DRZGYRPDFCAO",
+    "EPINGUINOKQT",
+    "LOYMSEBBAJXV",
+    "EJOQZCONEJOP",
+    "FIQQNLQEHPXC",
+    "ARDILLARBECY",
+    "NABEMLGRLRHU",
+    "TFMSSBUDSRGE",
+    "EANNPKIOHODV",
+    "CCCMKRLJZECU",
+    "IXLFGUAFUEDH",
+    "GOGNKQABIFCN"
+  ],
+  "words": [
+    {
+      "word": "AGUILA",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ARDILLA",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CAMELLO",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CEBRA",
+      "row": 5,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CONEJO",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "LOBO",
+      "row": 4,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "PERRO",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

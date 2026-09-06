@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_039",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 039",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "VIENTO",
+      "clue": "Aire en movimiento",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "PIEL",
+      "clue": "Cubierta exterior del cuerpo",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "ORO",
+      "clue": "Metal precioso de color amarillo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "RIO",
+      "clue": "Gran corriente natural de agua",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "ISLA",
+      "clue": "Tierra completamente rodeada de agua",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "RELOJ",
+      "clue": "Aparato que indica la hora",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "OJO",
+      "clue": "Órgano usado para ver",
+      "category": "body"
+    }
+  ]
+}

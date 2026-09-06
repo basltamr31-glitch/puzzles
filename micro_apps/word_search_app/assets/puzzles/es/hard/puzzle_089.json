@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_089",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 88,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "XQORNPLPYIMD",
+    "KZUAODIEJMYK",
+    "KBCTMMNRAEOK",
+    "IQCOCODRILON",
+    "YBYNEXBOLERQ",
+    "PSOLLEMACFKP",
+    "HPRUCNBMKANJ",
+    "GSVAFARIJNVT",
+    "YDHDCXTEVTJE",
+    "HBOYDPBPHEMZ",
+    "ETHBJAXQHLSX",
+    "DVJSNKLQQFOE"
+  ],
+  "words": [
+    {
+      "word": "ABEJA",
+      "row": 10,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "CABALLO",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "CAMELLO",
+      "row": 5,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "CEBRA",
+      "row": 6,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "COCODRILO",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 7,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "LEON",
+      "row": 5,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "PERRO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "RATON",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_025",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 24,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "LCCNKHSBAKBSQE",
+    "UFZOVUOKPKIGVR",
+    "KZDYCBTQLSNFZL",
+    "LSYPCCREKBUFDP",
+    "HTVXIOOANSBYZH",
+    "PHDGBNYDESXQXM",
+    "HPTUEIGIRQCOSB",
+    "IXUSOGIUGIPTPM",
+    "XKOPULARIXLAEA",
+    "CHRCTILTTNNLCK",
+    "NUQSCOIATTOLOA",
+    "HKKVQOUIEOVIRG",
+    "IHKOHUQRAZPLAL",
+    "ZEFDQNAHSPSOTX"
+  ],
+  "words": [
+    {
+      "word": "AQUILA",
+      "row": 13,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "COCCODRILLO",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CONIGLIO",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GATTO",
+      "row": 7,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "LEONE",
+      "row": 2,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "LUPO",
+      "row": 8,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "PANTERA",
+      "row": 7,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "PECORA",
+      "row": 7,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SCOIATTOLO",
+      "row": 10,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TIGRE",
+      "row": 9,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "TOPO",
+      "row": 10,
+      "col": 8,
+      "dir": "SE"
+    }
+  ]
+}

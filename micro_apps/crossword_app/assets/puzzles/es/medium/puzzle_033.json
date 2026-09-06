@@ -1,0 +1,80 @@
+{
+  "id": "es_medium_033",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 033",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "EDAD",
+      "clue": "Cuántos años ha vivido alguien"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "IMAGEN",
+      "clue": "Una foto o un dibujo"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "VIOLIN",
+      "clue": "Instrumento de cuerda tocado con un arco"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "GRANJERO",
+      "clue": "Persona que cultiva la tierra"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "CIELO",
+      "clue": "El espacio sobre la tierra"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "INSECTO",
+      "clue": "Pequeña criatura de seis patas como una hormiga"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "MERCADO",
+      "clue": "Lugar donde se compran y venden bienes"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "RANGO",
+      "clue": "La extensión entre dos límites"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    }
+  ]
+}

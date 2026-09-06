@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_059",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 58,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "KGNRDAMYYX",
+    "CHEVDVDVYQ",
+    "AIBFIUMECS",
+    "XABPALBERO",
+    "UCIYRCTGQL",
+    "MCASCATAME",
+    "TITFKNTHZL",
+    "POOASOGOAA",
+    "FBVKVGEXAQ",
+    "COGBKHTQDI"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CASCATA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FIUME",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GHIACCIO",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PRATO",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SOLE",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "VULCANO",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

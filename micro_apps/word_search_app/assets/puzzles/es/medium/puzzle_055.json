@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_055",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 54,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "JRPUERTOAO",
+    "TEBXSJRTQD",
+    "ASJAUCEAUM",
+    "QCKDRCNXQS",
+    "EVBMOCHILA",
+    "TPASAPORTE",
+    "BEKQFGXCZN",
+    "IRKPYEJJHZ",
+    "BICICLETAE",
+    "UIBRYJTLMN"
+  ],
+  "words": [
+    {
+      "word": "BARCO",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "BICICLETA",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COCHE",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PASAPORTE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PUERTO",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TREN",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

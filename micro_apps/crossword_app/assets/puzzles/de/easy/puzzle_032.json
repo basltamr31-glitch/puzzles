@@ -1,0 +1,50 @@
+{
+  "id": "de_easy_032",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 032",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "FUSS",
+      "clue": "Körperteil am Ende des Beins",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "MUTTER",
+      "clue": "Weiblicher Elternteil",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "WORT",
+      "clue": "Eine sprachliche Einheit mit Bedeutung",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "STERN",
+      "clue": "Leuchtender Punkt am Nachthimmel",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "ENTE",
+      "clue": "Wasservogel, der schnattert",
+      "category": "animal"
+    }
+  ]
+}

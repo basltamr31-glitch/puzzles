@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_013",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 013",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "SOLDADO",
+      "clue": "Miembro de un ejército"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "GUITARRA",
+      "clue": "Instrumento de cuerda que se rasguea"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "INSECTO",
+      "clue": "Pequeña criatura de seis patas como una hormiga"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "AVION",
+      "clue": "Aeronave de alas fijas"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CASTILLO",
+      "clue": "Gran edificio fortificado, hogar de la nobleza"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "CAMARA",
+      "clue": "Aparato usado para tomar fotografías"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "PREGUNTA",
+      "clue": "Una frase formulada para obtener información"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_028",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 028",
+  "rows": 10,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "نظارات",
+      "clue": "جمع نظارة"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "فن",
+      "clue": "تعبير إبداعي بالرسم أو الموسيقى أو غيرها"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "عرض",
+      "clue": "المسافة بين جانبي الشيء"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "احتفال",
+      "clue": "مناسبة يجتمع فيها الناس للفرح"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "ظل",
+      "clue": "منطقة مظلمة يحجب فيها الضوء"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "قلب",
+      "clue": "العضو الذي يضخ الدم في الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "حضارة",
+      "clue": "مرحلة متقدمة من تطور مجتمع"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "رقم",
+      "clue": "رمز يدل على عدد"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "answer": "مؤسسة",
+      "clue": "جهة تعمل بشكل منظم لتحقيق أهداف"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 10,
+      "answer": "مسافة",
+      "clue": "المقدار الفاصل بين مكانين"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 12,
+      "answer": "بيئة",
+      "clue": "المحيط الطبيعي الذي نعيش فيه"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "مساحة",
+      "clue": "مقدار السطح الذي يشغله شيء ما"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "answer": "نظام",
+      "clue": "مجموعة قواعد منظمة"
+    }
+  ]
+}

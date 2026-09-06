@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_056",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 55,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "UEJGKUHJUSPLHR",
+    "GPDMTIVXYTXFLX",
+    "YRGNFYMJWFUALE",
+    "TYJYHDMXCSMAAP",
+    "WDJBIZKASWVYBJ",
+    "MOWWMVMBREXZYT",
+    "WUCTMRADFAHREN",
+    "NGKMRLEKDOTNLN",
+    "PFGGLKTLCFNHLE",
+    "AMWEJXRKTIEYON",
+    "XXHUYDETSRXEVN",
+    "HTGWRYEYLKONPE",
+    "YWAWIJXCFPBPDR",
+    "KCHZKYIHCAHCSR"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 12,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "FUSSBALL",
+      "row": 1,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 6,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "LAUF",
+      "row": 2,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "MARATHON",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "RADFAHREN",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "RENNEN",
+      "row": 12,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "SCHACH",
+      "row": 13,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "SPORTLER",
+      "row": 13,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "TEAM",
+      "row": 8,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "TENNIS",
+      "row": 5,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "VOLLEYBALL",
+      "row": 10,
+      "col": 12,
+      "dir": "N"
+    }
+  ]
+}

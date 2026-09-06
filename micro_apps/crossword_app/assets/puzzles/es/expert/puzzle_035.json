@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_035",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 035",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "CONTEMPORANEO",
+      "clue": "Perteneciente a la época actual"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ENTRETENIMIENTO",
+      "clue": "Actividades que proporcionan diversión"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 13,
+      "answer": "REGLA",
+      "clue": "Una instrucción oficial sobre cómo comportarse"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "EDAD",
+      "clue": "Cuántos años ha vivido alguien"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "VALOR",
+      "clue": "Cuánto vale algo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "LOGICA",
+      "clue": "Un razonamiento llevado según reglas estrictas"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 5,
+      "answer": "INGENIERIA",
+      "clue": "La aplicación de la ciencia para construir cosas"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "ECOSISTEMA",
+      "clue": "Una comunidad de seres vivos y su entorno"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 4,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "FILOSOFIA",
+      "clue": "El estudio de preguntas fundamentales sobre la existencia"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 14,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 4,
+      "answer": "INCREIBLE",
+      "clue": "Demasiado extraordinario para ser creído"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "TASA",
+      "clue": "Una medida de la rapidez con la que ocurre algo"
+    }
+  ]
+}

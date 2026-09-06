@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_074",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 73,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "FFRAISEG",
+    "OSBFAUVA",
+    "IRRDIPVT",
+    "GUASOUPE",
+    "NQCAOPPA",
+    "MZAGAJEU",
+    "DMFDRKXH",
+    "MIELAITT"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "FRAISE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GATEAU",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LAIT",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MIEL",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOUPE",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

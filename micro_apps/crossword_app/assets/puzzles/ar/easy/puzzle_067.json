@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_067",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 067",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "شمال",
+      "clue": "الجهة المقابلة للجنوب",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "نجم",
+      "clue": "جرم سماوي مضيء يُرى ليلاً",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "قلم",
+      "clue": "أداة تُستخدم للكتابة",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "لون",
+      "clue": "صفة بصرية مثل الأحمر أو الأزرق",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "قطة",
+      "clue": "حيوان أليف يموء",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "طاولة",
+      "clue": "أثاث ذو سطح مستوٍ للأكل أو العمل",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "غرفة",
+      "clue": "مساحة مغلقة داخل منزل",
+      "category": "home"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_095",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 095",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "PEINTRE",
+      "clue": "Artiste qui travaille avec la peinture"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "MUSIQUE",
+      "clue": "Son organisé, souvent avec mélodie et rythme"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "PLAFOND",
+      "clue": "Surface intérieure en haut d'une pièce"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "CAMERA",
+      "clue": "Appareil utilisé pour prendre des photos"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "CIEL",
+      "clue": "L'espace au-dessus de la terre"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "UNITE",
+      "clue": "Une seule mesure ou pièce standard"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "HOPITAL",
+      "clue": "Lieu où l'on soigne les malades"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "TERME",
+      "clue": "Une période fixe, ou un mot spécifique"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "ETE",
+      "clue": "Saison la plus chaude de l'année"
+    }
+  ]
+}

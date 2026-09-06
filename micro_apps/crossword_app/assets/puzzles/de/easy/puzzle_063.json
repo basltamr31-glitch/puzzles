@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_063",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 063",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "HAUS",
+      "clue": "Gebäude, in dem man wohnt",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "VATER",
+      "clue": "Männlicher Elternteil",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "WASSER",
+      "clue": "Klare Flüssigkeit, lebensnotwendig",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "WIND",
+      "clue": "Bewegte Luft",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "FEUER",
+      "clue": "Heiße, leuchtende Flammen",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ENTE",
+      "clue": "Wasservogel, der schnattert",
+      "category": "animal"
+    }
+  ]
+}

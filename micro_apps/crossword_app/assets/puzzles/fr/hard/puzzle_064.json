@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_064",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 064",
+  "rows": 12,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "DESTINATION",
+      "clue": "L'endroit vers lequel on voyage"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "DECOUVERTE",
+      "clue": "L'action de trouver quelque chose de nouveau"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "CIEL",
+      "clue": "L'espace au-dessus de la terre"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "PENINSULE",
+      "clue": "Une terre presque entourée d'eau"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "LANGUE",
+      "clue": "Un système de mots utilisé pour communiquer"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "UNITE",
+      "clue": "Une seule mesure ou pièce standard"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "TYPE",
+      "clue": "Une catégorie ou sorte de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 10,
+      "answer": "ESPACE",
+      "clue": "Une zone vide, ou l'univers au-delà de la Terre"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "answer": "VOLCAN",
+      "clue": "Une montagne qui peut entrer en éruption"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 5,
+      "answer": "MONTAGNE",
+      "clue": "Un relief naturel très élevé"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 12,
+      "answer": "SCULPTURE",
+      "clue": "Une œuvre d'art en trois dimensions"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    }
+  ]
+}

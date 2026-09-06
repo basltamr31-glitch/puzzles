@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_029",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 029",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "SCALE",
+      "clue": "The size of something relative to another"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "SIZE",
+      "clue": "How big or small something is"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "TRANSPORTATION",
+      "clue": "The action of moving people or goods"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "answer": "STAGE",
+      "clue": "A raised platform, or a phase of a process"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "TRANSLATION",
+      "clue": "Converting text from one language to another"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "SIGNIFICANCE",
+      "clue": "The importance of something"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 10,
+      "answer": "ASTRONOMY",
+      "clue": "The scientific study of stars and planets"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "ORGANIZATION",
+      "clue": "A group of people working toward a goal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "LOSS",
+      "clue": "The state of no longer having something"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 9,
+      "answer": "VALUE",
+      "clue": "How much something is worth"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 13,
+      "answer": "INHERITANCE",
+      "clue": "Assets passed down after someone's death"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 5,
+      "answer": "SOUND",
+      "clue": "Something you hear"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 10,
+      "answer": "MODEL",
+      "clue": "A representation of something, often smaller"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 5,
+      "answer": "UNIT",
+      "clue": "A single standard measure or piece"
+    }
+  ]
+}

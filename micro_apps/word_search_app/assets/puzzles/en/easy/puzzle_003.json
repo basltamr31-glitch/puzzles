@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_003",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 2,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "MJVPQUWC",
+    "CLOUDFJP",
+    "BILMJMEE",
+    "ITCENBFB",
+    "SRAINBOW",
+    "YENPSUGI",
+    "ZEOCYUCN",
+    "SXAQKQBD"
+  ],
+  "words": [
+    {
+      "word": "CLOUD",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FOG",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "RAINBOW",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TREE",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "WIND",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_011",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 011",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "IDEA",
+      "clue": "A thought or plan"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "SUBJECT",
+      "clue": "A topic studied in school"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "PILOT",
+      "clue": "Person who flies an aircraft"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "SPACE",
+      "clue": "An empty area, or the universe beyond Earth"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "RATE",
+      "clue": "A measure of how fast something happens"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "TROUSERS",
+      "clue": "Another word for pants"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "HISTORY",
+      "clue": "The study of past events"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "AREA",
+      "clue": "A particular region or part of something"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "AIR",
+      "clue": "The gas we breathe"
+    }
+  ]
+}

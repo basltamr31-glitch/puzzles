@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_003",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 2,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "DPRAINBOWL",
+    "DNTQBCCTAS",
+    "LEAFORESTM",
+    "WEVLOXNKEG",
+    "DPNLQRAYRN",
+    "HCFGJRAQFN",
+    "NIYXBKXZAX",
+    "LBPRXSOYLE",
+    "ODISMKUELC",
+    "MOUNTAINFR"
+  ],
+  "words": [
+    {
+      "word": "FOREST",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ICE",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "LEAF",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RAINBOW",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SKY",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SUN",
+      "row": 7,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "WATERFALL",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

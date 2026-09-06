@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_010",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 010",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "VOLCAN",
+      "clue": "Une montagne qui peut entrer en éruption"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 3,
+      "answer": "FORME",
+      "clue": "Le contour ou l'aspect de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "ECHELLE",
+      "clue": "La taille de quelque chose par rapport à une autre"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 9,
+      "answer": "PHRASE",
+      "clue": "Un groupe de mots exprimant une pensée complète"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 7,
+      "answer": "EMPLOI",
+      "clue": "Un travail rémunéré effectué régulièrement"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "MUSCLE",
+      "clue": "Un tissu qui produit le mouvement dans le corps"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 9,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "AGRICULTURE",
+      "clue": "La pratique de la culture de la terre"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "EQUATEUR",
+      "clue": "La ligne imaginaire autour du milieu de la Terre"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "TREMBLEMENT",
+      "clue": "Une secousse soudaine du sol"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "answer": "GLACE",
+      "clue": "De l'eau gelée, ou un dessert froid"
+    }
+  ]
+}

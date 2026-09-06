@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_018",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 17,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "VGQUESOP",
+    "ARPBZOLA",
+    "SDLRCPVT",
+    "XMANZANA",
+    "NITLQHHT",
+    "OFADPERA",
+    "DUNKTLJR",
+    "JGOXVXTP"
+  ],
+  "words": [
+    {
+      "word": "MANZANA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PLATANO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "QUESO",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOPA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

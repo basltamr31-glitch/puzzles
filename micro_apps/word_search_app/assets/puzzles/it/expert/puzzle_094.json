@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_094",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 93,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "YSVESTITOROXGQ",
+    "CISCARPETTERDB",
+    "NGHUQYZGTVIYPR",
+    "NZTTHVTOEOSFVM",
+    "YEXCAPPELLOHRL",
+    "RVMVEPANALLOCK",
+    "LEGUANTOIPKPIT",
+    "GZRCEEOICQTBNT",
+    "GTHMDNLLCLQLTM",
+    "ALDCIAZGAQLSUS",
+    "XTHZDGKARTHMRD",
+    "ADLNVVCMBQNVAA",
+    "EAALTGEPBKQAIB",
+    "CSEQRVKXIAYRPH"
+  ],
+  "words": [
+    {
+      "word": "BRACCIALETTO",
+      "row": 11,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "CALZINO",
+      "row": 13,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CAPPELLO",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CAPPOTTO",
+      "row": 7,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "CINTURA",
+      "row": 5,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "COLLANA",
+      "row": 5,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "GUANTO",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MAGLIONE",
+      "row": 11,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "PANTALONE",
+      "row": 13,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "SANDALI",
+      "row": 13,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "SCARPETTE",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VESTITO",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

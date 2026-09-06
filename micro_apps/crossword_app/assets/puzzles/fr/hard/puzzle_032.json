@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_032",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 032",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "THEATRE",
+      "clue": "Un bâtiment où l'on joue des pièces"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "PERTE",
+      "clue": "L'état de ne plus avoir quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "ECONOMIE",
+      "clue": "Le système de production et d'échange"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "ATMOSPHERE",
+      "clue": "La couche de gaz entourant une planète"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 9,
+      "answer": "TERME",
+      "clue": "Une période fixe, ou un mot spécifique"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 7,
+      "answer": "MUSCLE",
+      "clue": "Un tissu qui produit le mouvement dans le corps"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "SQUELETTE",
+      "clue": "La charpente osseuse d'un corps"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 9,
+      "answer": "TAXE",
+      "clue": "Argent dû au gouvernement"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 12,
+      "answer": "PEINTURE",
+      "clue": "Une image réalisée avec de la peinture"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 5,
+      "answer": "IDEE",
+      "clue": "Une pensée ou un plan"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "HUILE",
+      "clue": "Liquide glissant utilisé pour cuisiner ou comme carburant"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "RISQUE",
+      "clue": "La chance que quelque chose de mauvais se produise"
+    }
+  ]
+}

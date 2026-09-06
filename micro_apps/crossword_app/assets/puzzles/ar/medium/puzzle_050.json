@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_050",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 050",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "answer": "متحف",
+      "clue": "مكان تُعرض فيه القطع الأثرية والتاريخية"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "حل",
+      "clue": "إجابة أو طريقة لمعالجة مشكلة"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "مجلة",
+      "clue": "مطبوعة دورية تحتوي مقالات"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "سيارة",
+      "clue": "مركبة ذات أربع عجلات"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "مهندس",
+      "clue": "شخص متخصص في التصميم والبناء"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "جائزة",
+      "clue": "مكافأة تُمنح للفائز"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "مكتبة",
+      "clue": "مكان به مجموعة كبيرة من الكتب"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "رقم",
+      "clue": "رمز يدل على عدد"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "عدد",
+      "clue": "قيمة رياضية تُستخدم للعد"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "answer": "فكرة",
+      "clue": "تصور ذهني حول موضوع ما"
+    }
+  ]
+}

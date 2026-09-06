@@ -1,0 +1,80 @@
+{
+  "id": "it_medium_059",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 059",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "ARTE",
+      "clue": "Espressione creativa, come la pittura"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "CIELO",
+      "clue": "Lo spazio sopra la terra"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "CAPITANO",
+      "clue": "Capo di una nave o di una squadra"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "SCOIATTOLO",
+      "clue": "Piccolo animale dalla coda folta che raccoglie noci"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "BICICLETTA",
+      "clue": "Veicolo a due ruote mosso a pedali"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "LEGGE",
+      "clue": "Una regola imposta da un governo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "FORZA",
+      "clue": "Il potere esercitato su qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "GIARDINO",
+      "clue": "Terreno per coltivare fiori o verdure"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    }
+  ]
+}

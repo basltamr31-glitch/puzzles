@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_079",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 78,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "ZZUGWDUY",
+    "ENJEXVSR",
+    "OUHVRYCV",
+    "PLAUTOHT",
+    "OCFTAXIK",
+    "ATEZJNFJ",
+    "ZTNYZWFK",
+    "KURLAUBT"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HAFEN",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "URLAUB",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ZUG",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

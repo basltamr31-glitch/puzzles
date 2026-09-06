@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_041",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 041",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "VOTE",
+      "clue": "A formal choice made in an election"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SUNSET",
+      "clue": "When the sun goes down in the evening"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "TROUSERS",
+      "clue": "Another word for pants"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "STAGE",
+      "clue": "A raised platform, or a phase of a process"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "INSECT",
+      "clue": "Small six-legged creature like an ant or bee"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "COMPASS",
+      "clue": "Tool that shows which direction is north"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "EAGLE",
+      "clue": "Large bird of prey with sharp eyesight"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "LEVEL",
+      "clue": "A particular standard or height"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "PILOT",
+      "clue": "Person who flies an aircraft"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    }
+  ]
+}

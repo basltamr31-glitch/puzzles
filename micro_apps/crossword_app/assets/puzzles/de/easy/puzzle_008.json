@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_008",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 008",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "KUCHEN",
+      "clue": "Süßes gebackenes Dessert, oft zum Geburtstag",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "ENTE",
+      "clue": "Wasservogel, der schnattert",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "FLUSS",
+      "clue": "Großer natürlicher Wasserlauf",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "STEIN",
+      "clue": "Ein hartes Stück Fels",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "SAND",
+      "clue": "Winzige lose Körner an Stränden",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "FREUND",
+      "clue": "Jemand, den man mag und dem man vertraut",
+      "category": "people"
+    }
+  ]
+}

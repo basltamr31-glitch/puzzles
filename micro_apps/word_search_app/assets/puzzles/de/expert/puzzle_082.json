@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_082",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 81,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "LXIWJITEKARVMG",
+    "MJJGGYITNEHCUK",
+    "HCLIMFPAURKEYF",
+    "VBENOLEMRESSAW",
+    "DHFOIAJOUESUEE",
+    "TXFHVPHTABAPCX",
+    "JHOMUKMKODNPEN",
+    "PITSCBXISRLEKE",
+    "XERLUKCRLEBTPF",
+    "FEAOMTJYFYYZRV",
+    "TBKHIAEPSJLPKR",
+    "OSLDZTAFGXEGZW",
+    "CFBGNJBZOFAZLD",
+    "KXCZOIYXSXJWSG"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 11,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "BROT",
+      "row": 8,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 8,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "HONIG",
+      "row": 5,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "KAESE",
+      "row": 6,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 10,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "KEKSE",
+      "row": 0,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 1,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "MILCH",
+      "row": 2,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "SUPPE",
+      "row": 3,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 5,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "WASSERMELONE",
+      "row": 3,
+      "col": 13,
+      "dir": "W"
+    }
+  ]
+}

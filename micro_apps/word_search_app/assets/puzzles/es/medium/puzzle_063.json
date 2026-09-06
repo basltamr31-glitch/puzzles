@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_063",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 62,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "EVXYUQNXRB",
+    "FERBKMAJCI",
+    "YDTOLOAXAC",
+    "NOVAPCAPBI",
+    "VVSZXHQIAC",
+    "ESTACIONVL",
+    "CJBZXLKSIE",
+    "ASTEBARCOT",
+    "ZTBZATRENA",
+    "AGEFJKFQJS"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "BARCO",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BICICLETA",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "ESTACION",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MAPA",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TREN",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

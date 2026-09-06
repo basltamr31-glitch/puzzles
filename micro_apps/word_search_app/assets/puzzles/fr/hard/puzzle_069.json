@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_069",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 68,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "JMKEEAMEZJOA",
+    "FJUONEGCQHZZ",
+    "DDRJYPIYTQGF",
+    "UIATYAFITJKK",
+    "VLICRUOSMXVT",
+    "NAHHOLRJOYFK",
+    "YRTECEEZTRNR",
+    "CNLVDFIAVEZI",
+    "EPNIERLLYMAE",
+    "NDMLSOLDJTSC",
+    "AXCLVNERTNEV",
+    "JZMENTONIAMP"
+  ],
+  "words": [
+    {
+      "word": "CHEVILLE",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "EPAULE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FRONT",
+      "row": 7,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GENOU",
+      "row": 1,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "MAIN",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "MENTON",
+      "row": 11,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "OEIL",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "OREILLE",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SOURCIL",
+      "row": 4,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "VENTRE",
+      "row": 10,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

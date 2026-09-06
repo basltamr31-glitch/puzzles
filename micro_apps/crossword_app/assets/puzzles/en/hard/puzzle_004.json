@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_004",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 004",
+  "rows": 12,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "GOAL",
+      "clue": "The aim someone is working toward"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "LEVEL",
+      "clue": "A particular standard or height"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ORCHESTRA",
+      "clue": "A large group of musicians playing together"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "ASTEROID",
+      "clue": "A small rocky object orbiting the sun"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "PARLIAMENT",
+      "clue": "A country's legislative body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "PRESIDENT",
+      "clue": "The elected head of a republic"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "OIL",
+      "clue": "Slippery liquid used for cooking or fuel"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 6,
+      "answer": "GAIN",
+      "clue": "An increase in something, like wealth"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "UNIT",
+      "clue": "A single standard measure or piece"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "MOUNTAIN",
+      "clue": "A very tall natural landform"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 7,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "AGE",
+      "clue": "How many years someone has lived"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 9,
+      "answer": "TEAM",
+      "clue": "A group working together toward a goal"
+    }
+  ]
+}

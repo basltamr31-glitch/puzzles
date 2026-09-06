@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_060",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 060",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "LITTERATURE",
+      "clue": "Des œuvres écrites appréciées pour leur art"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "FORCE",
+      "clue": "La puissance exercée sur quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "MEDECINE",
+      "clue": "La science du traitement des maladies"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "RISQUE",
+      "clue": "La chance que quelque chose de mauvais se produise"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 10,
+      "answer": "SON",
+      "clue": "Quelque chose que l'on entend"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "NAVIGATION",
+      "clue": "Le processus de planification d'un itinéraire"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "VOLCAN",
+      "clue": "Une montagne qui peut entrer en éruption"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 7,
+      "answer": "VACCIN",
+      "clue": "Une substance qui protège contre une maladie"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "OBJET",
+      "clue": "Un article ou une chose unique"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "LUMIERE",
+      "clue": "La clarté qui permet de voir"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "answer": "EQUIPE",
+      "clue": "Un groupe travaillant ensemble vers un but"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "answer": "CIEL",
+      "clue": "L'espace au-dessus de la terre"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    }
+  ]
+}

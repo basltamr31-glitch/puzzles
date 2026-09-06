@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_012",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 012",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "ASTEROID",
+      "clue": "A small rocky object orbiting the sun"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "COMPUTER",
+      "clue": "Electronic device that processes data"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "SYMPHONY",
+      "clue": "A long musical composition for orchestra"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "CHEMICAL",
+      "clue": "Relating to substances and their reactions"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "IDEA",
+      "clue": "A thought or plan"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "VACCINE",
+      "clue": "A substance that protects against disease"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "CELEBRATION",
+      "clue": "An event marking a special occasion"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "HURRICANE",
+      "clue": "A powerful tropical storm"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "FORCE",
+      "clue": "Strength or power exerted on something"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 3,
+      "answer": "EARTHQUAKE",
+      "clue": "A sudden shaking of the ground"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 12,
+      "answer": "AGE",
+      "clue": "How many years someone has lived"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "answer": "AREA",
+      "clue": "A particular region or part of something"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 9,
+      "answer": "TYPE",
+      "clue": "A category or kind of something"
+    }
+  ]
+}

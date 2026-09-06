@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_015",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 14,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "YIMRTICSOYDT",
+    "AMACQVCDHYYU",
+    "EVPPBNBOZGMX",
+    "PNAUTOPISTAA",
+    "SDNCUEOUDLLU",
+    "MOUSATAFEIEZ",
+    "SBDMRCVEHJTN",
+    "PATELCICIBAZ",
+    "TMUDXDOOYZXG",
+    "CPCJIMNCNPIL",
+    "SBERXNMHUEVU",
+    "QIGNFFOEQFSI"
+  ],
+  "words": [
+    {
+      "word": "AUTOPISTA",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "AVION",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BICICLETA",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "COCHE",
+      "row": 7,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MALETA",
+      "row": 2,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "MAPA",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 9,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "PUERTO",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "TAXI",
+      "row": 6,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "VACACIONES",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

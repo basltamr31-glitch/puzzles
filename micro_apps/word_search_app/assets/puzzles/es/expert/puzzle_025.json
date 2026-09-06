@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_025",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 24,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "IAZOALYUUDSFVT",
+    "JUAFGMPMPZAPJO",
+    "KARBECJFYECEPL",
+    "SCCIAREQHRRNMU",
+    "MGNNSLGPIDZROB",
+    "KAVHMOLIRDOCOC",
+    "VIJBJPANTERAFC",
+    "KIGKJNJGKURMDX",
+    "PASSGINUKKOESM",
+    "YRRAFARIJCLLEP",
+    "XFZVKETNAFELEI",
+    "AAFVILTOILIOBQ",
+    "ANSPSGONTPFLHJ",
+    "BMVSXMQICRYBES"
+  ],
+  "words": [
+    {
+      "word": "CAMELLO",
+      "row": 5,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "CEBRA",
+      "row": 2,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "COCODRILO",
+      "row": 5,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "DELFIN",
+      "row": 7,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 10,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "GATO",
+      "row": 8,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 9,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "PANTERA",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PERRO",
+      "row": 1,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 6,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "ZORRO",
+      "row": 4,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

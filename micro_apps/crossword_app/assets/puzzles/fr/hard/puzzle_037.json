@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_037",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 037",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "GOUVERNEMENT",
+      "clue": "Le groupe qui dirige officiellement un pays"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "answer": "MEDECINE",
+      "clue": "La science du traitement des maladies"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 7,
+      "answer": "IDEE",
+      "clue": "Une pensée ou un plan"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "PERSONNAGE",
+      "clue": "Une personne dépeinte dans une histoire"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 12,
+      "answer": "ATMOSPHERE",
+      "clue": "La couche de gaz entourant une planète"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "answer": "ORDRE",
+      "clue": "Une séquence, ou une instruction à suivre"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 10,
+      "answer": "CLE",
+      "clue": "Outil métallique utilisé pour ouvrir une serrure"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 7,
+      "answer": "COUT",
+      "clue": "Le montant payé pour quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "REGLE",
+      "clue": "Une instruction officielle sur la façon de se comporter"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "RISQUE",
+      "clue": "La chance que quelque chose de mauvais se produise"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "HUILE",
+      "clue": "Liquide glissant utilisé pour cuisiner ou comme carburant"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "CULTURE",
+      "clue": "Les coutumes et croyances d'une société"
+    }
+  ]
+}

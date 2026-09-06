@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_051",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 50,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "LNNLAOGB",
+    "NUVOLAGM",
+    "FIVABRFP",
+    "IXPIETRA",
+    "UYISRRCZ",
+    "MYUOOPEV",
+    "EFILTCAZ",
+    "NPRATONX"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FIUME",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "ISOLA",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PIETRA",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PRATO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

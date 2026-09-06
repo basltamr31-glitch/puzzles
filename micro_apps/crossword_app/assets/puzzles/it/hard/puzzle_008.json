@@ -1,0 +1,101 @@
+{
+  "id": "it_hard_008",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 008",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "UNITA",
+      "clue": "Una singola misura o pezzo standard"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "TEMPERATURA",
+      "clue": "Una misura di quanto sia caldo o freddo qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "SCOPERTA",
+      "clue": "L'atto di trovare qualcosa di nuovo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "ORCHESTRA",
+      "clue": "Un grande gruppo di musicisti che suonano insieme"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "answer": "PERDITA",
+      "clue": "Lo stato di non avere più qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 6,
+      "answer": "ARTE",
+      "clue": "Espressione creativa, come la pittura"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "LETTERATURA",
+      "clue": "Opere scritte apprezzate per il loro valore artistico"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "SOCIETA",
+      "clue": "Una grande comunità che vive insieme"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 5,
+      "answer": "MISURA",
+      "clue": "Quanto grande o piccolo è qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "VOTO",
+      "clue": "Una scelta formale fatta in un'elezione"
+    }
+  ]
+}

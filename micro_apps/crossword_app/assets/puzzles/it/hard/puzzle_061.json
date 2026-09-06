@@ -1,0 +1,101 @@
+{
+  "id": "it_hard_061",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 061",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "OGGETTO",
+      "clue": "Un articolo o una cosa singola"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "CELEBRAZIONE",
+      "clue": "Un evento che segna un'occasione speciale"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "LABORATORIO",
+      "clue": "Una stanza attrezzata per la ricerca scientifica"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "FRASE",
+      "clue": "Un gruppo di parole che esprime un pensiero completo"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "ESPERIMENTO",
+      "clue": "Un test scientifico per scoprire qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 11,
+      "answer": "RACCOLTO",
+      "clue": "La raccolta dei prodotti maturi"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "ORCHESTRA",
+      "clue": "Un grande gruppo di musicisti che suonano insieme"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "SUONO",
+      "clue": "Qualcosa che si sente"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "answer": "TASSA",
+      "clue": "Denaro dovuto al governo"
+    }
+  ]
+}

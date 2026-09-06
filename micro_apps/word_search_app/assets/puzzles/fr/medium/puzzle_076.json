@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_076",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 75,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "SETNLDZCIA",
+    "MIROIRYQXL",
+    "CSTJTVZGRS",
+    "CHEMINEEAE",
+    "OHARVKETVE",
+    "UCAMPUKASN",
+    "SKXIBSIGGC",
+    "SYHOSRMEGN",
+    "ITABLEERMA",
+    "NSGEUTJELC"
+  ],
+  "words": [
+    {
+      "word": "CHAISE",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CHAMBRE",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CHEMINEE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LIT",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MIROIR",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

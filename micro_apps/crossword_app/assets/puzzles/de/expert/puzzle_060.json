@@ -1,0 +1,115 @@
+{
+  "id": "de_expert_060",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 060",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "FANTASIE",
+      "clue": "Die Fähigkeit, neue Ideen zu bilden"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "QUALIFIKATION",
+      "clue": "Eine Fähigkeit, die jemanden für eine Rolle geeignet macht"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 1,
+      "answer": "ERRUNGENSCHAFT",
+      "clue": "Etwas erfolgreich Erreichtes"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "UMSTAND",
+      "clue": "Eine mit einem Ereignis verbundene Bedingung"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "UNTERSUCHUNG",
+      "clue": "Eine sorgfältige Prüfung der Fakten"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "MACHT",
+      "clue": "Die Fähigkeit, etwas zu tun oder zu kontrollieren"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "ORGANISATION",
+      "clue": "Eine Gruppe von Menschen mit einem gemeinsamen Ziel"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 10,
+      "answer": "KRAFT",
+      "clue": "Stärke oder Energie, die auf etwas wirkt"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 14,
+      "answer": "HERSTELLUNG",
+      "clue": "Die Produktion von Waren im großen Maßstab"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 1,
+      "answer": "REGEL",
+      "clue": "Eine offizielle Anweisung, wie man sich verhält"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "RISIKO",
+      "clue": "Die Chance, dass etwas Schlechtes passiert"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 13,
+      "answer": "LUFT",
+      "clue": "Das Gas, das wir atmen"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 9,
+      "answer": "RAUM",
+      "clue": "Ein leerer Bereich, oder das Universum"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 7,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    }
+  ]
+}

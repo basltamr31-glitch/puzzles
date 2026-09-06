@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_046",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 046",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ENTRETENIMIENTO",
+      "clue": "Actividades que proporcionan diversión"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "GUERRA",
+      "clue": "Un conflicto armado entre naciones"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "INVESTIGACION",
+      "clue": "Un examen minucioso de los hechos"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "ORGANIZACION",
+      "clue": "Un grupo de personas que trabaja hacia una meta"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "EDAD",
+      "clue": "Cuántos años ha vivido alguien"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 14,
+      "answer": "EQUIPO",
+      "clue": "Un grupo que trabaja junto hacia una meta"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "INDEPENDENCIA",
+      "clue": "Libertad de control externo"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 3,
+      "answer": "MODELO",
+      "clue": "Una representación de algo, a menudo más pequeña"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "answer": "CONSERVACION",
+      "clue": "La protección de la naturaleza y los recursos"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 2,
+      "answer": "CONTEMPORANEO",
+      "clue": "Perteneciente a la época actual"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 14,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 6,
+      "answer": "INCREIBLE",
+      "clue": "Demasiado extraordinario para ser creído"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 11,
+      "answer": "ARTE",
+      "clue": "Expresión creativa, como la pintura"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "UNIDAD",
+      "clue": "Una única medida o pieza estándar"
+    }
+  ]
+}

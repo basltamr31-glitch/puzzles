@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_021",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 20,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "SYOSYTEMRX",
+    "CTNELCRLTY",
+    "NEOLBMUDEK",
+    "ESRMRZLVSL",
+    "BTEGAMBARO",
+    "YACLCCDTLR",
+    "LQCQCEOIKQ",
+    "ZBHPIEDETR",
+    "GGINOCCHIO",
+    "TXOBOIOPOU"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "DITO",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "GAMBA",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GINOCCHIO",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PIEDE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "STOMACO",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "TESTA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

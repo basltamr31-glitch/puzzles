@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_098",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 098",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "VALLE",
+      "clue": "Terra bassa tra le montagne",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "GATTO",
+      "clue": "Felino domestico che miagola",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "ANNO",
+      "clue": "Un periodo di dodici mesi",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "CANE",
+      "clue": "Animale domestico fedele che abbaia",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "PECORA",
+      "clue": "Animale lanoso che bela",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "TOPO",
+      "clue": "Piccolo roditore dalla coda lunga",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "ORA",
+      "clue": "Un'unità di tempo di sessanta minuti",
+      "category": "time"
+    }
+  ]
+}

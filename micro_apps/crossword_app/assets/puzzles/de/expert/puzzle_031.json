@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_031",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 031",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "EINWOHNERZAHL",
+      "clue": "Die Anzahl der Menschen, die in einem Gebiet leben"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "BAHNBRECHEND",
+      "clue": "Eine dramatische, wegweisende Neuerung betreffend"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 6,
+      "answer": "GESETZ",
+      "clue": "Eine von der Regierung durchgesetzte Regel"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 2,
+      "answer": "KOMMUNIKATION",
+      "clue": "Der Austausch von Informationen zwischen Menschen"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 14,
+      "answer": "LUFT",
+      "clue": "Das Gas, das wir atmen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ORGANISATION",
+      "clue": "Eine Gruppe von Menschen mit einem gemeinsamen Ziel"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 12,
+      "answer": "FALL",
+      "clue": "Ein Beispiel für etwas, oder ein Behälter"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "LOGIK",
+      "clue": "Nach strengen Regeln geführte Argumentation"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "answer": "EINHEIT",
+      "clue": "Ein einzelnes Standardmaß"
+    },
+    {
+      "direction": "down",
+      "row": 12,
+      "col": 12,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 14,
+      "answer": "KLANG",
+      "clue": "Etwas, das man hört"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 1,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "answer": "BERUF",
+      "clue": "Bezahlte Arbeit, die man regelmäßig verrichtet"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "UMSTAND",
+      "clue": "Eine mit einem Ereignis verbundene Bedingung"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "ALTER",
+      "clue": "Wie viele Jahre jemand gelebt hat"
+    }
+  ]
+}

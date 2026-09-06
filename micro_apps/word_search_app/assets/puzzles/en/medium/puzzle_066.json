@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_066",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 65,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "MKNJWXHBGT",
+    "ZVMSGKHUTG",
+    "SICARROTUJ",
+    "WJPNAGNTPI",
+    "XADDPXEEGG",
+    "LMIWEZYRPV",
+    "QWKIGIKOOE",
+    "YYWCBBSOUP",
+    "OXAHPXJWGZ",
+    "JFQIGDUKNG"
+  ],
+  "words": [
+    {
+      "word": "BUTTER",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CARROT",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 4,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "GRAPE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HONEY",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "JAM",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SOUP",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    }
+  ]
+}

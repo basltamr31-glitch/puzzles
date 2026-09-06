@@ -1,0 +1,80 @@
+{
+  "id": "it_medium_040",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 040",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "INSETTO",
+      "clue": "Piccola creatura a sei zampe come una formica"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "SCIENZA",
+      "clue": "Studio del mondo naturale tramite esperimenti"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "MACCHINA",
+      "clue": "Apparecchio usato per scattare fotografie, o un'auto"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "GIARDINO",
+      "clue": "Terreno per coltivare fiori o verdure"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "RAGNO",
+      "clue": "Creatura a otto zampe che tesse ragnatele"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "VEICOLO",
+      "clue": "Qualsiasi macchina per trasportare persone"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "LUCE",
+      "clue": "La chiarezza che permette di vedere"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "GALLERIA",
+      "clue": "Un passaggio sotterraneo"
+    }
+  ]
+}

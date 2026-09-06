@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_021",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 021",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "SAILOR",
+      "clue": "Person who works on a ship"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "TROUSERS",
+      "clue": "Another word for pants"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "CASE",
+      "clue": "An instance of something, or a container"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "CASTLE",
+      "clue": "Large fortified building, home of nobility"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "TUNNEL",
+      "clue": "An underground passage"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "SUBJECT",
+      "clue": "A topic studied in school"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "COST",
+      "clue": "The amount paid for something"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "LOSS",
+      "clue": "The state of no longer having something"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "TERM",
+      "clue": "A fixed period of time, or a specific word"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ICE",
+      "clue": "Frozen water"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "it_expert_096",
+  "language": "it",
+  "difficulty": "expert",
+  "title": "Cruciverba 096",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "TASSA",
+      "clue": "Denaro dovuto al governo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "INTELLIGENZA",
+      "clue": "La capacità di acquisire e applicare conoscenza"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "GEOGRAFICO",
+      "clue": "Relativo alle caratteristiche fisiche della Terra"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "PERDITA",
+      "clue": "Lo stato di non avere più qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "ORGANIZZAZIONE",
+      "clue": "Un gruppo di persone che lavora per un obiettivo"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "POTERE",
+      "clue": "La capacità di fare o controllare qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 2,
+      "answer": "CONSERVAZIONE",
+      "clue": "La protezione della natura e delle risorse"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 6,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 12,
+      "answer": "SVILUPPO",
+      "clue": "Il processo di crescita o miglioramento"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "CHIAVE",
+      "clue": "Strumento metallico usato per aprire una serratura"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 14,
+      "answer": "COLLABORAZIONE",
+      "clue": "L'atto di lavorare insieme"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "METEOROLOGIA",
+      "clue": "Lo studio scientifico del tempo atmosferico"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "COSTO",
+      "clue": "La somma pagata per qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 10,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    }
+  ]
+}

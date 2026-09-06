@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_060",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 59,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "ZSCAFFALEX",
+    "MUZUOIBYGU",
+    "MCNARNALVB",
+    "BOOCXEGACP",
+    "BPIPTSNMNP",
+    "TAPPETOPAH",
+    "AAVHSROAVL",
+    "ZUZKVATDGV",
+    "ZRBSEDIALC",
+    "ANVXAOOLOG"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "COPERTA",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SEDIA",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAZZA",
+      "row": 5,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

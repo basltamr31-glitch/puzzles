@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_010",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 010",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "JACKET",
+      "clue": "A short outer coat"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "AUTUMN",
+      "clue": "Season between summer and winter"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "SKY",
+      "clue": "The space above the earth, seen from the ground"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "GUITAR",
+      "clue": "Stringed musical instrument played by strumming"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "RANGE",
+      "clue": "The extent between limits"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "QUESTION",
+      "clue": "A sentence asked to get information"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "FACTORY",
+      "clue": "Building where goods are manufactured"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "GOAL",
+      "clue": "The aim someone is working toward"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "LAW",
+      "clue": "A rule enforced by a government"
+    }
+  ]
+}

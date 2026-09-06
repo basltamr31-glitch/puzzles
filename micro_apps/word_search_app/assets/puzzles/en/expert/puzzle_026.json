@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_026",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 25,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "HBWOXMCMAAQDUB",
+    "YOHEIKOOCRBPXL",
+    "NBGVGIMFGKRKXQ",
+    "RCUDNNRYMCNZHR",
+    "JZHSAOARAUTNAW",
+    "QBFOAELRFSXDOV",
+    "RKGUCNREOBGQTY",
+    "KYZPEODBMZERBR",
+    "ABNITMLWCRSEID",
+    "JNEBSEEAIMETSD",
+    "ZPBMELSRTCETDI",
+    "BPXQYEJTBEHUAO",
+    "PLASKBQSZHCBPW",
+    "VFEWLQXXNZEFLQ"
+  ],
+  "words": [
+    {
+      "word": "BREAD",
+      "row": 7,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "BUTTER",
+      "row": 12,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "CARROT",
+      "row": 3,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "CHEESE",
+      "row": 12,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "COOKIE",
+      "row": 1,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "LEMON",
+      "row": 10,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "ORANGE",
+      "row": 6,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SOUP",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "STRAWBERRY",
+      "row": 12,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "WATERMELON",
+      "row": 12,
+      "col": 13,
+      "dir": "NW"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_040",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 39,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "AXMVQIFZ",
+    "JCDIODUD",
+    "EATMFITT",
+    "DRRNYYBE",
+    "RRBOXEON",
+    "EEUUNPLI",
+    "ZRGJQIRS",
+    "MARATONF"
+  ],
+  "words": [
+    {
+      "word": "AJEDREZ",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BOXEO",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CARRERA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FUTBOL",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MARATON",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TENIS",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

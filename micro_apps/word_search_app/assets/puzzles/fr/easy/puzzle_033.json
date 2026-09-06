@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_033",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 32,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "ZMOUTONL",
+    "DBRXMOAG",
+    "CHEVREMP",
+    "HMNIELLV",
+    "EDAUPHIN",
+    "VQRKTVMR",
+    "AUDMONRI",
+    "LAPINFEN"
+  ],
+  "words": [
+    {
+      "word": "CHEVAL",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CHEVRE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DAUPHIN",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LAPIN",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MOUTON",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RENARD",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

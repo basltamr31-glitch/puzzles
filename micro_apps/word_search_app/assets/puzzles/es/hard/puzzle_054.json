@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_054",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 53,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "BMSALLITAPAZ",
+    "USOUAFJCKAGD",
+    "FZMAVGFAHNEP",
+    "ADBLHDPLJTNG",
+    "NORUTNICXAPB",
+    "DQENHNGEALSG",
+    "ABRIGOUTTOQR",
+    "KKOOKNAILNBU",
+    "IFDUIBNNBZAM",
+    "XIYQRETEUSIM",
+    "NNGOJZERHUCM",
+    "OGCFPZUBJZHU"
+  ],
+  "words": [
+    {
+      "word": "ABRIGO",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BUFANDA",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CALCETIN",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CINTURON",
+      "row": 4,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "CORBATA",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "GUANTE",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PANTALON",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SOMBRERO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SUETER",
+      "row": 9,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "ZAPATILLAS",
+      "row": 0,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_079",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 78,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "UDEUVPXNXAXXBO",
+    "VXLXZKTSTROHES",
+    "AVIONBZEUJETIL",
+    "CLZODILNARFBAN",
+    "AKTKQAAKIPOEGV",
+    "CSVOMOCHILAENK",
+    "IGBEJATVLTUMPD",
+    "OTREUPOREATSLF",
+    "NRDUMBOLETOPGH",
+    "EEJZCLCIPNPSLO",
+    "SJRUFIRQTNIKTP",
+    "VBAPCOAEIMSUNA",
+    "XKXITKBZVLTIMY",
+    "CABYVUTPLLARPN"
+  ],
+  "words": [
+    {
+      "word": "AEROPUERTO",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "AUTOPISTA",
+      "row": 5,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "AVION",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BARCO",
+      "row": 12,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "BICICLETA",
+      "row": 13,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "BOLETO",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "MALETA",
+      "row": 5,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "MAPA",
+      "row": 6,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TREN",
+      "row": 6,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "VACACIONES",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VIAJE",
+      "row": 13,
+      "col": 4,
+      "dir": "NW"
+    }
+  ]
+}

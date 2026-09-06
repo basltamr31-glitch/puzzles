@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_084",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 084",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "WERT",
+      "clue": "Wie viel etwas wert ist"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "answer": "LUFT",
+      "clue": "Das Gas, das wir atmen"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "PILOT",
+      "clue": "Person, die ein Flugzeug fliegt"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "RITTER",
+      "clue": "Gepanzerter mittelalterlicher Krieger zu Pferd"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "ALTER",
+      "clue": "Wie viele Jahre jemand gelebt hat"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "STAAT",
+      "clue": "Ein Zustand, oder ein politisches Gebiet"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "BAHNHOF",
+      "clue": "Haltestelle für Züge"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "TASCHE",
+      "clue": "Ein kleiner Beutel, in Kleidung eingenäht"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "DORF",
+      "clue": "Kleine Gemeinde, kleiner als eine Stadt"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "answer": "REGEL",
+      "clue": "Eine offizielle Anweisung, wie man sich verhält"
+    }
+  ]
+}

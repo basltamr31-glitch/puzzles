@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_080",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 080",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "ENTWICKLUNG",
+      "clue": "Der Prozess des Wachsens oder Verbesserns"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "REGEL",
+      "clue": "Eine offizielle Anweisung, wie man sich verhält"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "UNTERSUCHUNG",
+      "clue": "Eine sorgfältige Prüfung der Fakten"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 7,
+      "answer": "TEAM",
+      "clue": "Eine Gruppe, die gemeinsam auf ein Ziel hinarbeitet"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 4,
+      "answer": "GELEGENHEIT",
+      "clue": "Eine gute Chance für Fortschritt"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "ANERKENNUNG",
+      "clue": "Anerkennung des Wertes von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "answer": "ORDNUNG",
+      "clue": "Eine Reihenfolge, oder eine Anweisung"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 14,
+      "answer": "VERLUST",
+      "clue": "Der Zustand, etwas nicht mehr zu haben"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 10,
+      "answer": "ERHALTUNG",
+      "clue": "Der Schutz von Natur und Ressourcen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "IDEE",
+      "clue": "Ein Gedanke oder Plan"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "down",
+      "row": 12,
+      "col": 2,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ALTER",
+      "clue": "Wie viele Jahre jemand gelebt hat"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "ZUGANG",
+      "clue": "Möglichkeit, etwas zu betreten oder zu nutzen"
+    }
+  ]
+}

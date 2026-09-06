@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_035",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 035",
+  "rows": 13,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "EMPLEO",
+      "clue": "Un trabajo remunerado que se hace regularmente"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "ESQUELETO",
+      "clue": "La estructura de huesos de un cuerpo"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "ATMOSFERA",
+      "clue": "La capa de gases que rodea un planeta"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 0,
+      "answer": "VALOR",
+      "clue": "Cuánto vale algo"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "answer": "FUERZA",
+      "clue": "El poder ejercido sobre algo"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "answer": "EQUIPO",
+      "clue": "Un grupo que trabaja junto hacia una meta"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "MONUMENTO",
+      "clue": "Una estructura construida en honor a alguien"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "TERMINO",
+      "clue": "Un período fijo, o una palabra específica"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "PENINSULA",
+      "clue": "Tierra casi rodeada de agua"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 9,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "LLAVE",
+      "clue": "Herramienta metálica usada para abrir una cerradura"
+    }
+  ]
+}

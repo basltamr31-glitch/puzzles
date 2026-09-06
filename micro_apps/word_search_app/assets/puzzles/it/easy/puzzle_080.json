@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_080",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 79,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "CCXBYNOS",
+    "XEBVKURG",
+    "OCRZPOUH",
+    "BARBITRO",
+    "XLYGQOYC",
+    "CCORSAPK",
+    "FIFABOXE",
+    "ZOTXXHQY"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BOXE",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CALCIO",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CORSA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "NUOTO",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

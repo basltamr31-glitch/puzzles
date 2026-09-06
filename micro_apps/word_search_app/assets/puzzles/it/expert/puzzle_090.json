@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_090",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 89,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "ZKASGFSBIZZQQR",
+    "MAYYQHTGFMGSQS",
+    "RLBEFFACOHPYOR",
+    "IDGANGURIASZXF",
+    "ZUUGHOORTUTFHP",
+    "SYOCDDMAESUAHP",
+    "ZATROTTISQEFLM",
+    "LRTMRAIRLMMNQH",
+    "IEOMVUNTUDMMIV",
+    "SPCXBABACFOIQM",
+    "OQSHMSLENXRPPT",
+    "OAIPNHMELACUHN",
+    "ZNBBYUPELRBIVZ",
+    "SLLNSBGMQFCLSF"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "BANANA",
+      "row": 12,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 12,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "BURRO",
+      "row": 9,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "CAFFE",
+      "row": 2,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "LIMONE",
+      "row": 7,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "MELA",
+      "row": 11,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 9,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "PATATA",
+      "row": 2,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "PERA",
+      "row": 9,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "POMODORO",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "TORTA",
+      "row": 6,
+      "col": 5,
+      "dir": "W"
+    }
+  ]
+}

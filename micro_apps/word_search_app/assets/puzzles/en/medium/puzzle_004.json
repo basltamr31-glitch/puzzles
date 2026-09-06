@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_004",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 3,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "LJNLCVVDMQ",
+    "NBMSHELFMT",
+    "YCBVMKZFXH",
+    "STLCEILING",
+    "NRAEOTRTNS",
+    "YEMBJCLRKF",
+    "QBPSLHUQOH",
+    "FGARDENPXR",
+    "HBZTRNELSS",
+    "NNIVADEONV"
+  ],
+  "words": [
+    {
+      "word": "CEILING",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CUP",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "GARDEN",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LAMP",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MIRROR",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "SHELF",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_046",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 046",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "WHALE",
+      "clue": "Enormous sea mammal",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "RAIN",
+      "clue": "Water falling from clouds",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "SAND",
+      "clue": "Tiny loose grains found on beaches and deserts",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "TIGER",
+      "clue": "Large striped wild cat",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "MEAT",
+      "clue": "Animal flesh eaten as food",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "RED",
+      "clue": "Color of blood or a ripe tomato",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "WORD",
+      "clue": "A unit of language with meaning",
+      "category": "object"
+    }
+  ]
+}

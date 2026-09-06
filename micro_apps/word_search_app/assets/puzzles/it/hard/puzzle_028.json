@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_028",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 27,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "ECSUMFBAHIYX",
+    "PHCAMINETTOS",
+    "XCUCINALEVAM",
+    "OIHCCEPSRDBY",
+    "ZSNUXSLNACZC",
+    "QCASQTAPPETO",
+    "ZRXCFRMFASGP",
+    "CORITAVOLOYE",
+    "ASCNLQOSEVXR",
+    "IFBOPRRXVTOT",
+    "SGSDMRGPORTA",
+    "MNHILHBOGQPD"
+  ],
+  "words": [
+    {
+      "word": "CAMINETTO",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "COPERTA",
+      "row": 4,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "CUCINA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "PORTA",
+      "row": 10,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 3,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 5,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

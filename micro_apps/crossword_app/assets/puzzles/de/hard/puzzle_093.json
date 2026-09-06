@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_093",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 093",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "OPERATION",
+      "clue": "Ein medizinischer Eingriff zur Behandlung"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "EINHEIT",
+      "clue": "Ein einzelnes Standardmaß"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 10,
+      "answer": "STAAT",
+      "clue": "Ein Zustand, oder ein politisches Gebiet"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "KULTUR",
+      "clue": "Die Bräuche und Überzeugungen einer Gesellschaft"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "KRIEG",
+      "clue": "Bewaffneter Konflikt zwischen Nationen"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "KONTINENT",
+      "clue": "Eine der großen Landmassen der Erde"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "MUSKEL",
+      "clue": "Gewebe, das Bewegung im Körper erzeugt"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "LUFT",
+      "clue": "Das Gas, das wir atmen"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "answer": "ERNTE",
+      "clue": "Das Einbringen reifer Feldfrüchte"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 9,
+      "answer": "FALL",
+      "clue": "Ein Beispiel für etwas, oder ein Behälter"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 7,
+      "answer": "TEAM",
+      "clue": "Eine Gruppe, die gemeinsam auf ein Ziel hinarbeitet"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 12,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    }
+  ]
+}

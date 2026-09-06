@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_095",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 94,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "MVOYAGEN",
+    "RSBUSPJG",
+    "DCLAHSOM",
+    "LEDKIJUS",
+    "QAIRPORT",
+    "VBILVANI",
+    "BICYCLEL",
+    "TDOCQQYO"
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BICYCLE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SHIP",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

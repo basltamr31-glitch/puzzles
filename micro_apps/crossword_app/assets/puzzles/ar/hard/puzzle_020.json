@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_020",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 020",
+  "rows": 13,
+  "cols": 11,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "answer": "حجم",
+      "clue": "مقدار المساحة التي يشغلها جسم"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "رمل",
+      "clue": "حبيبات ناعمة تغطي الصحراء والشواطئ"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "حضارة",
+      "clue": "مرحلة متقدمة من تطور مجتمع"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "لافتات",
+      "clue": "جمع لافتة، لوحات تحمل إعلانات"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "عالمية",
+      "clue": "صفة تتعلق بالعالم كله"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "ميدان",
+      "clue": "ساحة واسعة في المدينة"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "مهرجان",
+      "clue": "احتفال كبير يضم فعاليات فنية"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "شكل",
+      "clue": "الهيئة الخارجية للشيء"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "answer": "معدن",
+      "clue": "مادة صلبة كالحديد أو الذهب"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "نفسية",
+      "clue": "صفة تتعلق بالنفس والعقل"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "answer": "روح",
+      "clue": "الجانب غير المادي من الإنسان"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "أنف",
+      "clue": "عضو الشم في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 1,
+      "answer": "فن",
+      "clue": "تعبير إبداعي بالرسم أو الموسيقى أو غيرها"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_078",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 078",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "حصان",
+      "clue": "حيوان كبير يُركب",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "لبن",
+      "clue": "سائل أبيض يأتي من الأبقار",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "باب",
+      "clue": "فتحة تُستخدم للدخول والخروج",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "طالب",
+      "clue": "شخص يدرس في مدرسة أو جامعة",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "فيل",
+      "clue": "حيوان ضخم له خرطوم طويل",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "كرسي",
+      "clue": "مقعد يجلس عليه الإنسان",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "أرض",
+      "clue": "الكوكب الذي نعيش عليه",
+      "category": "nature"
+    }
+  ]
+}

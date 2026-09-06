@@ -1,0 +1,122 @@
+{
+  "id": "ar_expert_064",
+  "language": "ar",
+  "difficulty": "expert",
+  "title": "اللغز 064",
+  "rows": 13,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "answer": "واجب",
+      "clue": "ما يجب على الشخص القيام به"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "معلمون",
+      "clue": "جمع معلم، رجال يعملون في التدريس"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "answer": "حجم",
+      "clue": "مقدار المساحة التي يشغلها جسم"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "answer": "نوع",
+      "clue": "صنف أو فئة من الأشياء"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "أنف",
+      "clue": "عضو الشم في الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "قانون",
+      "clue": "قاعدة يفرضها المجتمع أو الدولة"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "اختراعات",
+      "clue": "جمع اختراع"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "مستشفيات",
+      "clue": "جمع مستشفى، أماكن علاج المرضى"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "رائحة",
+      "clue": "ما يُحس به عند الشم"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "answer": "مؤسسات",
+      "clue": "جمع مؤسسة"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 3,
+      "answer": "سلام",
+      "clue": "حالة خلو من الحرب والنزاع"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "جامعات",
+      "clue": "جمع جامعة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 13,
+      "answer": "تكنولوجيا",
+      "clue": "العلوم التطبيقية المستخدمة لأغراض عملية"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "سياسية",
+      "clue": "صفة تتعلق بالسياسة"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 11,
+      "answer": "حرية",
+      "clue": "القدرة على التصرف دون قيود"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "answer": "حق",
+      "clue": "ما يستحقه الشخص"
+    }
+  ]
+}

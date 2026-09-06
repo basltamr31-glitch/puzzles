@@ -1,0 +1,122 @@
+{
+  "id": "ar_expert_020",
+  "language": "ar",
+  "difficulty": "expert",
+  "title": "اللغز 020",
+  "rows": 10,
+  "cols": 14,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "حجر",
+      "clue": "مادة صلبة طبيعية"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "مطارات",
+      "clue": "جمع مطار"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "طعم",
+      "clue": "ما يُحس به عند تذوق الطعام"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "جامعات",
+      "clue": "جمع جامعة"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "معدن",
+      "clue": "مادة صلبة كالحديد أو الذهب"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "حدائق",
+      "clue": "جمع حديقة"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "واجب",
+      "clue": "ما يجب على الشخص القيام به"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "answer": "قوة",
+      "clue": "القدرة على القيام بعمل أو التأثير"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "answer": "اختراعات",
+      "clue": "جمع اختراع"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "مواصفات",
+      "clue": "جمع مواصفة، شروط ومقاييس محددة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "استراتيجية",
+      "clue": "خطة شاملة لتحقيق هدف بعيد المدى"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "اكتشافات",
+      "clue": "جمع اكتشاف"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "صوت",
+      "clue": "ما يُسمع عند الكلام أو الحركة"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "حب",
+      "clue": "شعور عميق بالمودة تجاه شخص أو شيء"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 11,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "answer": "حساب",
+      "clue": "عملية رياضية أو مالية"
+    }
+  ]
+}

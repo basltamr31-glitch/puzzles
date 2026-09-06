@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_099",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 98,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "IPVASRKKPD",
+    "DTCMEADOWE",
+    "IIYPAIVMAS",
+    "VVKSUNSETE",
+    "YNDGLACIER",
+    "TAYKVSLYRT",
+    "BHFIFZOMFN",
+    "CFJFFJUEAC",
+    "DQGWIYDPLV",
+    "OMHAJJRCLK"
+  ],
+  "words": [
+    {
+      "word": "CLOUD",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DESERT",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "GLACIER",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MEADOW",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SEA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SUNSET",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "WATERFALL",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

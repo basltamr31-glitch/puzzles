@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_082",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 082",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "ميدان",
+      "clue": "ساحة واسعة في المدينة"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "رياضة",
+      "clue": "نشاط بدني يُمارس للياقة أو المتعة"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "مجلة",
+      "clue": "مطبوعة دورية تحتوي مقالات"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "معلمة",
+      "clue": "امرأة تعمل في التدريس"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "طعم",
+      "clue": "ما يُحس به عند تذوق الطعام"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "جواب",
+      "clue": "رد على سؤال"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "سرعة",
+      "clue": "مقدار المسافة المقطوعة في زمن معين"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "رسام",
+      "clue": "شخص يبدع في الرسم"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "قصة",
+      "clue": "سرد لأحداث خيالية أو واقعية"
+    }
+  ]
+}

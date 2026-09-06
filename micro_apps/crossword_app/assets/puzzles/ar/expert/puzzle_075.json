@@ -1,0 +1,122 @@
+{
+  "id": "ar_expert_075",
+  "language": "ar",
+  "difficulty": "expert",
+  "title": "اللغز 075",
+  "rows": 13,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "حق",
+      "clue": "ما يستحقه الشخص"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "answer": "حرية",
+      "clue": "القدرة على التصرف دون قيود"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "سياسية",
+      "clue": "صفة تتعلق بالسياسة"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "تاريخية",
+      "clue": "صفة تتعلق بالتاريخ"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 1,
+      "answer": "سرعة",
+      "clue": "مقدار المسافة المقطوعة في زمن معين"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "استقلالية",
+      "clue": "صفة الاستقلال والاعتماد على النفس"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "answer": "مطارات",
+      "clue": "جمع مطار"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 2,
+      "answer": "حرب",
+      "clue": "نزاع مسلح بين أطراف"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "answer": "رقم",
+      "clue": "رمز يدل على عدد"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 9,
+      "answer": "مؤسسات",
+      "clue": "جمع مؤسسة"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 13,
+      "answer": "نظام",
+      "clue": "مجموعة قواعد منظمة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "مدارس",
+      "clue": "جمع مدرسة"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 11,
+      "answer": "معدن",
+      "clue": "مادة صلبة كالحديد أو الذهب"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "answer": "واجب",
+      "clue": "ما يجب على الشخص القيام به"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "تكنولوجيا",
+      "clue": "العلوم التطبيقية المستخدمة لأغراض عملية"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_080",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 080",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "CHILD",
+      "clue": "Young human, not yet an adult",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "SILVER",
+      "clue": "Shiny precious gray-white metal",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "CAKE",
+      "clue": "Sweet baked dessert, often for birthdays",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "RED",
+      "clue": "Color of blood or a ripe tomato",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "DAY",
+      "clue": "A 24-hour period, from sunrise to sunrise",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "SEA",
+      "clue": "A large body of salt water",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "DESERT",
+      "clue": "Dry, sandy area with little rain",
+      "category": "place"
+    }
+  ]
+}

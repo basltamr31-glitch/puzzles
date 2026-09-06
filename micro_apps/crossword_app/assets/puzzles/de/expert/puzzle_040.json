@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_040",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 040",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "HERSTELLUNG",
+      "clue": "Die Produktion von Waren im großen Maßstab"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "answer": "EINHEIT",
+      "clue": "Ein einzelnes Standardmaß"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 4,
+      "answer": "BEDEUTUNG",
+      "clue": "Die Wichtigkeit von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 3,
+      "answer": "MATHEMATISCH",
+      "clue": "Auf das Studium von Zahlen und Formen bezogen"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 8,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "answer": "MODELL",
+      "clue": "Eine Darstellung von etwas, oft kleiner"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 13,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 7,
+      "answer": "REGEL",
+      "clue": "Eine offizielle Anweisung, wie man sich verhält"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "BENZIN",
+      "clue": "Flüssiger Treibstoff für Autos"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 1,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "ALTER",
+      "clue": "Wie viele Jahre jemand gelebt hat"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "ERHALTUNG",
+      "clue": "Der Schutz von Natur und Ressourcen"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "GRAMMATIK",
+      "clue": "Die Regeln, die den Aufbau einer Sprache bestimmen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "PHILOSOPHIE",
+      "clue": "Das Studium grundlegender Fragen der Existenz"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 9,
+      "answer": "TEAM",
+      "clue": "Eine Gruppe, die gemeinsam auf ein Ziel hinarbeitet"
+    }
+  ]
+}

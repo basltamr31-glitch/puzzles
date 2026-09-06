@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_016",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 016",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "KATZE",
+      "clue": "Haustier, das schnurrt und maunzt",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "FRAU",
+      "clue": "Erwachsene weibliche Person",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "KOPF",
+      "clue": "Oberer Körperteil mit dem Gehirn",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "ROT",
+      "clue": "Farbe von Blut oder einer reifen Tomate",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "ENTE",
+      "clue": "Wasservogel, der schnattert",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "SEE",
+      "clue": "Großes Gewässer, von Land umgeben",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "ZEIT",
+      "clue": "Was Uhren messen",
+      "category": "time"
+    }
+  ]
+}

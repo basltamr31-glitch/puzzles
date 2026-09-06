@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_057",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 56,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "KCVRBILKBQCCAV",
+    "ZEXKGQPEVMNDIT",
+    "ZMIPTLEMYZHIUA",
+    "CAEBMJJPVENSYF",
+    "AOBODILPUPZTXC",
+    "YPOYHZRACOFJEE",
+    "NMGBLFRQPDLSIR",
+    "EQPFOAECHIMRRA",
+    "TCLIONNJUCNJPI",
+    "SMHYEUAEMAHCMU",
+    "UYBISIRUOSJACE",
+    "BYHHOUDSVESGTB",
+    "SCROCODILEVREO",
+    "LAVEHCLJHEDTVM"
+  ],
+  "words": [
+    {
+      "word": "CHAMEAU",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CHAT",
+      "row": 8,
+      "col": 9,
+      "dir": "SE"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 13,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "CHIEN",
+      "row": 12,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 12,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ECUREUIL",
+      "row": 13,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "LAPIN",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "LION",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LOUP",
+      "row": 6,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "OURS",
+      "row": 8,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "RENARD",
+      "row": 6,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SOURIS",
+      "row": 10,
+      "col": 9,
+      "dir": "W"
+    }
+  ]
+}

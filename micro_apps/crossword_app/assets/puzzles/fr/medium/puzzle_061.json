@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_061",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 061",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "ECUREUIL",
+      "clue": "Petit animal à queue touffue qui ramasse des noix"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "PLAFOND",
+      "clue": "Surface intérieure en haut d'une pièce"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "UNITE",
+      "clue": "Une seule mesure ou pièce standard"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ARMOIRE",
+      "clue": "Meuble pour ranger les vêtements"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "INSECTE",
+      "clue": "Petite créature à six pattes comme une fourmi"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "NIVEAU",
+      "clue": "Un standard ou une hauteur particulière"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "IMAGE",
+      "clue": "Une photo ou un dessin"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "GUITARE",
+      "clue": "Instrument à cordes que l'on gratte"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "AUTOMNE",
+      "clue": "Saison entre l'été et l'hiver"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "CLE",
+      "clue": "Outil métallique utilisé pour ouvrir une serrure"
+    }
+  ]
+}

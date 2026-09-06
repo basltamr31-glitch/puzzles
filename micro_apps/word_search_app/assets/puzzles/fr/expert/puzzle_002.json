@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_002",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 1,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "PZDLMOCYFSCKEV",
+    "GYEYTUJHRAZTUR",
+    "PRJULBDPOMMEQQ",
+    "ALRAPCQVMCAFEL",
+    "UIFVDXMSASOPTV",
+    "BQVNRSOIGVULSU",
+    "KNMKVPYPEOBVAL",
+    "PGMKSFJUSLRGPT",
+    "TNBVMJRQNORTIC",
+    "HIZKUFGATEAUXN",
+    "UNPGANGRIFCGBS",
+    "UAQGNNPUJSUQBP",
+    "PHDKVYPOIREFCC",
+    "BAIXCROBSLZGXY"
+  ],
+  "words": [
+    {
+      "word": "BISCUIT",
+      "row": 13,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "CAFE",
+      "row": 3,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 0,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "CITRON",
+      "row": 8,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "FRAISE",
+      "row": 7,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "GATEAU",
+      "row": 9,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "MIEL",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "PASTEQUE",
+      "row": 7,
+      "col": 12,
+      "dir": "N"
+    },
+    {
+      "word": "POIRE",
+      "row": 12,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "POMME",
+      "row": 2,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "SOUPE",
+      "row": 7,
+      "col": 8,
+      "dir": "NE"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_062",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 062",
+  "rows": 9,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "NURSE",
+      "clue": "Medical professional who cares for patients"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "MIRROR",
+      "clue": "Reflective glass surface"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "LOSS",
+      "clue": "The state of no longer having something"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "RANGE",
+      "clue": "The extent between limits"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "THUNDER",
+      "clue": "Loud sound that follows lightning"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "PROBLEM",
+      "clue": "A difficult matter that needs solving"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "RAINBOW",
+      "clue": "Arc of colors seen after rain"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "answer": "SKY",
+      "clue": "The space above the earth, seen from the ground"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "VOTE",
+      "clue": "A formal choice made in an election"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "AGE",
+      "clue": "How many years someone has lived"
+    }
+  ]
+}

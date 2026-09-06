@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_098",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 098",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "WEEK",
+      "clue": "A period of seven days",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "MOUSE",
+      "clue": "Small rodent with a long tail",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "DUCK",
+      "clue": "Water bird that quacks",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "DESK",
+      "clue": "Table used for writing or study",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "EAR",
+      "clue": "Body part used for hearing",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "ROAD",
+      "clue": "A route cars and people travel on",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "ARM",
+      "clue": "Limb between the shoulder and the hand",
+      "category": "body"
+    }
+  ]
+}

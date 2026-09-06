@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_010",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 010",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "فن",
+      "clue": "تعبير إبداعي بالرسم أو الموسيقى أو غيرها"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "صناعة",
+      "clue": "نشاط تصنيع المنتجات"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "فكرة",
+      "clue": "تصور ذهني حول موضوع ما"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "رسالة",
+      "clue": "نص مكتوب يُرسل من شخص إلى آخر"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "برنامج",
+      "clue": "خطة منظمة لتنفيذ أنشطة معينة"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "سفارة",
+      "clue": "مقر تمثيل دولة في دولة أخرى"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "عدالة",
+      "clue": "إعطاء كل ذي حق حقه"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "صحيفة",
+      "clue": "مطبوعة يومية تنشر الأخبار"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "ظل",
+      "clue": "منطقة مظلمة يحجب فيها الضوء"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "تجارة",
+      "clue": "نشاط بيع وشراء السلع"
+    }
+  ]
+}

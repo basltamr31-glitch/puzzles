@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_048",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 47,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "AXSVFQBRQF",
+    "HBOXINGPVT",
+    "ROCSHSGHZJ",
+    "ETCVAXBJZO",
+    "FEEKFYRDYB",
+    "EARNEFIFYO",
+    "RMRUNYWJUZ",
+    "EKREFIKVJS",
+    "EUCHESSMUR",
+    "FPWLEBLPHE"
+  ],
+  "words": [
+    {
+      "word": "BOXING",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHESS",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "REFEREE",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "RUN",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOCCER",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TEAM",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

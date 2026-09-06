@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_020",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 19,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "PUDIIZDO",
+    "CUSCINOL",
+    "TAPPETOE",
+    "ACYOUNZT",
+    "ZCSRMMUT",
+    "ZYDTMTFO",
+    "AYHAKQTY",
+    "BRCAMERA"
+  ],
+  "words": [
+    {
+      "word": "CAMERA",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LETTO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PORTA",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAZZA",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_074",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 73,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "GIHZIOQHRUBLTL",
+    "ATELLAGMVDVHKR",
+    "NITTLRESONHPHI",
+    "ARDJHKYCLMISLQ",
+    "ZTNNEHCELILODK",
+    "NMAEASTDAEMYFR",
+    "APDTRSPRALIOLG",
+    "MMQCAFEJLHIONT",
+    "JMTPNPAROXETAR",
+    "KIOULEKBFOPCDN",
+    "KSHPURCQKHCGOH",
+    "NBOTVXYMNQHCBA",
+    "GEOJLJUJERVVUG",
+    "TJVVMRZLNRXUJR"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FRESA",
+      "row": 9,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "GALLETA",
+      "row": 1,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "LECHE",
+      "row": 4,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "LIMON",
+      "row": 3,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "MANZANA",
+      "row": 7,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "MIEL",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PASTEL",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "PATATA",
+      "row": 8,
+      "col": 5,
+      "dir": "NW"
+    },
+    {
+      "word": "PERA",
+      "row": 8,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "SANDIA",
+      "row": 6,
+      "col": 5,
+      "dir": "NW"
+    },
+    {
+      "word": "SOPA",
+      "row": 10,
+      "col": 1,
+      "dir": "NE"
+    }
+  ]
+}

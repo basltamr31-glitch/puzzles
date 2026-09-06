@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_062",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 61,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "RESPVUUMIEOFXC",
+    "TDRTURKRZGFYXI",
+    "SBANBEJIHLNEMN",
+    "SALFUTNAPCQPST",
+    "NOLUGEORROEVQU",
+    "JOOLNUOGIRBAKR",
+    "ITCLISSOMBRERO",
+    "QNIBTTFEEAGSPN",
+    "PULSERASBTQCAP",
+    "TAAXCBBPXANYMB",
+    "CSNZLCYAAYVAEJ",
+    "RNYEAUOUDZXJUQ",
+    "QFTBCUDGBNIXJG",
+    "XGMLZPKIBJQIMT"
+  ],
+  "words": [
+    {
+      "word": "ABRIGO",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CALCETIN",
+      "row": 12,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "CINTURON",
+      "row": 0,
+      "col": 13,
+      "dir": "S"
+    },
+    {
+      "word": "COLLAR",
+      "row": 6,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "CORBATA",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "GUANTE",
+      "row": 12,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "IMPERMEABLE",
+      "row": 1,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "PANTUFLAS",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "PULSERA",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOMBRERO",
+      "row": 6,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "SUETER",
+      "row": 6,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "ZAPATILLAS",
+      "row": 11,
+      "col": 9,
+      "dir": "NW"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_020",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 020",
+  "rows": 12,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "CIVILIZATION",
+      "clue": "An advanced, organized human society"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "CHALLENGE",
+      "clue": "A task that tests one's abilities"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "PARLIAMENT",
+      "clue": "A country's legislative body"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "answer": "INVENTION",
+      "clue": "A newly created device or process"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "SHAPE",
+      "clue": "The form or outline of something"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "answer": "SIZE",
+      "clue": "How big or small something is"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "RULE",
+      "clue": "An official instruction on how to behave"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 4,
+      "answer": "PAINTING",
+      "clue": "A picture made using paint"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "RATE",
+      "clue": "A measure of how fast something happens"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "POWER",
+      "clue": "The ability to do or control something"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "MAGNETIC",
+      "clue": "Having the properties of a magnet"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "PLAN",
+      "clue": "A detailed proposal for doing something"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    }
+  ]
+}

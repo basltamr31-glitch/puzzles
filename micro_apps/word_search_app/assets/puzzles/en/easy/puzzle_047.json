@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_047",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 46,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "IDESHIPB",
+    "VIZNBUSI",
+    "ETICKETC",
+    "LHIGHWAY",
+    "YTTJTPTC",
+    "TUNPGLIL",
+    "LUXNUHOE",
+    "KCECRVNR"
+  ],
+  "words": [
+    {
+      "word": "BICYCLE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SHIP",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "STATION",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

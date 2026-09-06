@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_092",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 91,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "NTKHLRLP",
+    "COPERTAO",
+    "YCVUGNMR",
+    "RAFTTNPT",
+    "TCAMERAA",
+    "OODQFODZ",
+    "VCUCINAZ",
+    "BNVLGOPA"
+  ],
+  "words": [
+    {
+      "word": "CAMERA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COPERTA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CUCINA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PORTA",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TAZZA",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

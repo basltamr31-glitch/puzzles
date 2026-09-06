@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_005",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 4,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "HMEVNOJMGE",
+    "XASCDOFPET",
+    "HNTEYGGOHG",
+    "BOOXPYPNQQ",
+    "DCMNPYVPSB",
+    "YUABOIOJDO",
+    "JEGBROCSGO",
+    "ELOREOEMZV",
+    "QLULJZJJVK",
+    "NOZSAPAOYI"
+  ],
+  "words": [
+    {
+      "word": "CABEZA",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CEJA",
+      "row": 6,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CUELLO",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ESTOMAGO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HOMBRO",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "MANO",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "OJO",
+      "row": 7,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "OREJA",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

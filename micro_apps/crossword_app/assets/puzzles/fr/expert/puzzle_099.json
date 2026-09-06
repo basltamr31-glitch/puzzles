@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_099",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 099",
+  "rows": 14,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 9,
+      "answer": "TAILLE",
+      "clue": "La grandeur ou petitesse de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 14,
+      "answer": "INGENIERIE",
+      "clue": "L'application de la science pour construire des choses"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "EMPLOI",
+      "clue": "Un travail rémunéré effectué régulièrement"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "answer": "TRADUCTION",
+      "clue": "La conversion d'un texte d'une langue à une autre"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "answer": "VOCABULAIRE",
+      "clue": "L'ensemble des mots utilisés dans une langue"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "EXTRAORDINAIRE",
+      "clue": "Très inhabituel ou remarquable"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "LUMIERE",
+      "clue": "La clarté qui permet de voir"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 8,
+      "answer": "GLACE",
+      "clue": "De l'eau gelée, ou un dessert froid"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "LOGIQUE",
+      "clue": "Un raisonnement mené selon des règles strictes"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "TAXE",
+      "clue": "Argent dû au gouvernement"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "ESPACE",
+      "clue": "Une zone vide, ou l'univers au-delà de la Terre"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 0,
+      "answer": "CLE",
+      "clue": "Outil métallique utilisé pour ouvrir une serrure"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "REGLE",
+      "clue": "Une instruction officielle sur la façon de se comporter"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 3,
+      "answer": "SON",
+      "clue": "Quelque chose que l'on entend"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    }
+  ]
+}

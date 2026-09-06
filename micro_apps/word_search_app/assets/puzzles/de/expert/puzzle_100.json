@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_100",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 99,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "BAASHPAGDCEAFW",
+    "CMHIGURVNUXAPI",
+    "UFEMCHUSNDJCPS",
+    "SDXYLCGYARRUVT",
+    "TLJONENPFEMMZB",
+    "OBTIYGKBSCKHOE",
+    "VHYPZXUCWMCCER",
+    "TLLLKLEGEIPSEO",
+    "MHBASOCFPDZIBN",
+    "JLMGFHHPTEUTUH",
+    "ZIFEOOEAULKIGC",
+    "NUCRETSNEFOSEH",
+    "IKWGKSLHRNLKGY",
+    "LAMPEJSTFDJCHO"
+  ],
+  "words": [
+    {
+      "word": "DECKE",
+      "row": 8,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "FENSTER",
+      "row": 11,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "KAMIN",
+      "row": 7,
+      "col": 4,
+      "dir": "SW"
+    },
+    {
+      "word": "KUECHE",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPE",
+      "row": 13,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "REGAL",
+      "row": 11,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "SOFA",
+      "row": 11,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "TASSE",
+      "row": 9,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 11,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "TISCH",
+      "row": 9,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "TUER",
+      "row": 9,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

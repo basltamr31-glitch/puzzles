@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_055",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 54,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "KQQXQSRKAVYHAF",
+    "VBSCPVRXQCSNYD",
+    "GDNBIZTRKDHHBH",
+    "NEAPBXLVKLRIUC",
+    "OAVHNRQRUSGOBT",
+    "BAEEPCSDNLTBDY",
+    "HZHRSTAZIONEEB",
+    "UVVTEMCEUEPVZU",
+    "DVGILOTUAPPAMS",
+    "PCIXATTELCICIB",
+    "LQUGOGPRBNHARC",
+    "GECPZKGTONYNHV",
+    "DSCMRZIIVPTZUQ",
+    "XCCSIYZCOBOAXC"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "AUTO",
+      "row": 8,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "BICICLETTA",
+      "row": 9,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "BIGLIETTO",
+      "row": 2,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "MAPPA",
+      "row": 8,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "NAVE",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PORTO",
+      "row": 12,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "STAZIONE",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 9,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "VACANZA",
+      "row": 7,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "VIAGGIO",
+      "row": 7,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "ZAINO",
+      "row": 7,
+      "col": 12,
+      "dir": "SW"
+    }
+  ]
+}

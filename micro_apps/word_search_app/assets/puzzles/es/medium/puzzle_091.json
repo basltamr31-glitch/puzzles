@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_091",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 90,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "RZCXBUOBGO",
+    "ZRPXFSTYPG",
+    "PEIMHZQXDY",
+    "CAEODCACIA",
+    "GBDNHHMMBM",
+    "ZDRTCIELOT",
+    "DNAAZEBGBV",
+    "SYHNZLLPCP",
+    "HOJABOSQUE",
+    "KULSLXCXRH"
+  ],
+  "words": [
+    {
+      "word": "BOSQUE",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CIELO",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "HIELO",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "HOJA",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MONTANA",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "RIO",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SOL",
+      "row": 7,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

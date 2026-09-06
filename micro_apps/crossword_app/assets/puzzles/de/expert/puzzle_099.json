@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_099",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 099",
+  "rows": 14,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "KRAFT",
+      "clue": "Stärke oder Energie, die auf etwas wirkt"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "GENERATION",
+      "clue": "Eine Gruppe von Menschen ähnlichen Alters"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "ENTWICKLUNG",
+      "clue": "Der Prozess des Wachsens oder Verbesserns"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 5,
+      "answer": "IDEE",
+      "clue": "Ein Gedanke oder Plan"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "GEWINN",
+      "clue": "Eine Zunahme von etwas, wie Vermögen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "ERHALTUNG",
+      "clue": "Der Schutz von Natur und Ressourcen"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "answer": "BEREICH",
+      "clue": "Die Spanne zwischen zwei Grenzen"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 14,
+      "answer": "GELEGENHEIT",
+      "clue": "Eine gute Chance für Fortschritt"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "PHILOSOPHIE",
+      "clue": "Das Studium grundlegender Fragen der Existenz"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 8,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 10,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 11,
+      "answer": "TEAM",
+      "clue": "Eine Gruppe, die gemeinsam auf ein Ziel hinarbeitet"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "PLAN",
+      "clue": "Ein detaillierter Vorschlag zur Erledigung von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "answer": "WERT",
+      "clue": "Wie viel etwas wert ist"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "ORDNUNG",
+      "clue": "Eine Reihenfolge, oder eine Anweisung"
+    }
+  ]
+}

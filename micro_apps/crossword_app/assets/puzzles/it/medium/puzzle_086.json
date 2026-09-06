@@ -1,0 +1,80 @@
+{
+  "id": "it_medium_086",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 086",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "CHITARRA",
+      "clue": "Strumento a corde che si pizzica"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "MUSICA",
+      "clue": "Suono organizzato, spesso con melodia e ritmo"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "CAPITANO",
+      "clue": "Capo di una nave o di una squadra"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "DRAGO",
+      "clue": "Creatura mitica che sputa fuoco"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "PALAZZO",
+      "clue": "Grande residenza di un re o una regina"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "ANIMALE",
+      "clue": "Ogni essere vivente che non è una pianta"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "answer": "POTERE",
+      "clue": "La capacità di fare o controllare qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "COSTO",
+      "clue": "La somma pagata per qualcosa"
+    }
+  ]
+}

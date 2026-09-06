@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_065",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 065",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "حب",
+      "clue": "شعور عميق بالمودة تجاه شخص أو شيء"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "برنامج",
+      "clue": "خطة منظمة لتنفيذ أنشطة معينة"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "جامعة",
+      "clue": "مؤسسة تعليمية للدراسات العليا"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "answer": "عدد",
+      "clue": "قيمة رياضية تُستخدم للعد"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "عدالة",
+      "clue": "إعطاء كل ذي حق حقه"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "عقل",
+      "clue": "أداة التفكير في الإنسان"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "سؤال",
+      "clue": "عبارة تُطرح للحصول على معلومة"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "رسام",
+      "clue": "شخص يبدع في الرسم"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "مسرح",
+      "clue": "مكان تُعرض فيه المسرحيات"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "مفتاح",
+      "clue": "أداة معدنية تُستخدم لفتح الأقفال"
+    }
+  ]
+}

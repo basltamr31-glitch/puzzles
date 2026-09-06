@@ -1,0 +1,101 @@
+{
+  "id": "it_hard_068",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 068",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "PAESAGGIO",
+      "clue": "Lo scenario visibile di una regione"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "ORDINE",
+      "clue": "Una sequenza, o un'istruzione da seguire"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "SCULTURA",
+      "clue": "Un'opera d'arte tridimensionale"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "ECONOMIA",
+      "clue": "Il sistema di produzione e scambio"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "SQUADRA",
+      "clue": "Un gruppo che lavora insieme verso un obiettivo"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "PERDITA",
+      "clue": "Lo stato di non avere più qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "LINGUA",
+      "clue": "Un sistema di parole usato per comunicare"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "TIPO",
+      "clue": "Una categoria o genere di qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "GHIACCIO",
+      "clue": "Acqua congelata"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "answer": "CHIAVE",
+      "clue": "Strumento metallico usato per aprire una serratura"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "PASSEGGERO",
+      "clue": "Una persona che viaggia in un veicolo"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 11,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "LUCE",
+      "clue": "La chiarezza che permette di vedere"
+    }
+  ]
+}

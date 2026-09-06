@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_091",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 90,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "TZHPTRNJ",
+    "RCHMXSEE",
+    "IEJDQSIB",
+    "VWAFZUYW",
+    "EISLANDY",
+    "RTREESKE",
+    "NSTONEUN",
+    "FORESTYN"
+  ],
+  "words": [
+    {
+      "word": "FOREST",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ISLAND",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RIVER",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "STONE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SUNSET",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TREE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

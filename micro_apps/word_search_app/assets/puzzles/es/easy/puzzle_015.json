@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_015",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 14,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "AMEVMVZL",
+    "KAVIONDE",
+    "ZLGACNPF",
+    "TEIJHMUJ",
+    "RTCEICEO",
+    "EAGYLBRX",
+    "NCRKAHTV",
+    "NDKMNQOS"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MALETA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PUERTO",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TREN",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VIAJE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

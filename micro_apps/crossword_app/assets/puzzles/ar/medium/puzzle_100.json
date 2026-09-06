@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_100",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 100",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "معدن",
+      "clue": "مادة صلبة كالحديد أو الذهب"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "محامي",
+      "clue": "شخص متخصص في الدفاع القانوني"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "ميدان",
+      "clue": "ساحة واسعة في المدينة"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "معلم",
+      "clue": "رجل يعمل في التدريس"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "حكومة",
+      "clue": "الجهة التي تدير شؤون الدولة"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "قرار",
+      "clue": "حكم أو اختيار يُتخذ بعد تفكير"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "صناعة",
+      "clue": "نشاط تصنيع المنتجات"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "answer": "صحفي",
+      "clue": "شخص يعمل في كتابة الأخبار"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "لاعب",
+      "clue": "شخص يمارس رياضة معينة"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "معلمة",
+      "clue": "امرأة تعمل في التدريس"
+    }
+  ]
+}

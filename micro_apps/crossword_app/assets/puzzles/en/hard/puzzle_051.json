@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_051",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 051",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "DISCOVERY",
+      "clue": "The act of finding something new"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "answer": "CHARACTER",
+      "clue": "A person portrayed in a story"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "AGRICULTURE",
+      "clue": "The practice of farming"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "THEATER",
+      "clue": "A building where plays are performed"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "MEDICINE",
+      "clue": "The science of treating illness"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 6,
+      "answer": "TERM",
+      "clue": "A fixed period of time, or a specific word"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 7,
+      "answer": "LOGIC",
+      "clue": "Reasoning conducted according to strict rules"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "ICE",
+      "clue": "Frozen water"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "SPACE",
+      "clue": "An empty area, or the universe beyond Earth"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 1,
+      "answer": "ORDER",
+      "clue": "A sequence, or an instruction to do something"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 6,
+      "answer": "MUSCLE",
+      "clue": "Tissue that produces movement in the body"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "FESTIVAL",
+      "clue": "A day or period of celebration"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "LANGUAGE",
+      "clue": "A system of words used for communication"
+    }
+  ]
+}

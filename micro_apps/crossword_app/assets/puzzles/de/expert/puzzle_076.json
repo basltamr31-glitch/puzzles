@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_076",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 076",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "MATHEMATISCH",
+      "clue": "Auf das Studium von Zahlen und Formen bezogen"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "answer": "STAAT",
+      "clue": "Ein Zustand, oder ein politisches Gebiet"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "BEREICH",
+      "clue": "Die Spanne zwischen zwei Grenzen"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "AUSGRABUNG",
+      "clue": "Das Freilegen von Überresten aus der Erde"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "BAHNBRECHEND",
+      "clue": "Eine dramatische, wegweisende Neuerung betreffend"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 9,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "FALL",
+      "clue": "Ein Beispiel für etwas, oder ein Behälter"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "KRIEG",
+      "clue": "Bewaffneter Konflikt zwischen Nationen"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 2,
+      "answer": "MACHT",
+      "clue": "Die Fähigkeit, etwas zu tun oder zu kontrollieren"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "LICHT",
+      "clue": "Helligkeit, die das Sehen ermöglicht"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 10,
+      "answer": "BERUF",
+      "clue": "Bezahlte Arbeit, die man regelmäßig verrichtet"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "BENZIN",
+      "clue": "Flüssiger Treibstoff für Autos"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 10,
+      "answer": "KLANG",
+      "clue": "Etwas, das man hört"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 11,
+      "answer": "IDEE",
+      "clue": "Ein Gedanke oder Plan"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 14,
+      "answer": "MODELL",
+      "clue": "Eine Darstellung von etwas, oft kleiner"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 10,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    }
+  ]
+}

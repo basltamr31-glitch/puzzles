@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_010",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 9,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "HKAESEGY",
+    "OLARCOWS",
+    "NUBFXCDU",
+    "INUDERYP",
+    "GYTGLOYP",
+    "DTTOMATE",
+    "BKEKSEDI",
+    "GHRACBNH"
+  ],
+  "words": [
+    {
+      "word": "BUTTER",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HONIG",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "KAESE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KEKSE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SUPPE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

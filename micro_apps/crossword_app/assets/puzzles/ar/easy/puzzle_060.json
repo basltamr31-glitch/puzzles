@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_060",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 060",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "شرق",
+      "clue": "جهة شروق الشمس",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "مطر",
+      "clue": "ماء يتساقط من السحاب",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "سماء",
+      "clue": "الفضاء الأزرق فوق الأرض",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "مساء",
+      "clue": "نهاية اليوم",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "سرير",
+      "clue": "أثاث يُستخدم للنوم",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "شمس",
+      "clue": "النجم الذي يضيء نهارنا",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "قمر",
+      "clue": "الجرم السماوي الذي يضيء الليل",
+      "category": "nature"
+    }
+  ]
+}

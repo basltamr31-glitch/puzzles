@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_030",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 29,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "ZHSIXUSZXPGM",
+    "CTJPXRREQUEP",
+    "QXQYNITECLAC",
+    "EQJPLNBNBSLL",
+    "SAILADNASELF",
+    "AOCUNYEUMRFI",
+    "PDGOEMAHIANN",
+    "KSNORUTNICHE",
+    "GORERBMOSHZI",
+    "RRPBUFANDAQT",
+    "MMUOVESTIDON",
+    "IDTLIYBDAZJV"
+  ],
+  "words": [
+    {
+      "word": "BUFANDA",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CALCETIN",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CINTURON",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CORBATA",
+      "row": 5,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "GUANTE",
+      "row": 6,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "IMPERMEABLE",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "PULSERA",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALIAS",
+      "row": 4,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "SOMBRERO",
+      "row": 8,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 10,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

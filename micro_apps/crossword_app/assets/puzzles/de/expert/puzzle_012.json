@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_012",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 012",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "KOMMUNIKATION",
+      "clue": "Der Austausch von Informationen zwischen Menschen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "BEMERKENSWERT",
+      "clue": "Sehr ungewöhnlich oder bemerkenswert"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "LICHT",
+      "clue": "Helligkeit, die das Sehen ermöglicht"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "VERANTWORTUNG",
+      "clue": "Eine Pflicht, die jemand erfüllen muss"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 13,
+      "answer": "INSPIRATION",
+      "clue": "Ein plötzlicher kreativer Einfluss"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "PRAHLEREI",
+      "clue": "Übertriebenes Angeben oder Loben der eigenen Leistungen"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 7,
+      "answer": "FAKT",
+      "clue": "Etwas, das als wahr bekannt ist"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 9,
+      "answer": "PLAN",
+      "clue": "Ein detaillierter Vorschlag zur Erledigung von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 8,
+      "answer": "WERT",
+      "clue": "Wie viel etwas wert ist"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 10,
+      "answer": "RAUM",
+      "clue": "Ein leerer Bereich, oder das Universum"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 8,
+      "answer": "HIMMEL",
+      "clue": "Der Raum über der Erde"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 11,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    }
+  ]
+}

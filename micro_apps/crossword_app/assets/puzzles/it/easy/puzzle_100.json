@@ -1,0 +1,58 @@
+{
+  "id": "it_easy_100",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 100",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "RANA",
+      "clue": "Anfibio verde che salta e gracida",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "BAMBINO",
+      "clue": "Essere umano giovane, non ancora adulto",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "LAMPADA",
+      "clue": "Oggetto che dà luce",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "TEMPO",
+      "clue": "Ciò che misurano gli orologi",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "FORMICA",
+      "clue": "Piccolo insetto laborioso che vive in colonie",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "ORO",
+      "clue": "Metallo prezioso di colore giallo",
+      "category": "nature"
+    }
+  ]
+}

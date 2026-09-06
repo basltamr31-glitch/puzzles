@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_085",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 84,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "NCYAWGUPATRK",
+    "IOVZVKJTUESL",
+    "LXKWMSIKGHYZ",
+    "PNEJYDXNEJFA",
+    "ZHALSTIRNYRB",
+    "BLEFLFWDBJVS",
+    "BBFWEBNXRAMN",
+    "HCVALAOTAPTA",
+    "TYSOHUXGURFK",
+    "VXOSJCHTEPTL",
+    "ZOCLEHCEONKC",
+    "NLNBPPSKGNUD"
+  ],
+  "words": [
+    {
+      "word": "AUGENBRAUE",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "BAUCH",
+      "row": 6,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ELLBOGEN",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "FINGER",
+      "row": 5,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "HALS",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HAND",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "KINN",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "KNOECHEL",
+      "row": 10,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "KOPF",
+      "row": 11,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "STIRN",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

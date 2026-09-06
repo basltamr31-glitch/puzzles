@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_099",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 98,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "ZRYASLCZVIOB",
+    "ZOOJFVFEOHMS",
+    "FPDTFRGDNIWW",
+    "GMDGWJNVVUZV",
+    "SSULFAEYVMYD",
+    "NEGEREEMUMNJ",
+    "VIITFHZBUUKY",
+    "WASSERFALLGY",
+    "YCACHXBADSXW",
+    "YZTHIDLWVSKK",
+    "ETSEUWBIFSIG",
+    "LEGREBCBDFTR"
+  ],
+  "words": [
+    {
+      "word": "BAUM",
+      "row": 8,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "BERG",
+      "row": 11,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "FLUSS",
+      "row": 4,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "GLETSCHER",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MEER",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "REGEN",
+      "row": 5,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "STRAND",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "WASSERFALL",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 2,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "WUESTE",
+      "row": 10,
+      "col": 5,
+      "dir": "W"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_002",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 002",
+  "rows": 12,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "EMPLOI",
+      "clue": "Un travail rémunéré effectué régulièrement"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "FORME",
+      "clue": "Le contour ou l'aspect de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "VALEUR",
+      "clue": "Combien vaut quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "ORCHESTRE",
+      "clue": "Un grand groupe de musiciens jouant ensemble"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 1,
+      "answer": "GOUVERNEMENT",
+      "clue": "Le groupe qui dirige officiellement un pays"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "answer": "SON",
+      "clue": "Quelque chose que l'on entend"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "GALAXIE",
+      "clue": "Un immense système d'étoiles"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "TERME",
+      "clue": "Une période fixe, ou un mot spécifique"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "AVENTURE",
+      "clue": "Une expérience excitante et audacieuse"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "ECHELLE",
+      "clue": "La taille de quelque chose par rapport à une autre"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 12,
+      "answer": "SCENE",
+      "clue": "Une plate-forme surélevée, ou une phase d'un processus"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 10,
+      "answer": "LANGUE",
+      "clue": "Un système de mots utilisé pour communiquer"
+    }
+  ]
+}

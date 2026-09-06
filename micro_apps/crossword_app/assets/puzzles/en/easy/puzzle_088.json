@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_088",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 088",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "SMILE",
+      "clue": "Happy expression made with the mouth",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "PLAY",
+      "clue": "To have fun, often with games or toys",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "FISH",
+      "clue": "Aquatic animal that breathes through gills",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "YEAR",
+      "clue": "A period of twelve months",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "WALK",
+      "clue": "To move on foot at a normal pace",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "ROCK",
+      "clue": "Hard mineral material, or a large stone",
+      "category": "nature"
+    }
+  ]
+}

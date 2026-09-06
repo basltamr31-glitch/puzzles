@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_026",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 25,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "ELOCURPE",
+    "FLLATTEB",
+    "HHOFPORA",
+    "RNVFRRAN",
+    "PANEKTNA",
+    "KFFMAAVN",
+    "NIAPKNZA",
+    "KLOKHYCL"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CAFFE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "LATTE",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PERA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TORTA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

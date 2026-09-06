@@ -1,0 +1,101 @@
+{
+  "id": "it_hard_098",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 098",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "FATTO",
+      "clue": "Qualcosa che si sa essere vero"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "GUERRA",
+      "clue": "Un conflitto armato tra nazioni"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "OBIETTIVO",
+      "clue": "Lo scopo verso cui qualcuno lavora"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "MONUMENTO",
+      "clue": "Una struttura costruita in onore di qualcuno"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 7,
+      "answer": "TASSA",
+      "clue": "Denaro dovuto al governo"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "answer": "FOTOGRAFIA",
+      "clue": "L'arte di scattare immagini"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "PUBBLICO",
+      "clue": "Il gruppo che assiste a uno spettacolo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "CONTINENTE",
+      "clue": "Una delle grandi masse di terra della Terra"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 7,
+      "answer": "SCALA",
+      "clue": "La dimensione di qualcosa rispetto a un'altra"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "ARTE",
+      "clue": "Espressione creativa, come la pittura"
+    }
+  ]
+}

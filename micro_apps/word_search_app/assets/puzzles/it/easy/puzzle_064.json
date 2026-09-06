@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_064",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 63,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "XHLULQRU",
+    "AOCGHLVO",
+    "SCACCHIH",
+    "TKLPOKCY",
+    "AECPRNIY",
+    "DYIVSAQL",
+    "IHOXAMXO",
+    "OARBITRO"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CALCIO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CORSA",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STADIO",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

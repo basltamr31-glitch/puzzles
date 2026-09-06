@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_017",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 16,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "HEOMIMLXGNCYSS",
+    "YOLLEMMACZSCVV",
+    "TFPUOSTCBFYQAY",
+    "LEAFPTTDOFQRHY",
+    "NOAPOOTCLUKYVO",
+    "FXIETOBALPGILE",
+    "MLLLYXAVIVNPQA",
+    "OCHEGURAROCEPL",
+    "BDCFDIILDCCGUV",
+    "KVRAZUNLODZSER",
+    "SRUNPDUOCCHLKX",
+    "VNPTQRFMCXGVPM",
+    "IHZEBRANOZGPRP",
+    "YRFLYCUZCEZEQX"
+  ],
+  "words": [
+    {
+      "word": "CAMMELLO",
+      "row": 1,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "CAPRA",
+      "row": 8,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CAVALLO",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "COCCODRILLO",
+      "row": 13,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "CONIGLIO",
+      "row": 11,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "GATTO",
+      "row": 0,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "LUPO",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PECORA",
+      "row": 7,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "SCOIATTOLO",
+      "row": 9,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "TOPO",
+      "row": 5,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 12,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

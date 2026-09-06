@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_058",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 57,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "SURRXZMSYGTG",
+    "OBANANEEOOJN",
+    "JEPERCMCLSXO",
+    "ZUQSHHMRRHMY",
+    "MRDDFOMPKSCY",
+    "KRBISCUITUTC",
+    "PEGAMORFEHGA",
+    "RPRRJLATNLYF",
+    "YSRVPASTEQUE",
+    "GKYCYTOMATES",
+    "SYBDRNOYMRYG",
+    "MYDOOCJUDNVU"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BEURRE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CAFE",
+      "row": 5,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CREPE",
+      "row": 2,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 6,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "MIEL",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "PASTEQUE",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 9,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

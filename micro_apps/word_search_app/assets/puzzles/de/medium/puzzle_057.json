@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_057",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 56,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "YDEXTINXDS",
+    "VELCWDNLLY",
+    "SLEEPKSLJA",
+    "PFFNVZCHLM",
+    "EIAMHKHJON",
+    "JNNMCJAOEE",
+    "JPTGFFFMWJ",
+    "KVXWUABAER",
+    "SYNZLIBUVL",
+    "YKLFHUNDWT"
+  ],
+  "words": [
+    {
+      "word": "BAER",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "DELFIN",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ELEFANT",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HUND",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "KAMEL",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "LOEWE",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SCHAF",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

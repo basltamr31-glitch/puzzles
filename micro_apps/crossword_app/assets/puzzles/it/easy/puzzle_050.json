@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_050",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 050",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "PORTA",
+      "clue": "Pannello che si apre per entrare in una stanza",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "LUNA",
+      "clue": "Satellite naturale della Terra",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "SORELLA",
+      "clue": "Parente femminile della stessa generazione",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "SABBIA",
+      "clue": "Piccoli granelli sciolti sulle spiagge",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "NASO",
+      "clue": "Organo usato per annusare",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "MARE",
+      "clue": "Grande distesa d'acqua salata",
+      "category": "place"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_057",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 057",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "REVOLUTIONNAIRE",
+      "clue": "Impliquant un changement radical et profond"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "PHILOSOPHIE",
+      "clue": "L'étude des questions fondamentales de l'existence"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "VOCABULAIRE",
+      "clue": "L'ensemble des mots utilisés dans une langue"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 9,
+      "answer": "PLAN",
+      "clue": "Une proposition détaillée pour faire quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "GLACE",
+      "clue": "De l'eau gelée, ou un dessert froid"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "answer": "MAGNIFIQUE",
+      "clue": "Extrêmement beau ou impressionnant"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "PERFORMANCE",
+      "clue": "Un acte de présentation devant un public"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 10,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "answer": "TAILLE",
+      "clue": "La grandeur ou petitesse de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "FORME",
+      "clue": "Le contour ou l'aspect de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 3,
+      "answer": "CLE",
+      "clue": "Outil métallique utilisé pour ouvrir une serrure"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 3,
+      "answer": "ECHELLE",
+      "clue": "La taille de quelque chose par rapport à une autre"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 7,
+      "answer": "HUILE",
+      "clue": "Liquide glissant utilisé pour cuisiner ou comme carburant"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 14,
+      "answer": "TERME",
+      "clue": "Une période fixe, ou un mot spécifique"
+    }
+  ]
+}

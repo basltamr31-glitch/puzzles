@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_004",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 004",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "AZUL",
+      "clue": "Color de un cielo despejado",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "PAGINA",
+      "clue": "Una hoja de un libro",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "RATON",
+      "clue": "Pequeño roedor de cola larga",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "PIERNA",
+      "clue": "Extremidad usada para caminar",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "MAR",
+      "clue": "Gran extensión de agua salada",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "RIO",
+      "clue": "Gran corriente natural de agua",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "SAL",
+      "clue": "Condimento blanco que sazona la comida",
+      "category": "food"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ar_expert_083",
+  "language": "ar",
+  "difficulty": "expert",
+  "title": "اللغز 083",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "رائحة",
+      "clue": "ما يُحس به عند الشم"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "رمل",
+      "clue": "حبيبات ناعمة تغطي الصحراء والشواطئ"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "عدالة",
+      "clue": "إعطاء كل ذي حق حقه"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "ضعف",
+      "clue": "قلة القوة أو القدرة"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "روح",
+      "clue": "الجانب غير المادي من الإنسان"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "استراتيجية",
+      "clue": "خطة شاملة لتحقيق هدف بعيد المدى"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "عرض",
+      "clue": "المسافة بين جانبي الشيء"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "answer": "اكتشافات",
+      "clue": "جمع اكتشاف"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 14,
+      "answer": "قوة",
+      "clue": "القدرة على القيام بعمل أو التأثير"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 2,
+      "answer": "مستشفيات",
+      "clue": "جمع مستشفى، أماكن علاج المرضى"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "حساب",
+      "clue": "عملية رياضية أو مالية"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 9,
+      "answer": "منظمات",
+      "clue": "جمع منظمة"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 7,
+      "answer": "قانون",
+      "clue": "قاعدة يفرضها المجتمع أو الدولة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "تاريخية",
+      "clue": "صفة تتعلق بالتاريخ"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 11,
+      "answer": "نظام",
+      "clue": "مجموعة قواعد منظمة"
+    }
+  ]
+}

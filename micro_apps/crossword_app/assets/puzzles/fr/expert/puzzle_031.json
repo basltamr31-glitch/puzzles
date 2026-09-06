@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_031",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 031",
+  "rows": 14,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "INCROYABLE",
+      "clue": "Trop extraordinaire pour être cru"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 10,
+      "answer": "TERME",
+      "clue": "Une période fixe, ou un mot spécifique"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 9,
+      "answer": "EMPLOI",
+      "clue": "Un travail rémunéré effectué régulièrement"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "METEOROLOGIE",
+      "clue": "L'étude scientifique du temps"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "answer": "OBJET",
+      "clue": "Un article ou une chose unique"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "GUERRE",
+      "clue": "Un conflit armé entre nations"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 3,
+      "answer": "NEGOCIATION",
+      "clue": "Une discussion visant à parvenir à un accord"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 10,
+      "answer": "TAUX",
+      "clue": "Une mesure de la vitesse à laquelle quelque chose se produit"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "LUMIERE",
+      "clue": "La clarté qui permet de voir"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "TYPE",
+      "clue": "Une catégorie ou sorte de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "FABRICATION",
+      "clue": "La production de biens à grande échelle"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "EQUIPE",
+      "clue": "Un groupe travaillant ensemble vers un but"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 12,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 14,
+      "answer": "UNITE",
+      "clue": "Une seule mesure ou pièce standard"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "CLE",
+      "clue": "Outil métallique utilisé pour ouvrir une serrure"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    }
+  ]
+}

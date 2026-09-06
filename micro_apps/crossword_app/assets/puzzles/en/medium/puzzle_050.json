@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_050",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 050",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "GARDEN",
+      "clue": "Plot of land for growing flowers or vegetables"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "CANDLE",
+      "clue": "A wax stick with a wick, burned for light"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "AGE",
+      "clue": "How many years someone has lived"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "answer": "GAIN",
+      "clue": "An increase in something, like wealth"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "VOYAGE",
+      "clue": "A long journey, especially by sea"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "IDEA",
+      "clue": "A thought or plan"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "FARMER",
+      "clue": "Person who grows crops or raises animals"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "SOUND",
+      "clue": "Something you hear"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "answer": "AREA",
+      "clue": "A particular region or part of something"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "NURSE",
+      "clue": "Medical professional who cares for patients"
+    }
+  ]
+}

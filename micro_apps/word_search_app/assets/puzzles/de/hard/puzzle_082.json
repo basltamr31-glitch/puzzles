@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_082",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 81,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "DVROYJLYZEEI",
+    "MAKTSGTAAHUE",
+    "WJSTEYSZNDEI",
+    "VLUCYEBUXFEB",
+    "DPPKHOBFFDPT",
+    "YEPATOMATEXU",
+    "FNEHCUKNNAFP",
+    "OHLRXVTOBZDF",
+    "VBUTTERILYNV",
+    "EAOJWTBANANE",
+    "RRHKIAYMCUDO",
+    "BNSZERDBEERE"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 9,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "BROT",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "BUTTER",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 11,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 6,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "PFANNKUCHEN",
+      "row": 6,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SCHOKOLADE",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SUPPE",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 11,
+      "col": 3,
+      "dir": "NE"
+    }
+  ]
+}

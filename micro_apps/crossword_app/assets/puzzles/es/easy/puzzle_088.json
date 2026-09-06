@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_088",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 088",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "PAJARO",
+      "clue": "Animal con plumas que puede volar",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "TIBURON",
+      "clue": "Gran pez depredador de dientes afilados",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "GATO",
+      "clue": "Felino doméstico que maúlla",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "NUBE",
+      "clue": "Masa blanca o gris que flota en el cielo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "OSO",
+      "clue": "Animal grande y peludo que vive en el bosque",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "PAN",
+      "clue": "Alimento horneado hecho de harina y agua",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "DIA",
+      "clue": "Un período de 24 horas",
+      "category": "time"
+    }
+  ]
+}

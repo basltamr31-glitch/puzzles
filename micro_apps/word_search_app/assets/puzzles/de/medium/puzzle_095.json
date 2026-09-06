@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_095",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 94,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "TWAXUOPKHD",
+    "RFTICKETFT",
+    "LGPKKPNAIE",
+    "LFBWOAYXHP",
+    "LVAUTORIAV",
+    "KYGHGVKTFC",
+    "LLVKREISEG",
+    "SZREGRDING",
+    "PXGURLAUBV",
+    "XSTMOJKDEY"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FAHRRAD",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "HAFEN",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "KARTE",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "REISE",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "URLAUB",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

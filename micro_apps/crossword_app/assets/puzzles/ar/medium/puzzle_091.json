@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_091",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 091",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "فنان",
+      "clue": "شخص يبدع في مجال من مجالات الفن"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "سيارة",
+      "clue": "مركبة ذات أربع عجلات"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "فكرة",
+      "clue": "تصور ذهني حول موضوع ما"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "دراجة",
+      "clue": "مركبة ذات عجلتين تُدار بالدواسة"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "قانون",
+      "clue": "قاعدة يفرضها المجتمع أو الدولة"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "حساب",
+      "clue": "عملية رياضية أو مالية"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "مدينة",
+      "clue": "منطقة حضرية كبيرة"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "واجب",
+      "clue": "ما يجب على الشخص القيام به"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "answer": "طبيب",
+      "clue": "شخص متخصص في علاج المرضى"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "خبر",
+      "clue": "معلومة جديدة عن حدث ما"
+    }
+  ]
+}

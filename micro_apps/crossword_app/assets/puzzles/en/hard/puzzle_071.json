@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_071",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 071",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "CHALLENGE",
+      "clue": "A task that tests one's abilities"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "ADVENTURE",
+      "clue": "An exciting and daring experience"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "LIGHT",
+      "clue": "Brightness that lets you see"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "SCULPTURE",
+      "clue": "A three-dimensional work of art"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "LOSS",
+      "clue": "The state of no longer having something"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "SPACE",
+      "clue": "An empty area, or the universe beyond Earth"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "TECHNOLOGY",
+      "clue": "Application of science for practical purposes"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "answer": "PASSENGER",
+      "clue": "A person traveling in a vehicle, not driving it"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 12,
+      "answer": "POWER",
+      "clue": "The ability to do or control something"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "SOUND",
+      "clue": "Something you hear"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 8,
+      "answer": "WEB",
+      "clue": "A net spun by a spider, or the internet, informally"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 5,
+      "answer": "RATE",
+      "clue": "A measure of how fast something happens"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "RULE",
+      "clue": "An official instruction on how to behave"
+    }
+  ]
+}

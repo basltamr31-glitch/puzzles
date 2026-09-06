@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_099",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 099",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "ELEVE",
+      "clue": "Personne qui étudie dans une école"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "PERTE",
+      "clue": "L'état de ne plus avoir quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "MIROIR",
+      "clue": "Surface vitrée réfléchissante"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "VELO",
+      "clue": "Véhicule à deux roues propulsé par pédalage"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "PARAPLUIE",
+      "clue": "Objet qui protège de la pluie"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "REPONSE",
+      "clue": "Une réplique à une question"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "COUSSIN",
+      "clue": "Coussin doux pour reposer la tête"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 7,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "TYPE",
+      "clue": "Une catégorie ou sorte de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "ETE",
+      "clue": "Saison la plus chaude de l'année"
+    }
+  ]
+}

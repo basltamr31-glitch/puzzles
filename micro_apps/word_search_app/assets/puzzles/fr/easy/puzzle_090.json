@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_090",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 89,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "RCUFSBJP",
+    "VVGRGEMA",
+    "HTGAAUJI",
+    "LLCITRON",
+    "AZCSERLJ",
+    "IXUEAEKB",
+    "TXKHUVAH",
+    "KMVIIHLB"
+  ],
+  "words": [
+    {
+      "word": "BEURRE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CITRON",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FRAISE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "GATEAU",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "LAIT",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PAIN",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

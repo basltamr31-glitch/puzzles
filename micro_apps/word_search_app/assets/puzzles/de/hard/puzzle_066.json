@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_066",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 65,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "KHVCAKJRYOOD",
+    "ANYCKPALKYLK",
+    "EMDLAAOSBKUJ",
+    "SMBIRJFEMUYZ",
+    "ENORTIZFYCIH",
+    "DRKLOJKDEHYJ",
+    "HMDKFTGTAEGZ",
+    "CIZBFNUOSNDN",
+    "BUTTERRMEVRF",
+    "OLLOLENANABH",
+    "TKWRMFRTNBJZ",
+    "FZLREBLEBWLY"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "BROT",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "BUTTER",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "KAESE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 6,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 4,
+      "col": 6,
+      "dir": "W"
+    }
+  ]
+}

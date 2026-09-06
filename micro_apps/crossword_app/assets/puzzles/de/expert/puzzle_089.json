@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_089",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 089",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 8,
+      "answer": "EINHEIT",
+      "clue": "Ein einzelnes Standardmaß"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "PODEST",
+      "clue": "Eine erhöhte Plattform"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "INTERNATIONAL",
+      "clue": "Mehr als ein Land betreffend"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "AUTONOMIE",
+      "clue": "Freiheit von äußerer Kontrolle"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "INSPIRATION",
+      "clue": "Ein plötzlicher kreativer Einfluss"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "UNTERSUCHUNG",
+      "clue": "Eine sorgfältige Prüfung der Fakten"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "PSYCHOLOGIE",
+      "clue": "Die wissenschaftliche Erforschung von Geist und Verhalten"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "UMSTAND",
+      "clue": "Eine mit einem Ereignis verbundene Bedingung"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 5,
+      "answer": "WERT",
+      "clue": "Wie viel etwas wert ist"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 0,
+      "answer": "TRADITIONELL",
+      "clue": "Alten Bräuchen folgend"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 11,
+      "answer": "TEAM",
+      "clue": "Eine Gruppe, die gemeinsam auf ein Ziel hinarbeitet"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 9,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 13,
+      "answer": "IDEE",
+      "clue": "Ein Gedanke oder Plan"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 9,
+      "answer": "BENZIN",
+      "clue": "Flüssiger Treibstoff für Autos"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "LUFT",
+      "clue": "Das Gas, das wir atmen"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 0,
+      "answer": "FAKT",
+      "clue": "Etwas, das als wahr bekannt ist"
+    }
+  ]
+}

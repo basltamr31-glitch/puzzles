@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_022",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 21,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "SWEATERI",
+    "COATGOSY",
+    "AXHIVHAT",
+    "RXCEHSNM",
+    "FJYZFNDY",
+    "SGHEMXAY",
+    "VCPYQELZ",
+    "KBNOAQSD"
+  ],
+  "words": [
+    {
+      "word": "COAT",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALS",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SCARF",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SWEATER",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TIE",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

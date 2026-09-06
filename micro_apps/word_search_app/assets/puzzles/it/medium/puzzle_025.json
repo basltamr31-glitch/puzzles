@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_025",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 24,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "PRPBUDCERC",
+    "LAIILICLOK",
+    "BQNIAMUERL",
+    "GUGTDCZFAA",
+    "NIUZEBRALQ",
+    "RLIULRSNKU",
+    "NANLFGATTO",
+    "MEOLIUIEHR",
+    "GODDNKZAHE",
+    "KSDTOPOMRG"
+  ],
+  "words": [
+    {
+      "word": "AQUILA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "DELFINO",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GATTO",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PANTERA",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TOPO",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

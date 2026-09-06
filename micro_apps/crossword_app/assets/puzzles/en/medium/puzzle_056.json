@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_056",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 056",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "MIRROR",
+      "clue": "Reflective glass surface"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "LIGHTNING",
+      "clue": "Flash of light during a storm"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "SINGER",
+      "clue": "Person who performs music with their voice"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "AGE",
+      "clue": "How many years someone has lived"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "HISTORY",
+      "clue": "The study of past events"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "VOYAGE",
+      "clue": "A long journey, especially by sea"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "HARBOR",
+      "clue": "A sheltered place where ships dock"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "CHURCH",
+      "clue": "Christian place of worship"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "RISK",
+      "clue": "The chance that something bad might happen"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "answer": "TERM",
+      "clue": "A fixed period of time, or a specific word"
+    }
+  ]
+}

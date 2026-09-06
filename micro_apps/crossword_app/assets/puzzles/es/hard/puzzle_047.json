@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_047",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 047",
+  "rows": 11,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "PODER",
+      "clue": "La capacidad de hacer o controlar algo"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "CIRUGIA",
+      "clue": "Un procedimiento médico para tratar una afección"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "QUIMICO",
+      "clue": "Relativo a sustancias y sus reacciones"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "GALAXIA",
+      "clue": "Un enorme sistema de estrellas"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "ECUADOR",
+      "clue": "La línea imaginaria alrededor del centro de la Tierra"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "META",
+      "clue": "El objetivo hacia el que alguien trabaja"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "TEMPERATURA",
+      "clue": "Una medida de calor o frío"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "ARTE",
+      "clue": "Expresión creativa, como la pintura"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "answer": "HIELO",
+      "clue": "Agua congelada"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "answer": "ORDEN",
+      "clue": "Una secuencia, o una instrucción a seguir"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 9,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    }
+  ]
+}

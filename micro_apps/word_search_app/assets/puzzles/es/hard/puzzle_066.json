@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_066",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 65,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "RGMJESYONGYU",
+    "EQNTFPYOSEUQ",
+    "PNZQGIMQSELV",
+    "ZNNQAIAQMXTP",
+    "BLBALLITROTI",
+    "EHCELOANJMXP",
+    "SLILETSAPOSE",
+    "TMTHTMLHMVSX",
+    "FRESAREPVQQZ",
+    "RRLDHSDQUUJK",
+    "PKAXAYELUVBR",
+    "STBQXBDVRJRI"
+  ],
+  "words": [
+    {
+      "word": "FRESA",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GALLETA",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "LECHE",
+      "row": 5,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "LIMON",
+      "row": 4,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "MIEL",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "PASTEL",
+      "row": 6,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "PERA",
+      "row": 8,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "QUESO",
+      "row": 1,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SOPA",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "TORTILLA",
+      "row": 4,
+      "col": 10,
+      "dir": "W"
+    }
+  ]
+}

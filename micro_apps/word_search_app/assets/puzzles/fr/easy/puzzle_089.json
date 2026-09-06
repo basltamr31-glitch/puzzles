@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_089",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 88,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "YMOUTONQ",
+    "YOFIRUFC",
+    "GRCVBRST",
+    "LEHXUSBL",
+    "MNANLION",
+    "UATGOJPL",
+    "GRQYUZMJ",
+    "HDLQPCFD"
+  ],
+  "words": [
+    {
+      "word": "CHAT",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "LION",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "LOUP",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MOUTON",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "OURS",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "RENARD",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

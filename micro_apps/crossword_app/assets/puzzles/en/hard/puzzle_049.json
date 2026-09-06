@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_049",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 049",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "PRESIDENT",
+      "clue": "The elected head of a republic"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "MONUMENT",
+      "clue": "A structure built to honor a person or event"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "MAGNETIC",
+      "clue": "Having the properties of a magnet"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "ARCHITECTURE",
+      "clue": "The art and science of designing buildings"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "answer": "IDEA",
+      "clue": "A thought or plan"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "PAINTING",
+      "clue": "A picture made using paint"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "UNIT",
+      "clue": "A single standard measure or piece"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "GRAMMAR",
+      "clue": "The rules governing a language's structure"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "TEMPERATURE",
+      "clue": "A measure of how hot or cold something is"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "answer": "STATE",
+      "clue": "A condition, or a political territory"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "AGE",
+      "clue": "How many years someone has lived"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "COST",
+      "clue": "The amount paid for something"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "answer": "TEAM",
+      "clue": "A group working together toward a goal"
+    }
+  ]
+}

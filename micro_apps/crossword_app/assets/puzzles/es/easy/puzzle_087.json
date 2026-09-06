@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_087",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 087",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "PEZ",
+      "clue": "Animal acuático que respira por branquias",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "AZUCAR",
+      "clue": "Sustancia cristalina dulce",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "VERDE",
+      "clue": "Color de la hierba y las hojas",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "ARENA",
+      "clue": "Pequeños granos sueltos en las playas",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "ESCUELA",
+      "clue": "Lugar donde los niños aprenden",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "BEBE",
+      "clue": "Niño muy pequeño",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "PAPEL",
+      "clue": "Material fino usado para escribir",
+      "category": "object"
+    }
+  ]
+}

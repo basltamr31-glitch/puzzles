@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_012",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 11,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "WINDOWOA",
+    "HXBSXMGV",
+    "ZSWFZLAR",
+    "CUPXRARI",
+    "MMNNNMDF",
+    "LDCARPET",
+    "FCEILING",
+    "CJNEYVTK"
+  ],
+  "words": [
+    {
+      "word": "CARPET",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CEILING",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CUP",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GARDEN",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LAMP",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "WINDOW",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

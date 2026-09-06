@@ -1,0 +1,58 @@
+{
+  "id": "es_easy_071",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 071",
+  "rows": 5,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "LLUVIA",
+      "clue": "Agua que cae de las nubes",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "PLAYA",
+      "clue": "Zona de arena junto al mar",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "LAPIZ",
+      "clue": "Herramienta para escribir",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "AÑO",
+      "clue": "Un período de doce meses",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "SUEÑO",
+      "clue": "Descanso con los ojos cerrados",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "RIO",
+      "clue": "Gran corriente natural de agua",
+      "category": "place"
+    }
+  ]
+}

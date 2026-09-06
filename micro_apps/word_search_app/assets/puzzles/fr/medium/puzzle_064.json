@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_064",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 63,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "YKNYQNUQNE",
+    "NMETSTADEI",
+    "AGKIBARNGF",
+    "ERFOOTBALL",
+    "XQZQXHITXM",
+    "VVUQELTACA",
+    "OUAIUERTRQ",
+    "SQMXPTEIQJ",
+    "ZHOCKEYOUV",
+    "JUIJHCENPK"
+  ],
+  "words": [
+    {
+      "word": "ARBITRE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BOXE",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "EQUIPE",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "FOOTBALL",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "NATATION",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "STADE",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

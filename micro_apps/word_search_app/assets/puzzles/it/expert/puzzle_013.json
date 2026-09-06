@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_013",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 12,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "CHFVAAMTEHUUBE",
+    "EGLABMAGDRYBYX",
+    "GOAFRONTEOXEUR",
+    "ETIGALOVIYPVCA",
+    "ZILHCLPHPZSEUA",
+    "GMGMCOCYGNGOUY",
+    "DOILICXXENIVBR",
+    "XGVNOHEKSTZAOP",
+    "GEAQYZZREUXGMY",
+    "EOCLOQOSOORPHI",
+    "MMMLLETMOYNXSG",
+    "EIIBCARSCGFOED",
+    "MTNSCOPCHYZTGS",
+    "GZNFBIPSRSECSL"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CAVIGLIA",
+      "row": 9,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "COLLO",
+      "row": 6,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "FRONTE",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GAMBA",
+      "row": 1,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "GOMITO",
+      "row": 7,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "MANO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 7,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 9,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "PIEDE",
+      "row": 4,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "SPALLA",
+      "row": 13,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "TESTA",
+      "row": 7,
+      "col": 9,
+      "dir": "SW"
+    }
+  ]
+}

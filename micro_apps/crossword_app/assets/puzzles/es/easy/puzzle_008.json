@@ -1,0 +1,58 @@
+{
+  "id": "es_easy_008",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 008",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "OJO",
+      "clue": "Órgano usado para ver",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "PERRO",
+      "clue": "Animal doméstico fiel que ladra",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SONRISA",
+      "clue": "Expresión feliz del rostro",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "PLATA",
+      "clue": "Metal precioso gris y brillante",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "LOBO",
+      "clue": "Animal salvaje emparentado con el perro",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "SAL",
+      "clue": "Condimento blanco que sazona la comida",
+      "category": "food"
+    }
+  ]
+}

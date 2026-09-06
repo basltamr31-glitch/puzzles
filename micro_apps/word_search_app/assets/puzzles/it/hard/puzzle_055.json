@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_055",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 54,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "IBOTROPASSAP",
+    "MXHIDPXUFTHP",
+    "OICICERNTAXI",
+    "GLVCFMGEYZMP",
+    "KDEOVALIGIAG",
+    "VOQYXCSNKOPM",
+    "OTTEILGIBNPF",
+    "ZPDCIUOEREAO",
+    "FFIVZNLZCLRV",
+    "FBORERDZIZUZ",
+    "UYBRZRHLDOCL",
+    "AUTOSDNCZXUT"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "AUTO",
+      "row": 11,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BICICLETTA",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "BIGLIETTO",
+      "row": 6,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "MAPPA",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "PASSAPORTO",
+      "row": 0,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "STAZIONE",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 2,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "TRENO",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "VALIGIA",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

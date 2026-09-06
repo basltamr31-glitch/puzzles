@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_034",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 33,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "PWUVZELE",
+    "PANCAKEU",
+    "POTATOTQ",
+    "ORYCOZUP",
+    "JAPLMILK",
+    "YNGRAPEY",
+    "FGLFTJMC",
+    "LERROQXU"
+  ],
+  "words": [
+    {
+      "word": "GRAPE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MILK",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "ORANGE",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "POTATO",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATO",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

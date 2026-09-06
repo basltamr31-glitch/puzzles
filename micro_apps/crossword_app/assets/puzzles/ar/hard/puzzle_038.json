@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_038",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 038",
+  "rows": 13,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "اكتشاف",
+      "clue": "العثور على شيء جديد لأول مرة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "مسافة",
+      "clue": "المقدار الفاصل بين مكانين"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "مشروع",
+      "clue": "خطة أو عمل يُنفذ لتحقيق هدف"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "اقتصاد",
+      "clue": "علم إنتاج السلع والخدمات وتوزيعها"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "حساب",
+      "clue": "عملية رياضية أو مالية"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "رأس",
+      "clue": "الجزء العلوي من الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "مؤسسة",
+      "clue": "جهة تعمل بشكل منظم لتحقيق أهداف"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "استقلال",
+      "clue": "حرية دولة من السيطرة الخارجية"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "دراسة",
+      "clue": "عملية تعلم واكتساب المعرفة"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "رمل",
+      "clue": "حبيبات ناعمة تغطي الصحراء والشواطئ"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "answer": "دولية",
+      "clue": "صفة تتعلق بأكثر من دولة"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "قلب",
+      "clue": "العضو الذي يضخ الدم في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "احتفال",
+      "clue": "مناسبة يجتمع فيها الناس للفرح"
+    }
+  ]
+}

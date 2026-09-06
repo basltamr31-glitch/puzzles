@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_015",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 14,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "UVVVZPVK",
+    "RTFREISE",
+    "LHAFENCD",
+    "AOLTHXHJ",
+    "UPPUTEIK",
+    "BAHNHOFT",
+    "HZUGAGFV",
+    "GNAYDSJE"
+  ],
+  "words": [
+    {
+      "word": "BAHNHOF",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HAFEN",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "REISE",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "URLAUB",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "ZUG",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

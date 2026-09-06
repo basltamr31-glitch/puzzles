@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_032",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 31,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "VCSBOQLDPRJV",
+    "BVKTMYUXOIMV",
+    "NOITATANBBBI",
+    "XLXQJDOAUPZZ",
+    "PLKECHECSEEE",
+    "PEPRTPKBTHGH",
+    "AYLACMPEEYXK",
+    "BBRNLOLPNATL",
+    "CACSKHUANXNB",
+    "MLPPTTBRIXUT",
+    "MLLABTEKSABS",
+    "SYTEVKHIJEKU"
+  ],
+  "words": [
+    {
+      "word": "ATHLETE",
+      "row": 10,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "BASKETBALL",
+      "row": 10,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "BOXE",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "COURSE",
+      "row": 6,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "ECHECS",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MARATHON",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "NATATION",
+      "row": 2,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "STADE",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TENNIS",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "VOLLEYBALL",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

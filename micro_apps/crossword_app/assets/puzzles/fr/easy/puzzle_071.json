@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_071",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 071",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "FEMME",
+      "clue": "Personne adulte de sexe féminin",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "EAU",
+      "clue": "Liquide clair essentiel à la vie",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "DESERT",
+      "clue": "Zone sèche et sablonneuse avec peu de pluie",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "ROUTE",
+      "clue": "Voie sur laquelle circulent les voitures",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "BOUCHE",
+      "clue": "Ouverture utilisée pour manger et parler",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "BOIS",
+      "clue": "Matériau dont sont faits les arbres",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "PEAU",
+      "clue": "Enveloppe extérieure du corps",
+      "category": "body"
+    }
+  ]
+}

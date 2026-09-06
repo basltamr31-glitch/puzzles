@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_044",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 43,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "FANBRQOE",
+    "VTAPPETO",
+    "KBVCXCBT",
+    "LYEMKUAA",
+    "EMOSRCGV",
+    "TCUSCINO",
+    "TGDVZNOL",
+    "OVHEUASO"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CUCINA",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LETTO",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

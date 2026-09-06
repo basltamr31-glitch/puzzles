@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_075",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 74,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "HVXMENFS",
+    "SOLEILAY",
+    "MLURJGFX",
+    "ICIELUMT",
+    "FARBREHL",
+    "LNUAGEMX",
+    "JFTAGPDH",
+    "CDCZNNST"
+  ],
+  "words": [
+    {
+      "word": "ARBRE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CIEL",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MER",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "NUAGE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

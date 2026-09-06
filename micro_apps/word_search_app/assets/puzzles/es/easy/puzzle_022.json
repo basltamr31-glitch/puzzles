@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_022",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 21,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "JNLKERVB",
+    "RGUANTEU",
+    "LJSCBNSF",
+    "GCORBATA",
+    "COLLARIN",
+    "HDJEOTDD",
+    "RFJZAEOA",
+    "SUETERVB"
+  ],
+  "words": [
+    {
+      "word": "BUFANDA",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "COLLAR",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CORBATA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GUANTE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SUETER",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "test_fixture_001",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 0,
+  "theme": "animals",
+  "size": 4,
+  "rows": ["CATD", "OXXO", "XWXG", "XXLX"],
+  "words": [
+    { "word": "CAT", "row": 0, "col": 0, "dir": "E" },
+    { "word": "DOG", "row": 0, "col": 3, "dir": "S" },
+    { "word": "OWL", "row": 1, "col": 0, "dir": "SE" }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "it_hard_078",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 078",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "LAVORO",
+      "clue": "Un impiego retribuito svolto regolarmente"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "LINGUA",
+      "clue": "Un sistema di parole usato per comunicare"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "TEATRO",
+      "clue": "Un edificio dove si rappresentano spettacoli"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "SCALA",
+      "clue": "La dimensione di qualcosa rispetto a un'altra"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "FATTO",
+      "clue": "Qualcosa che si sa essere vero"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "AMBIENTE",
+      "clue": "Il mondo naturale che ci circonda"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "ESPERIMENTO",
+      "clue": "Un test scientifico per scoprire qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "EQUATORE",
+      "clue": "La linea immaginaria attorno al centro della Terra"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 8,
+      "answer": "FORZA",
+      "clue": "Il potere esercitato su qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "UNIVERSO",
+      "clue": "Tutto lo spazio e tutto ciò che contiene"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 4,
+      "answer": "FRASE",
+      "clue": "Un gruppo di parole che esprime un pensiero completo"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 4,
+      "answer": "ECONOMIA",
+      "clue": "Il sistema di produzione e scambio"
+    }
+  ]
+}

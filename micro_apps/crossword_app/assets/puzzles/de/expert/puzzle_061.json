@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_061",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 061",
+  "rows": 14,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "AUTONOMIE",
+      "clue": "Freiheit von äußerer Kontrolle"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "GEDENKTAG",
+      "clue": "Die jährliche Wiederkehr eines besonderen Datums"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "TEAM",
+      "clue": "Eine Gruppe, die gemeinsam auf ein Ziel hinarbeitet"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "PRACHTVOLL",
+      "clue": "Äußerst schön oder beeindruckend"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "ORGANISATION",
+      "clue": "Eine Gruppe von Menschen mit einem gemeinsamen Ziel"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 4,
+      "answer": "ZUGANG",
+      "clue": "Möglichkeit, etwas zu betreten oder zu nutzen"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 13,
+      "answer": "RAUM",
+      "clue": "Ein leerer Bereich, oder das Universum"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "MODELL",
+      "clue": "Eine Darstellung von etwas, oft kleiner"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "KLANG",
+      "clue": "Etwas, das man hört"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 8,
+      "answer": "AKTUELL",
+      "clue": "Zur Gegenwart gehörend, gegenwärtig"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "LUFT",
+      "clue": "Das Gas, das wir atmen"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_098",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 098",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "COST",
+      "clue": "The amount paid for something"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "AUTHENTICATION",
+      "clue": "The process of proving something is genuine"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "DISTRIBUTION",
+      "clue": "The action of sharing something out"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "ASTRONOMY",
+      "clue": "The scientific study of stars and planets"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "PHILOSOPHICAL",
+      "clue": "Relating to the study of fundamental truths"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "EXTRAORDINARY",
+      "clue": "Very unusual or remarkable"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "PSYCHOLOGY",
+      "clue": "The scientific study of the mind and behavior"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "BIODIVERSITY",
+      "clue": "The variety of life found in an ecosystem"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "SKY",
+      "clue": "The space above the earth, seen from the ground"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "RISK",
+      "clue": "The chance that something bad might happen"
+    },
+    {
+      "direction": "down",
+      "row": 12,
+      "col": 4,
+      "answer": "ICE",
+      "clue": "Frozen water"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 1,
+      "answer": "SIZE",
+      "clue": "How big or small something is"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 14,
+      "answer": "PLAN",
+      "clue": "A detailed proposal for doing something"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 11,
+      "answer": "LIGHT",
+      "clue": "Brightness that lets you see"
+    },
+    {
+      "direction": "down",
+      "row": 12,
+      "col": 13,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    },
+    {
+      "direction": "down",
+      "row": 12,
+      "col": 8,
+      "answer": "OIL",
+      "clue": "Slippery liquid used for cooking or fuel"
+    }
+  ]
+}

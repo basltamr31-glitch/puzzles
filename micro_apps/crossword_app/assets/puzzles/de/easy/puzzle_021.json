@@ -1,0 +1,50 @@
+{
+  "id": "de_easy_021",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 021",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "HAUT",
+      "clue": "Äußere Hülle des Körpers",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "MUND",
+      "clue": "Öffnung zum Essen und Sprechen",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "KUCHEN",
+      "clue": "Süßes gebackenes Dessert, oft zum Geburtstag",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "HAUS",
+      "clue": "Gebäude, in dem man wohnt",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "HERZ",
+      "clue": "Organ, das das Blut durch den Körper pumpt",
+      "category": "body"
+    }
+  ]
+}

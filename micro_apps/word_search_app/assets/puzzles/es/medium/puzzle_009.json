@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_009",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 8,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "MYDARINVDF",
+    "UYODELFINC",
+    "BBVZLZLYGJ",
+    "HVEMEOOLOS",
+    "NGJTFSBRVF",
+    "YCABALLORA",
+    "VAPINGUINO",
+    "OBKMTPPBLG",
+    "XRNJEBUFTG",
+    "HAQCVVZRVT"
+  ],
+  "words": [
+    {
+      "word": "CABALLO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CABRA",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "DELFIN",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "LOBO",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "OVEJA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ZORRO",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    }
+  ]
+}

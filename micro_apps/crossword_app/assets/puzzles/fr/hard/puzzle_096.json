@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_096",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 096",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "RECOLTE",
+      "clue": "La collecte des récoltes mûres"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "PUBLIC",
+      "clue": "Le groupe qui regarde un spectacle"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "IDEE",
+      "clue": "Une pensée ou un plan"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "DICTIONNAIRE",
+      "clue": "Un livre qui répertorie des mots et leurs sens"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "TELESCOPE",
+      "clue": "Instrument utilisé pour observer des objets lointains"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 4,
+      "answer": "PERTE",
+      "clue": "L'état de ne plus avoir quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "LITTERATURE",
+      "clue": "Des œuvres écrites appréciées pour leur art"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "CONTINENT",
+      "clue": "Une des grandes masses continentales de la Terre"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "answer": "REGLE",
+      "clue": "Une instruction officielle sur la façon de se comporter"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 10,
+      "answer": "CIEL",
+      "clue": "L'espace au-dessus de la terre"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "SON",
+      "clue": "Quelque chose que l'on entend"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 8,
+      "answer": "COUT",
+      "clue": "Le montant payé pour quelque chose"
+    }
+  ]
+}

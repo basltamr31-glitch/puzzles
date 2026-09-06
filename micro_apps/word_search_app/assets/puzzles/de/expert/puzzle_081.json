@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_081",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 80,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "KKYHKABWOAZWJG",
+    "DVZNAXGBRJWWTY",
+    "OXHMEZKAECAZIW",
+    "LEWKEJFELZVLFF",
+    "TXKNYIIRESTMUJ",
+    "DHDOBFEGFPIAGH",
+    "HWSPUGZIAASKKS",
+    "DMXWISRNNZCHAG",
+    "CUATBNTJTIXSMJ",
+    "ZKWTZHGIRAFFER",
+    "WTAGEBPUJGNLLE",
+    "AIKROKODILWOEL",
+    "UBKXUMRDANVWVD",
+    "UGRPLHHJMFIXEA"
+  ],
+  "words": [
+    {
+      "word": "ADLER",
+      "row": 13,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "BAER",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "DELFIN",
+      "row": 12,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "ELEFANT",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 9,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "KAMEL",
+      "row": 6,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "KATZE",
+      "row": 6,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 11,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANTHER",
+      "row": 5,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 6,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "TIGER",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "WOLF",
+      "row": 12,
+      "col": 11,
+      "dir": "N"
+    }
+  ]
+}

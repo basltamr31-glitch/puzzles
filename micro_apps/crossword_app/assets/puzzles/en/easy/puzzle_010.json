@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_010",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 010",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "LEAF",
+      "clue": "Flat green part of a plant",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "STONE",
+      "clue": "A small piece of rock",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "ARM",
+      "clue": "Limb between the shoulder and the hand",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "BOOK",
+      "clue": "Bound pages you read",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "MOUSE",
+      "clue": "Small rodent with a long tail",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "MILK",
+      "clue": "White liquid from cows, often drunk",
+      "category": "food"
+    }
+  ]
+}

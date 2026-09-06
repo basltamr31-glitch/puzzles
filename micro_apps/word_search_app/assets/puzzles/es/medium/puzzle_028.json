@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_028",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 27,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "GEBETAZAYB",
+    "DSSILLAHBG",
+    "MHTVUFODIQ",
+    "VJYMLONRIV",
+    "JXZEQMJVCQ",
+    "VMTSNBIRNB",
+    "LAMPARAQSG",
+    "LNBEJARDIN",
+    "PTHJSJFPXV",
+    "AAXOJABPOU"
+  ],
+  "words": [
+    {
+      "word": "ALFOMBRA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "JARDIN",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MANTA",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "MESA",
+      "row": 6,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SILLA",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TAZA",
+      "row": 0,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

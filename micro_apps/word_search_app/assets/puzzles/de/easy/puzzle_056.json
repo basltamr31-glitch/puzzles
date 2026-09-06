@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_056",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 55,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "LAUFPTES",
+    "EHBSDAAR",
+    "IOAEDRRE",
+    "SCHACHER",
+    "CKBOXENL",
+    "TENNISNA",
+    "NYUDEUEW",
+    "RIVYGINV"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "LAUF",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RENNEN",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SCHACH",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

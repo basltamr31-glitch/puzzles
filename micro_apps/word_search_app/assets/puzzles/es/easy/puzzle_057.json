@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_057",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 56,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "LRFUVLAR",
+    "UVZCABRA",
+    "HRRTIGDO",
+    "DZDINBIQ",
+    "XHVGHXLX",
+    "HPERROLA",
+    "AMCEBRAZ",
+    "LEONFXFY"
+  ],
+  "words": [
+    {
+      "word": "ARDILLA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CABRA",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CEBRA",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LEON",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PERRO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TIGRE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

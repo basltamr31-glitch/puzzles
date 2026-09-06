@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_015",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 14,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "NRUCKSACKO",
+    "TERCXMMTJF",
+    "VILZSVJLBL",
+    "YSAFDCIOHU",
+    "NEUVCAHZUG",
+    "KPBMKKGIRH",
+    "FAHRRADAFA",
+    "KSCXXRDOMF",
+    "SSXRNTPKEE",
+    "TPNPEEFUIN"
+  ],
+  "words": [
+    {
+      "word": "FAHRRAD",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FLUGHAFEN",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "KARTE",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "REISEPASS",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "RUCKSACK",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "URLAUB",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ZUG",
+      "row": 4,
+      "col": 7,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_006",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 5,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "PGEVPSDCIS",
+    "ABRIGOMOIH",
+    "NCAMJMCLLC",
+    "TOPANTALON",
+    "URRTQQLAYX",
+    "FBHOTSCRQO",
+    "LAMSCTEGGA",
+    "ATIMBYTNCY",
+    "SANDALIASL",
+    "IDBUFANDAO"
+  ],
+  "words": [
+    {
+      "word": "ABRIGO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BUFANDA",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CALCETIN",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "COLLAR",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CORBATA",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PANTALON",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANTUFLAS",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALIAS",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

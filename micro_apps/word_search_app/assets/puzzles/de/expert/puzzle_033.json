@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_033",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 32,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "WCZWMKJKEEDKYN",
+    "KLHWTHCVLOFZEG",
+    "BIEPPBNFDNUHPR",
+    "FPMVEWMDYYCFAP",
+    "MISGJCHPNNHLOZ",
+    "ROUIADLERLSWEB",
+    "TCGKFEGEIZYBFZ",
+    "JSDHOHOFMHRLHR",
+    "TNESCHAFMAJTIK",
+    "VVLIHTCAFDKREH",
+    "VEFCAPURSWSYEP",
+    "JBIDSSAINSEJBL",
+    "WENZEYAGVHVHKP",
+    "HDBWETWAFJCIRV"
+  ],
+  "words": [
+    {
+      "word": "ADLER",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "DELFIN",
+      "row": 7,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "EICHHOERNCHEN",
+      "row": 12,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "FUCHS",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 12,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "HASE",
+      "row": 9,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HUND",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "KAMEL",
+      "row": 9,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "MAUS",
+      "row": 8,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "SCHAF",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 4,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "ZIEGE",
+      "row": 6,
+      "col": 9,
+      "dir": "W"
+    }
+  ]
+}

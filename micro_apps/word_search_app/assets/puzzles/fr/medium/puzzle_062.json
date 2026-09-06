@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_062",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 61,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "IDAZCUUKTO",
+    "FGCBRPFCIJ",
+    "AXOEANRHSK",
+    "PBLCVSBAGU",
+    "RALVAKKPAA",
+    "CEINTURENV",
+    "XSEOEEKATE",
+    "TZRVMRCUAS",
+    "UBUKNHUZDT",
+    "OKLHZBROBE"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CEINTURE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CHAPEAU",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "COLLIER",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CRAVATE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "GANT",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "ROBE",
+      "row": 9,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "VESTE",
+      "row": 5,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

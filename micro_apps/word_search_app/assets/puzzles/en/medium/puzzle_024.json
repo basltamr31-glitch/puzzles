@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_024",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 23,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "RUNQSZPSTE",
+    "CAYHOCKEYF",
+    "ZTCPTENNIS",
+    "ZTCETKXEQT",
+    "RIYOYGOALA",
+    "AXSKRYTDVD",
+    "OKWLMKFEBI",
+    "BMNBDDLBAU",
+    "XLERQISWIM",
+    "GGJMOJPCTP"
+  ],
+  "words": [
+    {
+      "word": "GOAL",
+      "row": 4,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "RACE",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "RUN",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STADIUM",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SWIM",
+      "row": 8,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "TENNIS",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

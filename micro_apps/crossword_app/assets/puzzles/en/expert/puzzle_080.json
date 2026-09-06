@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_080",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 080",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "PLAN",
+      "clue": "A detailed proposal for doing something"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "CIRCUMSTANCE",
+      "clue": "A condition connected to an event"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "PSYCHOLOGY",
+      "clue": "The scientific study of the mind and behavior"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "LEVEL",
+      "clue": "A particular standard or height"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "INSPIRATION",
+      "clue": "A sudden creative or motivating influence"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 7,
+      "answer": "WAR",
+      "clue": "Armed conflict between nations"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "CONSTITUTION",
+      "clue": "The fundamental principles of a state"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 11,
+      "answer": "SOUND",
+      "clue": "Something you hear"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "SHAPE",
+      "clue": "The form or outline of something"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 14,
+      "answer": "ACHIEVEMENT",
+      "clue": "Something accomplished successfully"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 6,
+      "answer": "LOSS",
+      "clue": "The state of no longer having something"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "AGE",
+      "clue": "How many years someone has lived"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 9,
+      "answer": "ITEM",
+      "clue": "A single article or object"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "RULE",
+      "clue": "An official instruction on how to behave"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "TEAM",
+      "clue": "A group working together toward a goal"
+    }
+  ]
+}

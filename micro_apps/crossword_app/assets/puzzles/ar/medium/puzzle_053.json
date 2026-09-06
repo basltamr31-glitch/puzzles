@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_053",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 053",
+  "rows": 10,
+  "cols": 8,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "مشكلة",
+      "clue": "أمر صعب يحتاج إلى معالجة"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "مصنع",
+      "clue": "مكان تُصنع فيه المنتجات"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "علم",
+      "clue": "معرفة منظمة تقوم على الملاحظة والتجربة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "جائزة",
+      "clue": "مكافأة تُمنح للفائز"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "ميدان",
+      "clue": "ساحة واسعة في المدينة"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "معلمة",
+      "clue": "امرأة تعمل في التدريس"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "answer": "ممثل",
+      "clue": "شخص يؤدي أدواراً في الأفلام أو المسرحيات"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "سلام",
+      "clue": "حالة خلو من الحرب والنزاع"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "عمل",
+      "clue": "نشاط يقوم به الإنسان لكسب المال"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "سؤال",
+      "clue": "عبارة تُطرح للحصول على معلومة"
+    }
+  ]
+}

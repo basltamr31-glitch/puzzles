@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_056",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 056",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "CULTURE",
+      "clue": "Les coutumes et croyances d'une société"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "LABORATOIRE",
+      "clue": "Une pièce équipée pour la recherche scientifique"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "ECHELLE",
+      "clue": "La taille de quelque chose par rapport à une autre"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "PERTE",
+      "clue": "L'état de ne plus avoir quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "VOTE",
+      "clue": "Un choix formel fait lors d'une élection"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "answer": "TELESCOPE",
+      "clue": "Instrument utilisé pour observer des objets lointains"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "LUMIERE",
+      "clue": "La clarté qui permet de voir"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "answer": "VACCIN",
+      "clue": "Une substance qui protège contre une maladie"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 10,
+      "answer": "EQUATEUR",
+      "clue": "La ligne imaginaire autour du milieu de la Terre"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 4,
+      "answer": "POUVOIR",
+      "clue": "La capacité de faire ou de contrôler quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 7,
+      "answer": "MODELE",
+      "clue": "Une représentation de quelque chose, souvent plus petite"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "IDEE",
+      "clue": "Une pensée ou un plan"
+    }
+  ]
+}

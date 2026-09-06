@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_064",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 064",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "ACQUA",
+      "clue": "Liquido chiaro essenziale per la vita",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "SEDIA",
+      "clue": "Mobile su cui ci si siede",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "FIUME",
+      "clue": "Grande corso d'acqua naturale",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "LEONE",
+      "clue": "Grande felino, re della savana",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "SQUALO",
+      "clue": "Grande pesce predatore dai denti affilati",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "ORSO",
+      "clue": "Grande animale peloso che vive nei boschi",
+      "category": "animal"
+    }
+  ]
+}

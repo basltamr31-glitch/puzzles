@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_096",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 096",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "PLAYA",
+      "clue": "Zona de arena junto al mar",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "MADRE",
+      "clue": "Progenitor femenino",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "PIEDRA",
+      "clue": "Un pequeño trozo de roca",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "PEZ",
+      "clue": "Animal acuático que respira por branquias",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "MAR",
+      "clue": "Gran extensión de agua salada",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "RIO",
+      "clue": "Gran corriente natural de agua",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "HORA",
+      "clue": "Una unidad de tiempo de sesenta minutos",
+      "category": "time"
+    }
+  ]
+}

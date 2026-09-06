@@ -1,0 +1,101 @@
+{
+  "id": "it_hard_024",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 024",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "SOCIETA",
+      "clue": "Una grande comunità che vive insieme"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "RISCHIO",
+      "clue": "La possibilità che accada qualcosa di brutto"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "GALASSIA",
+      "clue": "Un enorme sistema di stelle"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "DIZIONARIO",
+      "clue": "Un libro che elenca parole e i loro significati"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "TECNOLOGIA",
+      "clue": "Applicazione della scienza per scopi pratici"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "LABORATORIO",
+      "clue": "Una stanza attrezzata per la ricerca scientifica"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "GOVERNO",
+      "clue": "Il gruppo che dirige ufficialmente un paese"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "LINGUA",
+      "clue": "Un sistema di parole usato per comunicare"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "FATTO",
+      "clue": "Qualcosa che si sa essere vero"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "LUCE",
+      "clue": "La chiarezza che permette di vedere"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "answer": "MUSCOLO",
+      "clue": "Tessuto che produce movimento nel corpo"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "answer": "LAVORO",
+      "clue": "Un impiego retribuito svolto regolarmente"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "VOTO",
+      "clue": "Una scelta formale fatta in un'elezione"
+    }
+  ]
+}

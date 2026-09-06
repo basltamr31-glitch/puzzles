@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_030",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 29,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "RYNHOMJDZJESLH",
+    "RXSZSFEUCMIKVQ",
+    "OOEKXJTPHJMFYE",
+    "GKLIIBRLAYPFCF",
+    "MDACEINTUREYFZ",
+    "CIDPTLRUSCRCCY",
+    "NBNJAOZZSXMGNN",
+    "ENAOBRACELETXB",
+    "TDSELFUOTNAPLH",
+    "STEKSABZTHBUCO",
+    "EZTPBKTREILLOC",
+    "VZHSDUPNGNELHS",
+    "XQCROXHJAKGEJY",
+    "MDFEBTLOYPPQTJ"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 9,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "BRACELET",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CEINTURE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CHAUSSETTE",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "COLLIER",
+      "row": 10,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "IMPERMEABLE",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "PANTALON",
+      "row": 13,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "PANTOUFLES",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PULL",
+      "row": 8,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "ROBE",
+      "row": 5,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "SANDALES",
+      "row": 8,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "VESTE",
+      "row": 11,
+      "col": 0,
+      "dir": "N"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_002",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 1,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "NICWAAIEWJRH",
+    "DJOTAMOTXBAF",
+    "DELPUTQVJIOS",
+    "FPETALOCOHCY",
+    "FZMTVNLASUHO",
+    "FTORRACOFFEE",
+    "WPNMCEPARGEU",
+    "AODDSGPPKTSD",
+    "DGDELCYRLEEL",
+    "CMNTZGXNKERB",
+    "BVXXFPOBKCEN",
+    "QSPMDGZEZFIY"
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "CARROT",
+      "row": 5,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "CHEESE",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "COFFEE",
+      "row": 5,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "GRAPE",
+      "row": 6,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "LEMON",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "POTATO",
+      "row": 6,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "TOMATO",
+      "row": 1,
+      "col": 7,
+      "dir": "W"
+    }
+  ]
+}

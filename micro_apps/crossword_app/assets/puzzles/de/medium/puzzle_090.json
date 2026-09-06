@@ -1,0 +1,73 @@
+{
+  "id": "de_medium_090",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 090",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "BENZIN",
+      "clue": "Flüssiger Treibstoff für Autos"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "HAFEN",
+      "clue": "Ein geschützter Ort, an dem Schiffe anlegen"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "GEWINN",
+      "clue": "Eine Zunahme von etwas, wie Vermögen"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "KIRCHE",
+      "clue": "Christlicher Ort der Andacht"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "GEWITTER",
+      "clue": "Sturm mit Blitz und Donner"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "JACKE",
+      "clue": "Ein kurzer Übermantel"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "FLASCHE",
+      "clue": "Ein enghalsiger Behälter für Flüssigkeiten"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    }
+  ]
+}

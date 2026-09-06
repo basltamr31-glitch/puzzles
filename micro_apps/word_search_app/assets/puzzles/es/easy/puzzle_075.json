@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_075",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 74,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "GVIENTOR",
+    "LHPLAYAR",
+    "APRADERA",
+    "CMONTANA",
+    "IQSVVCCH",
+    "ATAQDMSL",
+    "RTYSLUTZ",
+    "CHOJAZKB"
+  ],
+  "words": [
+    {
+      "word": "GLACIAR",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "HOJA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MONTANA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PLAYA",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PRADERA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VIENTO",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

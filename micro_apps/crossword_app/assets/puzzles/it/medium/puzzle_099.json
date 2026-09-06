@@ -1,0 +1,80 @@
+{
+  "id": "it_medium_099",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 099",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "MUSICA",
+      "clue": "Suono organizzato, spesso con melodia e ritmo"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "CANTANTE",
+      "clue": "Persona che fa musica con la voce"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "COSTO",
+      "clue": "La somma pagata per qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "MACCHINA",
+      "clue": "Apparecchio usato per scattare fotografie, o un'auto"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "answer": "CIELO",
+      "clue": "Lo spazio sopra la terra"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "MAPPA",
+      "clue": "Un disegno che mostra dove si trovano i luoghi"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "TESORO",
+      "clue": "Un prezioso tesoro nascosto"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "PITTORE",
+      "clue": "Artista che lavora con la pittura"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "POTERE",
+      "clue": "La capacità di fare o controllare qualcosa"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_075",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 74,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "DOUSIYHV",
+    "VNIAFIGI",
+    "AECNCIIP",
+    "ZBIZISVI",
+    "EBUMEMAE",
+    "XISOLAYT",
+    "MAREOTBR",
+    "OPIOGGIA"
+  ],
+  "words": [
+    {
+      "word": "CIELO",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ISOLA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MARE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PIETRA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

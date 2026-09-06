@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_094",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 094",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "HIMMEL",
+      "clue": "Der Raum über der Erde"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "TIER",
+      "clue": "Jedes Lebewesen, das keine Pflanze ist"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "MARKT",
+      "clue": "Ort, an dem Waren gekauft und verkauft werden"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "KOMPASS",
+      "clue": "Werkzeug, das die Nordrichtung zeigt"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "MUSIK",
+      "clue": "Organisierter Klang mit Melodie und Rhythmus"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "AUFGABE",
+      "clue": "Eine Lerneinheit zu einem Thema"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "MALER",
+      "clue": "Künstler, der mit Farbe arbeitet"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "DECKE",
+      "clue": "Innere Oberfläche oben in einem Raum"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "PLAN",
+      "clue": "Ein detaillierter Vorschlag zur Erledigung von etwas"
+    }
+  ]
+}

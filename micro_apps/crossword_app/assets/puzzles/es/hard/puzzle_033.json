@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_033",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 033",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "UNIVERSO",
+      "clue": "Todo el espacio y todo lo que contiene"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "REGLA",
+      "clue": "Una instrucción oficial sobre cómo comportarse"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "FUERZA",
+      "clue": "El poder ejercido sobre algo"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "AVENTURA",
+      "clue": "Una experiencia emocionante y audaz"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "TERREMOTO",
+      "clue": "Una sacudida repentina del suelo"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "TECLADO",
+      "clue": "Conjunto de teclas usadas para escribir"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "GOBIERNO",
+      "clue": "El grupo que dirige oficialmente un país"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 12,
+      "answer": "SOCIEDAD",
+      "clue": "Una gran comunidad que vive junta"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "CULTURA",
+      "clue": "Las costumbres y creencias de una sociedad"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 6,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 10,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 9,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_095",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 095",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "MONTAÑA",
+      "clue": "Relieve natural muy elevado",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "MANO",
+      "clue": "Parte del cuerpo al final del brazo",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SILLA",
+      "clue": "Mueble en el que uno se sienta",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "SUEÑO",
+      "clue": "Descanso con los ojos cerrados",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "ORO",
+      "clue": "Metal precioso de color amarillo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "OSO",
+      "clue": "Animal grande y peludo que vive en el bosque",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "BEBE",
+      "clue": "Niño muy pequeño",
+      "category": "people"
+    }
+  ]
+}

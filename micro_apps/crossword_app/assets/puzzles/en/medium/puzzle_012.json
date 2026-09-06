@@ -1,0 +1,73 @@
+{
+  "id": "en_medium_012",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 012",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "SOLDIER",
+      "clue": "A member of an army"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "MUSEUM",
+      "clue": "Building that displays historical or artistic objects"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "OIL",
+      "clue": "Slippery liquid used for cooking or fuel"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "LAW",
+      "clue": "A rule enforced by a government"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "DOCTOR",
+      "clue": "Medical professional who treats patients"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "DRAGON",
+      "clue": "Mythical fire-breathing creature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "STATE",
+      "clue": "A condition, or a political territory"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "AREA",
+      "clue": "A particular region or part of something"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "INSECT",
+      "clue": "Small six-legged creature like an ant or bee"
+    }
+  ]
+}

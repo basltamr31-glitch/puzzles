@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_030",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 29,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "NPOPFCFKCS",
+    "TYAAEAGYOC",
+    "MSRNEPSXLA",
+    "SAGTTPNALR",
+    "TNGABOBIAP",
+    "TDYLRTFKNE",
+    "YAZOITGOAT",
+    "ZLPNUOZBLT",
+    "NIAEXHNSXE",
+    "SCIARPAEMC"
+  ],
+  "words": [
+    {
+      "word": "CAPPOTTO",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "COLLANA",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "MAGLIONE",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTALONE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PANTOFOLE",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SANDALI",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SCARPETTE",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SCIARPA",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

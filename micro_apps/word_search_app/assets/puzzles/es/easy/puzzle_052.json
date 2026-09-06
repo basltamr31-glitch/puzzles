@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_052",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 51,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "QESPEJOA",
+    "RFIIBANO",
+    "PFLPARJM",
+    "EQLXADSE",
+    "ZIAARIDS",
+    "YXEMANTA",
+    "NYQVHIRM",
+    "HSNHTCLZ"
+  ],
+  "words": [
+    {
+      "word": "BANO",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "JARDIN",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MANTA",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MESA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SILLA",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

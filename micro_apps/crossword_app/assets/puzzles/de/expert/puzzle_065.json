@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_065",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 065",
+  "rows": 14,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "KOMMUNIKATION",
+      "clue": "Der Austausch von Informationen zwischen Menschen"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 9,
+      "answer": "GESETZ",
+      "clue": "Eine von der Regierung durchgesetzte Regel"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "ANERKENNUNG",
+      "clue": "Anerkennung des Wertes von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "VERHANDLUNG",
+      "clue": "Eine Diskussion zur Erreichung einer Einigung"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "GELEGENHEIT",
+      "clue": "Eine gute Chance für Fortschritt"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "ERRUNGENSCHAFT",
+      "clue": "Etwas erfolgreich Erreichtes"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "RISIKO",
+      "clue": "Die Chance, dass etwas Schlechtes passiert"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 14,
+      "answer": "REGEL",
+      "clue": "Eine offizielle Anweisung, wie man sich verhält"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "answer": "MACHT",
+      "clue": "Die Fähigkeit, etwas zu tun oder zu kontrollieren"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 7,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "EINHEIT",
+      "clue": "Ein einzelnes Standardmaß"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 12,
+      "answer": "ZUGANG",
+      "clue": "Möglichkeit, etwas zu betreten oder zu nutzen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "IDEE",
+      "clue": "Ein Gedanke oder Plan"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "LUFT",
+      "clue": "Das Gas, das wir atmen"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 10,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 6,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    }
+  ]
+}

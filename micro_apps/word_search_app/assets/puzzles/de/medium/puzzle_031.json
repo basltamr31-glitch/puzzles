@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_031",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 30,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "HHDSODWKAK",
+    "ODBSADFPKE",
+    "BKGOTHGPMF",
+    "JAUTOBAHNS",
+    "XRHOOISFBX",
+    "DTYNTICKET",
+    "OEAFHYHWIN",
+    "BVNXCOIAFZ",
+    "AIWUIVFZUG",
+    "HALZBJFJHE"
+  ],
+  "words": [
+    {
+      "word": "AUTOBAHN",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BAHNHOF",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "HAFEN",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "KARTE",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "TICKET",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "ZUG",
+      "row": 8,
+      "col": 7,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_062",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 61,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "TSINLGPEXBFU",
+    "EESANDALILNN",
+    "OHLDNVNOPTKV",
+    "DSEPANTOFOLE",
+    "BDGATTAVARCM",
+    "NVGPOLLEPPAC",
+    "ONEPTVOQLGBY",
+    "EKPSEDNATUGL",
+    "YAFETTEPRACS",
+    "CVFRDIPFXNQZ",
+    "ACHZTMTBPTZZ",
+    "GYANALLOCOXT"
+  ],
+  "words": [
+    {
+      "word": "CAPPELLO",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CAPPOTTO",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "COLLANA",
+      "row": 11,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "CRAVATTA",
+      "row": 4,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "GUANTO",
+      "row": 6,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PANTALONE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PANTOFOLE",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALI",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCARPETTE",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "VESTITO",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

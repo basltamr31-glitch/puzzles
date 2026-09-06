@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_049",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 049",
+  "rows": 13,
+  "cols": 11,
+  "words": [
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "معلومة",
+      "clue": "حقيقة أو بيان يُعرف عن أمر ما"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 1,
+      "answer": "طعم",
+      "clue": "ما يُحس به عند تذوق الطعام"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "answer": "نفسية",
+      "clue": "صفة تتعلق بالنفس والعقل"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 3,
+      "answer": "ضوء",
+      "clue": "إشعاع يساعد على الرؤية"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "نظارات",
+      "clue": "جمع نظارة"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "استثمار",
+      "clue": "توظيف المال لتحقيق أرباح"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "تطوير",
+      "clue": "عملية تحسين شيء ما"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "answer": "مساحة",
+      "clue": "مقدار السطح الذي يشغله شيء ما"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "لقاءات",
+      "clue": "جمع لقاء، اجتماعات بين أشخاص"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "مناخ",
+      "clue": "حالة الطقس السائدة في منطقة"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "معدن",
+      "clue": "مادة صلبة كالحديد أو الذهب"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "فلسفة",
+      "clue": "دراسة الأسئلة الأساسية حول الوجود"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 4,
+      "answer": "حضارة",
+      "clue": "مرحلة متقدمة من تطور مجتمع"
+    }
+  ]
+}

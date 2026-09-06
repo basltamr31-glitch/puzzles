@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_022",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 21,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "QEMPFNVTBB",
+    "AYOAGKEURO",
+    "UBZNNHSHEY",
+    "KCRTLTTCXA",
+    "ZJBASKETSZ",
+    "QOJLCNSAON",
+    "QJZONEFSUX",
+    "BGANTRLYDS",
+    "YTCOLLIERV",
+    "LJNCRAVATE"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BRACELET",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "COLLIER",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CRAVATE",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GANT",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTALON",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "VESTE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

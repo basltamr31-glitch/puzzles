@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_023",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 22,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "DFVDCGKJGS",
+    "AVACATIONQ",
+    "RSTRAINUBQ",
+    "KHAOVCERYC",
+    "HITJKKINKM",
+    "CPLANESESB",
+    "AGKTXTTYHU",
+    "ROPIZIWTLS",
+    "IVXCKHGSUL",
+    "UUPJSJXHRM"
+  ],
+  "words": [
+    {
+      "word": "BUS",
+      "row": 5,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PLANE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SHIP",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TICKET",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TRAIN",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VACATION",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

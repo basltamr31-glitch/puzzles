@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_024",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 23,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "YMPHAKGO",
+    "VUCORQHF",
+    "FZGCBSQF",
+    "LNOKITAB",
+    "ATLETAMS",
+    "THLYRDKE",
+    "YGXQOIOF",
+    "CALCIOAO"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ATLETA",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CALCIO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GOL",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "STADIO",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

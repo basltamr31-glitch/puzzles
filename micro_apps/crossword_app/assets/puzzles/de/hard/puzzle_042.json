@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_042",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 042",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "answer": "HIMMEL",
+      "clue": "Der Raum über der Erde"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "RAUMSCHIFF",
+      "clue": "Ein Fahrzeug für die Raumfahrt"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "UMWELT",
+      "clue": "Die natürliche Welt um uns herum"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "UNIVERSUM",
+      "clue": "Der gesamte Raum und alles darin"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 8,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "AUSSTELLUNG",
+      "clue": "Eine öffentliche Darstellung von Kunst"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 10,
+      "answer": "RAUM",
+      "clue": "Ein leerer Bereich, oder das Universum"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "ORDNUNG",
+      "clue": "Eine Reihenfolge, oder eine Anweisung"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "answer": "BENZIN",
+      "clue": "Flüssiger Treibstoff für Autos"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "RISIKO",
+      "clue": "Die Chance, dass etwas Schlechtes passiert"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "answer": "ZUGANG",
+      "clue": "Möglichkeit, etwas zu betreten oder zu nutzen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    }
+  ]
+}

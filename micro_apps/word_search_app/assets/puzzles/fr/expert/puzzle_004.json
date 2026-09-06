@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_004",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 3,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "AIUFYPXTRMPPEX",
+    "HFXGMJRMNOFUDR",
+    "FLQFEARURZEEFG",
+    "FMGZERHTBTXEPT",
+    "SALLEDEBAINJYT",
+    "DCIKNIXGMERTBS",
+    "CUISINEFTUEUII",
+    "ASNNMRIRHLPENI",
+    "NFFMEEESBKBSQH",
+    "AVHPHOIASMQISM",
+    "PLVCCQTURUAAEX",
+    "EANEDHAMTFOHLI",
+    "ZJPUIJXRAYQCCG",
+    "EDLNKPIEJUDLJA"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 6,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CHAISE",
+      "row": 12,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "CHAMBRE",
+      "row": 12,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "CHEMINEE",
+      "row": 10,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 12,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "CUISINE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 2,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "FENETRE",
+      "row": 2,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "JARDIN",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PORTE",
+      "row": 0,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "SALLEDEBAIN",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 10,
+      "col": 6,
+      "dir": "NE"
+    }
+  ]
+}

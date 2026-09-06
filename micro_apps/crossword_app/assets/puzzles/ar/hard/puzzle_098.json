@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_098",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 098",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "مساحة",
+      "clue": "مقدار السطح الذي يشغله شيء ما"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "اختراع",
+      "clue": "ابتكار جهاز أو وسيلة جديدة"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "استثمار",
+      "clue": "توظيف المال لتحقيق أرباح"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "قوة",
+      "clue": "القدرة على القيام بعمل أو التأثير"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "حجر",
+      "clue": "مادة صلبة طبيعية"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "استكشاف",
+      "clue": "عملية البحث والتقصي عن أمر مجهول"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "احتفال",
+      "clue": "مناسبة يجتمع فيها الناس للفرح"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "answer": "معلومة",
+      "clue": "حقيقة أو بيان يُعرف عن أمر ما"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 11,
+      "answer": "علمية",
+      "clue": "صفة تتعلق بالعلم"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "مسافة",
+      "clue": "المقدار الفاصل بين مكانين"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 10,
+      "answer": "ظل",
+      "clue": "منطقة مظلمة يحجب فيها الضوء"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 6,
+      "answer": "مؤسسة",
+      "clue": "جهة تعمل بشكل منظم لتحقيق أهداف"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "علاقة",
+      "clue": "رابطة بين شخصين أو أكثر"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_057",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 057",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "WIND",
+      "clue": "Moving air",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "GREEN",
+      "clue": "Color of grass and leaves",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "SILVER",
+      "clue": "Shiny precious gray-white metal",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "SEED",
+      "clue": "What a plant grows from",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "DAY",
+      "clue": "A 24-hour period, from sunrise to sunrise",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "PLAY",
+      "clue": "To have fun, often with games or toys",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "NIGHT",
+      "clue": "The dark part of the day",
+      "category": "time"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_095",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 095",
+  "rows": 6,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "حجم",
+      "clue": "مقدار المساحة التي يشغلها جسم"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "أمطار",
+      "clue": "جمع مطر"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "حق",
+      "clue": "ما يستحقه الشخص"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "واجب",
+      "clue": "ما يجب على الشخص القيام به"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "حقيبة",
+      "clue": "وعاء يُستخدم لحمل الأغراض"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "قلب",
+      "clue": "العضو الذي يضخ الدم في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "بطولة",
+      "clue": "منافسة كبرى لتحديد الأفضل"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "answer": "وزن",
+      "clue": "مقدار ثقل الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "أنف",
+      "clue": "عضو الشم في الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "answer": "فن",
+      "clue": "تعبير إبداعي بالرسم أو الموسيقى أو غيرها"
+    }
+  ]
+}

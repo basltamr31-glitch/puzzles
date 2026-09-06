@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_043",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 42,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "EHAXIESZ",
+    "TMRXKHTG",
+    "SKUOSHRL",
+    "ELPCUSEA",
+    "TREENWIC",
+    "MNGASGFI",
+    "STONEIWE",
+    "ZCQITARR"
+  ],
+  "words": [
+    {
+      "word": "GLACIER",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "OCEAN",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SEA",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SUNSET",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TREE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

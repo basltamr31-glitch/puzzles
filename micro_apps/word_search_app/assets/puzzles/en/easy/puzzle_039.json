@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_039",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 38,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "BSTATION",
+    "IJPLANEA",
+    "COBUSTIM",
+    "YUWFYRHG",
+    "CRLFTAUO",
+    "LNASGIEN",
+    "EEFCGNJY",
+    "RYYXGVWB"
+  ],
+  "words": [
+    {
+      "word": "BICYCLE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PLANE",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STATION",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

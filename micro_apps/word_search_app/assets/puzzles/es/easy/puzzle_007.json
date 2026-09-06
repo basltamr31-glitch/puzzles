@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_007",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 6,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "AZRYDQAN",
+    "XRRCTMBX",
+    "PMAPABAQ",
+    "GHVSXNRL",
+    "MNIPIZCJ",
+    "BBOLETOQ",
+    "CUNXTNSL",
+    "MSRFQUMR"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BARCO",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BOLETO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "MAPA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_028",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 028",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "ساعة",
+      "clue": "أداة تُظهر الوقت",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "كرسي",
+      "clue": "مقعد يجلس عليه الإنسان",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "نافذة",
+      "clue": "فتحة في الجدار للضوء والهواء",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "نار",
+      "clue": "ألسنة لهب حارة ومضيئة",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "ذئب",
+      "clue": "حيوان بري قريب من الكلب",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "خبز",
+      "clue": "طعام يُصنع من الدقيق ويُخبز",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "عمر",
+      "clue": "عدد السنوات التي عاشها الإنسان",
+      "category": "time"
+    }
+  ]
+}

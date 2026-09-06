@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_064",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 63,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "MZHIZFSM",
+    "EFBVDAAF",
+    "SPOARTQU",
+    "TMXEJLMT",
+    "AJEDREZB",
+    "DGOLRTIO",
+    "IJBQIAHL",
+    "ODFMYPKJ"
+  ],
+  "words": [
+    {
+      "word": "AJEDREZ",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ATLETA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BOXEO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ESTADIO",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "FUTBOL",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GOL",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

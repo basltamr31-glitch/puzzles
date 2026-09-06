@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_004",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 3,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "IOCBHVGVVQYP",
+    "ENUYVGPSSPAY",
+    "HKSNOVXRUNMK",
+    "CTCUUAGNYBAM",
+    "PYIOTTELBMPI",
+    "VBNRPAKFLCFF",
+    "OQOOSEDIAXHE",
+    "YPKBDAREMACL",
+    "VXLASMUTPALO",
+    "FCCGOLOVATXG",
+    "NHYNFNCGDKHI",
+    "ROHONIDRAIGM"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 7,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CAMERA",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "COPERTA",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "LETTO",
+      "row": 4,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "PORTA",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "SEDIA",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 9,
+      "col": 9,
+      "dir": "W"
+    }
+  ]
+}

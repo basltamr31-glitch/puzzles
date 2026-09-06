@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_040",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 39,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "FBCEREFPXNMSLE",
+    "FYNALEUFOXQFVU",
+    "GGMGBRWCRFCGBX",
+    "NFOWRECCOSJVYD",
+    "IABLDFYHMMSURB",
+    "LLABTEKSABIEEV",
+    "CLSGKRNRTKKWHB",
+    "YCBCEMAETRJDSC",
+    "CFOALTDCFBPRZT",
+    "FHXVHQTBEWJDXV",
+    "NGIOTBECYSMTMW",
+    "MRNSWHVEVFJXPL",
+    "GLGWZRTZXQTVPU",
+    "TTBRRVJTRILTIQ"
+  ],
+  "words": [
+    {
+      "word": "BASKETBALL",
+      "row": 5,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "BOXING",
+      "row": 7,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CHESS",
+      "row": 7,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "CYCLING",
+      "row": 8,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "GOAL",
+      "row": 2,
+      "col": 3,
+      "dir": "SW"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "MARATHON",
+      "row": 4,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "RACE",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "REFEREE",
+      "row": 6,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "SOCCER",
+      "row": 3,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SWIM",
+      "row": 7,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "TEAM",
+      "row": 7,
+      "col": 8,
+      "dir": "W"
+    }
+  ]
+}

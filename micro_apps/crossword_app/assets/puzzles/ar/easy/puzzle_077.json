@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_077",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 077",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "كرسي",
+      "clue": "مقعد يجلس عليه الإنسان",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "غرفة",
+      "clue": "مساحة مغلقة داخل منزل",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "بيت",
+      "clue": "مكان يسكن فيه الإنسان",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "طاولة",
+      "clue": "أثاث ذو سطح مستوٍ للأكل أو العمل",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "لبن",
+      "clue": "سائل أبيض يأتي من الأبقار",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "حذاء",
+      "clue": "ما يُلبس في القدمين",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "سنة",
+      "clue": "مدة اثني عشر شهراً",
+      "category": "time"
+    }
+  ]
+}

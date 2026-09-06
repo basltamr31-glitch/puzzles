@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_005",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 005",
+  "rows": 11,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "استكشاف",
+      "clue": "عملية البحث والتقصي عن أمر مجهول"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "ثقافة",
+      "clue": "مجموعة عادات وتقاليد ومعارف مجتمع"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "بيئة",
+      "clue": "المحيط الطبيعي الذي نعيش فيه"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "مساجد",
+      "clue": "جمع مسجد، أماكن أداء الصلاة"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "answer": "مساحة",
+      "clue": "مقدار السطح الذي يشغله شيء ما"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "ضعف",
+      "clue": "قلة القوة أو القدرة"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "اكتشاف",
+      "clue": "العثور على شيء جديد لأول مرة"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "answer": "بطء",
+      "clue": "قلة السرعة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "اختراع",
+      "clue": "ابتكار جهاز أو وسيلة جديدة"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "answer": "مناخ",
+      "clue": "حالة الطقس السائدة في منطقة"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 8,
+      "answer": "صوت",
+      "clue": "ما يُسمع عند الكلام أو الحركة"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "قوة",
+      "clue": "القدرة على القيام بعمل أو التأثير"
+    }
+  ]
+}

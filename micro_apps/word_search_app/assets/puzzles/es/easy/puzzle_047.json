@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_047",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 46,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "VIAJEIMZ",
+    "QBOLETOB",
+    "MLONIRCS",
+    "KTAXIEHP",
+    "SMTGPNID",
+    "BQJZUGLK",
+    "CHLMAPAJ",
+    "DTMQGTZA"
+  ],
+  "words": [
+    {
+      "word": "BOLETO",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MAPA",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TREN",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "VIAJE",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

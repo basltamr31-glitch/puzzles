@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_011",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 10,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "XPROMDVX",
+    "DHABFCFC",
+    "EAQEOSYU",
+    "VLGIGCBE",
+    "EBMRLIOL",
+    "NEBBIASA",
+    "TRMDAECL",
+    "OOCIELOR"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "BOSCO",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CIELO",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VENTO",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

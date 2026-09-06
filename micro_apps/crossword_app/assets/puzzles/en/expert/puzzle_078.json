@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_078",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 078",
+  "rows": 14,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "INTELLIGENCE",
+      "clue": "The ability to acquire and apply knowledge"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "INSPIRATION",
+      "clue": "A sudden creative or motivating influence"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "IMAGINATION",
+      "clue": "The ability to form new ideas or images"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "answer": "OPPORTUNITY",
+      "clue": "A good chance for progress or advancement"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 9,
+      "answer": "ITEM",
+      "clue": "A single article or object"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 8,
+      "answer": "WAR",
+      "clue": "Armed conflict between nations"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 1,
+      "answer": "AREA",
+      "clue": "A particular region or part of something"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "GAIN",
+      "clue": "An increase in something, like wealth"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "LIGHT",
+      "clue": "Brightness that lets you see"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "STAGE",
+      "clue": "A raised platform, or a phase of a process"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "SHAPE",
+      "clue": "The form or outline of something"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "AIR",
+      "clue": "The gas we breathe"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 10,
+      "answer": "OIL",
+      "clue": "Slippery liquid used for cooking or fuel"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "RULE",
+      "clue": "An official instruction on how to behave"
+    }
+  ]
+}

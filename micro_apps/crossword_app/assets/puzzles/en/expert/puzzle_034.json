@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_034",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 034",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "RULE",
+      "clue": "An official instruction on how to behave"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "COMMUNICATION",
+      "clue": "The exchange of information between people"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "MODEL",
+      "clue": "A representation of something, often smaller"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 7,
+      "answer": "RISK",
+      "clue": "The chance that something bad might happen"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "answer": "REPRESENTATIVE",
+      "clue": "A person chosen to act on behalf of others"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "ADMINISTRATION",
+      "clue": "The management of an organization"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 2,
+      "answer": "CASE",
+      "clue": "An instance of something, or a container"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "REVOLUTIONARY",
+      "clue": "Involving a dramatic, wide-reaching change"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "WAR",
+      "clue": "Armed conflict between nations"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "ROLE",
+      "clue": "A part someone plays in a story or job"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 14,
+      "answer": "CHOREOGRAPHER",
+      "clue": "A person who designs dance movements"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "WEB",
+      "clue": "A net spun by a spider, or the internet, informally"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 6,
+      "answer": "FACT",
+      "clue": "Something known to be true"
+    },
+    {
+      "direction": "down",
+      "row": 12,
+      "col": 6,
+      "answer": "SKY",
+      "clue": "The space above the earth, seen from the ground"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "JOB",
+      "clue": "Paid work someone does regularly"
+    }
+  ]
+}

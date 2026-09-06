@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_099",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 98,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "ARCOBALENOZG",
+    "KSKPFYLAIZLI",
+    "POPCLNCCQSSI",
+    "INRRVSCLTHNG",
+    "EEHATACSACPS",
+    "TMECIELOSVAA",
+    "RRKHZSTBVXOM",
+    "ANGATNOMEGGV",
+    "BALOEGULLRHQ",
+    "OFFVSVAKAVOQ",
+    "UXILNUASSGEY",
+    "QGNGAUNEHCNF"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "ARCOBALENO",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CASCATA",
+      "row": 4,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CIELO",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GHIACCIO",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "ISOLA",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "MONTAGNA",
+      "row": 7,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "PIETRA",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SOLE",
+      "row": 5,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "VENTO",
+      "row": 9,
+      "col": 3,
+      "dir": "NE"
+    }
+  ]
+}

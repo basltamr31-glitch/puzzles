@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_032",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 31,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "DCOURSEO",
+    "RREBEBUT",
+    "FJQQNHKE",
+    "GSUMAOBN",
+    "ZZINQCCN",
+    "NQPOFKMI",
+    "TFECHECS",
+    "KDDIJYFH"
+  ],
+  "words": [
+    {
+      "word": "BUT",
+      "row": 1,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "COURSE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ECHECS",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "EQUIPE",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

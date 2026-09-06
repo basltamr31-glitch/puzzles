@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_004",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 3,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "XCVETDNYLOLY",
+    "VUNQQTEFEGXA",
+    "XIJQLFXTGYTF",
+    "ESSATKRYFFSV",
+    "NISSUOCXMMRR",
+    "ANCPPAHSEDKA",
+    "AERTENEFQNBL",
+    "FRIORIMXYMCX",
+    "SNBTAPISAELV",
+    "LJHRRZNKOHXN",
+    "NIABEDELLASH",
+    "XEISJPELBATY"
+  ],
+  "words": [
+    {
+      "word": "CHEMINEE",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 4,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "CUISINE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FENETRE",
+      "row": 6,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "MIROIR",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "PORTE",
+      "row": 5,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "SALLEDEBAIN",
+      "row": 10,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "TABLE",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "TAPIS",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TASSE",
+      "row": 3,
+      "col": 4,
+      "dir": "W"
+    }
+  ]
+}

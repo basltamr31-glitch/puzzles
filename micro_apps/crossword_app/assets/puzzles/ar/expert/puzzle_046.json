@@ -1,0 +1,122 @@
+{
+  "id": "ar_expert_046",
+  "language": "ar",
+  "difficulty": "expert",
+  "title": "اللغز 046",
+  "rows": 15,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "شكل",
+      "clue": "الهيئة الخارجية للشيء"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "answer": "ظل",
+      "clue": "منطقة مظلمة يحجب فيها الضوء"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "اكتشافات",
+      "clue": "جمع اكتشاف"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "فن",
+      "clue": "تعبير إبداعي بالرسم أو الموسيقى أو غيرها"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "مستشفيات",
+      "clue": "جمع مستشفى، أماكن علاج المرضى"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "جغرافية",
+      "clue": "صفة تتعلق بجغرافيا الأرض"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 10,
+      "answer": "استراتيجية",
+      "clue": "خطة شاملة لتحقيق هدف بعيد المدى"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 3,
+      "answer": "رمل",
+      "clue": "حبيبات ناعمة تغطي الصحراء والشواطئ"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 5,
+      "answer": "إمكانيات",
+      "clue": "جمع إمكانية، قدرات متاحة"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 9,
+      "answer": "عرض",
+      "clue": "المسافة بين جانبي الشيء"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "حرية",
+      "clue": "القدرة على التصرف دون قيود"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "answer": "حجم",
+      "clue": "مقدار المساحة التي يشغلها جسم"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "تحديات",
+      "clue": "جمع تحدٍ، صعوبات تواجه الشخص"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "أنف",
+      "clue": "عضو الشم في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "تاريخية",
+      "clue": "صفة تتعلق بالتاريخ"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 12,
+      "answer": "صوت",
+      "clue": "ما يُسمع عند الكلام أو الحركة"
+    }
+  ]
+}

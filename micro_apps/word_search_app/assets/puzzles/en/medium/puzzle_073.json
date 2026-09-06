@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_073",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 72,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "HMTWCZLMCU",
+    "FAYDRAHBZI",
+    "VEBCOTMDYC",
+    "IHWUCIREYO",
+    "ANJMOUSELH",
+    "YWKZDOGRIX",
+    "GEOXINUCOW",
+    "BFAHLDTANT",
+    "BPLEEPELYB",
+    "LBLUQTZFEN"
+  ],
+  "words": [
+    {
+      "word": "ANT",
+      "row": 7,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "CAMEL",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "COW",
+      "row": 6,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "DEER",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "DOG",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "LION",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "MOUSE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

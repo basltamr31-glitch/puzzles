@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_024",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 024",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "answer": "PRAHLEREI",
+      "clue": "Übertriebenes Angeben oder Loben der eigenen Leistungen"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "FAKT",
+      "clue": "Etwas, das als wahr bekannt ist"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "QUALIFIKATION",
+      "clue": "Eine Fähigkeit, die jemanden für eine Rolle geeignet macht"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "BAHNBRECHEND",
+      "clue": "Eine dramatische, wegweisende Neuerung betreffend"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 3,
+      "answer": "BEDEUTUNG",
+      "clue": "Die Wichtigkeit von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "WERT",
+      "clue": "Wie viel etwas wert ist"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "METEOROLOGIE",
+      "clue": "Die wissenschaftliche Erforschung des Wetters"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 14,
+      "answer": "ZIEL",
+      "clue": "Das Ergebnis, auf das jemand hinarbeitet"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "GELEGENHEIT",
+      "clue": "Eine gute Chance für Fortschritt"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "PSYCHOLOGIE",
+      "clue": "Die wissenschaftliche Erforschung von Geist und Verhalten"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 12,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "PODEST",
+      "clue": "Eine erhöhte Plattform"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "GEWINN",
+      "clue": "Eine Zunahme von etwas, wie Vermögen"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "IDEE",
+      "clue": "Ein Gedanke oder Plan"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 11,
+      "answer": "FALL",
+      "clue": "Ein Beispiel für etwas, oder ein Behälter"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 14,
+      "answer": "STAAT",
+      "clue": "Ein Zustand, oder ein politisches Gebiet"
+    }
+  ]
+}

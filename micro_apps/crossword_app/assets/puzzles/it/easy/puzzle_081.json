@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_081",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 081",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "NASO",
+      "clue": "Organo usato per annusare",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "SOLE",
+      "clue": "Stella al centro del nostro sistema solare",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "CAPELLI",
+      "clue": "Ciò che cresce sulla testa",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "GAMBA",
+      "clue": "Arto usato per camminare",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "LAGO",
+      "clue": "Grande distesa d'acqua circondata da terra",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "ORA",
+      "clue": "Un'unità di tempo di sessanta minuti",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SEDIA",
+      "clue": "Mobile su cui ci si siede",
+      "category": "home"
+    }
+  ]
+}

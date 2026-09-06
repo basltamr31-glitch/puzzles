@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_022",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 022",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "AMI",
+      "clue": "Une personne que l'on aime et en qui on a confiance",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CHAMP",
+      "clue": "Terrain ouvert pour les cultures",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SERPENT",
+      "clue": "Reptile sans pattes qui rampe",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "PORTE",
+      "clue": "Panneau qui s'ouvre pour entrer dans une pièce",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "NEZ",
+      "clue": "Organe utilisé pour sentir",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "SEL",
+      "clue": "Assaisonnement blanc qui relève les plats",
+      "category": "food"
+    }
+  ]
+}

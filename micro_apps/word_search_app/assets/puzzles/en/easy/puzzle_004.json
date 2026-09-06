@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_004",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 3,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "RQHGKBJN",
+    "HCARPETW",
+    "UILAKGDL",
+    "ZMLMKROU",
+    "LFWINDOW",
+    "PLAMPBRN",
+    "VZYTYPUZ",
+    "WVBHKFGB"
+  ],
+  "words": [
+    {
+      "word": "CARPET",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DOOR",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "LAMP",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RUG",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "WINDOW",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

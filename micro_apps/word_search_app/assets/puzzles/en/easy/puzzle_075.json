@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_075",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 74,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "WBEZITXC",
+    "KFJNBESO",
+    "CRCHWCKS",
+    "JXHRRLYY",
+    "QRAINOVM",
+    "WQWVNUUD",
+    "SVMEADOW",
+    "PKTREERU"
+  ],
+  "words": [
+    {
+      "word": "CLOUD",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MEADOW",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RIVER",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SKY",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TREE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

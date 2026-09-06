@@ -1,0 +1,73 @@
+{
+  "id": "it_medium_003",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 003",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "STORIA",
+      "clue": "Lo studio degli eventi passati"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "FARFALLA",
+      "clue": "Insetto con grandi ali colorate"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "CLIMA",
+      "clue": "Stato dell'atmosfera, caldo, freddo, piovoso"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "OMBRELLO",
+      "clue": "Oggetto che protegge dalla pioggia"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "UNITA",
+      "clue": "Una singola misura o pezzo standard"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "GUADAGNO",
+      "clue": "Un aumento di qualcosa, come la ricchezza"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "CIELO",
+      "clue": "Lo spazio sopra la terra"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "CANDELA",
+      "clue": "Un bastoncino di cera con uno stoppino"
+    }
+  ]
+}

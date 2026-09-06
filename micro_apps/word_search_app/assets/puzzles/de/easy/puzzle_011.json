@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_011",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 10,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "NEBELSLJ",
+    "GWBLATTW",
+    "MIIPDRXG",
+    "WEBWWAVY",
+    "IREGENSI",
+    "NPRUIDFX",
+    "DAGRPCRR",
+    "VVRMJGSG"
+  ],
+  "words": [
+    {
+      "word": "BERG",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BLATT",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "NEBEL",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "REGEN",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "STRAND",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "WIND",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

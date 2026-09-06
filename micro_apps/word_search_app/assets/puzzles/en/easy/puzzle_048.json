@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_048",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 47,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "PYMUSBIP",
+    "XIZKTOAA",
+    "RUNJAXSR",
+    "APOODIMC",
+    "CYCLINGH",
+    "EPUSUGGE",
+    "BJNKMFIR",
+    "EQLRODFY"
+  ],
+  "words": [
+    {
+      "word": "ARCHERY",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BOXING",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CYCLING",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RACE",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "RUN",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STADIUM",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

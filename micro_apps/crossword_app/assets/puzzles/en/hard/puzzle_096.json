@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_096",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 096",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 10,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 10,
+      "answer": "SHAPE",
+      "clue": "The form or outline of something"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "answer": "CONTINENT",
+      "clue": "One of Earth's seven large landmasses"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "answer": "STATE",
+      "clue": "A condition, or a political territory"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "CEREMONY",
+      "clue": "A formal event marking an occasion"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "CHARACTER",
+      "clue": "A person portrayed in a story"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "VALUE",
+      "clue": "How much something is worth"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "HURRICANE",
+      "clue": "A powerful tropical storm"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "answer": "RATE",
+      "clue": "A measure of how fast something happens"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 4,
+      "answer": "SYMPHONY",
+      "clue": "A long musical composition for orchestra"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "answer": "EQUATOR",
+      "clue": "The imaginary line around Earth's middle"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "LAW",
+      "clue": "A rule enforced by a government"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "IDEA",
+      "clue": "A thought or plan"
+    }
+  ]
+}

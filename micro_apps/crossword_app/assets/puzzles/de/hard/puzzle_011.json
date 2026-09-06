@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_011",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 011",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "CHEMISCH",
+      "clue": "Auf Stoffe und ihre Reaktionen bezogen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "FEIER",
+      "clue": "Ein Ereignis, das einen besonderen Anlass markiert"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "ORCHESTER",
+      "clue": "Eine große Gruppe von Musikern"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "KRAFT",
+      "clue": "Stärke oder Energie, die auf etwas wirkt"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "ERFINDUNG",
+      "clue": "Ein neu geschaffenes Gerät oder Verfahren"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "LICHT",
+      "clue": "Helligkeit, die das Sehen ermöglicht"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 5,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "TEAM",
+      "clue": "Eine Gruppe, die gemeinsam auf ein Ziel hinarbeitet"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "SATZ",
+      "clue": "Eine Gruppe von Wörtern mit vollständigem Sinn"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "ERDBEBEN",
+      "clue": "Ein plötzliches Erschüttern des Bodens"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 12,
+      "answer": "VULKAN",
+      "clue": "Ein Berg, der ausbrechen kann"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 11,
+      "answer": "ERNTE",
+      "clue": "Das Einbringen reifer Feldfrüchte"
+    }
+  ]
+}

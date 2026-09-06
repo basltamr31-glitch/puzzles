@@ -1,0 +1,58 @@
+{
+  "id": "es_easy_038",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 038",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "VIENTO",
+      "clue": "Aire en movimiento",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "NUBE",
+      "clue": "Masa blanca o gris que flota en el cielo",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "SILLA",
+      "clue": "Mueble en el que uno se sienta",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "CABEZA",
+      "clue": "Parte superior del cuerpo, con el cerebro",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "RATON",
+      "clue": "Pequeño roedor de cola larga",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "HOJA",
+      "clue": "Parte verde y plana de una planta",
+      "category": "nature"
+    }
+  ]
+}

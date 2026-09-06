@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_025",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 24,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "ZTCEVJNTCJFA",
+    "XOMALLIDRASY",
+    "CXRIOSCERGIT",
+    "ZEIRBAEEBUKN",
+    "OEBROJTCAISV",
+    "HTHRANZNPLMQ",
+    "ABEJAPDOFAAU",
+    "IBEPEIIKAMYB",
+    "FVLXTBOOYKZC",
+    "ONIUGNIPOLFL",
+    "OENYSQMZSCHC",
+    "ZVKKDOKDXVYM"
+  ],
+  "words": [
+    {
+      "word": "ABEJA",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "AGUILA",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "ARDILLA",
+      "row": 1,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CEBRA",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "LOBO",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "OVEJA",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "PANTERA",
+      "row": 7,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 9,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "TIGRE",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "ZORRO",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

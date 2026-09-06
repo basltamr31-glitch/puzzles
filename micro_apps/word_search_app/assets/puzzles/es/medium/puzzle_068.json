@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_068",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 67,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "EBSGNIZCMH",
+    "RECJEUQHET",
+    "ENABBQAISE",
+    "YBKLICAMAU",
+    "KESTANTEDV",
+    "UAUENMONKD",
+    "YXUDESPEJO",
+    "LGPUERTARL",
+    "PJHJQKYERJ",
+    "GTDVENTANA"
+  ],
+  "words": [
+    {
+      "word": "CAMA",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "MESA",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "PUERTA",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VENTANA",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_057",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 057",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "CEILING",
+      "clue": "Interior surface at the top of a room"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "SOUND",
+      "clue": "Something you hear"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "WIZARD",
+      "clue": "A person who practices magic"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "POCKET",
+      "clue": "A small pouch sewn into clothing"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "MODEL",
+      "clue": "A representation of something, often smaller"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "OIL",
+      "clue": "Slippery liquid used for cooking or fuel"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "ROLE",
+      "clue": "A part someone plays in a story or job"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "answer": "PLAN",
+      "clue": "A detailed proposal for doing something"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "NUMBER",
+      "clue": "A mathematical value, like one or two"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "TEMPLE",
+      "clue": "Building used for religious worship"
+    }
+  ]
+}

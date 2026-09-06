@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_099",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 099",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "CLAVIER",
+      "clue": "Ensemble de touches utilisées pour taper"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "TECHNOLOGIE",
+      "clue": "Application de la science à des fins pratiques"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "GLACE",
+      "clue": "De l'eau gelée, ou un dessert froid"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "ENVIRONNEMENT",
+      "clue": "Le monde naturel qui nous entoure"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "SCENE",
+      "clue": "Une plate-forme surélevée, ou une phase d'un processus"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "MEDECINE",
+      "clue": "La science du traitement des maladies"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "PHRASE",
+      "clue": "Un groupe de mots exprimant une pensée complète"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 8,
+      "answer": "VOTE",
+      "clue": "Un choix formel fait lors d'une élection"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 8,
+      "answer": "TAUX",
+      "clue": "Une mesure de la vitesse à laquelle quelque chose se produit"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 10,
+      "answer": "CULTURE",
+      "clue": "Les coutumes et croyances d'une société"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 10,
+      "answer": "CLE",
+      "clue": "Outil métallique utilisé pour ouvrir une serrure"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "EQUATEUR",
+      "clue": "La ligne imaginaire autour du milieu de la Terre"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_069",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 069",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "SCHNEE",
+      "clue": "Gefrorene weiße Flocken im Winter",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "WOLKE",
+      "clue": "Weiße oder graue Masse am Himmel",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "MAUS",
+      "clue": "Kleines Nagetier mit langem Schwanz",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "BROT",
+      "clue": "Gebackenes Nahrungsmittel aus Mehl und Wasser",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "BABY",
+      "clue": "Sehr junges Kind",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "FARBE",
+      "clue": "Rot, Blau, Grün oder eine andere Nuance",
+      "category": "color"
+    }
+  ]
+}

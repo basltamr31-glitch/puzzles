@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_028",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 27,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "LPFSFHII",
+    "CCSKULZP",
+    "OAHSIEBF",
+    "PMPORTAU",
+    "EEEHYTGF",
+    "RRZRUONL",
+    "TAPPETOQ",
+    "AXOCNMKV"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CAMERA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "COPERTA",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "LETTO",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PORTA",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

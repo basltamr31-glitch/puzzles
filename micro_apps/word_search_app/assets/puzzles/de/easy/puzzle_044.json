@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_044",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 43,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "OBETTMGN",
+    "XSSEPMAX",
+    "WUSPLFRG",
+    "JNHPLCTW",
+    "CWKISSEN",
+    "YDECKENK",
+    "WHVHSOFA",
+    "AFHRYKZG"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DECKE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GARTEN",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

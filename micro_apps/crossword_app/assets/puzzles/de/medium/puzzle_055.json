@@ -1,0 +1,66 @@
+{
+  "id": "de_medium_055",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 055",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "MODELL",
+      "clue": "Eine Darstellung von etwas, oft kleiner"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "WOHNZIMMER",
+      "clue": "Raum zum Entspannen und Fernsehen"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "LEHRER",
+      "clue": "Person, die Schüler unterrichtet"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "SPINNE",
+      "clue": "Achtbeiniges Tier, das Netze spinnt"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "NACHRICHT",
+      "clue": "Information, die gesendet wird"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "KLANG",
+      "clue": "Etwas, das man hört"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_068",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 67,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "TGRLCZJT",
+    "ACZYDHCF",
+    "NCFSOXCG",
+    "YSCTOLAK",
+    "XMIRRORT",
+    "XFHCUPPF",
+    "YLFUGHEA",
+    "BLANKETH"
+  ],
+  "words": [
+    {
+      "word": "BLANKET",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CARPET",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CUP",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "DOOR",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MIRROR",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RUG",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

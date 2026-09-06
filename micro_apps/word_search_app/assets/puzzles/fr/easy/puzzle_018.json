@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_018",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 17,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "JQGPOMME",
+    "DCNBUDEM",
+    "GATEAUXS",
+    "LFFUYAFC",
+    "KEUREOGS",
+    "CITRONNY",
+    "CMIELFVH",
+    "MJYIOVYS"
+  ],
+  "words": [
+    {
+      "word": "BEURRE",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CAFE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CITRON",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GATEAU",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MIEL",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "POMME",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

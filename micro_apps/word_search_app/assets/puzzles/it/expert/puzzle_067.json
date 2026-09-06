@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_067",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 66,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "LKFSAKYOTXXEVA",
+    "KVTNLPMGTBGNMA",
+    "OOOTHEBXHTGVSR",
+    "NECZBXDOLXSOKK",
+    "QCNQXECNVRRBMF",
+    "ACARCOBALENOFM",
+    "SCNSTZICBSTSBF",
+    "CDGMCBVLINLCXT",
+    "MZALBAAUEEFOTN",
+    "ARTEIPTVOALFGG",
+    "EANUVOLAKKAOPB",
+    "AUOBNOLRDMFKRM",
+    "QMMEPUSQHDNPBP",
+    "CNPFSAGZKAYLLB"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 8,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "ARCOBALENO",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BOSCO",
+      "row": 4,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "CASCATA",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CIELO",
+      "row": 6,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "MARE",
+      "row": 7,
+      "col": 3,
+      "dir": "SW"
+    },
+    {
+      "word": "MONTAGNA",
+      "row": 12,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 10,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 10,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PIETRA",
+      "row": 9,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "VENTO",
+      "row": 9,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "VULCANO",
+      "row": 9,
+      "col": 7,
+      "dir": "N"
+    }
+  ]
+}

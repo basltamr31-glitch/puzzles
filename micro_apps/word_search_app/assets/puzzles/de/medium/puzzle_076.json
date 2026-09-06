@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_076",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 75,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "JDRTYYPUXL",
+    "NUREGALWKV",
+    "GLMPCTASSE",
+    "FAKEOBMONU",
+    "EBBRTIPFHA",
+    "NKUECHEAAC",
+    "SVIPTUERXX",
+    "TMEJBTJRKH",
+    "ELZMFSXDED",
+    "RIZVYWNROF"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "FENSTER",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "KUECHE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "REGAL",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TASSE",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TUER",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

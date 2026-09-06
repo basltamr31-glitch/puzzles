@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_091",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 091",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "HIELO",
+      "clue": "Agua congelada"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "TERMINO",
+      "clue": "Un período fijo, o una palabra específica"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "VACUNA",
+      "clue": "Una sustancia que protege contra una enfermedad"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "MUSCULO",
+      "clue": "Tejido que produce movimiento en el cuerpo"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 8,
+      "answer": "COSTO",
+      "clue": "La cantidad pagada por algo"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 11,
+      "answer": "MONTAÑA",
+      "clue": "Un relieve natural muy elevado"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "SONIDO",
+      "clue": "Algo que se oye"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "TECNOLOGIA",
+      "clue": "Aplicación de la ciencia con fines prácticos"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 8,
+      "answer": "TASA",
+      "clue": "Una medida de la rapidez con la que ocurre algo"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 9,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    }
+  ]
+}

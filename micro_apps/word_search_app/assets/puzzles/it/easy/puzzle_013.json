@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_013",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 12,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "HABLFECL",
+    "HRTKBLOZ",
+    "VPEERMLH",
+    "HKSPALLA",
+    "LCTOCMOY",
+    "MHAPCILX",
+    "UEVPIEDE",
+    "FDITOZUI"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "COLLO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DITO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SPALLA",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TESTA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

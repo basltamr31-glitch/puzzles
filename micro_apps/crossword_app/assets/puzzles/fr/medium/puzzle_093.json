@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_093",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 093",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "PILOTE",
+      "clue": "Personne qui pilote un avion"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "PALAIS",
+      "clue": "Grande résidence d'un roi ou d'une reine"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "OBJET",
+      "clue": "Un article ou une chose unique"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "ESPACE",
+      "clue": "Une zone vide, ou l'univers au-delà de la Terre"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "MARIN",
+      "clue": "Personne qui travaille sur un navire"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "DRAGON",
+      "clue": "Créature mythique cracheuse de feu"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "ZONE",
+      "clue": "Une région ou partie particulière de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "MODELE",
+      "clue": "Une représentation de quelque chose, souvent plus petite"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "FORME",
+      "clue": "Le contour ou l'aspect de quelque chose"
+    }
+  ]
+}

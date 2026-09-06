@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_047",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 46,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "AUTOXAFHEU",
+    "EFDRFBDTZP",
+    "YYLXLAXSFY",
+    "NVYUUOFCTW",
+    "GBCRGNHHTI",
+    "XLTLZHKIIJ",
+    "VJTAEKAFCU",
+    "DREUUZRFKF",
+    "MVXBGHTZEO",
+    "CDREISEJTN"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FLUGHAFEN",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "FLUGZEUG",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "KARTE",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "REISE",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "URLAUB",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

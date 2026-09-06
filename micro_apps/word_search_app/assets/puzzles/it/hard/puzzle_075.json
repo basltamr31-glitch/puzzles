@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_075",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 74,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "BEYLBVOQINDL",
+    "SFTIROQGPOIU",
+    "FDBSMTCUTIZT",
+    "KLDHXNINQHTQ",
+    "CFNSLUEUCUPV",
+    "XVDEFVLBHXOM",
+    "YDHVGOOLBPTE",
+    "BRIZLLEMUIFH",
+    "POICCAIHGEAS",
+    "GPSIZYBSPTBN",
+    "IYKCGOIPERAM",
+    "RUTZOISOLATT"
+  ],
+  "words": [
+    {
+      "word": "BOSCO",
+      "row": 7,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CIELO",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "FIUME",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "GHIACCIO",
+      "row": 8,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "ISOLA",
+      "row": 11,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "MARE",
+      "row": 10,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PIETRA",
+      "row": 6,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "VENTO",
+      "row": 5,
+      "col": 5,
+      "dir": "NE"
+    }
+  ]
+}

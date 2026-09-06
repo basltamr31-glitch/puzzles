@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_073",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 72,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "FQYMCFSMRE",
+    "TCXZHESYXG",
+    "PHLJERCEOH",
+    "TIGCVBTHJP",
+    "RENARDRXAC",
+    "UNFGEFKEIT",
+    "JCOCOIYDGY",
+    "AAPIUUQMLK",
+    "CROCODILER",
+    "RNZHZSLNCZ"
+  ],
+  "words": [
+    {
+      "word": "AIGLE",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CHAT",
+      "row": 2,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "CHEVRE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CHIEN",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PINGOUIN",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "RENARD",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

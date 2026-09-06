@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_066",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 066",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "ROI",
+      "clue": "Souverain masculin d'un royaume",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "FORET",
+      "clue": "Grande étendue couverte d'arbres",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "VERRE",
+      "clue": "Matériau dur et transparent",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "FEMME",
+      "clue": "Personne adulte de sexe féminin",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "SEL",
+      "clue": "Assaisonnement blanc qui relève les plats",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "MUR",
+      "clue": "Structure verticale qui divise une pièce",
+      "category": "home"
+    }
+  ]
+}

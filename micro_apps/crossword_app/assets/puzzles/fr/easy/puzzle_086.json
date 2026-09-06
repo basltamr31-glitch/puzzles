@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_086",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 086",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "LUNE",
+      "clue": "Satellite naturel de la Terre",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "TERRE",
+      "clue": "La planète où nous vivons",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "BLEU",
+      "clue": "Couleur d'un ciel dégagé",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "FER",
+      "clue": "Métal gris résistant, utilisé dans l'acier",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "JOUR",
+      "clue": "Une période de 24 heures",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "ROI",
+      "clue": "Souverain masculin d'un royaume",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    }
+  ]
+}

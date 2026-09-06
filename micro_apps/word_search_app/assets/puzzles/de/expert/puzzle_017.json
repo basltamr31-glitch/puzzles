@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_017",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 16,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "HHBUMTHEUEDUZZ",
+    "KOLDNCJYIBTBKF",
+    "DLNERGANXEZYNH",
+    "IZBLLXKDIFPAEU",
+    "GINFWETMJOXEYX",
+    "IXPIBWFRHDMNNB",
+    "RKBNZELATIGERG",
+    "AOEIAOPINGUINE",
+    "FREABLERDTBBDH",
+    "FGBLCGYYNFHNYD",
+    "ETPELYIEFHFMOU",
+    "SUAMZYOANPCGFA",
+    "UBRADVPZBZIONU",
+    "YCWKTZIOKJIZKA"
+  ],
+  "words": [
+    {
+      "word": "BAER",
+      "row": 8,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "BIENE",
+      "row": 8,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "DELFIN",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ELEFANT",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "KAMEL",
+      "row": 13,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "LOEWE",
+      "row": 8,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "MAUS",
+      "row": 11,
+      "col": 3,
+      "dir": "W"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "TIGER",
+      "row": 6,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 11,
+      "col": 4,
+      "dir": "NW"
+    },
+    {
+      "word": "ZIEGE",
+      "row": 6,
+      "col": 4,
+      "dir": "SW"
+    }
+  ]
+}

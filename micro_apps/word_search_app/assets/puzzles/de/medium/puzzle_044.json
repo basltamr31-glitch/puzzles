@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_044",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 43,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "SMSOEBMPRA",
+    "BETTCVZTMY",
+    "DFUAWTELNZ",
+    "AEHJSPIVHA",
+    "GNLIAGZEPF",
+    "ASXZCDUPLM",
+    "RTASSEJJLY",
+    "TEPPICHYDM",
+    "ERRGAKAMIN",
+    "NODWSEGWOC"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DECKE",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FENSTER",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GARTEN",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "KAMIN",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "STUHL",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TASSE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

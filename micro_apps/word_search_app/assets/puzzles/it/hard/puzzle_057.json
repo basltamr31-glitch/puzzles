@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_057",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 56,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "DSMEEVXCZXSF",
+    "VEQBTGXGAXOA",
+    "LVMGCAPRANHC",
+    "QEBTGAKSITEP",
+    "DVIPKGVUMRTL",
+    "NVOUADGAGDOO",
+    "GGFUYNYILXPQ",
+    "XSCOIATTOLOQ",
+    "QTAPAAMEOOOG",
+    "UTVSAFFARIGM",
+    "LATRYPDQPANL",
+    "HGMSGICMZPCT"
+  ],
+  "words": [
+    {
+      "word": "CANE",
+      "row": 0,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "CAPRA",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CAVALLO",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "GATTO",
+      "row": 1,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "GIRAFFA",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "PANTERA",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "SCOIATTOLO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TIGRE",
+      "row": 7,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "TOPO",
+      "row": 4,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

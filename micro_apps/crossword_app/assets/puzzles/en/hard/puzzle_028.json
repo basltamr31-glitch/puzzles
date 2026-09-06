@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_028",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 028",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "answer": "FORCE",
+      "clue": "Strength or power exerted on something"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "COST",
+      "clue": "The amount paid for something"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "EXHIBITION",
+      "clue": "A public display of art or objects"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "VACCINE",
+      "clue": "A substance that protects against disease"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "SPACECRAFT",
+      "clue": "A vehicle designed to travel in space"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "INDUSTRY",
+      "clue": "Economic activity concerned with manufacturing"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 5,
+      "answer": "ORDER",
+      "clue": "A sequence, or an instruction to do something"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "GALAXY",
+      "clue": "A huge system of stars held together by gravity"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "CATHEDRAL",
+      "clue": "A large and important church"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 8,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "WAR",
+      "clue": "Armed conflict between nations"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 6,
+      "answer": "LAW",
+      "clue": "A rule enforced by a government"
+    }
+  ]
+}

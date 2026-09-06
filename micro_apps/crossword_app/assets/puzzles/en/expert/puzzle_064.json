@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_064",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 064",
+  "rows": 14,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "LOSS",
+      "clue": "The state of no longer having something"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "ENCYCLOPEDIA",
+      "clue": "A book or set of books with articles on many topics"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "FORCE",
+      "clue": "Strength or power exerted on something"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "REPRESENTATIVE",
+      "clue": "A person chosen to act on behalf of others"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "INTELLIGENCE",
+      "clue": "The ability to acquire and apply knowledge"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "TRADITIONAL",
+      "clue": "Following long-established customs"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 9,
+      "answer": "RANGE",
+      "clue": "The extent between limits"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "ENVIRONMENTAL",
+      "clue": "Relating to the natural world"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "answer": "RULE",
+      "clue": "An official instruction on how to behave"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 2,
+      "answer": "RATE",
+      "clue": "A measure of how fast something happens"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "ORDER",
+      "clue": "A sequence, or an instruction to do something"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 7,
+      "answer": "STAGE",
+      "clue": "A raised platform, or a phase of a process"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 12,
+      "answer": "LAW",
+      "clue": "A rule enforced by a government"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 9,
+      "answer": "MODEL",
+      "clue": "A representation of something, often smaller"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 14,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "IDEA",
+      "clue": "A thought or plan"
+    }
+  ]
+}

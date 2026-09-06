@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_049",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 48,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "HRKZOZXFCAYHOX",
+    "AZEOSROLIVZMAD",
+    "ELIPUZIUOSBBHV",
+    "HTIGRELPCPOVIX",
+    "PCAUKBGOAQRGLK",
+    "ICDRQRIYNMQAZP",
+    "NHPNPANTERAIIQ",
+    "GESMTAOTKCEYRN",
+    "UQLTBPCKNNDTVA",
+    "IVOPOZMCQLIUDX",
+    "NLAAKZNQIVIGTN",
+    "OAGIVYVMXDSETN",
+    "BDZRLOZBBKFRPH",
+    "BKIFEFFMLICKQM"
+  ],
+  "words": [
+    {
+      "word": "AQUILA",
+      "row": 6,
+      "col": 5,
+      "dir": "NW"
+    },
+    {
+      "word": "CANE",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CAPRA",
+      "row": 8,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "CONIGLIO",
+      "row": 8,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "LUPO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ORSO",
+      "row": 1,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "PANTERA",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SCOIATTOLO",
+      "row": 2,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "TIGRE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TOPO",
+      "row": 6,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

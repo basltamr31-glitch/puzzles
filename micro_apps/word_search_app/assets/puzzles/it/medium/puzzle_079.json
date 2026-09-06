@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_079",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 78,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "XPFPBRXNYI",
+    "MUTZVMKZYN",
+    "BUSIAKAQME",
+    "CLDTVZNPCN",
+    "CFCZAINOPN",
+    "OTHALZQRCA",
+    "EFNAITITGV",
+    "LVDMGHSODE",
+    "HOKZIUHYNO",
+    "MKGCAEREOE"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MAPPA",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "NAVE",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PORTO",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "STAZIONE",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "VALIGIA",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ZAINO",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

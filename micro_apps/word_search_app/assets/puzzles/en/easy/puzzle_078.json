@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_078",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 77,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "JJLZJDRZ",
+    "AGFHATES",
+    "NMXJCWIA",
+    "HXQCKCLN",
+    "YJBOEYXD",
+    "SWEATERA",
+    "ZMITIETL",
+    "IFSZMLPS"
+  ],
+  "words": [
+    {
+      "word": "COAT",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "HAT",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "JACKET",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALS",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SWEATER",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TIE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

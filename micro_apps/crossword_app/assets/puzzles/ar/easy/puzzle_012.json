@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_012",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 012",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "نجم",
+      "clue": "جرم سماوي مضيء يُرى ليلاً",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "سمك",
+      "clue": "حيوان مائي يتنفس بالخياشيم",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "حصان",
+      "clue": "حيوان كبير يُركب",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "كلب",
+      "clue": "حيوان أليف يُعرف بالوفاء",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "سماء",
+      "clue": "الفضاء الأزرق فوق الأرض",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "مساء",
+      "clue": "نهاية اليوم",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "قلم",
+      "clue": "أداة تُستخدم للكتابة",
+      "category": "object"
+    }
+  ]
+}

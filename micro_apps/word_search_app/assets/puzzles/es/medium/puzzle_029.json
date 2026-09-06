@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_029",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 28,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "UGYJDJBTTA",
+    "BVHHHICBPR",
+    "QGTDCGGRTU",
+    "XDTZCEJAKT",
+    "CIECNQFZTO",
+    "YRHOMBROGB",
+    "BZVJPIECXI",
+    "CTUOHLNJLL",
+    "JGJXOOTFEL",
+    "GEOUCUELLO"
+  ],
+  "words": [
+    {
+      "word": "BRAZO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CEJA",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CUELLO",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "FRENTE",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HOMBRO",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "OJO",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PIE",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TOBILLO",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

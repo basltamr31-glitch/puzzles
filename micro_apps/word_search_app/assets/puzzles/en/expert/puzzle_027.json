@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_027",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 26,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "RIVERXETYOZNLR",
+    "AEOYISMWGTHTFK",
+    "BULGNGRWVWQORT",
+    "RECLDUOLCAJBTE",
+    "WDAAABTVHRTBHV",
+    "QINCNFSLTJBNDZ",
+    "BVOIHBRSEUIULP",
+    "MFAEWWEENAVHNO",
+    "WRQRRRDZTHFHYQ",
+    "LVSQOBNNNAKXQZ",
+    "TTRFNVUJDOWQHE",
+    "EACKLOHCFLOMYT",
+    "HZDAMRTGVHXNQO",
+    "DFORRLQEBXEXUD"
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CLOUD",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "FOREST",
+      "row": 10,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "GLACIER",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 5,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 12,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "RAINBOW",
+      "row": 8,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "RIVER",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "THUNDERSTORM",
+      "row": 12,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "WATERFALL",
+      "row": 10,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "WIND",
+      "row": 7,
+      "col": 4,
+      "dir": "NW"
+    }
+  ]
+}

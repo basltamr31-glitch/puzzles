@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_049",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 48,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "ECTZBOJIDETN",
+    "ZJHCJLYBFHYV",
+    "XPJIRLFZACHQ",
+    "IERVEHCVLHBK",
+    "CHCINNMYIETM",
+    "ZEKUANKIOVAM",
+    "BFPEREHTNAPI",
+    "MTAVDEJISLHU",
+    "SVRZXPUOLYTM",
+    "RBIFJXSIRUOS",
+    "JBXABEILLEMH",
+    "AHDHCNFUZMHT"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 10,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CHEVRE",
+      "row": 3,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "CHIEN",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "ECUREUIL",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "LION",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "LOUP",
+      "row": 8,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "PANTHERE",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "RENARD",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SOURIS",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

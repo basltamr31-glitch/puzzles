@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_002",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 1,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "BUZQGRSLQBQS",
+    "NTQMBVMCUALI",
+    "CHOCOLATEQNC",
+    "EGXAIDNASSMO",
+    "KLVFQXTROKGT",
+    "NZYEJSERIJOP",
+    "VCZJUHQTUZPG",
+    "ZMTICOUYLQFT",
+    "XKGEUUIKNJVL",
+    "SOLPDLLIMOND",
+    "PIIQRPLATANO",
+    "GALLETAMOTIF"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GALLETA",
+      "row": 11,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LECHE",
+      "row": 9,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "LIMON",
+      "row": 9,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "MANTEQUILLA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PLATANO",
+      "row": 10,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "QUESO",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "SANDIA",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "TOMATE",
+      "row": 11,
+      "col": 9,
+      "dir": "W"
+    }
+  ]
+}

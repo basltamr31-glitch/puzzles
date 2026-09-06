@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_038",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 038",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "سرعة",
+      "clue": "مقدار المسافة المقطوعة في زمن معين"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "معلمة",
+      "clue": "امرأة تعمل في التدريس"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "نظارة",
+      "clue": "أداة تُوضع على العين لتحسين الرؤية"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "ظل",
+      "clue": "منطقة مظلمة يحجب فيها الضوء"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "رائحة",
+      "clue": "ما يُحس به عند الشم"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "امتحان",
+      "clue": "تقييم رسمي لمستوى الطالب"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "مهندس",
+      "clue": "شخص متخصص في التصميم والبناء"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "مفتاح",
+      "clue": "أداة معدنية تُستخدم لفتح الأقفال"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "صحفي",
+      "clue": "شخص يعمل في كتابة الأخبار"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "حساب",
+      "clue": "عملية رياضية أو مالية"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_039",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 38,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "GEXTWMBA",
+    "BUSZSRGD",
+    "AUAUGAGZ",
+    "HJPSEURE",
+    "NIKARTEF",
+    "HRABNOIN",
+    "OGNFKESO",
+    "FPTICKET"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BAHNHOF",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KARTE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "REISE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

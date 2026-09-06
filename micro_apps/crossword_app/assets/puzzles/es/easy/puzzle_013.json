@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_013",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 013",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "TECHO",
+      "clue": "Cubierta en la parte superior de un edificio",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "ESCUELA",
+      "clue": "Lugar donde los niños aprenden",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "PERRO",
+      "clue": "Animal doméstico fiel que ladra",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "RANA",
+      "clue": "Anfibio verde que salta y croa",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "AÑO",
+      "clue": "Un período de doce meses",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "GATO",
+      "clue": "Felino doméstico que maúlla",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "OSO",
+      "clue": "Animal grande y peludo que vive en el bosque",
+      "category": "animal"
+    }
+  ]
+}

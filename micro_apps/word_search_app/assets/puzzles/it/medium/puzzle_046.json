@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_046",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 45,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "DZCVESTITO",
+    "ACYRMXCDLI",
+    "PANTALONEK",
+    "MSTNGVPQHS",
+    "XCCOLLANAA",
+    "VINDINSTEN",
+    "CAPPOTTOTD",
+    "DRLMNOGMUA",
+    "LPEMERTSVL",
+    "TAGTOLEPXI"
+  ],
+  "words": [
+    {
+      "word": "CAPPOTTO",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COLLANA",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CRAVATTA",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "MAGLIONE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PANTALONE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALI",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SCIARPA",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VESTITO",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

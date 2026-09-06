@@ -1,0 +1,122 @@
+{
+  "id": "ar_expert_011",
+  "language": "ar",
+  "difficulty": "expert",
+  "title": "اللغز 011",
+  "rows": 15,
+  "cols": 14,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "تحديات",
+      "clue": "جمع تحدٍ، صعوبات تواجه الشخص"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "استراتيجية",
+      "clue": "خطة شاملة لتحقيق هدف بعيد المدى"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "استثمارات",
+      "clue": "جمع استثمار"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "فلسفية",
+      "clue": "صفة تتعلق بالفلسفة"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "رمل",
+      "clue": "حبيبات ناعمة تغطي الصحراء والشواطئ"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "answer": "رقم",
+      "clue": "رمز يدل على عدد"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "answer": "معدن",
+      "clue": "مادة صلبة كالحديد أو الذهب"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "معلمون",
+      "clue": "جمع معلم، رجال يعملون في التدريس"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 10,
+      "answer": "وزن",
+      "clue": "مقدار ثقل الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "واجب",
+      "clue": "ما يجب على الشخص القيام به"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "مهندسون",
+      "clue": "جمع مهندس"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "answer": "مؤسسات",
+      "clue": "جمع مؤسسة"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 10,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 7,
+      "answer": "إنجازات",
+      "clue": "جمع إنجاز، أعمال مُنجزة بنجاح"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 10,
+      "answer": "رائحة",
+      "clue": "ما يُحس به عند الشم"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 10,
+      "answer": "حجر",
+      "clue": "مادة صلبة طبيعية"
+    }
+  ]
+}

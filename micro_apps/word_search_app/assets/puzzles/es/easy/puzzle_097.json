@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_097",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 96,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "SAQVGABT",
+    "PGHVXCEL",
+    "EUJIRAFA",
+    "YILCEBRA",
+    "TLDBFAVD",
+    "CAMELLOQ",
+    "GROLOLOR",
+    "YYLOBOIG"
+  ],
+  "words": [
+    {
+      "word": "AGUILA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CABALLO",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CAMELLO",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CEBRA",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LOBO",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

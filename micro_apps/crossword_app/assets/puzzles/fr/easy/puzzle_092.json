@@ -1,0 +1,58 @@
+{
+  "id": "fr_easy_092",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 092",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "CHEVAL",
+      "clue": "Grand animal que l'on monte",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "VALLEE",
+      "clue": "Terre basse entre des montagnes",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "TABLE",
+      "clue": "Meuble avec un plateau plat et des pieds",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "REVE",
+      "clue": "Images et pensées pendant le sommeil",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "LAC",
+      "clue": "Grande étendue d'eau entourée de terre",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "LOUP",
+      "clue": "Animal sauvage apparenté au chien",
+      "category": "animal"
+    }
+  ]
+}

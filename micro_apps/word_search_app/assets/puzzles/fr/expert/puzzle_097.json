@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_097",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 96,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "CETQEEEOYPUEOX",
+    "EVXKFLRDBMLKUL",
+    "LLDGCVBGNLFTHP",
+    "IEECUREUILOUPI",
+    "DXLPJBZEUTAVAB",
+    "OBPPHNBSOMAHGR",
+    "CENEFARIGGDHEB",
+    "ODDXIQNHNEIHCK",
+    "RMYLHHJTIGUQGX",
+    "CNDMBPQCPSYPUU",
+    "YKPHNKOCACYUDH",
+    "NMNMNFMJLBBPHQ",
+    "NBJRNPHVULBXAK",
+    "PUMAOFDJHNTIMH"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 6,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "CHAT",
+      "row": 7,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "CHIEN",
+      "row": 7,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 9,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "ECUREUIL",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 6,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "LAPIN",
+      "row": 11,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "LOUP",
+      "row": 3,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "PINGOUIN",
+      "row": 9,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "TIGRE",
+      "row": 4,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 4,
+      "col": 6,
+      "dir": "N"
+    }
+  ]
+}

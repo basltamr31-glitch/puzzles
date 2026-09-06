@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_056",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 056",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "ASTRONOMIA",
+      "clue": "El estudio científico de estrellas y planetas"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "INVESTIGACION",
+      "clue": "Un examen minucioso de los hechos"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 14,
+      "answer": "VOCABULARIO",
+      "clue": "El conjunto de palabras usadas en un idioma"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 0,
+      "answer": "INDEPENDENCIA",
+      "clue": "Libertad de control externo"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 12,
+      "answer": "EMPLEO",
+      "clue": "Un trabajo remunerado que se hace regularmente"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "PRONUNCIACION",
+      "clue": "La manera en que se dice una palabra"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "answer": "INTELIGENCIA",
+      "clue": "La capacidad de adquirir y aplicar conocimiento"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "ESCALA",
+      "clue": "El tamaño de algo en relación con otro"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "GANANCIA",
+      "clue": "Un aumento de algo, como riqueza"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "TAMAÑO",
+      "clue": "Cuán grande o pequeño es algo"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 9,
+      "answer": "META",
+      "clue": "El objetivo hacia el que alguien trabaja"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 9,
+      "answer": "TASA",
+      "clue": "Una medida de la rapidez con la que ocurre algo"
+    }
+  ]
+}

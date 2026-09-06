@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_062",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 062",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "AVION",
+      "clue": "Aéronef à voilure fixe"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "BOUTEILLE",
+      "clue": "Un récipient au col étroit pour les liquides"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "FORCE",
+      "clue": "La puissance exercée sur quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "MUSEE",
+      "clue": "Bâtiment qui expose des objets historiques"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "TUNNEL",
+      "clue": "Un passage souterrain"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "TERME",
+      "clue": "Une période fixe, ou un mot spécifique"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "ELEVE",
+      "clue": "Personne qui étudie dans une école"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "IMAGE",
+      "clue": "Une photo ou un dessin"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "ETE",
+      "clue": "Saison la plus chaude de l'année"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    }
+  ]
+}

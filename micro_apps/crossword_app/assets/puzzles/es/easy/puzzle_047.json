@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_047",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 047",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "LIBRO",
+      "clue": "Páginas encuadernadas que se leen",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "PATO",
+      "clue": "Ave acuática que hace cuac",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "ISLA",
+      "clue": "Tierra completamente rodeada de agua",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "RANA",
+      "clue": "Anfibio verde que salta y croa",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "PADRE",
+      "clue": "Progenitor masculino",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "VALLE",
+      "clue": "Tierra baja entre montañas",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "PEZ",
+      "clue": "Animal acuático que respira por branquias",
+      "category": "animal"
+    }
+  ]
+}

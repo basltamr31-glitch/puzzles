@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_030",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 29,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "HVRWFYZFHO",
+    "ABEYTBARIO",
+    "TROUSERSSH",
+    "SANDALSNGQ",
+    "KCYRITOEJP",
+    "LEEEZHCARS",
+    "HLOSDAKKPG",
+    "CEQSBXREZW",
+    "ITYTOSSRJF",
+    "TBWMSNPSJF"
+  ],
+  "words": [
+    {
+      "word": "BELT",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BRACELET",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "DRESS",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "HAT",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALS",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SNEAKERS",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SOCK",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TROUSERS",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

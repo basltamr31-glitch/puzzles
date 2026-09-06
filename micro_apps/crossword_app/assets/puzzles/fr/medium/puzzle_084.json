@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_084",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 084",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "ETE",
+      "clue": "Saison la plus chaude de l'année"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "QUESTION",
+      "clue": "Une phrase posée pour obtenir une information"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "TYPE",
+      "clue": "Une catégorie ou sorte de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "SECRET",
+      "clue": "Information gardée cachée des autres"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "BOUSSOLE",
+      "clue": "Outil qui indique la direction du nord"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "JARDIN",
+      "clue": "Terrain où l'on cultive des fleurs ou légumes"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "OBJET",
+      "clue": "Un article ou une chose unique"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "answer": "FAIT",
+      "clue": "Quelque chose de connu comme vrai"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "VOTE",
+      "clue": "Un choix formel fait lors d'une élection"
+    }
+  ]
+}

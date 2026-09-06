@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_018",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 018",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "NEZ",
+      "clue": "Organe utilisé pour sentir",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "MERE",
+      "clue": "Parent féminin",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "VALLEE",
+      "clue": "Terre basse entre des montagnes",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "REVE",
+      "clue": "Images et pensées pendant le sommeil",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "LOUP",
+      "clue": "Animal sauvage apparenté au chien",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "MUR",
+      "clue": "Structure verticale qui divise une pièce",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "EAU",
+      "clue": "Liquide clair essentiel à la vie",
+      "category": "nature"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "es_medium_050",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 050",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "PRIMAVERA",
+      "clue": "Estación en la que florecen las flores"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "JARDIN",
+      "clue": "Terreno para cultivar flores o verduras"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "ORDEN",
+      "clue": "Una secuencia, o una instrucción a seguir"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "CABALLERO",
+      "clue": "Guerrero medieval acorazado a caballo"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "PINTOR",
+      "clue": "Artista que trabaja con pintura"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "TUNEL",
+      "clue": "Un pasaje subterráneo"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "ESCALA",
+      "clue": "El tamaño de algo en relación con otro"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "answer": "ARAÑA",
+      "clue": "Criatura de ocho patas que teje telas"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_077",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 76,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "QRPFCMDSHLAQ",
+    "ASDCROSDQXFD",
+    "HPSUODGORAQI",
+    "CAVIGLIATSET",
+    "XLOLXHLVMANO",
+    "SLOCCHIONBAD",
+    "SAHCVXZZZKAR",
+    "IMENTOIYZKHF",
+    "FRTXBGSCQMMV",
+    "OMSVRLCYCBLR",
+    "VVMVSAYAUQZB",
+    "UXGHLHOXZTVR"
+  ],
+  "words": [
+    {
+      "word": "CAVIGLIA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COLLO",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "DITO",
+      "row": 1,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "GAMBA",
+      "row": 2,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "MANO",
+      "row": 4,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "MENTO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "SPALLA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TESTA",
+      "row": 3,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

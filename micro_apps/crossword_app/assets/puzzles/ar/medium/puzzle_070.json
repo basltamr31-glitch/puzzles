@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_070",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 070",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "خطة",
+      "clue": "تصور مُعد مسبقاً لتحقيق هدف"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "سيارة",
+      "clue": "مركبة ذات أربع عجلات"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "سعادة",
+      "clue": "شعور بالفرح والرضا"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "ممرضة",
+      "clue": "شخص متخصص في رعاية المرضى"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "جسم",
+      "clue": "الكيان المادي للإنسان أو الحيوان"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "ضوء",
+      "clue": "إشعاع يساعد على الرؤية"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "مزرعة",
+      "clue": "أرض تُستخدم لتربية الحيوانات وزراعة المحاصيل"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "قرار",
+      "clue": "حكم أو اختيار يُتخذ بعد تفكير"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "طبيعة",
+      "clue": "العالم الطبيعي المحيط بنا"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "رأس",
+      "clue": "الجزء العلوي من الجسم"
+    }
+  ]
+}

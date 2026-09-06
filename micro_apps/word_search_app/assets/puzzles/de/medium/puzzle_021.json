@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_021",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 20,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "PVLCUGCNVE",
+    "WCHCHZKDFJ",
+    "KZAHKOPFBU",
+    "ELLBOGENBA",
+    "CUSCHULTER",
+    "AGTKXPLSIM",
+    "KNIEAYDJNB",
+    "ZYRWFMGGSL",
+    "ARNKWHCBFB",
+    "CAYHBWHWVP"
+  ],
+  "words": [
+    {
+      "word": "ARM",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "BEIN",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "ELLBOGEN",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HALS",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "KNIE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KOPF",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SCHULTER",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STIRN",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

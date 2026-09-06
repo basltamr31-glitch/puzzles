@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_030",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 29,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "KHIJVFKYECHQYJ",
+    "RRENMTRBSGJKGX",
+    "SALLITAPAZCYUO",
+    "OPBVHOLCCQSFPG",
+    "MSANDALIASCUEE",
+    "BQENAAONLFLNNH",
+    "RQMJTBCTCSEPLZ",
+    "EHRCHAQUETAIZS",
+    "RMEEGKLRTETZLJ",
+    "OPPJTQAOIZAGLI",
+    "LKMFZELNNRBSFL",
+    "RFIHYXUKLURSIO",
+    "TFVEEZPSREOKXF",
+    "UGXUQLZJIGCQGU"
+  ],
+  "words": [
+    {
+      "word": "CALCETIN",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CHAQUETA",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CINTURON",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "COLLAR",
+      "row": 6,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "CORBATA",
+      "row": 13,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "IMPERMEABLE",
+      "row": 11,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "PANTALON",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PULSERA",
+      "row": 3,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "SANDALIAS",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOMBRERO",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SUETER",
+      "row": 12,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "ZAPATILLAS",
+      "row": 2,
+      "col": 9,
+      "dir": "W"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_015",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 14,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "BADHFYZBMK",
+    "RZVMMPXUOO",
+    "EDAOYGOSCG",
+    "TECIMUAXIV",
+    "CZABNEECPY",
+    "GLNQPORTOY",
+    "XOZQNSEREE",
+    "VIAGGIOEBE",
+    "TNTRKRENID",
+    "UCTDAUTOAH"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "AUTO",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PORTO",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TRENO",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "VACANZA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "VIAGGIO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ZAINO",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

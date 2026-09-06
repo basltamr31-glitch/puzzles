@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_048",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 47,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "EHTENISH",
+    "OAMSTLBQ",
+    "FJFTXIOO",
+    "JEUALZXI",
+    "CDTDDEEZ",
+    "ARBITROB",
+    "LEOOIHMF",
+    "BZLHOABP"
+  ],
+  "words": [
+    {
+      "word": "AJEDREZ",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ARBITRO",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BOXEO",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ESTADIO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "FUTBOL",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TENIS",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

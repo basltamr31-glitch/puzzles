@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_057",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 057",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "VOTE",
+      "clue": "A formal choice made in an election"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "CHOREOGRAPHER",
+      "clue": "A person who designs dance movements"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "SIGNIFICANCE",
+      "clue": "The importance of something"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 13,
+      "answer": "CONTEMPORARY",
+      "clue": "Belonging to the present time"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "ENCYCLOPEDIA",
+      "clue": "A book or set of books with articles on many topics"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 9,
+      "answer": "CASE",
+      "clue": "An instance of something, or a container"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "AUTHENTICATION",
+      "clue": "The process of proving something is genuine"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "answer": "SKY",
+      "clue": "The space above the earth, seen from the ground"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "OPPORTUNITY",
+      "clue": "A good chance for progress or advancement"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 8,
+      "answer": "TEAM",
+      "clue": "A group working together toward a goal"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 11,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "VALUE",
+      "clue": "How much something is worth"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "COST",
+      "clue": "The amount paid for something"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 11,
+      "answer": "GOAL",
+      "clue": "The aim someone is working toward"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "answer": "ICE",
+      "clue": "Frozen water"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 8,
+      "answer": "TAX",
+      "clue": "Money owed to the government"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "it_medium_055",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 055",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "GHIACCIO",
+      "clue": "Acqua congelata"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "OSPEDALE",
+      "clue": "Luogo dove si curano i malati"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "CLIMA",
+      "clue": "Stato dell'atmosfera, caldo, freddo, piovoso"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "GIACCA",
+      "clue": "Un cappotto corto"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "REGOLA",
+      "clue": "Un'istruzione ufficiale su come comportarsi"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "SCIENZA",
+      "clue": "Studio del mondo naturale tramite esperimenti"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "ESTATE",
+      "clue": "Stagione più calda dell'anno"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "MUSEO",
+      "clue": "Edificio che espone oggetti storici"
+    }
+  ]
+}

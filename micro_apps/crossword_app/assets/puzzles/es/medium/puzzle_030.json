@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_030",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 030",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "DELFIN",
+      "clue": "Inteligente mamífero marino"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "MUSEO",
+      "clue": "Edificio que exhibe objetos históricos"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "PUERTO",
+      "clue": "Un lugar protegido donde atracan los barcos"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "RIESGO",
+      "clue": "La posibilidad de que algo malo suceda"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "SONIDO",
+      "clue": "Algo que se oye"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "BOLSILLO",
+      "clue": "Una pequeña bolsa cosida en la ropa"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "COSTO",
+      "clue": "La cantidad pagada por algo"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "LOGICA",
+      "clue": "Un razonamiento llevado según reglas estrictas"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "LLAVE",
+      "clue": "Herramienta metálica usada para abrir una cerradura"
+    }
+  ]
+}

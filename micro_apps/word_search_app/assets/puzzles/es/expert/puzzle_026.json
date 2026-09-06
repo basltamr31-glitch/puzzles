@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_026",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 25,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "XGPLBSBNVGMKHM",
+    "KRPFFJGDKMXYJF",
+    "CALXMZVMTQCQPI",
+    "IJUCRTBAXDOSKJ",
+    "HDMOSZHNEJXHUZ",
+    "OZQSLLQTBKEILT",
+    "CFLEABEEOXAPOS",
+    "JLIUENTQLMENNL",
+    "HMIQLEDUXRAGYZ",
+    "YJPMJNJIATATAP",
+    "PNCHOCOLATECEN",
+    "AGJQQNXLBHMBBD",
+    "GZCBCZPANAZNAM",
+    "VZQPDCOARAEAIX"
+  ],
+  "words": [
+    {
+      "word": "CHOCOLATE",
+      "row": 10,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LIMON",
+      "row": 7,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MANTEQUILLA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MANZANA",
+      "row": 12,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "MIEL",
+      "row": 8,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "PATATA",
+      "row": 9,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "PERA",
+      "row": 6,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "PLATANO",
+      "row": 12,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "QUESO",
+      "row": 8,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "SANDIA",
+      "row": 5,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SOPA",
+      "row": 6,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "TOMATE",
+      "row": 5,
+      "col": 7,
+      "dir": "SE"
+    }
+  ]
+}

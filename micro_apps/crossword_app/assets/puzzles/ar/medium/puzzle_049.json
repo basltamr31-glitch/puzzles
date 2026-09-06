@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_049",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 049",
+  "rows": 10,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "أنف",
+      "clue": "عضو الشم في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "answer": "فندق",
+      "clue": "مكان يُقيم فيه المسافرون"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "نجاح",
+      "clue": "تحقيق هدف مرجو"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "قلب",
+      "clue": "العضو الذي يضخ الدم في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "قانون",
+      "clue": "قاعدة يفرضها المجتمع أو الدولة"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "سيارة",
+      "clue": "مركبة ذات أربع عجلات"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "answer": "راتب",
+      "clue": "المال الذي يتقاضاه الموظف"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "قوة",
+      "clue": "القدرة على القيام بعمل أو التأثير"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "وزن",
+      "clue": "مقدار ثقل الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "مصنع",
+      "clue": "مكان تُصنع فيه المنتجات"
+    }
+  ]
+}

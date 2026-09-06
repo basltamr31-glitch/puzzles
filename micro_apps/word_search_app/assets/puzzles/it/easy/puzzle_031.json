@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_031",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 30,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "PHVQENCI",
+    "SBITPHAV",
+    "EZAINOEA",
+    "AFGQMGRL",
+    "XSGDBVEI",
+    "TYIMHHOG",
+    "YHOHBUSI",
+    "OBCMAPPA"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MAPPA",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VALIGIA",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "VIAGGIO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ZAINO",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

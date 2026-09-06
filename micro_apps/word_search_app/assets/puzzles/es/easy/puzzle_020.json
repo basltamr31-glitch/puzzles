@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_020",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 19,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "JFGOLCBJ",
+    "ASOFAOBA",
+    "EHFBMCSR",
+    "LPNDPIPD",
+    "VENTANAI",
+    "EMADRAQN",
+    "CESTANTE",
+    "NZBARMZE"
+  ],
+  "words": [
+    {
+      "word": "COCINA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "JARDIN",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VENTANA",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

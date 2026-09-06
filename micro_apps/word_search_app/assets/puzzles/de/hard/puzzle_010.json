@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_010",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 9,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "GLNMXKKRJVLC",
+    "VMRMRSNESEAK",
+    "IUJNLEUHFEUW",
+    "WTUHBYKPNYAG",
+    "ASMIKBAOPZDG",
+    "CSMDJLRPBEVB",
+    "YBZIPTTODOUG",
+    "GMJGINOHTZRK",
+    "BAFZHTFBJSBC",
+    "LZEEUFFHJYLS",
+    "IRKUCHENRIBS",
+    "SCHOKOLADEHN"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 4,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "BIRNE",
+      "row": 10,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "BROT",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "HONIG",
+      "row": 7,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "KAESE",
+      "row": 1,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 10,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCHOKOLADE",
+      "row": 11,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SUPPE",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    }
+  ]
+}

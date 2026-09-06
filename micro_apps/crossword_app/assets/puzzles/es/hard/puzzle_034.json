@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_034",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 034",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "answer": "ORDEN",
+      "clue": "Una secuencia, o una instrucción a seguir"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "GANANCIA",
+      "clue": "Un aumento de algo, como riqueza"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "ECONOMIA",
+      "clue": "El sistema de producción e intercambio"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "EQUIPO",
+      "clue": "Un grupo que trabaja junto hacia una meta"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "LOGICA",
+      "clue": "Un razonamiento llevado según reglas estrictas"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "AMBIENTE",
+      "clue": "El mundo natural que nos rodea"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 8,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "HIELO",
+      "clue": "Agua congelada"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "GRAVEDAD",
+      "clue": "La fuerza que atrae los objetos entre sí"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "GUERRA",
+      "clue": "Un conflicto armado entre naciones"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 11,
+      "answer": "META",
+      "clue": "El objetivo hacia el que alguien trabaja"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 5,
+      "answer": "PINTURA",
+      "clue": "Una imagen hecha con pintura"
+    }
+  ]
+}

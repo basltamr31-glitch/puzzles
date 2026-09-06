@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_076",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 75,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "GQGAHRCNEUXX",
+    "FXGNUQHADEXV",
+    "IMNIDRAJNELT",
+    "RDDIJOMSSAPC",
+    "APLCLABEGRPH",
+    "ECOUVERTUREE",
+    "RCHRSEERNRLM",
+    "XGYITXCXTYSI",
+    "CSALLEDEBAIN",
+    "MHSABONBSSJE",
+    "CXKXKETAGERE",
+    "MZPTFSKHVADU"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 0,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "CHAISE",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CHAMBRE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CHEMINEE",
+      "row": 3,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "COUVERTURE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 10,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "FENETRE",
+      "row": 11,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "JARDIN",
+      "row": 2,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "PORTE",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SALLEDEBAIN",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

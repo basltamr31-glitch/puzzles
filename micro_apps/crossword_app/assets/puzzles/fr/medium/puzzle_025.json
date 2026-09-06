@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_025",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 025",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "ORDRE",
+      "clue": "Une séquence, ou une instruction à suivre"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "MARCHE",
+      "clue": "Lieu où l'on achète et vend des biens"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "FENETRE",
+      "clue": "Ouverture vitrée qui laisse entrer la lumière"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "MEDECIN",
+      "clue": "Professionnel médical qui soigne les patients"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "LECON",
+      "clue": "Une période d'apprentissage sur un sujet"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "METEO",
+      "clue": "État de l'atmosphère, chaud, froid, pluvieux"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "HIVER",
+      "clue": "Saison la plus froide de l'année"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "IMAGE",
+      "clue": "Une photo ou un dessin"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "ESPACE",
+      "clue": "Une zone vide, ou l'univers au-delà de la Terre"
+    }
+  ]
+}

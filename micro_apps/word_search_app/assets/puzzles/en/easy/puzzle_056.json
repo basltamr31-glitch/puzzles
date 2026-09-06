@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_056",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 55,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "HSTADIUM",
+    "FHZVNKAW",
+    "SOCCERDE",
+    "NCIZSNMN",
+    "NKZJWFNG",
+    "TENNISXO",
+    "TYGBMFNA",
+    "RHTTRVKL"
+  ],
+  "words": [
+    {
+      "word": "GOAL",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SOCCER",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STADIUM",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SWIM",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

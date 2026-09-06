@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_059",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 059",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "answer": "FUERZA",
+      "clue": "El poder ejercido sobre algo"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "AVENTURA",
+      "clue": "Una experiencia emocionante y audaz"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "UNIVERSO",
+      "clue": "Todo el espacio y todo lo que contiene"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "AUDIENCIA",
+      "clue": "El grupo que ve una actuación"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "IDIOMA",
+      "clue": "Un sistema de palabras usado para comunicarse"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 6,
+      "answer": "LOGICA",
+      "clue": "Un razonamiento llevado según reglas estrictas"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "EDAD",
+      "clue": "Cuántos años ha vivido alguien"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ORACION",
+      "clue": "Un grupo de palabras que expresa un pensamiento completo"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "EMPLEO",
+      "clue": "Un trabajo remunerado que se hace regularmente"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 11,
+      "answer": "FORMA",
+      "clue": "El contorno o aspecto de algo"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "REGLA",
+      "clue": "Una instrucción oficial sobre cómo comportarse"
+    }
+  ]
+}

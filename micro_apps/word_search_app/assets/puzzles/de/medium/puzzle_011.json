@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_011",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 10,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "WOBAOLSXVI",
+    "ARDRNIGYXR",
+    "BVCFEUWALD",
+    "NEBELGIWVP",
+    "KTRKTUEIVU",
+    "WZWGDESNFH",
+    "NVURSTESCK",
+    "SVZHIMMELM",
+    "WPDYPNRLSC",
+    "SNIAIKOTYH"
+  ],
+  "words": [
+    {
+      "word": "BERG",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "FLUSS",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "HIMMEL",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "INSEL",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "NEBEL",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "REGEN",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "WALD",
+      "row": 2,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "WIESE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

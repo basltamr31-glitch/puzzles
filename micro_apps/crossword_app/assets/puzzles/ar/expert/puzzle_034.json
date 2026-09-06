@@ -1,0 +1,122 @@
+{
+  "id": "ar_expert_034",
+  "language": "ar",
+  "difficulty": "expert",
+  "title": "اللغز 034",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "answer": "حدائق",
+      "clue": "جمع حديقة"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "حجر",
+      "clue": "مادة صلبة طبيعية"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "تاريخية",
+      "clue": "صفة تتعلق بالتاريخ"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "اقتصادية",
+      "clue": "صفة تتعلق بالاقتصاد"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "معدن",
+      "clue": "مادة صلبة كالحديد أو الذهب"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "ثقافية",
+      "clue": "صفة تتعلق بالثقافة"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "حجم",
+      "clue": "مقدار المساحة التي يشغلها جسم"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 1,
+      "answer": "قلب",
+      "clue": "العضو الذي يضخ الدم في الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "روح",
+      "clue": "الجانب غير المادي من الإنسان"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "حق",
+      "clue": "ما يستحقه الشخص"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "مطارات",
+      "clue": "جمع مطار"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 3,
+      "answer": "فن",
+      "clue": "تعبير إبداعي بالرسم أو الموسيقى أو غيرها"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "عدد",
+      "clue": "قيمة رياضية تُستخدم للعد"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "answer": "ضعف",
+      "clue": "قلة القوة أو القدرة"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 11,
+      "answer": "قوة",
+      "clue": "القدرة على القيام بعمل أو التأثير"
+    }
+  ]
+}

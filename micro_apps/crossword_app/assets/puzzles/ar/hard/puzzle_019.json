@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_019",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 019",
+  "rows": 12,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "مسؤولية",
+      "clue": "واجب يجب على الشخص القيام به"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "سلام",
+      "clue": "حالة خلو من الحرب والنزاع"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "معلومات",
+      "clue": "جمع معلومة"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "علم",
+      "clue": "معرفة منظمة تقوم على الملاحظة والتجربة"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "نظام",
+      "clue": "مجموعة قواعد منظمة"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 11,
+      "answer": "استكشاف",
+      "clue": "عملية البحث والتقصي عن أمر مجهول"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "answer": "عقل",
+      "clue": "أداة التفكير في الإنسان"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 7,
+      "answer": "اقتصاد",
+      "clue": "علم إنتاج السلع والخدمات وتوزيعها"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 9,
+      "answer": "رمل",
+      "clue": "حبيبات ناعمة تغطي الصحراء والشواطئ"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "فن",
+      "clue": "تعبير إبداعي بالرسم أو الموسيقى أو غيرها"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "رائحة",
+      "clue": "ما يُحس به عند الشم"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 10,
+      "answer": "حجم",
+      "clue": "مقدار المساحة التي يشغلها جسم"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "استقلال",
+      "clue": "حرية دولة من السيطرة الخارجية"
+    }
+  ]
+}

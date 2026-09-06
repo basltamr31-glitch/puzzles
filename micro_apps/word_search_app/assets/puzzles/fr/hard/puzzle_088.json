@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_088",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 87,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "DNCYCLISMEAZ",
+    "LLABTEKSABKY",
+    "JIFTPXESRUOC",
+    "GMDIACGRAEAJ",
+    "RIUFTTLFTJUS",
+    "EQJCOOIEHVIT",
+    "ECHECSLOONZJ",
+    "YEKCOHUNNUZL",
+    "URKTTVZEDMKG",
+    "JLLAYCTBHKMQ",
+    "KLJZRVEKDUGL",
+    "NEZYAENMOKFO"
+  ],
+  "words": [
+    {
+      "word": "ATHLETE",
+      "row": 9,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "BASKETBALL",
+      "row": 1,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "COURSE",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CYCLISME",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ECHECS",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "EQUIPE",
+      "row": 6,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 7,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "MARATHON",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "NATATION",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "TENNIS",
+      "row": 9,
+      "col": 6,
+      "dir": "NE"
+    }
+  ]
+}

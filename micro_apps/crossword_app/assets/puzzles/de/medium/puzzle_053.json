@@ -1,0 +1,73 @@
+{
+  "id": "de_medium_053",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 053",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "KLANG",
+      "clue": "Etwas, das man hört"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "TASCHE",
+      "clue": "Ein kleiner Beutel, in Kleidung eingenäht"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "BAUER",
+      "clue": "Person, die Feldfrüchte anbaut"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "JACKE",
+      "clue": "Ein kurzer Übermantel"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "BERUF",
+      "clue": "Bezahlte Arbeit, die man regelmäßig verrichtet"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "PINGUIN",
+      "clue": "Flugunfähiger Vogel aus kalten Regionen"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "KNOPF",
+      "clue": "Ein kleiner Verschluss an Kleidung"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "DELFIN",
+      "clue": "Intelligentes Meeressäugetier"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "REGEL",
+      "clue": "Eine offizielle Anweisung, wie man sich verhält"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_051",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 051",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "GUITARE",
+      "clue": "Instrument à cordes que l'on gratte"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "CAPITAINE",
+      "clue": "Chef d'un navire ou d'une équipe"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "MUSIQUE",
+      "clue": "Son organisé, souvent avec mélodie et rythme"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "ORAGE",
+      "clue": "Tempête avec tonnerre et éclairs"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "SECRET",
+      "clue": "Information gardée cachée des autres"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ZONE",
+      "clue": "Une région ou partie particulière de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 7,
+      "answer": "ETE",
+      "clue": "Saison la plus chaude de l'année"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "TRESOR",
+      "clue": "Un précieux trésor caché"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "it_easy_040",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 040",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "ORA",
+      "clue": "Un'unità di tempo di sessanta minuti",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "LIBRO",
+      "clue": "Pagine rilegate che si leggono",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "REGINA",
+      "clue": "Sovrana femminile di un regno",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "ORO",
+      "clue": "Metallo prezioso di colore giallo",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "LUNA",
+      "clue": "Satellite naturale della Terra",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "ISOLA",
+      "clue": "Terra completamente circondata dall'acqua",
+      "category": "place"
+    }
+  ]
+}

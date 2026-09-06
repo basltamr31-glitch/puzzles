@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_051",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 051",
+  "rows": 14,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "APPRECIATION",
+      "clue": "Recognition of the value of something"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 11,
+      "answer": "TAX",
+      "clue": "Money owed to the government"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "TRADITIONAL",
+      "clue": "Following long-established customs"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "IMMIGRATION",
+      "clue": "The act of moving to live in another country"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 13,
+      "answer": "ROLE",
+      "clue": "A part someone plays in a story or job"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "WEB",
+      "clue": "A net spun by a spider, or the internet, informally"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "answer": "VALUE",
+      "clue": "How much something is worth"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "PHILOSOPHY",
+      "clue": "The study of fundamental questions about existence"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 5,
+      "answer": "SHAPE",
+      "clue": "The form or outline of something"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "TEAM",
+      "clue": "A group working together toward a goal"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 8,
+      "answer": "TYPE",
+      "clue": "A category or kind of something"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 12,
+      "answer": "JOB",
+      "clue": "Paid work someone does regularly"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "FACT",
+      "clue": "Something known to be true"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "RATE",
+      "clue": "A measure of how fast something happens"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "WAR",
+      "clue": "Armed conflict between nations"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_067",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 66,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "HRJIDFJHMMFS",
+    "TFVELQFBZCXQ",
+    "PITREEAZZZZO",
+    "MTYSIEYESPKT",
+    "LOFZTVWSPDRY",
+    "AZUCEOENAECO",
+    "KGMNULNRSDOV",
+    "QNKDTCUECKVX",
+    "RUEMEADOWDDC",
+    "PNOUDNIWURNG",
+    "NJMIWOBNIARK",
+    "RELOXQBXCJWG"
+  ],
+  "words": [
+    {
+      "word": "DESERT",
+      "row": 8,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "MEADOW",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "OCEAN",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "RAINBOW",
+      "row": 10,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "RIVER",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "STONE",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "TREE",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "WIND",
+      "row": 9,
+      "col": 7,
+      "dir": "W"
+    }
+  ]
+}

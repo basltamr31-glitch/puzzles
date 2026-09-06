@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_064",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 064",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 8,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "VULKAN",
+      "clue": "Ein Berg, der ausbrechen kann"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "TROPEN",
+      "clue": "Heiße Klimazone nahe dem Äquator"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "TRADITION",
+      "clue": "Ein über Generationen weitergegebener Brauch"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "BEREICH",
+      "clue": "Die Spanne zwischen zwei Grenzen"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "PASSAGIER",
+      "clue": "Eine Person, die in einem Fahrzeug mitfährt"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "FAKT",
+      "clue": "Etwas, das als wahr bekannt ist"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "OPERATION",
+      "clue": "Ein medizinischer Eingriff zur Behandlung"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "ZIEL",
+      "clue": "Das Ergebnis, auf das jemand hinarbeitet"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 6,
+      "answer": "IDEE",
+      "clue": "Ein Gedanke oder Plan"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    }
+  ]
+}

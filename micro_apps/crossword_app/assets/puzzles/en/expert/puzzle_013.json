@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_013",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 013",
+  "rows": 15,
+  "cols": 14,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "RATE",
+      "clue": "A measure of how fast something happens"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "ENCYCLOPEDIA",
+      "clue": "A book or set of books with articles on many topics"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "WAR",
+      "clue": "Armed conflict between nations"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "ORDER",
+      "clue": "A sequence, or an instruction to do something"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "EXTRAORDINARY",
+      "clue": "Very unusual or remarkable"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 10,
+      "answer": "FACT",
+      "clue": "Something known to be true"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "GOAL",
+      "clue": "The aim someone is working toward"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 2,
+      "answer": "ITEM",
+      "clue": "A single article or object"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 8,
+      "answer": "RISK",
+      "clue": "The chance that something bad might happen"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "RULE",
+      "clue": "An official instruction on how to behave"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 2,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "METEOROLOGY",
+      "clue": "The scientific study of weather"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 8,
+      "answer": "SHAPE",
+      "clue": "The form or outline of something"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 0,
+      "answer": "ICE",
+      "clue": "Frozen water"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 11,
+      "answer": "JOB",
+      "clue": "Paid work someone does regularly"
+    }
+  ]
+}

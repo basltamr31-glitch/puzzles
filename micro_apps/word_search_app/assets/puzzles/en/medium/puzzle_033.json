@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_033",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 32,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "EAGLEEOSYD",
+    "GCQIZXRKIC",
+    "UWMSRRHPWI",
+    "CYQYCATMSP",
+    "ENCTGBFWHZ",
+    "EHPBBBTFEC",
+    "DOLPHINMEE",
+    "EWLKMTRYPG",
+    "SLIYFPBDMA",
+    "FQOUIZJHFJ"
+  ],
+  "words": [
+    {
+      "word": "BIRD",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CAT",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "DOLPHIN",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "EAGLE",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "OWL",
+      "row": 6,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "RABBIT",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SHEEP",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

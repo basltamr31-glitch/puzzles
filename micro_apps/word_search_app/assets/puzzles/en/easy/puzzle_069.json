@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_069",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 68,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "AGQEYTQD",
+    "XWNFOOTW",
+    "NBXPRFCC",
+    "PFMCGICF",
+    "THRAONGA",
+    "OVTPCGBT",
+    "DANKLEYE",
+    "YOWEARMX"
+  ],
+  "words": [
+    {
+      "word": "ANKLE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ARM",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "EAR",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "EYE",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "FINGER",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FOOT",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

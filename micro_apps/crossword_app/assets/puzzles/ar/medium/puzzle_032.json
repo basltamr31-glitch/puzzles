@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_032",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 032",
+  "rows": 7,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "حكومة",
+      "clue": "الجهة التي تدير شؤون الدولة"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "بطاقة",
+      "clue": "قطعة صغيرة تحمل معلومات"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "لاعب",
+      "clue": "شخص يمارس رياضة معينة"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "نظارة",
+      "clue": "أداة تُوضع على العين لتحسين الرؤية"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "حقيبة",
+      "clue": "وعاء يُستخدم لحمل الأغراض"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "نوع",
+      "clue": "صنف أو فئة من الأشياء"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "answer": "رقم",
+      "clue": "رمز يدل على عدد"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "علم",
+      "clue": "معرفة منظمة تقوم على الملاحظة والتجربة"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "سلام",
+      "clue": "حالة خلو من الحرب والنزاع"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "ممثل",
+      "clue": "شخص يؤدي أدواراً في الأفلام أو المسرحيات"
+    }
+  ]
+}

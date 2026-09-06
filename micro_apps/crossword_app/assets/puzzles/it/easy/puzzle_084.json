@@ -1,0 +1,58 @@
+{
+  "id": "it_easy_084",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 084",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "PORTA",
+      "clue": "Pannello che si apre per entrare in una stanza",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "ANATRA",
+      "clue": "Uccello acquatico che fa qua qua",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "NOTTE",
+      "clue": "La parte buia della giornata",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "TESTA",
+      "clue": "Parte superiore del corpo, con il cervello",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "ORA",
+      "clue": "Un'unità di tempo di sessanta minuti",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

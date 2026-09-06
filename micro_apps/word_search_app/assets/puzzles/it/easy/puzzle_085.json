@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_085",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 84,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "MENTOQSV",
+    "XBRACCIO",
+    "CUIKCTPT",
+    "ZACOHTEE",
+    "LGOMITOS",
+    "VSLRORNT",
+    "FULGIBNA",
+    "VBOFYNYT"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COLLO",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "GOMITO",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MENTO",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TESTA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

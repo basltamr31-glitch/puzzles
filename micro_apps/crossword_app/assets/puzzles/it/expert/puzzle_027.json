@@ -1,0 +1,122 @@
+{
+  "id": "it_expert_027",
+  "language": "it",
+  "difficulty": "expert",
+  "title": "Cruciverba 027",
+  "rows": 15,
+  "cols": 14,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "SIGNIFICATO",
+      "clue": "L'importanza di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "LUCE",
+      "clue": "La chiarezza che permette di vedere"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 8,
+      "answer": "VALORE",
+      "clue": "Quanto vale qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "GEOGRAFICO",
+      "clue": "Relativo alle caratteristiche fisiche della Terra"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 13,
+      "answer": "NEGOZIAZIONE",
+      "clue": "Una discussione per raggiungere un accordo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "RESPONSABILITA",
+      "clue": "Un dovere che qualcuno deve assolvere"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 10,
+      "answer": "VOTO",
+      "clue": "Una scelta formale fatta in un'elezione"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 2,
+      "answer": "MATEMATICO",
+      "clue": "Relativo allo studio dei numeri e delle forme"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "CIELO",
+      "clue": "Lo spazio sopra la terra"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "COLLABORAZIONE",
+      "clue": "L'atto di lavorare insieme"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "IMMAGINAZIONE",
+      "clue": "La capacità di formare nuove idee"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 10,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 11,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 11,
+      "answer": "COSTO",
+      "clue": "La somma pagata per qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 7,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    }
+  ]
+}

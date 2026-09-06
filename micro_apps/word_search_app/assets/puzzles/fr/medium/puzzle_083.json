@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_083",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 82,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "OMVYKVMEOV",
+    "SOTVSZNBNP",
+    "MNFORETYPN",
+    "STILJGRBFA",
+    "CASCADEVDJ",
+    "PGLACIERQM",
+    "VNANDICRNM",
+    "FEUILLEXNX",
+    "GGNNAGILAZ",
+    "UICTSUHOLM"
+  ],
+  "words": [
+    {
+      "word": "CASCADE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CIEL",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FORET",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MONTAGNE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VENT",
+      "row": 6,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

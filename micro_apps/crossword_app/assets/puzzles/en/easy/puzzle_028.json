@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_028",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 028",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "PAPER",
+      "clue": "Thin material used for writing or printing",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "PATH",
+      "clue": "A narrow track for walking",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "CAKE",
+      "clue": "Sweet baked dessert, often for birthdays",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "MOTHER",
+      "clue": "Female parent",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "ARM",
+      "clue": "Limb between the shoulder and the hand",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "SEA",
+      "clue": "A large body of salt water",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "STAR",
+      "clue": "A glowing point of light in the night sky",
+      "category": "nature"
+    }
+  ]
+}

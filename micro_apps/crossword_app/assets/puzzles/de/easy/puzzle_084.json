@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_084",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 084",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "ARM",
+      "clue": "Gliedmaße zwischen Schulter und Hand",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "BERG",
+      "clue": "Hoch aufragende Landform",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "SILBER",
+      "clue": "Glänzendes wertvolles graues Metall",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "PFERD",
+      "clue": "Großes Tier, auf dem man reitet",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "STEIN",
+      "clue": "Ein hartes Stück Fels",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "SEE",
+      "clue": "Großes Gewässer, von Land umgeben",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "ROT",
+      "clue": "Farbe von Blut oder einer reifen Tomate",
+      "category": "color"
+    }
+  ]
+}

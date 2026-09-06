@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_071",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 70,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "MOTINZTUHYFDRC",
+    "ESIERNTTELLAEY",
+    "OJXCKCASKCURFH",
+    "UXMIBCXBUNGRFO",
+    "DLJBZIIAAWHHOZ",
+    "RGHWUVYTRGAAKU",
+    "HUTCBAHNHOFFVB",
+    "JAVVAFLUGZEUGF",
+    "OSTMAETRAKNWUP",
+    "UIKMDDJDUZTNJY",
+    "MSRBUXCITSSTCT",
+    "NHPOVOKAOMSGXK",
+    "GGZAKTLONFGPTW",
+    "SWEWMWUYCHZHJS"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 8,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "BAHNHOF",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "FAHRRAD",
+      "row": 6,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "FLUGHAFEN",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "FLUGZEUG",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "KARTE",
+      "row": 8,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "KOFFER",
+      "row": 5,
+      "col": 12,
+      "dir": "N"
+    },
+    {
+      "word": "REISE",
+      "row": 1,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "RUCKSACK",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "TAXI",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 5,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "URLAUB",
+      "row": 9,
+      "col": 8,
+      "dir": "NW"
+    }
+  ]
+}

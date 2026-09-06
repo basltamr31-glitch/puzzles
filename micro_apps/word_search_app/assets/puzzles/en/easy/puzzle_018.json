@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_018",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 17,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "NPEUTVUE",
+    "SOUPUIFM",
+    "TTDSCJLP",
+    "KAHJAMES",
+    "ETCQKPME",
+    "COFFEEOL",
+    "FAXTLKNN",
+    "MZEDYAXV"
+  ],
+  "words": [
+    {
+      "word": "CAKE",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "COFFEE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "JAM",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LEMON",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SOUP",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

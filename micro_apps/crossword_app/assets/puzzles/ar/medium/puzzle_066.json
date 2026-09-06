@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_066",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 066",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "answer": "متحف",
+      "clue": "مكان تُعرض فيه القطع الأثرية والتاريخية"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "حرب",
+      "clue": "نزاع مسلح بين أطراف"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "امتحان",
+      "clue": "تقييم رسمي لمستوى الطالب"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "حساب",
+      "clue": "عملية رياضية أو مالية"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "رائحة",
+      "clue": "ما يُحس به عند الشم"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "تجارة",
+      "clue": "نشاط بيع وشراء السلع"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "قرار",
+      "clue": "حكم أو اختيار يُتخذ بعد تفكير"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "answer": "حجم",
+      "clue": "مقدار المساحة التي يشغلها جسم"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "مطار",
+      "clue": "مكان تقلع وتهبط فيه الطائرات"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "مشكلة",
+      "clue": "أمر صعب يحتاج إلى معالجة"
+    }
+  ]
+}

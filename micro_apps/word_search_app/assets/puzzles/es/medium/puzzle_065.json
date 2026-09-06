@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_065",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 64,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "NEMPKKNMPZ",
+    "XEBZEQAOCE",
+    "LCEJIRAFAC",
+    "XJALUYROBY",
+    "ZBPMEGFOAN",
+    "TIGREFAXLM",
+    "FFGCALATLF",
+    "PKBGTJLNOM",
+    "PINGUINOTG",
+    "GBMRERMELE"
+  ],
+  "words": [
+    {
+      "word": "CABALLO",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CAMELLO",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "GATO",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PERRO",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TIGRE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

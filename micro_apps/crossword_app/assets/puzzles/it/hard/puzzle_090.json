@@ -1,0 +1,101 @@
+{
+  "id": "it_hard_090",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 090",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "answer": "DIPINTO",
+      "clue": "Un'immagine realizzata con la pittura"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "GALASSIA",
+      "clue": "Un enorme sistema di stelle"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "ORCHESTRA",
+      "clue": "Un grande gruppo di musicisti che suonano insieme"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "INDUSTRIA",
+      "clue": "Attività economica legata alla produzione"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "SCOPERTA",
+      "clue": "L'atto di trovare qualcosa di nuovo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "COMPUTER",
+      "clue": "Apparecchio elettronico che elabora dati"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "PERDITA",
+      "clue": "Lo stato di non avere più qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "UNITA",
+      "clue": "Una singola misura o pezzo standard"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "CHIRURGIA",
+      "clue": "Una procedura medica per trattare una condizione"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "ASTRONAUTA",
+      "clue": "Una persona addestrata per viaggiare nello spazio"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "GHIACCIO",
+      "clue": "Acqua congelata"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_074",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 73,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "KDEEFFAKATEKNB",
+    "VENOLEMRESSAWS",
+    "PROWIVECEEKRYS",
+    "HERXATOANZETRJ",
+    "KTTEVZKJRNKOIG",
+    "JTIAPFELIPAFER",
+    "MUZFMWGGBJZFMM",
+    "ZBCXHONIGMYEIG",
+    "KLGJXHTKFVMLME",
+    "OWZDTIFMSYCFNM",
+    "VDKZFIMIVHIITN",
+    "HVFJZZMZFCJVRA",
+    "OWDIFCAMVEBNWH",
+    "YXVEYCMOLAMWRU"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "BIRNE",
+      "row": 6,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "BUTTER",
+      "row": 7,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "HONIG",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "KAESE",
+      "row": 4,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 0,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 0,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "KEKSE",
+      "row": 4,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "MILCH",
+      "row": 6,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "TOMATE",
+      "row": 8,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "WASSERMELONE",
+      "row": 1,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 6,
+      "col": 2,
+      "dir": "N"
+    }
+  ]
+}

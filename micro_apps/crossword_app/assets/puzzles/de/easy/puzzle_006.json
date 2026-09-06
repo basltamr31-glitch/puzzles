@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_006",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 006",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "ZUCKER",
+      "clue": "Süße kristalline Substanz",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "NACHT",
+      "clue": "Der dunkle Teil des Tages",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "MUND",
+      "clue": "Öffnung zum Essen und Sprechen",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ENTE",
+      "clue": "Wasservogel, der schnattert",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "VATER",
+      "clue": "Männlicher Elternteil",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "TAL",
+      "clue": "Niedriges Land zwischen Bergen",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "ARM",
+      "clue": "Gliedmaße zwischen Schulter und Hand",
+      "category": "body"
+    }
+  ]
+}

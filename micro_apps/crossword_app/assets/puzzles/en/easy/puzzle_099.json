@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_099",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 099",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "WORK",
+      "clue": "Effort done to earn a living",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "DREAM",
+      "clue": "Images and thoughts that happen while sleeping",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "BEACH",
+      "clue": "Sandy area along the edge of the sea",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "HEAD",
+      "clue": "Top part of the body, containing the brain",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "DOG",
+      "clue": "Loyal pet known for barking",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "FROG",
+      "clue": "Green amphibian that hops and croaks",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "BABY",
+      "clue": "Very young child",
+      "category": "people"
+    }
+  ]
+}

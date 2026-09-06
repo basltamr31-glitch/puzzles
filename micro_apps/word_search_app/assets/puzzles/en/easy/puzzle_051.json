@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_051",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 50,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "FGPGNCAB",
+    "WISLANDF",
+    "QTDAVHAY",
+    "MDZCNDSM",
+    "WTRICFEE",
+    "SRLEAFOG",
+    "IENRAINC",
+    "MEQRDYLJ"
+  ],
+  "words": [
+    {
+      "word": "FOG",
+      "row": 5,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ISLAND",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TREE",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

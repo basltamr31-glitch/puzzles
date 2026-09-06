@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_066",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 066",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "CAMERA",
+      "clue": "Device used to take photographs"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "WEATHER",
+      "clue": "The state of the atmosphere, hot, cold, rainy, etc."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "BASKET",
+      "clue": "A container woven from strips of material"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CHIMNEY",
+      "clue": "Structure that carries smoke away from a fireplace"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "ITEM",
+      "clue": "A single article or object"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "LETTER",
+      "clue": "A written message, or a symbol in the alphabet"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 8,
+      "answer": "WAR",
+      "clue": "Armed conflict between nations"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "COMPASS",
+      "clue": "Tool that shows which direction is north"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "STATION",
+      "clue": "Stop for trains or buses"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    }
+  ]
+}

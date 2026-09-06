@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_065",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 64,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "PECORACP",
+    "VCANEGZL",
+    "VGVBPVQS",
+    "MYACSTRF",
+    "HVLZERZM",
+    "DELFINOU",
+    "XLOHTLFZ",
+    "FZEBRAPE"
+  ],
+  "words": [
+    {
+      "word": "APE",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CANE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CAVALLO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "DELFINO",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PECORA",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

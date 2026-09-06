@@ -1,0 +1,66 @@
+{
+  "id": "it_medium_081",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 081",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "CHITARRA",
+      "clue": "Strumento a corde che si pizzica"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "LIVELLO",
+      "clue": "Uno standard o un'altezza particolare"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "MUSICA",
+      "clue": "Suono organizzato, spesso con melodia e ritmo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "SCOIATTOLO",
+      "clue": "Piccolo animale dalla coda folta che raccoglie noci"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "PERDITA",
+      "clue": "Lo stato di non avere più qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "INSETTO",
+      "clue": "Piccola creatura a sei zampe come una formica"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "TESORO",
+      "clue": "Un prezioso tesoro nascosto"
+    }
+  ]
+}

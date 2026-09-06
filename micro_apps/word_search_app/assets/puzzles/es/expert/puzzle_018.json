@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_018",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 17,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "QMIUIZATHGBIMJ",
+    "QFFLRFAFZVISPV",
+    "VLRRDRQDZOCGLP",
+    "AAYHEUOKEZMJKD",
+    "AGRPASTELEMDDN",
+    "JYOFETAMOTZPTB",
+    "JXOUOOANSKRQJG",
+    "GBQHNRATDOUZLV",
+    "IHROMTRAAIBHYZ",
+    "YEPTAIGRVPATNV",
+    "FLDLYLXYLKOAFG",
+    "BMPBBLECHEVSLE",
+    "XYKRIAYIEKXGFN",
+    "XGTHUFPYMPIMSX"
+  ],
+  "words": [
+    {
+      "word": "FRESA",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "LECHE",
+      "row": 11,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "MIEL",
+      "row": 13,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "PASTEL",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 9,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "PERA",
+      "row": 4,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "PLATANO",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "QUESO",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "SANDIA",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "SOPA",
+      "row": 11,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "TOMATE",
+      "row": 5,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "TORTILLA",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

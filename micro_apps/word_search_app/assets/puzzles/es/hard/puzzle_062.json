@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_062",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 61,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "TJJUJRVQPHOG",
+    "ESUETERALLOC",
+    "EUOQQEHAPSSL",
+    "XYVUNNPQIQFE",
+    "NEFRCINTURON",
+    "IOOSOMBREROA",
+    "OGIRBARESLUP",
+    "YTSALLITAPAZ",
+    "VJOKODITSEVI",
+    "LXOHGNNFIPZJ",
+    "CNLCHAQUETAR",
+    "XDQNPXDAQBHZ"
+  ],
+  "words": [
+    {
+      "word": "ABRIGO",
+      "row": 6,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "CHAQUETA",
+      "row": 10,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CINTURON",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "COLLAR",
+      "row": 1,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PANTALON",
+      "row": 11,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "PULSERA",
+      "row": 6,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SOMBRERO",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SUETER",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 8,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "ZAPATILLAS",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

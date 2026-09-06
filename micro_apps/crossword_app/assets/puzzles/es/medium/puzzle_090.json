@@ -1,0 +1,80 @@
+{
+  "id": "es_medium_090",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 090",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "FORMA",
+      "clue": "El contorno o aspecto de algo"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "PUERTO",
+      "clue": "Un lugar protegido donde atracan los barcos"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "answer": "LEY",
+      "clue": "Una regla impuesta por un gobierno"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "MEDICO",
+      "clue": "Profesional médico que atiende pacientes"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "AEROPUERTO",
+      "clue": "Lugar donde despegan y aterrizan los aviones"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "SONIDO",
+      "clue": "Algo que se oye"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "EMPLEO",
+      "clue": "Un trabajo remunerado que se hace regularmente"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "MENSAJE",
+      "clue": "Información enviada de una persona a otra"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "TASA",
+      "clue": "Una medida de la rapidez con la que ocurre algo"
+    }
+  ]
+}

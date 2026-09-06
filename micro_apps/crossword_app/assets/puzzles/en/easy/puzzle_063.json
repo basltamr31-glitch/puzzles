@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_063",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 063",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "ISLAND",
+      "clue": "Land completely surrounded by water",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "RIVER",
+      "clue": "A large natural stream of flowing water",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "GOAT",
+      "clue": "Horned farm animal known for climbing",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "SUGAR",
+      "clue": "Sweet crystalline substance",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "BEAR",
+      "clue": "Large furry animal that lives in the woods",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "DUCK",
+      "clue": "Water bird that quacks",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "RUN",
+      "clue": "To move quickly on foot",
+      "category": "action"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_090",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 090",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "FORMA",
+      "clue": "El contorno o aspecto de algo"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "PSICOLOGIA",
+      "clue": "El estudio científico de la mente y la conducta"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 8,
+      "answer": "EMPLEO",
+      "clue": "Un trabajo remunerado que se hace regularmente"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 5,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ANIVERSARIO",
+      "clue": "El retorno anual de una fecha especial"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "TRADUCCION",
+      "clue": "La conversión de un texto a otro idioma"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 5,
+      "answer": "POBLACION",
+      "clue": "El número de personas que viven en una zona"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "INCREIBLE",
+      "clue": "Demasiado extraordinario para ser creído"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 11,
+      "answer": "MAGNIFICO",
+      "clue": "Extremadamente hermoso o impresionante"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "RIESGO",
+      "clue": "La posibilidad de que algo malo suceda"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "ARQUEOLOGIA",
+      "clue": "El estudio de la historia humana mediante excavaciones"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 10,
+      "answer": "PODER",
+      "clue": "La capacidad de hacer o controlar algo"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 11,
+      "answer": "META",
+      "clue": "El objetivo hacia el que alguien trabaja"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 14,
+      "answer": "ESPACIO",
+      "clue": "Un área vacía, o el universo más allá de la Tierra"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "ARTE",
+      "clue": "Expresión creativa, como la pintura"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 11,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_094",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 93,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "QBPPBPVKAEATEB",
+    "SXDHPFASDYBVMO",
+    "HCZPQTPNKVCDUP",
+    "OFQCALCETINCRC",
+    "KKIBHASAKUJFOJ",
+    "PARESLUPQEFLMR",
+    "NOOBZAPATILLAS",
+    "CDZNKSANDALIAS",
+    "DIMIUUATRNLZES",
+    "ZTFEXUAAREAZYU",
+    "TSTUGXRLPGNFPY",
+    "NEETRHGOTNFVUY",
+    "RVQQNVENNJJJNB",
+    "ZKLVZCOLKCFBJK"
+  ],
+  "words": [
+    {
+      "word": "BUFANDA",
+      "row": 12,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "CALCETIN",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "COLLAR",
+      "row": 3,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "CORBATA",
+      "row": 7,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "GUANTE",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "PANTALON",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PANTUFLAS",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "PULSERA",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "SANDALIAS",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SUETER",
+      "row": 7,
+      "col": 5,
+      "dir": "SW"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 12,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "ZAPATILLAS",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

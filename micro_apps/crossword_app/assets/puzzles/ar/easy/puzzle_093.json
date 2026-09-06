@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_093",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 093",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "جنوب",
+      "clue": "الجهة المقابلة للشمال",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "مكتب",
+      "clue": "مكان يُستخدم للعمل",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "ماء",
+      "clue": "سائل شفاف ضروري للحياة",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "أرنب",
+      "clue": "حيوان له أذنان طويلتان يقفز",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "سماء",
+      "clue": "الفضاء الأزرق فوق الأرض",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "شمس",
+      "clue": "النجم الذي يضيء نهارنا",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "فم",
+      "clue": "فتحة تُستخدم للأكل والكلام",
+      "category": "body"
+    }
+  ]
+}

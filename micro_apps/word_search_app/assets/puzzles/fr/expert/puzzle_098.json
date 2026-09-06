@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_098",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 97,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "LUQMNCREPEJFKL",
+    "VSJOSAGNOKRCON",
+    "FRUPEETAMOTMXD",
+    "PZYARANNMTHZFV",
+    "RRUIENPAEIBPEA",
+    "HEONGBGBDZEAFR",
+    "XPASTEQUEONLNM",
+    "QUEVKPSQTKMKLN",
+    "SOVBXNEVEMMYIZ",
+    "QSLHYPQFRAISEE",
+    "VXKZNQAURGODMD",
+    "BJDVOCHXECKABQ",
+    "MATIBZHRRYIOAQ",
+    "EXQSJNMSIFJHZF"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 5,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "CAFE",
+      "row": 11,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "CREPE",
+      "row": 0,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "FRAISE",
+      "row": 9,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 0,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "MIEL",
+      "row": 3,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "PAIN",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PASTEQUE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "POIRE",
+      "row": 6,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "POMMEDETERRE",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "SOUPE",
+      "row": 9,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "TOMATE",
+      "row": 2,
+      "col": 10,
+      "dir": "W"
+    }
+  ]
+}

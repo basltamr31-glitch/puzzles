@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_027",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 027",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "BOIS",
+      "clue": "Matériau dont sont faits les arbres",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "CHIEN",
+      "clue": "Animal domestique fidèle qui aboie",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "MOUTON",
+      "clue": "Animal laineux qui bêle",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "JAMBE",
+      "clue": "Membre utilisé pour marcher",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "EAU",
+      "clue": "Liquide clair essentiel à la vie",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "LAC",
+      "clue": "Grande étendue d'eau entourée de terre",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    }
+  ]
+}

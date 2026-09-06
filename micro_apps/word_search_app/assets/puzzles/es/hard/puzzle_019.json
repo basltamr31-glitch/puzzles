@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_019",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 18,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "ZDMTOGNFLBIB",
+    "GHIQTEFMSPQS",
+    "NPNOZCAHHBLO",
+    "BNUHCIELOBRA",
+    "UDBSVSQOCJSP",
+    "LQEUOGLOBVUX",
+    "RYLSLETNVOIP",
+    "ALBEINOIXAJV",
+    "AAOHEEKLTGTU",
+    "SIRIOCRABUOZ",
+    "JVVCBJKTYFUH",
+    "BVLUFNAOOOPB"
+  ],
+  "words": [
+    {
+      "word": "ARBOL",
+      "row": 3,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "ARCOIRIS",
+      "row": 9,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "CIELO",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "DESIERTO",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "HIELO",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "HOJA",
+      "row": 8,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "LLUVIA",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "NIEBLA",
+      "row": 7,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "NUBE",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "VIENTO",
+      "row": 10,
+      "col": 2,
+      "dir": "NE"
+    }
+  ]
+}

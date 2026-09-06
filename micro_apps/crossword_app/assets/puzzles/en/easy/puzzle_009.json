@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_009",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 009",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "DEER",
+      "clue": "Graceful animal with antlers",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "DOOR",
+      "clue": "Panel that swings open to enter a room",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "LION",
+      "clue": "Big cat known as the king of the jungle",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "LEAF",
+      "clue": "Flat green part of a plant",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "LEG",
+      "clue": "Limb used for walking",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "FRIEND",
+      "clue": "Someone you like and trust",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "HAND",
+      "clue": "Body part at the end of the arm",
+      "category": "body"
+    }
+  ]
+}

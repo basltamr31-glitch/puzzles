@@ -1,0 +1,122 @@
+{
+  "id": "ar_expert_077",
+  "language": "ar",
+  "difficulty": "expert",
+  "title": "اللغز 077",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 11,
+      "answer": "جسم",
+      "clue": "الكيان المادي للإنسان أو الحيوان"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 13,
+      "answer": "نظام",
+      "clue": "مجموعة قواعد منظمة"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 13,
+      "answer": "ظل",
+      "clue": "منطقة مظلمة يحجب فيها الضوء"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 12,
+      "answer": "فن",
+      "clue": "تعبير إبداعي بالرسم أو الموسيقى أو غيرها"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "answer": "واجب",
+      "clue": "ما يجب على الشخص القيام به"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "answer": "حساب",
+      "clue": "عملية رياضية أو مالية"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "سياسية",
+      "clue": "صفة تتعلق بالسياسة"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "عدالة",
+      "clue": "إعطاء كل ذي حق حقه"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 5,
+      "answer": "عقل",
+      "clue": "أداة التفكير في الإنسان"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "answer": "فلسفية",
+      "clue": "صفة تتعلق بالفلسفة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "ضعف",
+      "clue": "قلة القوة أو القدرة"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 6,
+      "answer": "سرعة",
+      "clue": "مقدار المسافة المقطوعة في زمن معين"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "جغرافية",
+      "clue": "صفة تتعلق بجغرافيا الأرض"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 6,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 3,
+      "answer": "سلام",
+      "clue": "حالة خلو من الحرب والنزاع"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 10,
+      "answer": "نوع",
+      "clue": "صنف أو فئة من الأشياء"
+    }
+  ]
+}

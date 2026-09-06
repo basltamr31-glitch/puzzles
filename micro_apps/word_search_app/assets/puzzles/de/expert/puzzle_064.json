@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_064",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 63,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "BGBAIBOSOKKBMS",
+    "PHUMXUBCYBMHMG",
+    "ZXSUHWFHMLAUFU",
+    "IJYLGNUWVSRBWL",
+    "GVBJHHVIHXAAJN",
+    "EBVBHSBMDSTLCD",
+    "ZZLOUHNMKRHSSS",
+    "EALLABYELLOVGE",
+    "THBMAETNNJNZTH",
+    "YOBODBOXENEIDA",
+    "UCSSACSINNETEK",
+    "CKALLVNSYRXROI",
+    "RELTROPSURKMJG",
+    "OYKAFXYAMFJDSW"
+  ],
+  "words": [
+    {
+      "word": "BASKETBALL",
+      "row": 3,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "BOXEN",
+      "row": 9,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "FUSSBALL",
+      "row": 13,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 8,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "LAUF",
+      "row": 2,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "MARATHON",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "RENNEN",
+      "row": 11,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "SCHWIMMEN",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SPORTLER",
+      "row": 12,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "TEAM",
+      "row": 8,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "TENNIS",
+      "row": 10,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "VOLLEYBALL",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

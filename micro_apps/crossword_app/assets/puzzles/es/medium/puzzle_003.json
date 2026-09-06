@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_003",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 003",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "PINGUINO",
+      "clue": "Ave que no vuela, vive en climas fríos"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CIENCIA",
+      "clue": "Estudio del mundo natural mediante experimentos"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "BOLSILLO",
+      "clue": "Una pequeña bolsa cosida en la ropa"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "ESPEJO",
+      "clue": "Superficie de vidrio reflectante"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "SONIDO",
+      "clue": "Algo que se oye"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "HIELO",
+      "clue": "Agua congelada"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    }
+  ]
+}

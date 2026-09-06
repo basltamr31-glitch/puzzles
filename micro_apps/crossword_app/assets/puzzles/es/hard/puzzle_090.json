@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_090",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 090",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "MUSCULO",
+      "clue": "Tejido que produce movimiento en el cuerpo"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "ECONOMIA",
+      "clue": "El sistema de producción e intercambio"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "DESTINO",
+      "clue": "El lugar hacia el que alguien viaja"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "CIELO",
+      "clue": "El espacio sobre la tierra"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "EMPLEO",
+      "clue": "Un trabajo remunerado que se hace regularmente"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "GUERRA",
+      "clue": "Un conflicto armado entre naciones"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "ESCALA",
+      "clue": "El tamaño de algo en relación con otro"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 6,
+      "answer": "INVENTO",
+      "clue": "Un dispositivo o proceso recién creado"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 8,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 10,
+      "answer": "PAISAJE",
+      "clue": "El escenario visible de una región"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "IDIOMA",
+      "clue": "Un sistema de palabras usado para comunicarse"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "answer": "COSTO",
+      "clue": "La cantidad pagada por algo"
+    }
+  ]
+}

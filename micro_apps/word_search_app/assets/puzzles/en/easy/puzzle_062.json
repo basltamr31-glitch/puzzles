@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_062",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 61,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "IDRESSBL",
+    "QTFSOASX",
+    "SCUFCNJJ",
+    "BMJOKDON",
+    "HBSNHATX",
+    "OEWIJLRX",
+    "GLOVESVJ",
+    "MTWGZZYN"
+  ],
+  "words": [
+    {
+      "word": "BELT",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "DRESS",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GLOVE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALS",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SOCK",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

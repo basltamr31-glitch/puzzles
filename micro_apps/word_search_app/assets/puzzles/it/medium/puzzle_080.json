@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_080",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 79,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "XISXCHVIAN",
+    "SOTIHAICOK",
+    "NHAROILIBL",
+    "PHDSCACCHI",
+    "SEICKQTLIC",
+    "GQOTENNISO",
+    "GBIXYCHSZR",
+    "HGHYPLVMHS",
+    "EHMARATONA",
+    "QZMDYSYZMG"
+  ],
+  "words": [
+    {
+      "word": "CALCIO",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CICLISMO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CORSA",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MARATONA",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "STADIO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

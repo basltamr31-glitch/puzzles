@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_079",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 079",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "سفارة",
+      "clue": "مقر تمثيل دولة في دولة أخرى"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "قانون",
+      "clue": "قاعدة يفرضها المجتمع أو الدولة"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "سيارة",
+      "clue": "مركبة ذات أربع عجلات"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "قرار",
+      "clue": "حكم أو اختيار يُتخذ بعد تفكير"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "حقيبة",
+      "clue": "وعاء يُستخدم لحمل الأغراض"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "فكرة",
+      "clue": "تصور ذهني حول موضوع ما"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "answer": "رمل",
+      "clue": "حبيبات ناعمة تغطي الصحراء والشواطئ"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "قلب",
+      "clue": "العضو الذي يضخ الدم في الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "وزن",
+      "clue": "مقدار ثقل الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "answer": "نجاح",
+      "clue": "تحقيق هدف مرجو"
+    }
+  ]
+}

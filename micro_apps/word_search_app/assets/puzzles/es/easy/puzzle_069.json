@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_069",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 68,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "XSBKMANO",
+    "RPQXNQTR",
+    "NIACEHIE",
+    "OESOLAXJ",
+    "FRODILLA",
+    "GNJOYETU",
+    "GAOMYGNK",
+    "TYIGTLVC"
+  ],
+  "words": [
+    {
+      "word": "CODO",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MANO",
+      "row": 0,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "OJO",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "OREJA",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PIERNA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "RODILLA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

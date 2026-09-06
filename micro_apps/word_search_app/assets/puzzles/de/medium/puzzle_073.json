@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_073",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 72,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "WUDGADCURS",
+    "LABRZWJKAP",
+    "UDGTHOWADR",
+    "PKAMELKTLR",
+    "SDOPZFOZEO",
+    "CXBOTIGERL",
+    "ZVCGPYETWM",
+    "ZEBJMZIGWE",
+    "UVJYYABAER",
+    "MZRUPOTOUY"
+  ],
+  "words": [
+    {
+      "word": "ADLER",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "BAER",
+      "row": 8,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "KAMEL",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KATZE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LOEWE",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "TIGER",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "WOLF",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ZIEGE",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    }
+  ]
+}

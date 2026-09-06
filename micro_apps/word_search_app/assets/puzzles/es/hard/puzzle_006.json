@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_006",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 5,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "CYURETEUSQON",
+    "FHTSAILADNAS",
+    "LVACOLLARBAZ",
+    "MQPQBFEQCLAK",
+    "FGYIUVFZLYLO",
+    "ODITSEVILNUN",
+    "UMNTFMTTORLC",
+    "IAGUMATABROC",
+    "PLOUPOGBOTBJ",
+    "KCCALCETINDZ",
+    "NFZOHVXAPJCU",
+    "TKIADNAFUBDK"
+  ],
+  "words": [
+    {
+      "word": "BUFANDA",
+      "row": 11,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CALCETIN",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CHAQUETA",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "COLLAR",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CORBATA",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PANTUFLAS",
+      "row": 8,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "SANDALIAS",
+      "row": 1,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SUETER",
+      "row": 0,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 5,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "ZAPATILLAS",
+      "row": 10,
+      "col": 2,
+      "dir": "NE"
+    }
+  ]
+}

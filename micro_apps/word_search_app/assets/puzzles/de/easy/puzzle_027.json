@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_027",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 26,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "JMEWNMBM",
+    "LVNOMDAU",
+    "YOBLATTE",
+    "BIWKFSRF",
+    "PWUESTEY",
+    "DZZMEBGK",
+    "HCEPILEK",
+    "PFLUSSNL"
+  ],
+  "words": [
+    {
+      "word": "BLATT",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "EIS",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FLUSS",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "REGEN",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "WOLKE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "WUESTE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

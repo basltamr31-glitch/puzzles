@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_063",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 62,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "DJVHQPIROQ",
+    "PNOZALJJZA",
+    "ATYBVMULRP",
+    "SVACANCESD",
+    "SEGXLTRAIN",
+    "EAEUIIEGOL",
+    "PJONSGIACX",
+    "ORXMEYCRUR",
+    "RDNLUNOESV",
+    "TKHFNZPSBD"
+  ],
+  "words": [
+    {
+      "word": "BATEAU",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "GARE",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PASSEPORT",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "TRAIN",
+      "row": 4,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "VACANCES",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VALISE",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

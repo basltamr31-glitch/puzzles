@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_027",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 027",
+  "rows": 14,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ACTUACION",
+      "clue": "Un acto de presentación ante un público"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "FILOSOFIA",
+      "clue": "El estudio de preguntas fundamentales sobre la existencia"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "ENTRETENIMIENTO",
+      "clue": "Actividades que proporcionan diversión"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "ESCALA",
+      "clue": "El tamaño de algo en relación con otro"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 14,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "RANGO",
+      "clue": "La extensión entre dos límites"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "CONSERVACION",
+      "clue": "La protección de la naturaleza y los recursos"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "INSPIRACION",
+      "clue": "Una repentina influencia creativa"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 9,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 3,
+      "answer": "HIELO",
+      "clue": "Agua congelada"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 6,
+      "answer": "TAMAÑO",
+      "clue": "Cuán grande o pequeño es algo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "TASA",
+      "clue": "Una medida de la rapidez con la que ocurre algo"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 2,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    }
+  ]
+}

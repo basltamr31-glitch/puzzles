@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_081",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 081",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "ERHALTUNG",
+      "clue": "Der Schutz von Natur und Ressourcen"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "VERTEILUNG",
+      "clue": "Die Handlung des Ausgebens von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "VERHANDLUNG",
+      "clue": "Eine Diskussion zur Erreichung einer Einigung"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 1,
+      "answer": "BEDEUTUNG",
+      "clue": "Die Wichtigkeit von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "AUTONOMIE",
+      "clue": "Freiheit von äußerer Kontrolle"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "MODELL",
+      "clue": "Eine Darstellung von etwas, oft kleiner"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "KRAFT",
+      "clue": "Stärke oder Energie, die auf etwas wirkt"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 3,
+      "answer": "UNGLAUBLICH",
+      "clue": "Zu außergewöhnlich, um geglaubt zu werden"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 11,
+      "answer": "ALTER",
+      "clue": "Wie viele Jahre jemand gelebt hat"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "answer": "ORDNUNG",
+      "clue": "Eine Reihenfolge, oder eine Anweisung"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "answer": "HIMMEL",
+      "clue": "Der Raum über der Erde"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 13,
+      "answer": "LICHT",
+      "clue": "Helligkeit, die das Sehen ermöglicht"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "PLAN",
+      "clue": "Ein detaillierter Vorschlag zur Erledigung von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "WERT",
+      "clue": "Wie viel etwas wert ist"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "REGEL",
+      "clue": "Eine offizielle Anweisung, wie man sich verhält"
+    }
+  ]
+}

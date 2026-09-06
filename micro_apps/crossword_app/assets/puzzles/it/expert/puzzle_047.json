@@ -1,0 +1,122 @@
+{
+  "id": "it_expert_047",
+  "language": "it",
+  "difficulty": "expert",
+  "title": "Cruciverba 047",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "POPOLAZIONE",
+      "clue": "Il numero di persone che vivono in una zona"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "ECOSISTEMA",
+      "clue": "Una comunità di esseri viventi e il loro ambiente"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "INCREDIBILE",
+      "clue": "Troppo straordinario per essere creduto"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "ASTRONOMIA",
+      "clue": "Lo studio scientifico di stelle e pianeti"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "SQUADRA",
+      "clue": "Un gruppo che lavora insieme verso un obiettivo"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "APPREZZAMENTO",
+      "clue": "Il riconoscimento del valore di qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "TRADIZIONALE",
+      "clue": "Che segue usanze consolidate"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 14,
+      "answer": "GUERRA",
+      "clue": "Un conflitto armato tra nazioni"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 12,
+      "answer": "LAVORO",
+      "clue": "Un impiego retribuito svolto regolarmente"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "REGOLA",
+      "clue": "Un'istruzione ufficiale su come comportarsi"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 8,
+      "answer": "ORDINE",
+      "clue": "Una sequenza, o un'istruzione da seguire"
+    },
+    {
+      "direction": "down",
+      "row": 12,
+      "col": 4,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 3,
+      "answer": "MATEMATICO",
+      "clue": "Relativo allo studio dei numeri e delle forme"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 13,
+      "answer": "POTERE",
+      "clue": "La capacità di fare o controllare qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 10,
+      "answer": "MAPPA",
+      "clue": "Un disegno che mostra dove si trovano i luoghi"
+    }
+  ]
+}

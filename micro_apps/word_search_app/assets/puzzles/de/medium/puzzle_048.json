@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_048",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 47,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "RFNSTADION",
+    "AISCHACHAD",
+    "DCFHJSBSAR",
+    "FWCWFPFTUJ",
+    "AHXIIOBYMZ",
+    "HTXMZROHWY",
+    "REIMXTXCTE",
+    "EFYETLEKEO",
+    "NDKNTENNIS",
+    "GXJTORSPHP"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "RADFAHREN",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SCHACH",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCHWIMMEN",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SPORTLER",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "STADION",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TOR",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

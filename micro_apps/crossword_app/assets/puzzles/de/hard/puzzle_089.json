@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_089",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 089",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "KRIEG",
+      "clue": "Bewaffneter Konflikt zwischen Nationen"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "SPRACHE",
+      "clue": "Ein System von Wörtern zur Kommunikation"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "ALTER",
+      "clue": "Wie viele Jahre jemand gelebt hat"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "LICHT",
+      "clue": "Helligkeit, die das Sehen ermöglicht"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 3,
+      "answer": "FALL",
+      "clue": "Ein Beispiel für etwas, oder ein Behälter"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "SATZ",
+      "clue": "Eine Gruppe von Wörtern mit vollständigem Sinn"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "LEXIKON",
+      "clue": "Nachschlagewerk mit Begriffen und Erklärungen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "ZIEL",
+      "clue": "Das Ergebnis, auf das jemand hinarbeitet"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "KLANG",
+      "clue": "Etwas, das man hört"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "WILDNIS",
+      "clue": "Eine wilde, unbebaute Naturregion"
+    }
+  ]
+}

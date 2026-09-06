@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_017",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 16,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "ZWLRMDRSPGZV",
+    "QLPCYOXUBVGX",
+    "PIEJCLSRVRID",
+    "XTNAHPELEOHO",
+    "UWGSGHWHVDAC",
+    "LGUWIITMTUTS",
+    "PMIKRNHSIFGY",
+    "LHNBADOAFRKH",
+    "ZMZPFVRIRSOV",
+    "YWVLFBSRGEGA",
+    "TDODEVEURYLN",
+    "OWFZXYWSVXTE"
+  ],
+  "words": [
+    {
+      "word": "DOLPHIN",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "FISH",
+      "row": 6,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HARE",
+      "row": 6,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "HORSE",
+      "row": 6,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHER",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "PENGUIN",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "WOLF",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 11,
+      "col": 3,
+      "dir": "NE"
+    }
+  ]
+}

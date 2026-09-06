@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_007",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 6,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "UAEROPORTP",
+    "MUVMKLHLZB",
+    "TAXIGZRXLK",
+    "SNBEOIJUVB",
+    "GDDQCNFHAX",
+    "ZBBUSAVELO",
+    "NUQPOGRVIO",
+    "KEAGQULTST",
+    "DERTBILLET",
+    "EKLZDZOVOP"
+  ],
+  "words": [
+    {
+      "word": "AEROPORT",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "AVION",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "BILLET",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CARTE",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TAXI",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VALISE",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "VELO",
+      "row": 5,
+      "col": 6,
+      "dir": "E"
+    }
+  ]
+}

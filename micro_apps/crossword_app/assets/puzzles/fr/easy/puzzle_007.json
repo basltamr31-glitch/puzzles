@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_007",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 007",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "COEUR",
+      "clue": "Organe qui pompe le sang dans le corps",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "VERT",
+      "clue": "Couleur de l'herbe et des feuilles",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "TETE",
+      "clue": "Partie supérieure du corps, avec le cerveau",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "HEURE",
+      "clue": "Une unité de temps de soixante minutes",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "MER",
+      "clue": "Grande étendue d'eau salée",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "MERE",
+      "clue": "Parent féminin",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SEMAINE",
+      "clue": "Une période de sept jours",
+      "category": "time"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_012",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 11,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "GDRBUPURMD",
+    "ZCTAZZANHS",
+    "XGUSQISNGT",
+    "QBICOPERTA",
+    "CLEAIUDKAV",
+    "PGNFRNIDPO",
+    "RFVFQDAOPL",
+    "NEOAPLIHEO",
+    "SAZLBFINTA",
+    "UYUEMINHOX"
+  ],
+  "words": [
+    {
+      "word": "COPERTA",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CUCINA",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SEDIA",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TAZZA",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

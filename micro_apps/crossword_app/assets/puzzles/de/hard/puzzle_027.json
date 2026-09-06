@@ -1,0 +1,94 @@
+{
+  "id": "de_hard_027",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 027",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "LITERATUR",
+      "clue": "Für ihren künstlerischen Wert geschätzte Schriften"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "ERDBEBEN",
+      "clue": "Ein plötzliches Erschüttern des Bodens"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 3,
+      "answer": "FESTIVAL",
+      "clue": "Ein Tag oder Zeitraum der Feier"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "answer": "ERNTE",
+      "clue": "Das Einbringen reifer Feldfrüchte"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "MUSKEL",
+      "clue": "Gewebe, das Bewegung im Körper erzeugt"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "KULTUR",
+      "clue": "Die Bräuche und Überzeugungen einer Gesellschaft"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "FRESKO",
+      "clue": "Wandmalerei auf frischem Putz"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "answer": "FEIER",
+      "clue": "Ein Ereignis, das einen besonderen Anlass markiert"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 11,
+      "answer": "MODELL",
+      "clue": "Eine Darstellung von etwas, oft kleiner"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    }
+  ]
+}

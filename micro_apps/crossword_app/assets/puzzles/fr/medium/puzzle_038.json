@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_038",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 038",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "BOUSSOLE",
+      "clue": "Outil qui indique la direction du nord"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "VOYAGE",
+      "clue": "Déplacement d'un endroit à un autre"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "TAUX",
+      "clue": "Une mesure de la vitesse à laquelle quelque chose se produit"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "FENETRE",
+      "clue": "Ouverture vitrée qui laisse entrer la lumière"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "PROBLEME",
+      "clue": "Une affaire difficile à résoudre"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "ETE",
+      "clue": "Saison la plus chaude de l'année"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "CAMERA",
+      "clue": "Appareil utilisé pour prendre des photos"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "TRESOR",
+      "clue": "Un précieux trésor caché"
+    }
+  ]
+}

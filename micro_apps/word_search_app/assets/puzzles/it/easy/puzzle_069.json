@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_069",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 68,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "FBSPTXML",
+    "SRMMENTO",
+    "TAEZSDUE",
+    "OCOHTILF",
+    "MCNGAMBA",
+    "AIHPZOTR",
+    "COPIEDEL",
+    "OTLPXZRA"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GAMBA",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MENTO",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STOMACO",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TESTA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

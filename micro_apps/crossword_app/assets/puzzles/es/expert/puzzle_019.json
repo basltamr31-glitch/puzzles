@@ -1,0 +1,115 @@
+{
+  "id": "es_expert_019",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 019",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "CIRCUNSTANCIA",
+      "clue": "Una condición ligada a un evento"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "SIGNIFICADO",
+      "clue": "La importancia de algo"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 7,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "CALIFICACION",
+      "clue": "Una habilidad que hace apto a alguien para un rol"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 14,
+      "answer": "GEOGRAFICO",
+      "clue": "Relativo a las características físicas de la Tierra"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "MAGNIFICO",
+      "clue": "Extremadamente hermoso o impresionante"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "APRECIACION",
+      "clue": "El reconocimiento del valor de algo"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "META",
+      "clue": "El objetivo hacia el que alguien trabaja"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 0,
+      "answer": "GANANCIA",
+      "clue": "Un aumento de algo, como riqueza"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 10,
+      "answer": "VALOR",
+      "clue": "Cuánto vale algo"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 4,
+      "answer": "ARTE",
+      "clue": "Expresión creativa, como la pintura"
+    }
+  ]
+}

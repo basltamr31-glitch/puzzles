@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_027",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 027",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "KING",
+      "clue": "Male ruler of a kingdom",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "BONE",
+      "clue": "Hard part of the skeleton",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "LAKE",
+      "clue": "A large body of water surrounded by land",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "BOOK",
+      "clue": "Bound pages you read",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "IRON",
+      "clue": "Strong gray metal used in tools and steel",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "SING",
+      "clue": "To make music with your voice",
+      "category": "action"
+    }
+  ]
+}

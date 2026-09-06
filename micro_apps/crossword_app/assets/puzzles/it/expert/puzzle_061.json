@@ -1,0 +1,122 @@
+{
+  "id": "it_expert_061",
+  "language": "it",
+  "difficulty": "expert",
+  "title": "Cruciverba 061",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "PIANO",
+      "clue": "Una proposta dettagliata per fare qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "MATEMATICO",
+      "clue": "Relativo allo studio dei numeri e delle forme"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "CIRCOSTANZA",
+      "clue": "Una condizione legata a un evento"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "PRODUZIONE",
+      "clue": "La fabbricazione di beni su larga scala"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "answer": "INDIPENDENZA",
+      "clue": "Libertà dal controllo esterno"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "OGGETTO",
+      "clue": "Un articolo o una cosa singola"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "STRAORDINARIO",
+      "clue": "Molto insolito o notevole"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "VOTO",
+      "clue": "Una scelta formale fatta in un'elezione"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 9,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 9,
+      "answer": "TERMINE",
+      "clue": "Un periodo fisso, o una parola specifica"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 2,
+      "answer": "ECOSISTEMA",
+      "clue": "Una comunità di esseri viventi e il loro ambiente"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "FORZA",
+      "clue": "Il potere esercitato su qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 11,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 14,
+      "answer": "ARTE",
+      "clue": "Espressione creativa, come la pittura"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 1,
+      "answer": "FATTO",
+      "clue": "Qualcosa che si sa essere vero"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "SQUADRA",
+      "clue": "Un gruppo che lavora insieme verso un obiettivo"
+    }
+  ]
+}

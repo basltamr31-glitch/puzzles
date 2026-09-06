@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_055",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 055",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "LAMPE",
+      "clue": "Objet qui donne de la lumière",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "SUCRE",
+      "clue": "Substance cristalline sucrée",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "TEMPS",
+      "clue": "Ce que les horloges mesurent",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "PLAGE",
+      "clue": "Zone sablonneuse au bord de la mer",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "FEUILLE",
+      "clue": "Partie verte et plate d'une plante",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "ROI",
+      "clue": "Souverain masculin d'un royaume",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "TOIT",
+      "clue": "Couverture au sommet d'un bâtiment",
+      "category": "home"
+    }
+  ]
+}

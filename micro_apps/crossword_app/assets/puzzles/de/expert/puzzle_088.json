@@ -1,0 +1,108 @@
+{
+  "id": "de_expert_088",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 088",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 3,
+      "answer": "ERHALTUNG",
+      "clue": "Der Schutz von Natur und Ressourcen"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 7,
+      "answer": "ALTER",
+      "clue": "Wie viele Jahre jemand gelebt hat"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 4,
+      "answer": "MODELL",
+      "clue": "Eine Darstellung von etwas, oft kleiner"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "BAHNBRECHEND",
+      "clue": "Eine dramatische, wegweisende Neuerung betreffend"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "QUALIFIKATION",
+      "clue": "Eine Fähigkeit, die jemanden für eine Rolle geeignet macht"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 9,
+      "answer": "BENZIN",
+      "clue": "Flüssiger Treibstoff für Autos"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 13,
+      "answer": "GEOGRAFISCH",
+      "clue": "Auf die physischen Merkmale der Erde bezogen"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "AUTONOMIE",
+      "clue": "Freiheit von äußerer Kontrolle"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "KOMMUNIKATION",
+      "clue": "Der Austausch von Informationen zwischen Menschen"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "UNTERSUCHUNG",
+      "clue": "Eine sorgfältige Prüfung der Fakten"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "KRIEG",
+      "clue": "Bewaffneter Konflikt zwischen Nationen"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "LICHT",
+      "clue": "Helligkeit, die das Sehen ermöglicht"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_072",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 71,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "ZATHLETE",
+    "RTOPNTEP",
+    "WSWIMGAE",
+    "STADIUME",
+    "BOXINGYM",
+    "NXKECYFR",
+    "LPQMDWJH",
+    "WGJPRJMT"
+  ],
+  "words": [
+    {
+      "word": "ATHLETE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BOXING",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GYM",
+      "row": 4,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "STADIUM",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SWIM",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "fr_easy_070",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 070",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "SABLE",
+      "clue": "Petits grains présents sur les plages",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "PIERRE",
+      "clue": "Un petit morceau de roche",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "TEMPS",
+      "clue": "Ce que les horloges mesurent",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "PERE",
+      "clue": "Parent masculin",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "SUCRE",
+      "clue": "Substance cristalline sucrée",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "HEURE",
+      "clue": "Une unité de temps de soixante minutes",
+      "category": "time"
+    }
+  ]
+}

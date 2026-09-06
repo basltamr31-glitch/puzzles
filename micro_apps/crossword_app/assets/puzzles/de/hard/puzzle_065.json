@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_065",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 065",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "OPERATION",
+      "clue": "Ein medizinischer Eingriff zur Behandlung"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "INDUSTRIE",
+      "clue": "Wirtschaftliche Tätigkeit im Bereich Fertigung"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 10,
+      "answer": "REGEL",
+      "clue": "Eine offizielle Anweisung, wie man sich verhält"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "answer": "KULTUR",
+      "clue": "Die Bräuche und Überzeugungen einer Gesellschaft"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 8,
+      "answer": "FALL",
+      "clue": "Ein Beispiel für etwas, oder ein Behälter"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "answer": "ZUGANG",
+      "clue": "Möglichkeit, etwas zu betreten oder zu nutzen"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 7,
+      "answer": "KRIEG",
+      "clue": "Bewaffneter Konflikt zwischen Nationen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "EINHEIT",
+      "clue": "Ein einzelnes Standardmaß"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "WILDNIS",
+      "clue": "Eine wilde, unbebaute Naturregion"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "THEATER",
+      "clue": "Ein Gebäude, in dem Stücke aufgeführt werden"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "LOGIK",
+      "clue": "Nach strengen Regeln geführte Argumentation"
+    }
+  ]
+}

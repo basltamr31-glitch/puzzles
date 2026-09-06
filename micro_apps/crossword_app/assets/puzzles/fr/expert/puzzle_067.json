@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_067",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 067",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "GENERATION",
+      "clue": "Un groupe de personnes nées à la même époque"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "INTERNATIONAL",
+      "clue": "Impliquant plus d'un pays"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "GEOGRAPHIQUE",
+      "clue": "Relatif aux caractéristiques physiques de la Terre"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "INSPIRATION",
+      "clue": "Une soudaine influence créative"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "INTELLIGENCE",
+      "clue": "La capacité d'acquérir et d'appliquer des connaissances"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "TAXE",
+      "clue": "Argent dû au gouvernement"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 9,
+      "answer": "EQUIPE",
+      "clue": "Un groupe travaillant ensemble vers un but"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 12,
+      "answer": "LOGIQUE",
+      "clue": "Un raisonnement mené selon des règles strictes"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 14,
+      "answer": "INDEPENDANCE",
+      "clue": "La liberté de tout contrôle extérieur"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "answer": "CIEL",
+      "clue": "L'espace au-dessus de la terre"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 4,
+      "answer": "ARCHEOLOGIE",
+      "clue": "L'étude de l'histoire humaine par les fouilles"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "TAUX",
+      "clue": "Une mesure de la vitesse à laquelle quelque chose se produit"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "answer": "HUILE",
+      "clue": "Liquide glissant utilisé pour cuisiner ou comme carburant"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 9,
+      "answer": "TYPE",
+      "clue": "Une catégorie ou sorte de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 12,
+      "col": 5,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 9,
+      "answer": "IDEE",
+      "clue": "Une pensée ou un plan"
+    }
+  ]
+}

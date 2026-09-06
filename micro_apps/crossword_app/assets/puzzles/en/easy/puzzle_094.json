@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_094",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 094",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "LAKE",
+      "clue": "A large body of water surrounded by land",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "PAGE",
+      "clue": "One sheet in a book",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "BLUE",
+      "clue": "Color of a clear sky",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "BREAD",
+      "clue": "Baked food made from flour and water",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "PLAY",
+      "clue": "To have fun, often with games or toys",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "DAY",
+      "clue": "A 24-hour period, from sunrise to sunrise",
+      "category": "time"
+    }
+  ]
+}

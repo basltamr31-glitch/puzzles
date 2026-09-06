@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_067",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 66,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "HQLRHNZFFY",
+    "OTCUFHBVKI",
+    "PHTHIECCRF",
+    "IDTVULCANO",
+    "EDHCMCYDEG",
+    "TTKRETIIOL",
+    "RPUFMAREOI",
+    "AQCLVISOLA",
+    "NITHDBOSCO",
+    "ZSUNZYVAQS"
+  ],
+  "words": [
+    {
+      "word": "BOSCO",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CIELO",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "FIUME",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "ISOLA",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "MARE",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PIETRA",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VULCANO",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

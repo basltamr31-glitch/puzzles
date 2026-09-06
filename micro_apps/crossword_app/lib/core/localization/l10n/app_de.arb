@@ -1,0 +1,146 @@
+{
+  "@@locale": "de",
+  "appName": "Kreuzworträtsel",
+  "onboardingTitle": "Kreuzworträtsel",
+  "onboardingSubtitle": "Kurze Kreuzworträtsel, die du jederzeit und überall spielen kannst — kein Konto, kein Internet erforderlich.",
+  "continueButton": "Weiter",
+  "chooseGameLanguageTitle": "Wähle deine Rätselsprache",
+  "chooseGameLanguageSubtitle": "Dies ist die Sprache der Hinweise und Antworten. Du kannst sie später in den Einstellungen ändern.",
+  "chooseDifficultyTitle": "Wähle einen Schwierigkeitsgrad",
+  "chooseDifficultySubtitle": "Du kannst jederzeit jeden Schwierigkeitsgrad spielen.",
+  "difficultyEasy": "Leicht",
+  "difficultyMedium": "Mittel",
+  "difficultyHard": "Schwer",
+  "difficultyExpert": "Experte",
+  "puzzleListTitle": "{difficulty}-Rätsel",
+  "@puzzleListTitle": {
+    "placeholders": {
+      "difficulty": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleStatusCompleted": "Abgeschlossen",
+  "puzzleStatusInProgress": "In Bearbeitung",
+  "puzzleStatusNotStarted": "Nicht begonnen",
+  "puzzleStatusLocked": "Gesperrt",
+  "puzzlesSolvedLabel": "{solved} von {total} gelöst",
+  "@puzzlesSolvedLabel": {
+    "placeholders": {
+      "solved": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "puzzleLockedMessage": "Löse zuerst das vorherige Rätsel, um dieses freizuschalten.",
+  "puzzleNumberLabel": "Rätsel {number}",
+  "@puzzleNumberLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "noPuzzlesTitle": "Noch keine Rätsel",
+  "noPuzzlesMessage": "Neue Rätsel für diesen Schwierigkeitsgrad sind unterwegs.",
+  "acrossLabel": "Waagerecht",
+  "downLabel": "Senkrecht",
+  "previousClueTooltip": "Vorheriger Hinweis",
+  "nextClueTooltip": "Nächster Hinweis",
+  "hintButton": "Tipp",
+  "hintConfirmTitle": "Tipp verwenden?",
+  "hintConfirmMessage": "Dadurch wird der Buchstabe in der ausgewählten Zelle aufgedeckt.",
+  "watchAdForHint": "Schau ein kurzes Video, um einen Tipp zu erhalten",
+  "checkButton": "Prüfen",
+  "restartPuzzleButton": "Neu starten",
+  "zoomInButton": "Vergrößern",
+  "zoomOutButton": "Verkleinern",
+  "restartConfirmTitle": "Dieses Rätsel neu starten?",
+  "restartConfirmMessage": "Dein Fortschritt bei diesem Rätsel wird gelöscht.",
+  "exitPuzzleConfirmTitle": "Rätsel verlassen?",
+  "exitPuzzleConfirmMessage": "Dein Fortschritt wird automatisch gespeichert.",
+  "puzzleCompletedTitle": "Rätsel gelöst!",
+  "puzzleCompletedMessage": "Gut gemacht! Bereit für das nächste?",
+  "nextPuzzleButton": "Nächstes Rätsel",
+  "backToPuzzlesButton": "Zurück zu den Rätseln",
+  "settingsTitle": "Einstellungen",
+  "settingsUiLanguage": "App-Sprache",
+  "settingsGameLanguage": "Rätselsprache",
+  "settingsAppearance": "Erscheinungsbild",
+  "themeModeSystem": "System",
+  "themeModeLight": "Hell",
+  "themeModeDark": "Dunkel",
+  "settingsSound": "Soundeffekte",
+  "settingsVibration": "Vibration",
+  "settingsMusic": "Hintergrundmusik",
+  "musicTrackOff": "Aus",
+  "musicTrackCalm": "Ruhig",
+  "musicTrackGentle": "Sanft",
+  "musicTrackUplifting": "Beschwingt",
+  "musicTrackFocus": "Konzentration",
+  "musicTrackBright": "Hell",
+  "musicTrackNight": "Nacht",
+  "settingsReminders": "Spiel-Erinnerungen",
+  "remindersPermissionDenied": "Benachrichtigungen sind für diese App deaktiviert. Du kannst sie in den Geräteeinstellungen aktivieren.",
+  "reminderTitle": "Ein Rätsel wartet auf dich",
+  "reminderBody": "Gönn dir eine Pause und löse eins — es dauert nur ein paar Minuten.",
+  "settingsTestSound": "Ton testen",
+  "soundTestOk": "Ton wurde abgespielt.",
+  "soundTestFailed": "Ton fehlgeschlagen: {error}",
+  "@soundTestFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsRemoveAds": "Werbung entfernen",
+  "settingsRestorePurchases": "Käufe wiederherstellen",
+  "settingsAdPrivacyOptions": "Anzeigen-Datenschutzoptionen",
+  "settingsPrivacy": "Datenschutzrichtlinie",
+  "privacyPolicyViewOnline": "Online ansehen",
+  "settingsAbout": "Über",
+  "settingsVersion": "Version {version}",
+  "@settingsVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "removeAdsTitle": "Werbung entfernen",
+  "removeAdsDescription": "Genieße jedes Rätsel ohne Banner- oder Vollbildwerbung — für immer, mit einem einmaligen Kauf.",
+  "removeAdsPrice": "1,00 $",
+  "removeAdsPurchaseButton": "Kaufen — 1,00 $",
+  "removeAdsPurchaseButtonWithPrice": "Kaufen — {price}",
+  "@removeAdsPurchaseButtonWithPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "musicToggleOn": "Musik einschalten",
+  "musicToggleOff": "Musik ausschalten",
+  "settingsDeveloper": "Entwickler",
+  "settingsDeveloperName": "BT developer",
+  "settingsCopyright": "© BaLa Dream",
+  "removeAdsAlreadyOwned": "Du besitzt bereits „Werbung entfernen“. Danke für deine Unterstützung!",
+  "purchasePending": "Dein Kauf wird bearbeitet …",
+  "purchaseError": "Der Kauf konnte nicht abgeschlossen werden. Bitte versuche es erneut.",
+  "purchaseStoreUnavailable": "Der Store ist derzeit nicht verfügbar. Prüfe, ob du angemeldet bist, und versuche es erneut.",
+  "purchaseProductUnavailable": "Dieser Kauf ist derzeit nicht verfügbar. Bitte versuche es später erneut.",
+  "purchaseCancelled": "Kauf abgebrochen.",
+  "restoreSuccess": "Deine Käufe wurden wiederhergestellt.",
+  "restoreNothingFound": "Keine früheren Käufe gefunden.",
+  "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+  "errorNoInternet": "Du bist offline. Diese Funktion benötigt eine Internetverbindung.",
+  "errorAdUnavailable": "Momentan ist keine Werbung verfügbar. Bitte versuche es später erneut.",
+  "errorPuzzleMissing": "Dieses Rätsel konnte nicht geladen werden.",
+  "cancelButton": "Abbrechen",
+  "okButton": "OK",
+  "confirmButton": "Bestätigen"
+}

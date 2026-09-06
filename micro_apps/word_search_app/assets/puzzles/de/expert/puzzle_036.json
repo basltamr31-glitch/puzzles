@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_036",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 35,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "ESANWKPPSMDRNN",
+    "AUFNESSIKTYEEC",
+    "CEDRTHCIPPETBY",
+    "VEKUECHEIERSVF",
+    "URHCDGLSMANNJS",
+    "BLIPESAEGDNEID",
+    "NZFLDDFLXJYFIV",
+    "FCBYRJZVVSSSLF",
+    "IOHCDTISCHGSSF",
+    "GHRTTGMTBMZDHE",
+    "FGSEHIMYBNWZFW",
+    "PHBKFLEGEIPSAA",
+    "YUMHNKREINOHFJ",
+    "LPLUDWUFFFDAJF"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "DECKE",
+      "row": 6,
+      "col": 5,
+      "dir": "NW"
+    },
+    {
+      "word": "FENSTER",
+      "row": 6,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "GARTEN",
+      "row": 5,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "KISSEN",
+      "row": 1,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "KUECHE",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "REGAL",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SCHLAFZIMMER",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 11,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "STUHL",
+      "row": 1,
+      "col": 5,
+      "dir": "SW"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "TISCH",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_056",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 056",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "ROJO",
+      "clue": "Color de la sangre o un tomate maduro",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "AÑO",
+      "clue": "Un período de doce meses",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "HERMANA",
+      "clue": "Familiar femenino de la misma generación",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "PERRO",
+      "clue": "Animal doméstico fiel que ladra",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "LEON",
+      "clue": "Gran felino, rey de la sabana",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "CABALLO",
+      "clue": "Animal grande que se monta",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "SOL",
+      "clue": "Estrella en el centro de nuestro sistema solar",
+      "category": "nature"
+    }
+  ]
+}

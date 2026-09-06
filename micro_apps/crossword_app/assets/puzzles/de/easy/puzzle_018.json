@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_018",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 018",
+  "rows": 7,
+  "cols": 5,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "ROT",
+      "clue": "Farbe von Blut oder einer reifen Tomate",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "ARM",
+      "clue": "Gliedmaße zwischen Schulter und Hand",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "BROT",
+      "clue": "Gebackenes Nahrungsmittel aus Mehl und Wasser",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "ZEIT",
+      "clue": "Was Uhren messen",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "SALZ",
+      "clue": "Weißes Gewürz, macht Speisen herzhaft",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "FUSS",
+      "clue": "Körperteil am Ende des Beins",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "FARBE",
+      "clue": "Rot, Blau, Grün oder eine andere Nuance",
+      "category": "color"
+    }
+  ]
+}

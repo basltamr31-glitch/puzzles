@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_041",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 041",
+  "rows": 14,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ADMINISTRATION",
+      "clue": "The management of an organization"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "GENERATION",
+      "clue": "A group of people born around the same time"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "answer": "SOUND",
+      "clue": "Something you hear"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 10,
+      "answer": "TEAM",
+      "clue": "A group working together toward a goal"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "PERFORMANCE",
+      "clue": "An act of presenting a show to an audience"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "CELEBRATION",
+      "clue": "A joyful event honoring an occasion"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "METEOROLOGY",
+      "clue": "The scientific study of weather"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "CONSTITUTION",
+      "clue": "The fundamental principles of a state"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "SKY",
+      "clue": "The space above the earth, seen from the ground"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "ECOSYSTEM",
+      "clue": "A community of living things and their environment"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 7,
+      "answer": "TAX",
+      "clue": "Money owed to the government"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 1,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 11,
+      "answer": "GOAL",
+      "clue": "The aim someone is working toward"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 14,
+      "answer": "PLAN",
+      "clue": "A detailed proposal for doing something"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "answer": "RATE",
+      "clue": "A measure of how fast something happens"
+    }
+  ]
+}

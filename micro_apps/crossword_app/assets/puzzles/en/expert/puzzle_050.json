@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_050",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 050",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "BIODIVERSITY",
+      "clue": "The variety of life found in an ecosystem"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "INTELLIGENCE",
+      "clue": "The ability to acquire and apply knowledge"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "CELEBRATION",
+      "clue": "A joyful event honoring an occasion"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "COMMUNICATION",
+      "clue": "The exchange of information between people"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "answer": "LOGIC",
+      "clue": "Reasoning conducted according to strict rules"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 9,
+      "answer": "ASTRONOMY",
+      "clue": "The scientific study of stars and planets"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 13,
+      "answer": "CONSEQUENCE",
+      "clue": "A result or effect of an action"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "TRANSLATION",
+      "clue": "Converting text from one language to another"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 2,
+      "answer": "SHAPE",
+      "clue": "The form or outline of something"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "MODEL",
+      "clue": "A representation of something, often smaller"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 11,
+      "answer": "AREA",
+      "clue": "A particular region or part of something"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 6,
+      "answer": "GAIN",
+      "clue": "An increase in something, like wealth"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 1,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "OPPORTUNITY",
+      "clue": "A good chance for progress or advancement"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "TYPE",
+      "clue": "A category or kind of something"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "AGE",
+      "clue": "How many years someone has lived"
+    }
+  ]
+}

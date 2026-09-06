@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_019",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 18,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "RIVIEREA",
+    "OGLACIER",
+    "KSCMPZVB",
+    "NEISYCDR",
+    "TFEUILLE",
+    "LFLHPDPH",
+    "EDESERTC",
+    "RKTPCOYB"
+  ],
+  "words": [
+    {
+      "word": "ARBRE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CIEL",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "DESERT",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RIVIERE",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

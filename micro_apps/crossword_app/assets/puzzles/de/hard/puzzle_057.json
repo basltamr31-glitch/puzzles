@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_057",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 057",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "LOGIK",
+      "clue": "Nach strengen Regeln geführte Argumentation"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "RAUMSCHIFF",
+      "clue": "Ein Fahrzeug für die Raumfahrt"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "TRADITION",
+      "clue": "Ein über Generationen weitergegebener Brauch"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 5,
+      "answer": "FALL",
+      "clue": "Ein Beispiel für etwas, oder ein Behälter"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "answer": "MUSKEL",
+      "clue": "Gewebe, das Bewegung im Körper erzeugt"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "WERT",
+      "clue": "Wie viel etwas wert ist"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "TEAM",
+      "clue": "Eine Gruppe, die gemeinsam auf ein Ziel hinarbeitet"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 11,
+      "answer": "GALAXIE",
+      "clue": "Ein riesiges System von Sternen"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "TROPEN",
+      "clue": "Heiße Klimazone nahe dem Äquator"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 10,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "SPRACHE",
+      "clue": "Ein System von Wörtern zur Kommunikation"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_095",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 095",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "EARTH",
+      "clue": "The planet we live on",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "CAT",
+      "clue": "Common household pet that meows",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "GOAT",
+      "clue": "Horned farm animal known for climbing",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "SUGAR",
+      "clue": "Sweet crystalline substance",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "HAND",
+      "clue": "Body part at the end of the arm",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "GOLD",
+      "clue": "Precious yellow metal",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "ARM",
+      "clue": "Limb between the shoulder and the hand",
+      "category": "body"
+    }
+  ]
+}

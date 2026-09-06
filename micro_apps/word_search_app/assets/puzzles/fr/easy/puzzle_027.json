@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_027",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 26,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "QKVEJPGM",
+    "GSOLEILZ",
+    "LPLUIEAE",
+    "AGCUVRCE",
+    "CIAUYRED",
+    "IHNAREFE",
+    "ELVIZHQY",
+    "RRTYNJVK"
+  ],
+  "words": [
+    {
+      "word": "GLACE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GLACIER",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PIERRE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PLUIE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

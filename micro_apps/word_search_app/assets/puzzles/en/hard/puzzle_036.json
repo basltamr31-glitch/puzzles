@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_036",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 35,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "KQUEWLFNQYQV",
+    "CNOQDZASYLET",
+    "FRFJQZMMBUXN",
+    "RTCBLAOIPFZG",
+    "MPCTIPRRGFME",
+    "KIHVDTKRSOFA",
+    "VSABEDROOMZC",
+    "GIIPSFTRPMDO",
+    "XORGKRHLVMKR",
+    "KAJKITCHENUJ",
+    "CGDRAOBPUCUA",
+    "PCPBOWGSDURT"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 11,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "BEDROOM",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CARPET",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CHAIR",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CUPBOARD",
+      "row": 10,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "DESK",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LAMP",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "MIRROR",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 5,
+      "col": 8,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_015",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 14,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "MCESKGYJYT",
+    "ASEHPZYTUR",
+    "PYSFLFEOBX",
+    "AUTOPISTAY",
+    "HMALETAYRZ",
+    "JGCFTBVLCL",
+    "RBIFROILOI",
+    "TBOLETORPI",
+    "SMNONANFYO",
+    "PAOFCNIEGG"
+  ],
+  "words": [
+    {
+      "word": "AUTOPISTA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "AVION",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BARCO",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "BOLETO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ESTACION",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MALETA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MAPA",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TREN",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

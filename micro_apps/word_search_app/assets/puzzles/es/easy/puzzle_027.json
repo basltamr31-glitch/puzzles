@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_027",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 26,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "ZDAARTFL",
+    "ANCGYPAM",
+    "RNANUICO",
+    "BOSQUEXN",
+    "OQCUFDIT",
+    "LFAIJRNA",
+    "ZADXMAUN",
+    "RUASISLA"
+  ],
+  "words": [
+    {
+      "word": "ARBOL",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BOSQUE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CASCADA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ISLA",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MONTANA",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

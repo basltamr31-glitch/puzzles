@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_028",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 27,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "DMJJSSTUHLEBYI",
+    "TBGJXHZCUFIULW",
+    "MRXWMSIXXNFIHF",
+    "IDKLGPAVAWHCUZ",
+    "XBRFPIGWGIMJYJ",
+    "SPIEGELWRGTTZZ",
+    "TITNMSHIKSPIAG",
+    "CRFSZMNNRGXSON",
+    "MAYTDTIAKUECHE",
+    "MTREMMIZFALHCS",
+    "XBPRAMGBETTBOS",
+    "GOOKRFGPADKFLI",
+    "MLAKANALLFASHK",
+    "IVEIFONOWJJBPN"
+  ],
+  "words": [
+    {
+      "word": "BADEZIMMER",
+      "row": 13,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "BETT",
+      "row": 10,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "FENSTER",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KAMIN",
+      "row": 11,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "KISSEN",
+      "row": 12,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "KUECHE",
+      "row": 8,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "SCHLAFZIMMER",
+      "row": 9,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "SOFA",
+      "row": 9,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STUHL",
+      "row": 0,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 6,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "TISCH",
+      "row": 5,
+      "col": 11,
+      "dir": "S"
+    }
+  ]
+}

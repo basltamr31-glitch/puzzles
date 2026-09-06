@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_100",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 99,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "SWKZQSLIDV",
+    "GMINRPOWLB",
+    "LWTOBYUIGH",
+    "PVCEILINGD",
+    "LCHSGARDEN",
+    "SAEBVMMOJY",
+    "BRNYOPFWEA",
+    "GPPRNCZEIZ",
+    "SECUPBOARD",
+    "PTRGKEPXEY"
+  ],
+  "words": [
+    {
+      "word": "CARPET",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CEILING",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CUPBOARD",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GARDEN",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "LAMP",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "RUG",
+      "row": 7,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "WINDOW",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_100",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 99,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "DLAFCATS",
+    "RAEBCPYS",
+    "UCTYQORC",
+    "CHAMBREA",
+    "XAGGSTGN",
+    "VIEVDETA",
+    "XSRMOPGP",
+    "VEELAMPE"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CHAISE",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CHAMBRE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PORTE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

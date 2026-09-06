@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_047",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 047",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "مهندس",
+      "clue": "شخص متخصص في التصميم والبناء"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "مباراة",
+      "clue": "منافسة رياضية بين فريقين"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "قلب",
+      "clue": "العضو الذي يضخ الدم في الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "صناعة",
+      "clue": "نشاط تصنيع المنتجات"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "أنف",
+      "clue": "عضو الشم في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "موسيقى",
+      "clue": "أصوات منظمة ذات إيقاع ولحن"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "answer": "صحفي",
+      "clue": "شخص يعمل في كتابة الأخبار"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 6,
+      "answer": "متحف",
+      "clue": "مكان تُعرض فيه القطع الأثرية والتاريخية"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "رقم",
+      "clue": "رمز يدل على عدد"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "حجر",
+      "clue": "مادة صلبة طبيعية"
+    }
+  ]
+}

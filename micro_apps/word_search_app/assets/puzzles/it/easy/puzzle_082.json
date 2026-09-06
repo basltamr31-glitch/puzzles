@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_082",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 81,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "KUALTLHF",
+    "BVSPUFQR",
+    "PERAUXRA",
+    "AYMTEBNG",
+    "NALAKORO",
+    "EMBTGFNL",
+    "HYBANANA",
+    "EXSBURRO"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BURRO",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PANE",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

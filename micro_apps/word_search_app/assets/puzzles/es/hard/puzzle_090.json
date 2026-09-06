@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_090",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 89,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "KIDVTYMGJJSD",
+    "ROJNTHGGQGOS",
+    "TBVPHOJMXOPK",
+    "KLPSTFRPERAQ",
+    "CGLVISETZZSE",
+    "CSANDIARIUTL",
+    "XBTGGLHATLEA",
+    "ETAMOTHHFILC",
+    "HGNCCNBYMMQA",
+    "YKOUDCYCXOBO",
+    "NHRTEUJYJNBO",
+    "COBUECDVTCCA"
+  ],
+  "words": [
+    {
+      "word": "CHOCOLATE",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "LIMON",
+      "row": 6,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "MIEL",
+      "row": 8,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "PASTEL",
+      "row": 2,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 3,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "PLATANO",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SANDIA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOPA",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 7,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "TORTILLA",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    }
+  ]
+}

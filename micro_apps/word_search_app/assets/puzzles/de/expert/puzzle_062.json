@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_062",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 61,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "NNMPHEHIYWATXW",
+    "WRHOTOINEWEUFH",
+    "FEHUHCSNRUTGUC",
+    "RGFIHNBEKHTXFP",
+    "EEGCJCPLISEKIN",
+    "ANVETDSAHYKVHX",
+    "JMGOFIDDPFSXZA",
+    "ZAUELESNNRLUUV",
+    "PNEFHLRAEAARGN",
+    "XTRJJKUSKRHVJZ",
+    "FETVJGDPCNCKWH",
+    "NLEFFOTNAPSDXE",
+    "ROLGSEBJJOIBBZ",
+    "RMDZUINUYAYAEY"
+  ],
+  "words": [
+    {
+      "word": "GUERTEL",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HALSKETTE",
+      "row": 9,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "HANDSCHUH",
+      "row": 9,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "HOSE",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "JACKE",
+      "row": 12,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "KLEID",
+      "row": 9,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "PANTOFFELN",
+      "row": 11,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "PULLOVER",
+      "row": 10,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "REGENMANTEL",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALEN",
+      "row": 9,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "SCHAL",
+      "row": 11,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "TURNSCHUHE",
+      "row": 2,
+      "col": 10,
+      "dir": "W"
+    }
+  ]
+}

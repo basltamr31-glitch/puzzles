@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_037",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 36,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "OXEJJVHOMBRO",
+    "VNYLCPLCIZNH",
+    "TFCNTLCEJAFX",
+    "ZRODILLAMHST",
+    "FEDBRAZOQUPT",
+    "LNOTNEMHFQKF",
+    "DTYXFSYTRTPL",
+    "DEDOOZUFKDGU",
+    "VGMDUHSLAOOZ",
+    "ONOVCXHGJDMR",
+    "RIGQYFBXZBYU",
+    "CFIRYQPVUYIF"
+  ],
+  "words": [
+    {
+      "word": "BRAZO",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CEJA",
+      "row": 2,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "CODO",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "DEDO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FRENTE",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HOMBRO",
+      "row": 0,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "MANO",
+      "row": 3,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "MENTON",
+      "row": 5,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "RODILLA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TOBILLO",
+      "row": 6,
+      "col": 1,
+      "dir": "NE"
+    }
+  ]
+}

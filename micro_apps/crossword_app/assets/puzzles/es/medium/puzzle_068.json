@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_068",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 068",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "GUERRA",
+      "clue": "Un conflicto armado entre naciones"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "OBJETO",
+      "clue": "Un artículo o cosa única"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "MEDICO",
+      "clue": "Profesional médico que atiende pacientes"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "FABRICA",
+      "clue": "Edificio donde se fabrican productos"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "AEROPUERTO",
+      "clue": "Lugar donde despegan y aterrizan los aviones"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "COSTO",
+      "clue": "La cantidad pagada por algo"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "TESORO",
+      "clue": "Un valioso alijo escondido"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    }
+  ]
+}

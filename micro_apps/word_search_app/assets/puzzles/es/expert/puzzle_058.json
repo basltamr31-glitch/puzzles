@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_058",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 57,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "YLTJHEFSPPTPPV",
+    "IGPSFZHSAVFICF",
+    "LSYXQOPJYTBHJN",
+    "ZDUAPFXTISOPAP",
+    "PATATALKTCBGEA",
+    "SQLIEPUIOGCXVT",
+    "NZGLMLALMXQEMD",
+    "SANDIAASAOOJPZ",
+    "VEZPMTYSTONKHZ",
+    "DCNCEARMEEPRVO",
+    "MANZANAOIRLTDQ",
+    "YFFIUOPSTEFSYR",
+    "EEMOLQTBYDBYMI",
+    "PALBRZQJXNJROP"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 9,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 1,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "FRESA",
+      "row": 11,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "LIMON",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "MANZANA",
+      "row": 10,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PASTEL",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "PATATA",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PLATANO",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SANDIA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOPA",
+      "row": 3,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "TORTILLA",
+      "row": 11,
+      "col": 8,
+      "dir": "NW"
+    }
+  ]
+}

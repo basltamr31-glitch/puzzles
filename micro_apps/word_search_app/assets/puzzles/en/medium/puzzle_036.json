@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_036",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 35,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "YPPHHWDOOR",
+    "UTBKGJGSCR",
+    "NJAEICBONA",
+    "WCCMDTFFVJ",
+    "MSTAIRCASE",
+    "CHAIRROHEB",
+    "ZNLTLPROEB",
+    "PAXNAHEOMN",
+    "NXHAGHZTRJ",
+    "BWNNYOVJNI"
+  ],
+  "words": [
+    {
+      "word": "BEDROOM",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CARPET",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CHAIR",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DOOR",
+      "row": 0,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "MIRROR",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SOFA",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "STAIRCASE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

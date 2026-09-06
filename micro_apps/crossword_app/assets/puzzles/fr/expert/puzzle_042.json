@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_042",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 042",
+  "rows": 14,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "NEGOCIATION",
+      "clue": "Une discussion visant à parvenir à un accord"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "PLAN",
+      "clue": "Une proposition détaillée pour faire quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ANNIVERSAIRE",
+      "clue": "Le retour annuel d'une date spéciale"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "VOCABULAIRE",
+      "clue": "L'ensemble des mots utilisés dans une langue"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "SIGNIFICATION",
+      "clue": "L'importance de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "MODELE",
+      "clue": "Une représentation de quelque chose, souvent plus petite"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 10,
+      "answer": "POPULATION",
+      "clue": "Le nombre de personnes vivant dans une zone"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 13,
+      "answer": "ZONE",
+      "clue": "Une région ou partie particulière de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 9,
+      "answer": "UNITE",
+      "clue": "Une seule mesure ou pièce standard"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "answer": "LUMIERE",
+      "clue": "La clarté qui permet de voir"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 12,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "TERME",
+      "clue": "Une période fixe, ou un mot spécifique"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 14,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "OBJET",
+      "clue": "Un article ou une chose unique"
+    }
+  ]
+}

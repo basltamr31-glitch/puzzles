@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_067",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 067",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "TABLE",
+      "clue": "Flat-topped furniture with legs",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "STAR",
+      "clue": "A glowing point of light in the night sky",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "DREAM",
+      "clue": "Images and thoughts that happen while sleeping",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "DEER",
+      "clue": "Graceful animal with antlers",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "WORD",
+      "clue": "A unit of language with meaning",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "BEACH",
+      "clue": "Sandy area along the edge of the sea",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "FISH",
+      "clue": "Aquatic animal that breathes through gills",
+      "category": "animal"
+    }
+  ]
+}

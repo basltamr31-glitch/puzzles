@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_084",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 83,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "XLVPEVZMXXPMTU",
+    "QLOLOFVKUNOVUG",
+    "CSMKLBBCOTRRHF",
+    "SUNLQDUIENAXRC",
+    "KASHNTPPDXOZKO",
+    "OIHCCEPSOHORZN",
+    "NSEDIAZEDXESBA",
+    "HUZFTNMXQEEIRV",
+    "MUQRZIOIEZHTRI",
+    "OQOOICNANOSYAD",
+    "RPASSUGHIEZGCV",
+    "RCNKBCAMNCTLGM",
+    "GEVDATBITVLTXB",
+    "XOSARAFATREPOC"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 12,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "CAMINETTO",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "COPERTA",
+      "row": 13,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "CUCINA",
+      "row": 11,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "DIVANO",
+      "row": 9,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 13,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "PORTA",
+      "row": 10,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "SEDIA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 7,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "TAZZA",
+      "row": 2,
+      "col": 9,
+      "dir": "SE"
+    }
+  ]
+}

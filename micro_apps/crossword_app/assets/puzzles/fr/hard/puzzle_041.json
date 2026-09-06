@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_041",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 041",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "EQUATEUR",
+      "clue": "La ligne imaginaire autour du milieu de la Terre"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "ORDINATEUR",
+      "clue": "Appareil électronique qui traite des données"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "GOUVERNEMENT",
+      "clue": "Le groupe qui dirige officiellement un pays"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "MUSCLE",
+      "clue": "Un tissu qui produit le mouvement dans le corps"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "answer": "EMPLOI",
+      "clue": "Un travail rémunéré effectué régulièrement"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "VOLCAN",
+      "clue": "Une montagne qui peut entrer en éruption"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "answer": "SATELLITE",
+      "clue": "Un objet qui orbite autour d'une planète"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "answer": "ECHELLE",
+      "clue": "La taille de quelque chose par rapport à une autre"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 9,
+      "answer": "UNITE",
+      "clue": "Une seule mesure ou pièce standard"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "ORDRE",
+      "clue": "Une séquence, ou une instruction à suivre"
+    }
+  ]
+}

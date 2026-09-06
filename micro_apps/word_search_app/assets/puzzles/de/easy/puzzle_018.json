@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_018",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 17,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "NYBVBJOO",
+    "RLBAPFEL",
+    "XMILCHYD",
+    "XXTRKOWI",
+    "SUPPENUF",
+    "AOZTKIEA",
+    "PNSFSGEL",
+    "KAFFEEZW"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "HONIG",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KEKSE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MILCH",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SUPPE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_018",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 018",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "ESCUELA",
+      "clue": "Lugar donde los niños aprenden",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "PAJARO",
+      "clue": "Animal con plumas que puede volar",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "FUEGO",
+      "clue": "Llamas calientes y luminosas",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "SAL",
+      "clue": "Condimento blanco que sazona la comida",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "AÑO",
+      "clue": "Un período de doce meses",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "PIE",
+      "clue": "Parte del cuerpo al final de la pierna",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "PAN",
+      "clue": "Alimento horneado hecho de harina y agua",
+      "category": "food"
+    }
+  ]
+}

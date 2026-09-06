@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_086",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 086",
+  "rows": 6,
+  "cols": 5,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "JUMP",
+      "clue": "To spring off the ground",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "ARM",
+      "clue": "Limb between the shoulder and the hand",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "RAIN",
+      "clue": "Water falling from clouds",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "DEER",
+      "clue": "Graceful animal with antlers",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "KING",
+      "clue": "Male ruler of a kingdom",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "BEE",
+      "clue": "Buzzing insect that makes honey",
+      "category": "animal"
+    }
+  ]
+}

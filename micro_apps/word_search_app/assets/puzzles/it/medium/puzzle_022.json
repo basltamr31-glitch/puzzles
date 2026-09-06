@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_022",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 21,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "HUKDVMMRDS",
+    "ISCARPETTE",
+    "GIACCADGCU",
+    "POHAANFUAN",
+    "SEQLPTQAPR",
+    "YYIZPABNPV",
+    "GVXIOLFTEM",
+    "ZPANTOFOLE",
+    "IDSOTNMFLD",
+    "KQNEOEGHOK"
+  ],
+  "words": [
+    {
+      "word": "CALZINO",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CAPPELLO",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CAPPOTTO",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "GIACCA",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GUANTO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PANTALONE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PANTOFOLE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SCARPETTE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

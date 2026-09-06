@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_053",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 52,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "PHJQVCOUDE",
+    "ZYCQYFRONT",
+    "MVENTREVMT",
+    "VAYRDOIGTD",
+    "ZSIJKZLEMD",
+    "TMANTXLNNU",
+    "UKUTETEOHM",
+    "QCSQFFSUJR",
+    "NCMSMLXHAJ",
+    "VPRYYRSTJY"
+  ],
+  "words": [
+    {
+      "word": "COUDE",
+      "row": 0,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "DOIGT",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "FRONT",
+      "row": 1,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "GENOU",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MAIN",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "OREILLE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TETE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VENTRE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

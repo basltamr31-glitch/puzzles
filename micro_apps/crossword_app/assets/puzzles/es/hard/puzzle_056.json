@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_056",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 056",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "HIELO",
+      "clue": "Agua congelada"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 9,
+      "answer": "VOLCAN",
+      "clue": "Una montaña que puede entrar en erupción"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "answer": "SATELITE",
+      "clue": "Un objeto que orbita un planeta"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 7,
+      "answer": "SONIDO",
+      "clue": "Algo que se oye"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 12,
+      "answer": "MONUMENTO",
+      "clue": "Una estructura construida en honor a alguien"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "MEDICINA",
+      "clue": "La ciencia del tratamiento de enfermedades"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "FESTIVAL",
+      "clue": "Un día o período de celebración"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "VALOR",
+      "clue": "Cuánto vale algo"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "GOBIERNO",
+      "clue": "El grupo que dirige oficialmente un país"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "MODELO",
+      "clue": "Una representación de algo, a menudo más pequeña"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "CIRUGIA",
+      "clue": "Un procedimiento médico para tratar una afección"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "TERMINO",
+      "clue": "Un período fijo, o una palabra específica"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "MONTAÑA",
+      "clue": "Un relieve natural muy elevado"
+    }
+  ]
+}

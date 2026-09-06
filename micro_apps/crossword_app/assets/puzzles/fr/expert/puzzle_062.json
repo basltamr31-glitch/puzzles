@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_062",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 062",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 8,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "answer": "REGLE",
+      "clue": "Une instruction officielle sur la façon de se comporter"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "CONSEQUENCE",
+      "clue": "Un résultat ou effet d'une action"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "QUALIFICATION",
+      "clue": "Une compétence qui rend quelqu'un apte à un rôle"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "TAUX",
+      "clue": "Une mesure de la vitesse à laquelle quelque chose se produit"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 3,
+      "answer": "INTELLIGENCE",
+      "clue": "La capacité d'acquérir et d'appliquer des connaissances"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 13,
+      "answer": "FORCE",
+      "clue": "La puissance exercée sur quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 11,
+      "answer": "CLE",
+      "clue": "Outil métallique utilisé pour ouvrir une serrure"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "MAGNIFIQUE",
+      "clue": "Extrêmement beau ou impressionnant"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "VOTE",
+      "clue": "Un choix formel fait lors d'une élection"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "PERFORMANCE",
+      "clue": "Un acte de présentation devant un public"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "TAILLE",
+      "clue": "La grandeur ou petitesse de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 8,
+      "answer": "RISQUE",
+      "clue": "La chance que quelque chose de mauvais se produise"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "PERTE",
+      "clue": "L'état de ne plus avoir quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 14,
+      "answer": "ZONE",
+      "clue": "Une région ou partie particulière de quelque chose"
+    }
+  ]
+}

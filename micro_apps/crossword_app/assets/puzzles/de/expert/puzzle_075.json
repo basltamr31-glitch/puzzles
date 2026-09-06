@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_075",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 075",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "LOGIK",
+      "clue": "Nach strengen Regeln geführte Argumentation"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "VERHANDLUNG",
+      "clue": "Eine Diskussion zur Erreichung einer Einigung"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "ERRUNGENSCHAFT",
+      "clue": "Etwas erfolgreich Erreichtes"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "ORDNUNG",
+      "clue": "Eine Reihenfolge, oder eine Anweisung"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "GELEGENHEIT",
+      "clue": "Eine gute Chance für Fortschritt"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 14,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "answer": "PODEST",
+      "clue": "Eine erhöhte Plattform"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "PSYCHOLOGIE",
+      "clue": "Die wissenschaftliche Erforschung von Geist und Verhalten"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 8,
+      "answer": "GESETZ",
+      "clue": "Eine von der Regierung durchgesetzte Regel"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "TRADITIONELL",
+      "clue": "Alten Bräuchen folgend"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 9,
+      "answer": "ZUGANG",
+      "clue": "Möglichkeit, etwas zu betreten oder zu nutzen"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 5,
+      "answer": "WERT",
+      "clue": "Wie viel etwas wert ist"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 2,
+      "answer": "FANTASIE",
+      "clue": "Die Fähigkeit, neue Ideen zu bilden"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "STAAT",
+      "clue": "Ein Zustand, oder ein politisches Gebiet"
+    },
+    {
+      "direction": "down",
+      "row": 12,
+      "col": 12,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    }
+  ]
+}

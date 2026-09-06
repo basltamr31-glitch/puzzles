@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_078",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 078",
+  "rows": 7,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "عقل",
+      "clue": "أداة التفكير في الإنسان"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "سلام",
+      "clue": "حالة خلو من الحرب والنزاع"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "مزرعة",
+      "clue": "أرض تُستخدم لتربية الحيوانات وزراعة المحاصيل"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "رائحة",
+      "clue": "ما يُحس به عند الشم"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "سفارة",
+      "clue": "مقر تمثيل دولة في دولة أخرى"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "معدن",
+      "clue": "مادة صلبة كالحديد أو الذهب"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "مجلة",
+      "clue": "مطبوعة دورية تحتوي مقالات"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "answer": "سؤال",
+      "clue": "عبارة تُطرح للحصول على معلومة"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "فشل",
+      "clue": "عدم تحقيق هدف مرجو"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "ممثل",
+      "clue": "شخص يؤدي أدواراً في الأفلام أو المسرحيات"
+    }
+  ]
+}

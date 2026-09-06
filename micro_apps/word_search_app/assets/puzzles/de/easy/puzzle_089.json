@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_089",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 88,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "ELEFANTM",
+    "UGOOLFDW",
+    "PINGUINN",
+    "KROFBLAM",
+    "KATZEBRA",
+    "YFPAISLU",
+    "XFTNKTWS",
+    "OELVEGRG"
+  ],
+  "words": [
+    {
+      "word": "ELEFANT",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "KATZE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MAUS",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

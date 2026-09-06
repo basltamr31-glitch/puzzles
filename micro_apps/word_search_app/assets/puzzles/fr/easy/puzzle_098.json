@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_098",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 97,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "YCESIQMS",
+    "HFTUUMYT",
+    "FRAISECJ",
+    "SOUPEIIP",
+    "TMIELUTS",
+    "ZAYPOIRE",
+    "QGBSDROX",
+    "IETIYSND"
+  ],
+  "words": [
+    {
+      "word": "CITRON",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "FRAISE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "MIEL",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "POIRE",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SOUPE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

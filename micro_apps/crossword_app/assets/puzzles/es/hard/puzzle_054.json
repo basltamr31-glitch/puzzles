@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_054",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 054",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "ECUADOR",
+      "clue": "La línea imaginaria alrededor del centro de la Tierra"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 10,
+      "answer": "RIESGO",
+      "clue": "La posibilidad de que algo malo suceda"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "EXHIBICION",
+      "clue": "Una exposición pública de arte u objetos"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 5,
+      "answer": "ORQUESTA",
+      "clue": "Un gran grupo de músicos tocando juntos"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 12,
+      "answer": "AVENTURA",
+      "clue": "Una experiencia emocionante y audaz"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "DESTINO",
+      "clue": "El lugar hacia el que alguien viaja"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "AMBIENTE",
+      "clue": "El mundo natural que nos rodea"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "IDIOMA",
+      "clue": "Un sistema de palabras usado para comunicarse"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "answer": "PODER",
+      "clue": "La capacidad de hacer o controlar algo"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "TERMINO",
+      "clue": "Un período fijo, o una palabra específica"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "ASTRONAUTA",
+      "clue": "Una persona entrenada para viajar al espacio"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    }
+  ]
+}

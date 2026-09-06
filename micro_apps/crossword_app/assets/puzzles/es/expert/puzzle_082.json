@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_082",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 082",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "REGLA",
+      "clue": "Una instrucción oficial sobre cómo comportarse"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "CIELO",
+      "clue": "El espacio sobre la tierra"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "UNIDAD",
+      "clue": "Una única medida o pieza estándar"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "ANIVERSARIO",
+      "clue": "El retorno anual de una fecha especial"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "INSPIRACION",
+      "clue": "Una repentina influencia creativa"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "RIESGO",
+      "clue": "La posibilidad de que algo malo suceda"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "EDAD",
+      "clue": "Cuántos años ha vivido alguien"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 11,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "INTELIGENCIA",
+      "clue": "La capacidad de adquirir y aplicar conocimiento"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "INVESTIGACION",
+      "clue": "Un examen minucioso de los hechos"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 14,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 4,
+      "answer": "GEOGRAFICO",
+      "clue": "Relativo a las características físicas de la Tierra"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "CALIFICACION",
+      "clue": "Una habilidad que hace apto a alguien para un rol"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 11,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 1,
+      "answer": "ARTE",
+      "clue": "Expresión creativa, como la pintura"
+    }
+  ]
+}

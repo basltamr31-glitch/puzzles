@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_047",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 46,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "IJSASJLSKCGF",
+    "QDZKPDOCZRQH",
+    "VXTJYYAWHGIH",
+    "ADZDQPEGAYOV",
+    "MLPHKDSHRPDA",
+    "RELCYCIBBAUC",
+    "STATIONTOUGA",
+    "ZBNRBRJHRXUT",
+    "ICEVZENBPAKI",
+    "ESCENTUMQNIO",
+    "JOURNEYGCGDN",
+    "CRDZUAQTVDDH"
+  ],
+  "words": [
+    {
+      "word": "BACKPACK",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "BICYCLE",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "HARBOR",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 10,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PLANE",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "STATION",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 6,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "VACATION",
+      "row": 3,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 3,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

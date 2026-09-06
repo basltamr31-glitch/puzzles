@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_013",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 12,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "LNRJPNKH",
+    "SOURCILV",
+    "XUGTQKXM",
+    "ZNXDGNJS",
+    "NGOJEYAA",
+    "SMAINPMB",
+    "XLLCOUBT",
+    "QEPAULEM"
+  ],
+  "words": [
+    {
+      "word": "COU",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "EPAULE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GENOU",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "JAMBE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MAIN",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOURCIL",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_009",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 009",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "WAR",
+      "clue": "Armed conflict between nations"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "MANUFACTURING",
+      "clue": "The making of goods on a large scale"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "TRANSLATION",
+      "clue": "Converting text from one language to another"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "ANNIVERSARY",
+      "clue": "The yearly return of a special date"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "QUALIFICATION",
+      "clue": "A skill or achievement that fits someone for a role"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "TAX",
+      "clue": "Money owed to the government"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "CONFRONTATION",
+      "clue": "A hostile or direct meeting of opposing sides"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "CERTIFICATION",
+      "clue": "Official confirmation of a qualification"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 9,
+      "answer": "TEAM",
+      "clue": "A group working together toward a goal"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 11,
+      "answer": "CASE",
+      "clue": "An instance of something, or a container"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 9,
+      "answer": "RULE",
+      "clue": "An official instruction on how to behave"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "AREA",
+      "clue": "A particular region or part of something"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 11,
+      "answer": "LAW",
+      "clue": "A rule enforced by a government"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 12,
+      "answer": "AIR",
+      "clue": "The gas we breathe"
+    }
+  ]
+}

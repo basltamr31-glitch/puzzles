@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_072",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 71,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "TEUEPTBKBLVSNY",
+    "INTPJRMTTNTZNO",
+    "LXAUBMEAAJHPHY",
+    "XKIXZNITRTOBYK",
+    "LUYEIMLHEALARX",
+    "KOYSQEAJRFTLCV",
+    "QORTTUABRCZOVY",
+    "QZVANOICATANNU",
+    "JDLDQTSPCBFCYK",
+    "GQZIRUKXOUZEOX",
+    "CXJOMOJCTERSNE",
+    "SVLOCJNBKLXTHX",
+    "RLPVZLOBIELOVB",
+    "PUSFMLGSKBUUBY"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 4,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "ATLETA",
+      "row": 2,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "BALONCESTO",
+      "row": 3,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "BOXEO",
+      "row": 13,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "CARRERA",
+      "row": 8,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "EQUIPO",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "ESTADIO",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "FUTBOL",
+      "row": 8,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "MARATON",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "NATACION",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "TENIS",
+      "row": 1,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "VOLEIBOL",
+      "row": 12,
+      "col": 12,
+      "dir": "W"
+    }
+  ]
+}

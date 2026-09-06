@@ -1,0 +1,80 @@
+{
+  "id": "es_medium_004",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 004",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "IGLESIA",
+      "clue": "Lugar de culto cristiano"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "NUMERO",
+      "clue": "Un valor matemático, como uno o dos"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "PROFESOR",
+      "clue": "Persona que enseña a los alumnos"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "MUSICA",
+      "clue": "Sonido organizado, a menudo con melodía y ritmo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "AGUILA",
+      "clue": "Gran ave rapaz de vista aguda"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "ALMOHADA",
+      "clue": "Cojín suave para descansar la cabeza"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "BRUJULA",
+      "clue": "Herramienta que muestra la dirección norte"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "JARDIN",
+      "clue": "Terreno para cultivar flores o verduras"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    }
+  ]
+}

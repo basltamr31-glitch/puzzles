@@ -1,0 +1,66 @@
+{
+  "id": "es_medium_002",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 002",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "ARAÑA",
+      "clue": "Criatura de ocho patas que teje telas"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "INVIERNO",
+      "clue": "Estación más fría del año"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "EQUIPO",
+      "clue": "Un grupo que trabaja junto hacia una meta"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "OBJETO",
+      "clue": "Un artículo o cosa única"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "VELA",
+      "clue": "Una barra de cera con una mecha, quemada por luz"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "MERCADO",
+      "clue": "Lugar donde se compran y venden bienes"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "CIELO",
+      "clue": "El espacio sobre la tierra"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "COSTO",
+      "clue": "La cantidad pagada por algo"
+    }
+  ]
+}

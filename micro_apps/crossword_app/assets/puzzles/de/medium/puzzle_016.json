@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_016",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 016",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "WINTER",
+      "clue": "Kälteste Jahreszeit"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "REGEL",
+      "clue": "Eine offizielle Anweisung, wie man sich verhält"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "INSEKT",
+      "clue": "Kleines sechsbeiniges Tier wie eine Ameise"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "RISIKO",
+      "clue": "Die Chance, dass etwas Schlechtes passiert"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "FAHRER",
+      "clue": "Person, die ein Fahrzeug lenkt"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "ZAHL",
+      "clue": "Ein mathematischer Wert, wie eins oder zwei"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "RAUM",
+      "clue": "Ein leerer Bereich, oder das Universum"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "TIER",
+      "clue": "Jedes Lebewesen, das keine Pflanze ist"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "ARZT",
+      "clue": "Medizinischer Fachmann, der Patienten behandelt"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "ZIEL",
+      "clue": "Das Ergebnis, auf das jemand hinarbeitet"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_041",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 40,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "NHFTMTIDVNOQUH",
+    "XPMEEOKUNPSMDD",
+    "VBYLRZULIONURR",
+    "ERGITEHTUOIEEN",
+    "BINDNIHROPQTNL",
+    "AFRORNITGNERAO",
+    "URUCFSIDNSLVRD",
+    "CYSOJOKHIAEKDK",
+    "CZDRIZYVPHPPQQ",
+    "HPCCAKLPCUHPPG",
+    "KPCKFKIJMAAGJJ",
+    "JBDULRDCBSNDLZ",
+    "PFITGESEQMTEHQ",
+    "ANIGRJSYGMDCEP"
+  ],
+  "words": [
+    {
+      "word": "AIGLE",
+      "row": 5,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 9,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 9,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "DAUPHIN",
+      "row": 11,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 5,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "LION",
+      "row": 2,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "MOUTON",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTHERE",
+      "row": 8,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "PINGOUIN",
+      "row": 8,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "RENARD",
+      "row": 2,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "SOURIS",
+      "row": 1,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "TIGRE",
+      "row": 3,
+      "col": 4,
+      "dir": "W"
+    }
+  ]
+}

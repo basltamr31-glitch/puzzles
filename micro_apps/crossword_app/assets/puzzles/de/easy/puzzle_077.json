@@ -1,0 +1,50 @@
+{
+  "id": "de_easy_077",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 077",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "VATER",
+      "clue": "Männlicher Elternteil",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "STEIN",
+      "clue": "Ein hartes Stück Fels",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "WORT",
+      "clue": "Eine sprachliche Einheit mit Bedeutung",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "SCHNEE",
+      "clue": "Gefrorene weiße Flocken im Winter",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "FUSS",
+      "clue": "Körperteil am Ende des Beins",
+      "category": "body"
+    }
+  ]
+}

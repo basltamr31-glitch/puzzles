@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_012",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 11,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "PFTTBSNMAETZ",
+    "BSCATBRRODAG",
+    "FIQDIHELCUVO",
+    "TAVLAMRMAOOI",
+    "DSUZADAPMALN",
+    "XIZCCUSCINOU",
+    "MDVYZHFGNTSU",
+    "USCAFFALEYMX",
+    "CONDNXZPTOXF",
+    "YRATROPETHDA",
+    "NGISBAGNOGZO",
+    "DINLTYMPMOEU"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 10,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CAMERA",
+      "row": 5,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "CAMINETTO",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "DIVANO",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 4,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "PORTA",
+      "row": 9,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 11,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

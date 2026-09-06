@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_089",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 089",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "KISSEN",
+      "clue": "Weiches Polster zum Ausruhen des Kopfes"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "JACKE",
+      "clue": "Ein kurzer Übermantel"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "ALTER",
+      "clue": "Wie viele Jahre jemand gelebt hat"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "LEHRER",
+      "clue": "Person, die Schüler unterrichtet"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "MACHT",
+      "clue": "Die Fähigkeit, etwas zu tun oder zu kontrollieren"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "HASE",
+      "clue": "Langohriges, hüpfendes Tier"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "FLASCHE",
+      "clue": "Ein enghalsiger Behälter für Flüssigkeiten"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "ARZT",
+      "clue": "Medizinischer Fachmann, der Patienten behandelt"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    }
+  ]
+}

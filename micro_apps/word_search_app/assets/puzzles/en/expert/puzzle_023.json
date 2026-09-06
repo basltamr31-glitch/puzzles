@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_023",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 22,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "KPBBHHKLWXJBVY",
+    "FWUTUIIPKTOFNB",
+    "KSLTYOGILVUVOI",
+    "PGEDMTZHQARQIY",
+    "WWGDEHUSWBNIBV",
+    "QZWCMSAEBAEEHX",
+    "MIXSKXTELCYCIB",
+    "XFOKRHTICKETWI",
+    "ECXTRJSINPPSCY",
+    "PEXUVROBRAHPRZ",
+    "USUDFGESACTIUS",
+    "OTVRIZBOPKAIYY",
+    "TLXXINPIEGAYOV",
+    "FLPKGACECTRAIN"
+  ],
+  "words": [
+    {
+      "word": "BACKPACK",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "BICYCLE",
+      "row": 6,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "DESTINATION",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "HARBOR",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "PLANE",
+      "row": 1,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "SHIP",
+      "row": 4,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "SUITCASE",
+      "row": 10,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "TICKET",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 13,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 12,
+      "col": 13,
+      "dir": "W"
+    }
+  ]
+}

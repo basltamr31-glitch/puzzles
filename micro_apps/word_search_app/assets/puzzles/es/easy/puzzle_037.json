@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_037",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 36,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "CRODILLA",
+    "EIRECAXK",
+    "XHPDHOJO",
+    "UAIOEROX",
+    "FRENTEOB",
+    "VCRLUJNZ",
+    "DENXUATL",
+    "KFAVPYCQ"
+  ],
+  "words": [
+    {
+      "word": "DEDO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "FRENTE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "OJO",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "OREJA",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PIERNA",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "RODILLA",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

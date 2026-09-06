@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_008",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 7,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "YSREZMUYZKXP",
+    "QGEMCYCLISME",
+    "GRYDSHIYIIBT",
+    "MVTZZAEBRJFZ",
+    "MAAZSYTCKVLQ",
+    "ESRUOCICSHNI",
+    "UVBAHKQOFZAT",
+    "CPIXTENNISNV",
+    "UETELHTAHTAT",
+    "QNRXFOOTBALL",
+    "GYEKCOHNFDRK",
+    "LYMHYECXVEVD"
+  ],
+  "words": [
+    {
+      "word": "ARBITRE",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 8,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "COURSE",
+      "row": 5,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "CYCLISME",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "ECHECS",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "FOOTBALL",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 10,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "MARATHON",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "STADE",
+      "row": 7,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

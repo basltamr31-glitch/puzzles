@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_030",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 29,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "URXIPPEK",
+    "CQFNSXQH",
+    "OUPEKFDA",
+    "AHCIUBQT",
+    "TBAAYEPS",
+    "SMTEMLYO",
+    "JACKETIE",
+    "PAJAMASQ"
+  ],
+  "words": [
+    {
+      "word": "BELT",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "COAT",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "HAT",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "JACKET",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PAJAMAS",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TIE",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

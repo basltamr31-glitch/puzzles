@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_057",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 56,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "IQVCCHATLQ",
+    "DAUPHINRDH",
+    "UGLZEIMARY",
+    "ECHEVRERTP",
+    "LAYBACENMS",
+    "GPHRLKSLIO",
+    "HCREAIHBBU",
+    "OVJGPSJZBR",
+    "SAPGIIDJQI",
+    "GCHGNKLZXS"
+  ],
+  "words": [
+    {
+      "word": "CHAT",
+      "row": 0,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CHEVRE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHIEN",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "DAUPHIN",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LAPIN",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SOURIS",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_045",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 045",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "SEA",
+      "clue": "A large body of salt water",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "FATHER",
+      "clue": "Male parent",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "STONE",
+      "clue": "A small piece of rock",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "FIELD",
+      "clue": "Open land used for crops or grazing",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "SLEEP",
+      "clue": "Rest with your eyes closed at night",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "BEE",
+      "clue": "Buzzing insect that makes honey",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "ROAD",
+      "clue": "A route cars and people travel on",
+      "category": "place"
+    }
+  ]
+}

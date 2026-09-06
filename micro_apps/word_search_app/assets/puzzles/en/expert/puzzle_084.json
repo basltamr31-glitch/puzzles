@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_084",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 83,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "HTCMTUNRACVJMV",
+    "YKYHTWOEGUVPRL",
+    "ISAJIVIXQKHYGO",
+    "AEHNYIOAFOSOMQ",
+    "YDDCJYKLIKSLCE",
+    "NOITUHNNRKMQUH",
+    "WOLLIPASEMEUHF",
+    "NRAKTUBLPHICDP",
+    "IHMHPSLOLKCSIG",
+    "JYPAVKPYAWOTAP",
+    "BBDTEPRACRARIN",
+    "LRNDOAMTENDYGK",
+    "FOPFFOLMHEYUDJ",
+    "EZWGNXFBNEMOWN"
+  ],
+  "words": [
+    {
+      "word": "CARPET",
+      "row": 10,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "CUPBOARD",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "DESK",
+      "row": 4,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "DOOR",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FIREPLACE",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 8,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 11,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "LAMP",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PILLOW",
+      "row": 6,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "SOFA",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "WINDOW",
+      "row": 1,
+      "col": 5,
+      "dir": "SW"
+    }
+  ]
+}

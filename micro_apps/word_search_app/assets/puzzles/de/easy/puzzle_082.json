@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_082",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 81,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "UHSUPPEA",
+    "HONIGKFU",
+    "KIDDMUUA",
+    "JCTDZCZP",
+    "SDMEJHJF",
+    "LIUKAESE",
+    "PBANANEL",
+    "HVPBJZOF"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BANANE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HONIG",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KAESE",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SUPPE",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

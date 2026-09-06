@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_068",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 068",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "SCHIRM",
+      "clue": "Gerät, das vor Regen schützt"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ALTER",
+      "clue": "Wie viele Jahre jemand gelebt hat"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "PILOT",
+      "clue": "Person, die ein Flugzeug fliegt"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "DRACHE",
+      "clue": "Mythisches feuerspeiendes Wesen"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "SOLDAT",
+      "clue": "Mitglied einer Armee"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "KLIMA",
+      "clue": "Langfristiges Muster von Wetterbedingungen"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "MODELL",
+      "clue": "Eine Darstellung von etwas, oft kleiner"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "BERUF",
+      "clue": "Bezahlte Arbeit, die man regelmäßig verrichtet"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "FLUGHAFEN",
+      "clue": "Ort, an dem Flugzeuge starten und landen"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "HIMMEL",
+      "clue": "Der Raum über der Erde"
+    }
+  ]
+}

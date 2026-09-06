@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_097",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 097",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "INTERNET",
+      "clue": "The global network connecting computers"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "DESTINATION",
+      "clue": "The place someone is traveling to"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "EXPEDITION",
+      "clue": "A journey undertaken for a specific purpose"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "RANGE",
+      "clue": "The extent between limits"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "COMPUTER",
+      "clue": "Electronic device that processes data"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "AIR",
+      "clue": "The gas we breathe"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "ICE",
+      "clue": "Frozen water"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "FESTIVAL",
+      "clue": "A day or period of celebration"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 11,
+      "answer": "SHAPE",
+      "clue": "The form or outline of something"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "MAGNETIC",
+      "clue": "Having the properties of a magnet"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "ASTRONAUT",
+      "clue": "A person trained to travel in space"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 9,
+      "answer": "IDEA",
+      "clue": "A thought or plan"
+    }
+  ]
+}

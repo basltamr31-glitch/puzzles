@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_068",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 67,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "STFTQUCTLPWYTJ",
+    "THPAVQUYALURXO",
+    "ADEBMUCGMLFBYF",
+    "IPNLZNOOXEQABD",
+    "RAMEFFORAGXWGC",
+    "CTUCHRAOANODXF",
+    "AZQJHCWRSDEGXT",
+    "SEZTETTRNQYDOS",
+    "ECALPERIFJBHBY",
+    "PBYGPKWMKWMGPI",
+    "VGZRSNLPFRGMYH",
+    "GUAEQAGAMFEASB",
+    "GCDHALLWAYHMQY",
+    "ZQCULBGJJJGPJD"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "BLANKET",
+      "row": 13,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "CARPET",
+      "row": 12,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "DESK",
+      "row": 12,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "FIREPLACE",
+      "row": 8,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 12,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 9,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "MIRROR",
+      "row": 9,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "SHELF",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "STAIRCASE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "WINDOW",
+      "row": 9,
+      "col": 6,
+      "dir": "NE"
+    }
+  ]
+}

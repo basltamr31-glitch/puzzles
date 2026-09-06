@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_017",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 017",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "PORTA",
+      "clue": "Pannello che si apre per entrare in una stanza",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "LEONE",
+      "clue": "Grande felino, re della savana",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "PAROLA",
+      "clue": "Un'unità linguistica con un significato",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "UCCELLO",
+      "clue": "Animale con le piume che può volare",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "FOGLIA",
+      "clue": "Parte verde e piatta di una pianta",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "TORTA",
+      "clue": "Dolce da forno",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "LUNA",
+      "clue": "Satellite naturale della Terra",
+      "category": "nature"
+    }
+  ]
+}

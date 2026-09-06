@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_065",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 065",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "POWER",
+      "clue": "The ability to do or control something"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "RABBIT",
+      "clue": "Long-eared animal known for hopping"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "GAIN",
+      "clue": "An increase in something, like wealth"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "ANSWER",
+      "clue": "A reply to a question"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "WRITER",
+      "clue": "Person who creates books or articles"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "PUZZLE",
+      "clue": "A game that tests your thinking, like this one"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "GUITAR",
+      "clue": "Stringed musical instrument played by strumming"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "OIL",
+      "clue": "Slippery liquid used for cooking or fuel"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "answer": "VOTE",
+      "clue": "A formal choice made in an election"
+    }
+  ]
+}

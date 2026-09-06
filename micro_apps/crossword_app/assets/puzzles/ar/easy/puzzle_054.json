@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_054",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 054",
+  "rows": 7,
+  "cols": 5,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "موز",
+      "clue": "فاكهة صفراء طويلة",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "سمك",
+      "clue": "حيوان مائي يتنفس بالخياشيم",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "زهرة",
+      "clue": "جزء ملون وجميل من النبات",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "ساعة",
+      "clue": "أداة تُظهر الوقت",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "أمس",
+      "clue": "اليوم الذي سبق اليوم الحالي",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "سنة",
+      "clue": "مدة اثني عشر شهراً",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "أرنب",
+      "clue": "حيوان له أذنان طويلتان يقفز",
+      "category": "animal"
+    }
+  ]
+}

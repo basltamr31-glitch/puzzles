@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_092",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 092",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "رسام",
+      "clue": "شخص يبدع في الرسم"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "مطار",
+      "clue": "مكان تقلع وتهبط فيه الطائرات"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "عرض",
+      "clue": "المسافة بين جانبي الشيء"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "سرعة",
+      "clue": "مقدار المسافة المقطوعة في زمن معين"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "سؤال",
+      "clue": "عبارة تُطرح للحصول على معلومة"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "ظل",
+      "clue": "منطقة مظلمة يحجب فيها الضوء"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "علم",
+      "clue": "معرفة منظمة تقوم على الملاحظة والتجربة"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "مهندس",
+      "clue": "شخص متخصص في التصميم والبناء"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "answer": "نجاح",
+      "clue": "تحقيق هدف مرجو"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ممرضة",
+      "clue": "شخص متخصص في رعاية المرضى"
+    }
+  ]
+}

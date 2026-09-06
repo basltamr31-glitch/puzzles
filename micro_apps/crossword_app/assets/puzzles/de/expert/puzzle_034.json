@@ -1,0 +1,122 @@
+{
+  "id": "de_expert_034",
+  "language": "de",
+  "difficulty": "expert",
+  "title": "Rätsel 034",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "ENTWICKLUNG",
+      "clue": "Der Prozess des Wachsens oder Verbesserns"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 10,
+      "answer": "UMSTAND",
+      "clue": "Eine mit einem Ereignis verbundene Bedingung"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 8,
+      "answer": "AKTUELL",
+      "clue": "Zur Gegenwart gehörend, gegenwärtig"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "GELEGENHEIT",
+      "clue": "Eine gute Chance für Fortschritt"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 10,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 1,
+      "answer": "WERT",
+      "clue": "Wie viel etwas wert ist"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "INTELLIGENZ",
+      "clue": "Die Fähigkeit, Wissen zu erwerben und anzuwenden"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "STAAT",
+      "clue": "Ein Zustand, oder ein politisches Gebiet"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 14,
+      "answer": "EINWOHNERZAHL",
+      "clue": "Die Anzahl der Menschen, die in einem Gebiet leben"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "INSPIRATION",
+      "clue": "Ein plötzlicher kreativer Einfluss"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "HIMMEL",
+      "clue": "Der Raum über der Erde"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 9,
+      "answer": "GEWINN",
+      "clue": "Eine Zunahme von etwas, wie Vermögen"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ZIEL",
+      "clue": "Das Ergebnis, auf das jemand hinarbeitet"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "answer": "FANTASIE",
+      "clue": "Die Fähigkeit, neue Ideen zu bilden"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 12,
+      "answer": "ALTER",
+      "clue": "Wie viele Jahre jemand gelebt hat"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    }
+  ]
+}

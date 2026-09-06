@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_064",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 064",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "PODEST",
+      "clue": "Eine erhöhte Plattform"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "WOHNZIMMER",
+      "clue": "Raum zum Entspannen und Fernsehen"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "MUSIKER",
+      "clue": "Person, die ein Instrument spielt oder Musik macht"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "answer": "IDEE",
+      "clue": "Ein Gedanke oder Plan"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "HASE",
+      "clue": "Langohriges, hüpfendes Tier"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "KERZE",
+      "clue": "Ein Wachsstab mit Docht, brennt für Licht"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "DRACHE",
+      "clue": "Mythisches feuerspeiendes Wesen"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "WERT",
+      "clue": "Wie viel etwas wert ist"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    }
+  ]
+}

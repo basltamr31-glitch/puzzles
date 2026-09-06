@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_048",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 048",
+  "rows": 13,
+  "cols": 11,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "ORDRE",
+      "clue": "Une séquence, ou une instruction à suivre"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "answer": "GRAVITE",
+      "clue": "La force qui attire les objets entre eux"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "ATMOSPHERE",
+      "clue": "La couche de gaz entourant une planète"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "OBJET",
+      "clue": "Un article ou une chose unique"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "TEMPERATURE",
+      "clue": "Une mesure de chaleur ou de froid"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 7,
+      "answer": "FAIT",
+      "clue": "Quelque chose de connu comme vrai"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "MONTAGNE",
+      "clue": "Un relief naturel très élevé"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "REGLE",
+      "clue": "Une instruction officielle sur la façon de se comporter"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 5,
+      "answer": "GLACE",
+      "clue": "De l'eau gelée, ou un dessert froid"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "TYPE",
+      "clue": "Une catégorie ou sorte de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "COUT",
+      "clue": "Le montant payé pour quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "LANGUE",
+      "clue": "Un système de mots utilisé pour communiquer"
+    }
+  ]
+}

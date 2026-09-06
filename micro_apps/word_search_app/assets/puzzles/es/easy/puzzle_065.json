@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_065",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 64,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "FXJIRAFA",
+    "RPQZYFBR",
+    "GOCEGDID",
+    "HCAVNTNI",
+    "LOBOGKUL",
+    "MMRLAVNL",
+    "PPANTERA",
+    "VIFFOGQK"
+  ],
+  "words": [
+    {
+      "word": "ARDILLA",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CABRA",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "GATO",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LOBO",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PANTERA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

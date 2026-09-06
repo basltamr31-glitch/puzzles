@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_033",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 033",
+  "rows": 12,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "VERLUST",
+      "clue": "Der Zustand, etwas nicht mehr zu haben"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "answer": "FALL",
+      "clue": "Ein Beispiel für etwas, oder ein Behälter"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "KRIEG",
+      "clue": "Bewaffneter Konflikt zwischen Nationen"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "UNIVERSUM",
+      "clue": "Der gesamte Raum und alles darin"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "OPERATION",
+      "clue": "Ein medizinischer Eingriff zur Behandlung"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "EXPERIMENT",
+      "clue": "Ein wissenschaftlicher Test zur Entdeckung"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "KULTUR",
+      "clue": "Die Bräuche und Überzeugungen einer Gesellschaft"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "TASTATUR",
+      "clue": "Satz von Tasten zum Tippen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "LOGIK",
+      "clue": "Nach strengen Regeln geführte Argumentation"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 10,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "answer": "PLAN",
+      "clue": "Ein detaillierter Vorschlag zur Erledigung von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "PODEST",
+      "clue": "Eine erhöhte Plattform"
+    }
+  ]
+}

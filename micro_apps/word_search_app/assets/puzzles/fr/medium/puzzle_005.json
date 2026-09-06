@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_005",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 4,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "XZVGHTIAGX",
+    "SSUEXRCRLL",
+    "ZFRONTNDPA",
+    "NMMENTONIU",
+    "BRASOURCIL",
+    "ENRKOPEEOU",
+    "CAKKOSIFPU",
+    "GZLEAMLEYY",
+    "DPGVXFLEDF",
+    "SJIRIZEUBB"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COU",
+      "row": 4,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "FRONT",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MENTON",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "OREILLE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PIED",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "SOURCIL",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VENTRE",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

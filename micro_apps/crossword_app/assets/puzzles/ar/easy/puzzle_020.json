@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_020",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 020",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "أرنب",
+      "clue": "حيوان له أذنان طويلتان يقفز",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "ريح",
+      "clue": "هواء متحرك",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "كتاب",
+      "clue": "مجموعة صفحات مطبوعة تُقرأ",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "ملك",
+      "clue": "حاكم مملكة",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "سمك",
+      "clue": "حيوان مائي يتنفس بالخياشيم",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "أمس",
+      "clue": "اليوم الذي سبق اليوم الحالي",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "تفاح",
+      "clue": "فاكهة مستديرة حلوة",
+      "category": "food"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_023",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 22,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "YGZVALISEI",
+    "PUSZUVUTGN",
+    "ICARTEEDYA",
+    "NPCEOETLVL",
+    "ZEATRZSOOF",
+    "CUDHOOKOII",
+    "NXOMUSPOTB",
+    "SZSRTKBOUZ",
+    "JXTLEHLPRI",
+    "FCBEBILLET"
+  ],
+  "words": [
+    {
+      "word": "AEROPORT",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "AUTOROUTE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BILLET",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CARTE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SACADOS",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "VALISE",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VELO",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "VOITURE",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

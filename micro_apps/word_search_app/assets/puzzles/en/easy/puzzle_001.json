@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_001",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 0,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "YTEUHFTT",
+    "EYFSUONA",
+    "NWSEDXVA",
+    "QGGBESSU",
+    "MOUSETZO",
+    "WAHAREXW",
+    "ETKSXDTL",
+    "KIIYFUFD"
+  ],
+  "words": [
+    {
+      "word": "DEER",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FOX",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GOAT",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HARE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MOUSE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "OWL",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_078",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 078",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "BOUTON",
+      "clue": "Une petite attache sur les vêtements"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "AEROPORT",
+      "clue": "Lieu où les avions décollent et atterrissent"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "EMPLOI",
+      "clue": "Un travail rémunéré effectué régulièrement"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "EGLISE",
+      "clue": "Lieu de culte chrétien"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "GARE",
+      "clue": "Arrêt pour les trains"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "PLAFOND",
+      "clue": "Surface intérieure en haut d'une pièce"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "PERTE",
+      "clue": "L'état de ne plus avoir quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "answer": "METEO",
+      "clue": "État de l'atmosphère, chaud, froid, pluvieux"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_046",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 046",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "LUFT",
+      "clue": "Das Gas, das wir atmen"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "GESELLSCHAFT",
+      "clue": "Eine große, zusammen lebende Gemeinschaft"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "PODEST",
+      "clue": "Eine erhöhte Plattform"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "CHARAKTER",
+      "clue": "Eine Figur in einer Geschichte"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "KLIMAZONE",
+      "clue": "Ein Gebiet mit einheitlichem langfristigem Wetter"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "RISIKO",
+      "clue": "Die Chance, dass etwas Schlechtes passiert"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "STAAT",
+      "clue": "Ein Zustand, oder ein politisches Gebiet"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 9,
+      "answer": "RAUM",
+      "clue": "Ein leerer Bereich, oder das Universum"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 11,
+      "answer": "MUSKEL",
+      "clue": "Gewebe, das Bewegung im Körper erzeugt"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "SPRACHE",
+      "clue": "Ein System von Wörtern zur Kommunikation"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 9,
+      "answer": "IDEE",
+      "clue": "Ein Gedanke oder Plan"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "ERNTE",
+      "clue": "Das Einbringen reifer Feldfrüchte"
+    }
+  ]
+}

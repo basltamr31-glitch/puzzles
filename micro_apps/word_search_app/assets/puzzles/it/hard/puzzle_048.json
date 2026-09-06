@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_048",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 47,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "RNVUCGFAIKDS",
+    "RVRVBANVVRMQ",
+    "QXHSLLLXSGSU",
+    "ADOTOUNCAHKA",
+    "PSCACCHIIBND",
+    "BNKDIAGPTOKR",
+    "HYEICFVETMOA",
+    "SRYOLOVALLAP",
+    "PXFHIORUEOCQ",
+    "RNLGSAFGHKZU",
+    "GHLCMSXEYBZQ",
+    "KREXOBNVFXTE"
+  ],
+  "words": [
+    {
+      "word": "BOXE",
+      "row": 11,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "CALCIO",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CICLISMO",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MARATONA",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "NUOTO",
+      "row": 3,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "PALLAVOLO",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SQUADRA",
+      "row": 0,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "STADIO",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

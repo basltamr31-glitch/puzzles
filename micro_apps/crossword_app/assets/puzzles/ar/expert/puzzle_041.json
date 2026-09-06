@@ -1,0 +1,122 @@
+{
+  "id": "ar_expert_041",
+  "language": "ar",
+  "difficulty": "expert",
+  "title": "اللغز 041",
+  "rows": 15,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "ديمقراطية",
+      "clue": "نظام حكم يقوم على مشاركة الشعب"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 4,
+      "answer": "روح",
+      "clue": "الجانب غير المادي من الإنسان"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "answer": "حساب",
+      "clue": "عملية رياضية أو مالية"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 2,
+      "answer": "معلمون",
+      "clue": "جمع معلم، رجال يعملون في التدريس"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "answer": "قوة",
+      "clue": "القدرة على القيام بعمل أو التأثير"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 0,
+      "answer": "حدائق",
+      "clue": "جمع حديقة"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "فلسفية",
+      "clue": "صفة تتعلق بالفلسفة"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "ثقافية",
+      "clue": "صفة تتعلق بالثقافة"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "رقم",
+      "clue": "رمز يدل على عدد"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "أنف",
+      "clue": "عضو الشم في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "حرية",
+      "clue": "القدرة على التصرف دون قيود"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 5,
+      "answer": "سرعة",
+      "clue": "مقدار المسافة المقطوعة في زمن معين"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 9,
+      "answer": "حرب",
+      "clue": "نزاع مسلح بين أطراف"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 5,
+      "answer": "عرض",
+      "clue": "المسافة بين جانبي الشيء"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "answer": "حق",
+      "clue": "ما يستحقه الشخص"
+    },
+    {
+      "direction": "down",
+      "row": 12,
+      "col": 7,
+      "answer": "ضوء",
+      "clue": "إشعاع يساعد على الرؤية"
+    }
+  ]
+}

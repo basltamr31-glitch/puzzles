@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_048",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 47,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "HMNTSGDBAD",
+    "SCACCHIOAK",
+    "AKORUYGXIC",
+    "SXQCATLETA",
+    "RTUSYTKBIL",
+    "PALLAVOLOC",
+    "ZINEFZXNUI",
+    "KTENNISTAO",
+    "OMSTADIOBG",
+    "XYBCNOZTLT"
+  ],
+  "words": [
+    {
+      "word": "ATLETA",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BOXE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CALCIO",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "MARATONA",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PALLAVOLO",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STADIO",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

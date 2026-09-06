@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_068",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 67,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "EFUZTLKGYZAF",
+    "PCSZGGEECRRU",
+    "UUSCIIATTRVG",
+    "USZZATPSTTRB",
+    "LCAGRFEUAOUK",
+    "PIFEDNFLVCVC",
+    "CNPBIHBAOAYC",
+    "GOYFNFYMLMVR",
+    "CIRLOHCPOERX",
+    "AAXSGGYATROP",
+    "MSNIKFRDFAPC",
+    "SXTHDTCAHTAR"
+  ],
+  "words": [
+    {
+      "word": "CAMERA",
+      "row": 5,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "COPERTA",
+      "row": 8,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 7,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LETTO",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "PORTA",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

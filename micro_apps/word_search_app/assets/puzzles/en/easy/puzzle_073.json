@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_073",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 72,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "IJKEZXCF",
+    "UNIQSBOM",
+    "PNDHFOWU",
+    "PGECIFME",
+    "IBEDUDBR",
+    "GIRAFFET",
+    "NROAVWAA",
+    "ODCYRHRY"
+  ],
+  "words": [
+    {
+      "word": "BEAR",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BIRD",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "COW",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DEER",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PIG",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

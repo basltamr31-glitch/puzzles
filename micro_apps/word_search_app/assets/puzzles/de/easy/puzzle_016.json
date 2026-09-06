@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_016",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 15,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "DTEAMVEE",
+    "VEKSAKMH",
+    "RNKCJBLV",
+    "VNJHPVZV",
+    "LILAUFPN",
+    "RSTCYXPM",
+    "FVOHZYOX",
+    "IZRENNEN"
+  ],
+  "words": [
+    {
+      "word": "LAUF",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RENNEN",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCHACH",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TEAM",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TOR",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

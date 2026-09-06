@@ -1,0 +1,73 @@
+{
+  "id": "en_medium_068",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 068",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "TREASURE",
+      "clue": "A valuable hidden hoard"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "PROBLEM",
+      "clue": "A difficult matter that needs solving"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "EAGLE",
+      "clue": "Large bird of prey with sharp eyesight"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "UMBRELLA",
+      "clue": "Device that shields you from rain"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "DOLPHIN",
+      "clue": "Intelligent sea mammal known for jumping"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "WAR",
+      "clue": "Armed conflict between nations"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "RULE",
+      "clue": "An official instruction on how to behave"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "answer": "AIR",
+      "clue": "The gas we breathe"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "WEB",
+      "clue": "A net spun by a spider, or the internet, informally"
+    }
+  ]
+}

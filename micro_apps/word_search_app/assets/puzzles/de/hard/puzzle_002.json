@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_002",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 1,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "PRPGXVMCSALV",
+    "YFKEPOGFHJZH",
+    "WEAENRIBSKEE",
+    "LJRNKMVKUEYR",
+    "XHTDNSLGPWTW",
+    "ITORBKEPDRIP",
+    "EPFNPEUKIAPB",
+    "LPFYISECMPZM",
+    "ETEHTGPRHFVE",
+    "MILCHRVXEEIF",
+    "XUMANLIHCLNE",
+    "YVJCZFRTFPDF"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 6,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "BIRNE",
+      "row": 2,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "BROT",
+      "row": 5,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "HONIG",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "KEKSE",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "MILCH",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PFANNKUCHEN",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SUPPE",
+      "row": 7,
+      "col": 5,
+      "dir": "NE"
+    }
+  ]
+}

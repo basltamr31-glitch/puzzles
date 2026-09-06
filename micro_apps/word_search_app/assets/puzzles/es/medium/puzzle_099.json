@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_099",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 98,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "OTSRJOINUR",
+    "VIBIOODUQC",
+    "IJGOPFMFOU",
+    "ETPLSJBLJD",
+    "NPLLAQIRPI",
+    "TLAXOCUIII",
+    "OPYMLYIEEA",
+    "TCASCADADL",
+    "JOMIJRUTRS",
+    "ZXVCIELOAO"
+  ],
+  "words": [
+    {
+      "word": "BOSQUE",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CASCADA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CIELO",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIAR",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "PLAYA",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "RIO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "VIENTO",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

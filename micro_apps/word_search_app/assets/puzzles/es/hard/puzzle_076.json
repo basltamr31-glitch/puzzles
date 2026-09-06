@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_076",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 75,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "GTJTMKBPTYSP",
+    "TDJKKRBNSAGH",
+    "XQZJONMALKZT",
+    "IQOAASHLNSKA",
+    "IOIROTIMRODU",
+    "UGXDKSMOLFOE",
+    "UGTIISOHDAQA",
+    "XCFNXKKAQQIS",
+    "AOMSYDMDUOKO",
+    "UVENTANAGLED",
+    "IHSKCTSJKENE",
+    "KHAXOPVFDYZX"
+  ],
+  "words": [
+    {
+      "word": "ALMOHADA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BANO",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "CAMA",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "DORMITORIO",
+      "row": 4,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "JARDIN",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MESA",
+      "row": 8,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SILLA",
+      "row": 5,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "SOFA",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TAZA",
+      "row": 0,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "VENTANA",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

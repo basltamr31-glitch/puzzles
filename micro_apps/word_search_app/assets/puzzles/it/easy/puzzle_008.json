@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_008",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 7,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "TANOCBBC",
+    "STADIOXS",
+    "XLREEXMQ",
+    "ZEBHZEDZ",
+    "ETICAAFA",
+    "ZATENNIS",
+    "RDRFTRKS",
+    "NGOLASQG"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ATLETA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "BOXE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GOL",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "STADIO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

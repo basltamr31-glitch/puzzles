@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_059",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 58,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "SXNTMEWSLW",
+    "WRUODLBTSH",
+    "KBHCOMEERI",
+    "AXPWSHRINM",
+    "UCGWHVGNBM",
+    "BDPRWUESTE",
+    "FRLVOLBELL",
+    "VIVILKSLCU",
+    "NDMGKALSZD",
+    "CPTZENMSME"
+  ],
+  "words": [
+    {
+      "word": "BERG",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HIMMEL",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "INSEL",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MEER",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "STEIN",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "VULKAN",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "WOLKE",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "WUESTE",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

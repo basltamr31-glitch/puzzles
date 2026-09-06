@@ -1,0 +1,73 @@
+{
+  "id": "it_medium_014",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 014",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "BOTTONE",
+      "clue": "Una piccola chiusura sui vestiti"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "OSPEDALE",
+      "clue": "Luogo dove si curano i malati"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "BOTTIGLIA",
+      "clue": "Un contenitore dal collo stretto per liquidi"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "SPECCHIO",
+      "clue": "Superficie vetrata riflettente"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "MUSEO",
+      "clue": "Edificio che espone oggetti storici"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "CLIMA",
+      "clue": "Stato dell'atmosfera, caldo, freddo, piovoso"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "answer": "FATTO",
+      "clue": "Qualcosa che si sa essere vero"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "CIELO",
+      "clue": "Lo spazio sopra la terra"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    }
+  ]
+}

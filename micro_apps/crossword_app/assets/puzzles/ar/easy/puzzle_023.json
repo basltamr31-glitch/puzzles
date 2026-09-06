@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_023",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 023",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "غد",
+      "clue": "اليوم الذي يلي اليوم الحالي",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "بلد",
+      "clue": "دولة أو وطن",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "بقرة",
+      "clue": "حيوان أليف يُربى لحليبه",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "قهوة",
+      "clue": "مشروب ساخن ذو رائحة مميزة",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "شرق",
+      "clue": "جهة شروق الشمس",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "ريح",
+      "clue": "هواء متحرك",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "حذاء",
+      "clue": "ما يُلبس في القدمين",
+      "category": "object"
+    }
+  ]
+}

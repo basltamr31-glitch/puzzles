@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_074",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 73,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "KUCREPEMER",
+    "OTHIQTJQIO",
+    "OGOMTKZUXL",
+    "SBCMIRDLUY",
+    "NAOOASOUPE",
+    "TCLPUTZNIL",
+    "NBANANEJMR",
+    "OMTFUIVBEI",
+    "YFGFERNOMX",
+    "YSSEBFXTYF"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CAFE",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CITRON",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CREPE",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PAIN",
+      "row": 5,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SOUPE",
+      "row": 4,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

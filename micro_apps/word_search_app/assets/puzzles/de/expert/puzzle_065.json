@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_065",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 64,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "IHMMAAWBXKCRIL",
+    "YYWAZHBRHKXWLB",
+    "HROTRGUDCDJRMF",
+    "GELRHUFBHCRDFK",
+    "RAFVDCLZXBVEOV",
+    "XDRFKRJYDSSLFH",
+    "KLEMAKHEDCZFWP",
+    "NEHCNREOHHCIEA",
+    "LRTPIEIARLANXO",
+    "ZENOULFGVCPSYP",
+    "SUAMGLFHTNNGEU",
+    "BFPNNBZHNWNLLB",
+    "PUOSIGSSKTPXKU",
+    "DDFAPDXZYGLMGX"
+  ],
+  "words": [
+    {
+      "word": "ADLER",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "DELFIN",
+      "row": 3,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "EICHHOERNCHEN",
+      "row": 7,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 9,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "HASE",
+      "row": 7,
+      "col": 9,
+      "dir": "SE"
+    },
+    {
+      "word": "KAMEL",
+      "row": 6,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "MAUS",
+      "row": 10,
+      "col": 3,
+      "dir": "W"
+    },
+    {
+      "word": "PANTHER",
+      "row": 11,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "PFERD",
+      "row": 6,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 13,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "SCHAF",
+      "row": 5,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "WOLF",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

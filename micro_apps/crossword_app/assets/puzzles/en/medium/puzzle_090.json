@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_090",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 090",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "PALACE",
+      "clue": "Grand residence of a king or queen"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "WINTER",
+      "clue": "Coldest season of the year"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "JOURNAL",
+      "clue": "A personal diary or daily record"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "EAGLE",
+      "clue": "Large bird of prey with sharp eyesight"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "FACTORY",
+      "clue": "Building where goods are manufactured"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "BASKET",
+      "clue": "A container woven from strips of material"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "TREASURE",
+      "clue": "A valuable hidden hoard"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "TRUMPET",
+      "clue": "Brass instrument played by buzzing the lips"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    }
+  ]
+}

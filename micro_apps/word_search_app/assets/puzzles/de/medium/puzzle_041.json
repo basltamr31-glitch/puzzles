@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_041",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 40,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "OUDJIIEGVL",
+    "AOPINGUINR",
+    "APANTHERBZ",
+    "VBVLPTHASE",
+    "ZXIOMLWFTZ",
+    "WKFOBOOFMA",
+    "VCHXFKLEED",
+    "IVUHFNFOWL",
+    "JGBJAILDEE",
+    "WENPPJBAER"
+  ],
+  "words": [
+    {
+      "word": "ADLER",
+      "row": 5,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "BAER",
+      "row": 9,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "HASE",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "LOEWE",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTHER",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "WOLF",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_014",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 13,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "JSSBPPMDUN",
+    "EMANTEAUVS",
+    "PANTALONPC",
+    "XGDDVPIITR",
+    "CHAPEAUOUA",
+    "IYLNSOELFV",
+    "VAERTAHILA",
+    "YJSUENJXYT",
+    "VVNDIELDEE",
+    "ONHTTPPNMY"
+  ],
+  "words": [
+    {
+      "word": "CHAPEAU",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CRAVATE",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "GANT",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PANTALON",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PULL",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "SANDALES",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "VESTE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

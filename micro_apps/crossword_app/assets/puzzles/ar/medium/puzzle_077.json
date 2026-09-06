@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_077",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 077",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "مسرح",
+      "clue": "مكان تُعرض فيه المسرحيات"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "حجر",
+      "clue": "مادة صلبة طبيعية"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "مطار",
+      "clue": "مكان تقلع وتهبط فيه الطائرات"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "مجلة",
+      "clue": "مطبوعة دورية تحتوي مقالات"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "حكومة",
+      "clue": "الجهة التي تدير شؤون الدولة"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "رواية",
+      "clue": "عمل أدبي نثري طويل"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "سيارة",
+      "clue": "مركبة ذات أربع عجلات"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "حل",
+      "clue": "إجابة أو طريقة لمعالجة مشكلة"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ظل",
+      "clue": "منطقة مظلمة يحجب فيها الضوء"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "answer": "رقم",
+      "clue": "رمز يدل على عدد"
+    }
+  ]
+}

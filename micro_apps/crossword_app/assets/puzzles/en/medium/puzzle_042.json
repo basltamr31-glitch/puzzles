@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_042",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 042",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "CHIMNEY",
+      "clue": "Structure that carries smoke away from a fireplace"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "EAGLE",
+      "clue": "Large bird of prey with sharp eyesight"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "ORDER",
+      "clue": "A sequence, or an instruction to do something"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "SUMMER",
+      "clue": "Hottest season of the year"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "SINGER",
+      "clue": "Person who performs music with their voice"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "CHURCH",
+      "clue": "Christian place of worship"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "TROUSERS",
+      "clue": "Another word for pants"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 7,
+      "answer": "WEB",
+      "clue": "A net spun by a spider, or the internet, informally"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "AGE",
+      "clue": "How many years someone has lived"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "answer": "JOB",
+      "clue": "Paid work someone does regularly"
+    }
+  ]
+}

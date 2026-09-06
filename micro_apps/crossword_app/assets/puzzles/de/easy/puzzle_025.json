@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_025",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 025",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "SEE",
+      "clue": "Großes Gewässer, von Land umgeben",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "FAMILIE",
+      "clue": "Eltern, Kinder und Verwandte zusammen",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "KOPF",
+      "clue": "Oberer Körperteil mit dem Gehirn",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "ARM",
+      "clue": "Gliedmaße zwischen Schulter und Hand",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "MILCH",
+      "clue": "Weiße Flüssigkeit von Kühen",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "BUCH",
+      "clue": "Gebundene Seiten zum Lesen",
+      "category": "object"
+    }
+  ]
+}

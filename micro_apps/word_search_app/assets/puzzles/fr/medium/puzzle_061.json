@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_061",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 60,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "VFOFFOKVZQ",
+    "GTBRASBDIT",
+    "GENOUKCUGC",
+    "JTFNCNKVYQ",
+    "TEFTSAGCYT",
+    "DNSGEPCAEM",
+    "BTYADPVJPA",
+    "VAQZOEILUI",
+    "BXEJAMBEVN",
+    "DTAUOSQCDI"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FRONT",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "GENOU",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "JAMBE",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MAIN",
+      "row": 5,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "OEIL",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PIED",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "TETE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_076",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 076",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "MARCHE",
+      "clue": "Lieu où l'on achète et vend des biens"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "VELO",
+      "clue": "Véhicule à deux roues propulsé par pédalage"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "TAILLE",
+      "clue": "La grandeur ou petitesse de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "SECRET",
+      "clue": "Information gardée cachée des autres"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "MODELE",
+      "clue": "Une représentation de quelque chose, souvent plus petite"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "REGLE",
+      "clue": "Une instruction officielle sur la façon de se comporter"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "answer": "TAXE",
+      "clue": "Argent dû au gouvernement"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "TRESOR",
+      "clue": "Un précieux trésor caché"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "PORT",
+      "clue": "Un lieu abrité où les navires accostent"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "answer": "SON",
+      "clue": "Quelque chose que l'on entend"
+    }
+  ]
+}

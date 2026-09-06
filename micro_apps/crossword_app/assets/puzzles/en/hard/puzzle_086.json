@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_086",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 086",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "PHOTOGRAPH",
+      "clue": "An image made using a camera"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "ASTEROID",
+      "clue": "A small rocky object orbiting the sun"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "LOGIC",
+      "clue": "Reasoning conducted according to strict rules"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "DICTIONARY",
+      "clue": "A book that lists words and their meanings"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 3,
+      "answer": "EXPERIMENT",
+      "clue": "A scientific test to discover something"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "MOUNTAIN",
+      "clue": "A very tall natural landform"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "SCALE",
+      "clue": "The size of something relative to another"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "ATMOSPHERE",
+      "clue": "The layer of gases surrounding a planet"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "answer": "TEAM",
+      "clue": "A group working together toward a goal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "GRAMMAR",
+      "clue": "The rules governing a language's structure"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 9,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 10,
+      "answer": "IDEA",
+      "clue": "A thought or plan"
+    }
+  ]
+}

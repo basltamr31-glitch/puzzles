@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_062",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 062",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "مكتبة",
+      "clue": "مكان به مجموعة كبيرة من الكتب"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "برنامج",
+      "clue": "خطة منظمة لتنفيذ أنشطة معينة"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "حساب",
+      "clue": "عملية رياضية أو مالية"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "شكل",
+      "clue": "الهيئة الخارجية للشيء"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "مدينة",
+      "clue": "منطقة حضرية كبيرة"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "معدن",
+      "clue": "مادة صلبة كالحديد أو الذهب"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "عمل",
+      "clue": "نشاط يقوم به الإنسان لكسب المال"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "نظارة",
+      "clue": "أداة تُوضع على العين لتحسين الرؤية"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "روح",
+      "clue": "الجانب غير المادي من الإنسان"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "اجتماع",
+      "clue": "لقاء بين مجموعة من الأشخاص"
+    }
+  ]
+}

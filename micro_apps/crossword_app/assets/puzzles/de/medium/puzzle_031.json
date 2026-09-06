@@ -1,0 +1,73 @@
+{
+  "id": "de_medium_031",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 031",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "REGENBOGEN",
+      "clue": "Farbenbogen nach dem Regen"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "DECKE",
+      "clue": "Innere Oberfläche oben in einem Raum"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "BAUER",
+      "clue": "Person, die Feldfrüchte anbaut"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "ARZT",
+      "clue": "Medizinischer Fachmann, der Patienten behandelt"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "HERBST",
+      "clue": "Jahreszeit zwischen Sommer und Winter"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "TUNNEL",
+      "clue": "Ein unterirdischer Durchgang"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "IDEE",
+      "clue": "Ein Gedanke oder Plan"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    }
+  ]
+}

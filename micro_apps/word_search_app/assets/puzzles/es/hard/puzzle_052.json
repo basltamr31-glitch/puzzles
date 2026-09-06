@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_052",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 51,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "NEAYEPBAZATD",
+    "ZVKSHUSODSFV",
+    "DGESPEJONNKY",
+    "YDANMRBANOCJ",
+    "UQAKTTDSPFTX",
+    "QMETNATSEKLA",
+    "FFLCHFNXUJVJ",
+    "ALFOMBRAOMCS",
+    "FDMAQSBDLAJK",
+    "CLRVFMTFHVKR",
+    "ACROPFBTSNGC",
+    "HOIROTIMRODQ"
+  ],
+  "words": [
+    {
+      "word": "ALFOMBRA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ALMOHADA",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "BANO",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "DORMITORIO",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 5,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "MESA",
+      "row": 3,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "PUERTA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TAZA",
+      "row": 0,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "VENTANA",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

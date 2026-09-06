@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_075",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 74,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "ZXMOHIAZMF",
+    "LLDESERTCV",
+    "QNGLACIERQ",
+    "IGNKGLVPCJ",
+    "KQSOLEILAR",
+    "CHYKIVEASS",
+    "EXERPORGCU",
+    "KMPLUIEEAG",
+    "DYDZOHCRDY",
+    "AMONTAGNEH"
+  ],
+  "words": [
+    {
+      "word": "CASCADE",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "DESERT",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MONTAGNE",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PLAGE",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PLUIE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RIVIERE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

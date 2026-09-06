@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_056",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 056",
+  "rows": 10,
+  "cols": 8,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "نظارة",
+      "clue": "أداة تُوضع على العين لتحسين الرؤية"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "راتب",
+      "clue": "المال الذي يتقاضاه الموظف"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "طالبة",
+      "clue": "أنثى تدرس في مدرسة أو جامعة"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "بطولة",
+      "clue": "منافسة كبرى لتحديد الأفضل"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "عمل",
+      "clue": "نشاط يقوم به الإنسان لكسب المال"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "محطة",
+      "clue": "مكان توقف القطارات أو الحافلات"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "وزن",
+      "clue": "مقدار ثقل الجسم"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "متحف",
+      "clue": "مكان تُعرض فيه القطع الأثرية والتاريخية"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 0,
+      "answer": "طعم",
+      "clue": "ما يُحس به عند تذوق الطعام"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "ظل",
+      "clue": "منطقة مظلمة يحجب فيها الضوء"
+    }
+  ]
+}

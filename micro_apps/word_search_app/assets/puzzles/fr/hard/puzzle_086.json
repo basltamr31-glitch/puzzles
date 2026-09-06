@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_086",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 85,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "MBRACELETPXQ",
+    "RYETTESSUAHC",
+    "ZYKJAIIAKNZR",
+    "SIXXFKENYTJA",
+    "ICGTPTHJTOKV",
+    "BOHBNOJQSUXA",
+    "YNVAKYSOMFRT",
+    "FJMSPZGIQLTE",
+    "COLLIERCLETB",
+    "FQTCJAAUNSEU",
+    "SGRABOPUELLA",
+    "UAUPAVUVASDR"
+  ],
+  "words": [
+    {
+      "word": "BRACELET",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CEINTURE",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CHAPEAU",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CHAUSSETTE",
+      "row": 1,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "COLLIER",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CRAVATE",
+      "row": 1,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "PANTOUFLES",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PULL",
+      "row": 10,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "VESTE",
+      "row": 11,
+      "col": 7,
+      "dir": "NE"
+    }
+  ]
+}

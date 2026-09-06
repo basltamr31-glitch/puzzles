@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_098",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 97,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "XEJFCKBRNJ",
+    "BIRNEUAMHS",
+    "TOXDOCNXUK",
+    "VOBJBHAXSL",
+    "GAVRRENCUC",
+    "ZITRONEKPH",
+    "SFXETEORPZ",
+    "OKARTOFFEL",
+    "NNLIABRJDA",
+    "DGMMUGRXCW"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BIRNE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BROT",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SUPPE",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

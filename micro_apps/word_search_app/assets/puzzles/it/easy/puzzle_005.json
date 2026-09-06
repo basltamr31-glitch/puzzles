@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_005",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 4,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "QOBHLBYD",
+    "AFRONTEI",
+    "XQACABXT",
+    "IUCCOLLO",
+    "MZCHEADG",
+    "ZUIISUTC",
+    "KVOOYFQH",
+    "VVXMANON"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "COLLO",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "DITO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "FRONTE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MANO",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

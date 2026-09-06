@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_021",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 20,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "VOXNUGNM",
+    "LOLZEVWY",
+    "CBHANDWE",
+    "CKJBMSBK",
+    "STIRNGAN",
+    "HKOPFRUI",
+    "SGHCGGCE",
+    "WLRADDHB"
+  ],
+  "words": [
+    {
+      "word": "BAUCH",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KNIE",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KOPF",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "OHR",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "STIRN",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

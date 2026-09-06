@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_061",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 60,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "VGHAZPBB",
+    "PTDHIGRR",
+    "PEGAMBAA",
+    "ASTOMACO",
+    "GTMDNACG",
+    "LAOCCHIO",
+    "PIEDEGOY",
+    "FHUNVEIV"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GAMBA",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STOMACO",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TESTA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

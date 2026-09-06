@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_031",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 031",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "CHANTEUR",
+      "clue": "Personne qui fait de la musique avec sa voix"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "PAPILLON",
+      "clue": "Insecte aux grandes ailes colorées"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "VIOLON",
+      "clue": "Instrument à cordes joué avec un archet"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "TERME",
+      "clue": "Une période fixe, ou un mot spécifique"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "GARE",
+      "clue": "Arrêt pour les trains"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "TAILLE",
+      "clue": "La grandeur ou petitesse de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "PILOTE",
+      "clue": "Personne qui pilote un avion"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "answer": "VOTE",
+      "clue": "Un choix formel fait lors d'une élection"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "answer": "METEO",
+      "clue": "État de l'atmosphère, chaud, froid, pluvieux"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 7,
+      "answer": "ETE",
+      "clue": "Saison la plus chaude de l'année"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_085",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 84,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "YQOZYRAXQSUFRB",
+    "OIHCCEROTIMOGQ",
+    "IRNICPICEBUHUX",
+    "LDADCHTAGFBFQN",
+    "GQDRECIMRALMMT",
+    "IFEDSEAORZMYLC",
+    "CTSXPONTRKABOP",
+    "CQKDITOSPALLAN",
+    "ACADETPMNOLBNI",
+    "RGHSDTXKEONTGQ",
+    "PUTTEHXEPHEAQY",
+    "OABOHDVBFBRUYL",
+    "SNONMEYSVCTYUT",
+    "VFHIYBEBUNMIYP"
+  ],
+  "words": [
+    {
+      "word": "COLLO",
+      "row": 5,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "DITO",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FRONTE",
+      "row": 3,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "GAMBA",
+      "row": 3,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "GOMITO",
+      "row": 1,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 1,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "PIEDE",
+      "row": 6,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SOPRACCIGLIO",
+      "row": 12,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "SPALLA",
+      "row": 7,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "STOMACO",
+      "row": 7,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "TESTA",
+      "row": 7,
+      "col": 5,
+      "dir": "SW"
+    }
+  ]
+}

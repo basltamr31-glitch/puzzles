@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_051",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 50,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "PYSDOTDE",
+    "TOGLACEB",
+    "XGPFMCSB",
+    "FGLACIER",
+    "ZDAGZERN",
+    "VFGFKLTU",
+    "OVENTRUK",
+    "NJSHCXTL"
+  ],
+  "words": [
+    {
+      "word": "CIEL",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "DESERT",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GLACE",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PLAGE",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "VENT",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

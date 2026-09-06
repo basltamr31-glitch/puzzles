@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_058",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 058",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "عدالة",
+      "clue": "إعطاء كل ذي حق حقه"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "سعادة",
+      "clue": "شعور بالفرح والرضا"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "برنامج",
+      "clue": "خطة منظمة لتنفيذ أنشطة معينة"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "واجب",
+      "clue": "ما يجب على الشخص القيام به"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "رياضة",
+      "clue": "نشاط بدني يُمارس للياقة أو المتعة"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "قصة",
+      "clue": "سرد لأحداث خيالية أو واقعية"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "زراعة",
+      "clue": "نشاط زرع النباتات والمحاصيل"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "عرض",
+      "clue": "المسافة بين جانبي الشيء"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "حديقة",
+      "clue": "مكان به أشجار وزهور للنزهة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "طول",
+      "clue": "مقدار امتداد الشيء"
+    }
+  ]
+}

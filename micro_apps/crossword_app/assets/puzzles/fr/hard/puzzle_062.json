@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_062",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 062",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "LOGIQUE",
+      "clue": "Un raisonnement mené selon des règles strictes"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "answer": "GUERRE",
+      "clue": "Un conflit armé entre nations"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "MONUMENT",
+      "clue": "Une structure construite en l'honneur de quelqu'un"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "CHIMIQUE",
+      "clue": "Relatif aux substances et à leurs réactions"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "PASSAGER",
+      "clue": "Une personne voyageant dans un véhicule"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "EXPERIENCE",
+      "clue": "Un test scientifique pour découvrir quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "answer": "VOLCAN",
+      "clue": "Une montagne qui peut entrer en éruption"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 7,
+      "answer": "RISQUE",
+      "clue": "La chance que quelque chose de mauvais se produise"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 12,
+      "answer": "CIEL",
+      "clue": "L'espace au-dessus de la terre"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "EXPOSITION",
+      "clue": "Une présentation publique d'art ou d'objets"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "PERTE",
+      "clue": "L'état de ne plus avoir quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "COUT",
+      "clue": "Le montant payé pour quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    }
+  ]
+}

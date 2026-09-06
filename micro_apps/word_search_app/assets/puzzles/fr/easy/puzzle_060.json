@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_060",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 59,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "UFKQAUKA",
+    "FEOJEYKR",
+    "TNTABLEU",
+    "CELRPXGY",
+    "ITADOTPR",
+    "URMIROIR",
+    "IEPNTCOU",
+    "JDEYEEOJ"
+  ],
+  "words": [
+    {
+      "word": "FENETRE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "JARDIN",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPE",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MIROIR",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PORTE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

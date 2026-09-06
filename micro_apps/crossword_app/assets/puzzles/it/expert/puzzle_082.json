@@ -1,0 +1,122 @@
+{
+  "id": "it_expert_082",
+  "language": "it",
+  "difficulty": "expert",
+  "title": "Cruciverba 082",
+  "rows": 14,
+  "cols": 14,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "GUADAGNO",
+      "clue": "Un aumento di qualcosa, come la ricchezza"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 12,
+      "answer": "MODELLO",
+      "clue": "Una rappresentazione di qualcosa, spesso più piccola"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 3,
+      "answer": "INCREDIBILE",
+      "clue": "Troppo straordinario per essere creduto"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "FILOSOFICO",
+      "clue": "Relativo allo studio delle verità fondamentali"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "POPOLAZIONE",
+      "clue": "Il numero di persone che vivono in una zona"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "UNITA",
+      "clue": "Una singola misura o pezzo standard"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 3,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "GUERRA",
+      "clue": "Un conflitto armato tra nazioni"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "TIPO",
+      "clue": "Una categoria o genere di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "SCALA",
+      "clue": "La dimensione di qualcosa rispetto a un'altra"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 0,
+      "answer": "TERMINE",
+      "clue": "Un periodo fisso, o una parola specifica"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 9,
+      "answer": "SUONO",
+      "clue": "Qualcosa che si sente"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "LAVORO",
+      "clue": "Un impiego retribuito svolto regolarmente"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 13,
+      "answer": "VALORE",
+      "clue": "Quanto vale qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 9,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    }
+  ]
+}

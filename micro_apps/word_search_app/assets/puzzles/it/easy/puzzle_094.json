@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_094",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 93,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "SGIACCAD",
+    "CINTURAT",
+    "ICFDFTSO",
+    "ACOLLANA",
+    "RPVZKEOX",
+    "PVESTITO",
+    "AAFIVIPT",
+    "GUANTOUI"
+  ],
+  "words": [
+    {
+      "word": "CINTURA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COLLANA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GIACCA",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GUANTO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCIARPA",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VESTITO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

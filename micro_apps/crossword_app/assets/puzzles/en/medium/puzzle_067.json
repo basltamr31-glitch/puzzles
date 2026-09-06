@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_067",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 067",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "HOSPITAL",
+      "clue": "Place where sick people are treated"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "COUNTRY",
+      "clue": "A nation with its own government"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SHAPE",
+      "clue": "The form or outline of something"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "CLOSET",
+      "clue": "Small room used to store clothes"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "TERM",
+      "clue": "A fixed period of time, or a specific word"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "LEVEL",
+      "clue": "A particular standard or height"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "OIL",
+      "clue": "Slippery liquid used for cooking or fuel"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "DRAGON",
+      "clue": "Mythical fire-breathing creature"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "PAINTER",
+      "clue": "Artist who works with paint"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "answer": "CASE",
+      "clue": "An instance of something, or a container"
+    }
+  ]
+}

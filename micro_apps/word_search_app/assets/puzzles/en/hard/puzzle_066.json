@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_066",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 65,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "KEANGYIFBMVZ",
+    "SUHQQRGRWPVQ",
+    "QRSWMCRMACKF",
+    "PQJSEKACTWLY",
+    "CMOSHLPREXEJ",
+    "STRAWBERRYPM",
+    "BKANDJPCMOJP",
+    "TBNDHRICERTX",
+    "UJGWWOZHLWFH",
+    "NREIOAZXOXJV",
+    "ODACOVACNLCF",
+    "XQFHWRHJNMNT"
+  ],
+  "words": [
+    {
+      "word": "AVOCADO",
+      "row": 10,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "CAKE",
+      "row": 3,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "CARROT",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "GRAPE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ORANGE",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PIZZA",
+      "row": 6,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "RICE",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "STRAWBERRY",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WATERMELON",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

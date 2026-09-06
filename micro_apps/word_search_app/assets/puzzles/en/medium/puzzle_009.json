@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_009",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 8,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "NDBVLOSRQI",
+    "IMPCOWHSVZ",
+    "KPEAGLEFDP",
+    "AEDAREEODE",
+    "WNXMVOPXVC",
+    "RGTKQBICUF",
+    "SURTOEGNXB",
+    "ZILOQLMMHB",
+    "DNRWTZVPQH",
+    "EZUARZXZXD"
+  ],
+  "words": [
+    {
+      "word": "ANT",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "COW",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "EAGLE",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FOX",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "OWL",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PENGUIN",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PIG",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SHEEP",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_009",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 8,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "ZFOHTTPUZTAS",
+    "KEDPTBSYOYEZ",
+    "NBBAARLUOYEG",
+    "NEHRJNBQPUOL",
+    "KCHIENTRCEIH",
+    "AQEVHNOHSUBJ",
+    "YSNYCHAMEAUY",
+    "LODFYSKRSRGN",
+    "DUSZYMUGDQES",
+    "ERVEHCHHJZTK",
+    "HIMIEFJCKUII",
+    "USJFLJSRJPMQ"
+  ],
+  "words": [
+    {
+      "word": "CHAMEAU",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CHAT",
+      "row": 4,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "CHEVRE",
+      "row": 9,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "CHIEN",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ECUREUIL",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "LOUP",
+      "row": 3,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PANTHERE",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "RENARD",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SOURIS",
+      "row": 6,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

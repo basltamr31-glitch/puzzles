@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_052",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 51,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "CCUFBBMHII",
+    "DCAMERAGGI",
+    "CUCINAXGSZ",
+    "USEDIAKTNA",
+    "VCOPERTASO",
+    "HIDARNAPUE",
+    "ZNZZRXXPON",
+    "IOQGFZHEER",
+    "LIIVVIATUB",
+    "SPECCHIOGY"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "CAMERA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COPERTA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CUCINA",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SEDIA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

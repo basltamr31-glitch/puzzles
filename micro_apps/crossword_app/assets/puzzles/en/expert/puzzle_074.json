@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_074",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 074",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "MANUFACTURING",
+      "clue": "The making of goods on a large scale"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "ASTRONOMY",
+      "clue": "The scientific study of stars and planets"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "AUTHENTICATION",
+      "clue": "The process of proving something is genuine"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "COMMUNICATION",
+      "clue": "The exchange of information between people"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "PHOTOGRAPHY",
+      "clue": "The art of taking pictures"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "LOGIC",
+      "clue": "Reasoning conducted according to strict rules"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "AUTOBIOGRAPHY",
+      "clue": "A person's own written life story"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "VOTE",
+      "clue": "A formal choice made in an election"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "TEAM",
+      "clue": "A group working together toward a goal"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "RULE",
+      "clue": "An official instruction on how to behave"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "answer": "IDEA",
+      "clue": "A thought or plan"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    },
+    {
+      "direction": "down",
+      "row": 12,
+      "col": 7,
+      "answer": "AGE",
+      "clue": "How many years someone has lived"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "TRADITIONAL",
+      "clue": "Following long-established customs"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 14,
+      "answer": "LAW",
+      "clue": "A rule enforced by a government"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 4,
+      "answer": "MODEL",
+      "clue": "A representation of something, often smaller"
+    }
+  ]
+}

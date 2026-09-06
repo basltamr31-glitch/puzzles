@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_041",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 40,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "PSTVSMGJZQ",
+    "FBDVOJBDXG",
+    "QNTAJLDILA",
+    "CZCFRIFFET",
+    "VCOCODRILO",
+    "TDNDPUIAZD",
+    "IQEULCBLFZ",
+    "GSJFJZORLA",
+    "RROPANTERA",
+    "ELEFANTEDM"
+  ],
+  "words": [
+    {
+      "word": "ARDILLA",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "COCODRILO",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CONEJO",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GATO",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTERA",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TIGRE",
+      "row": 5,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

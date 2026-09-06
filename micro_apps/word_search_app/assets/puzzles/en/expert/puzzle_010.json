@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_010",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 9,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "PRFHMATVHLTXNK",
+    "GEWJBGBPYCOEXL",
+    "PWTARVNWCCMZBP",
+    "POTATOAWQINYNL",
+    "NEPZLNSTXDZNMZ",
+    "CERZSOMXXZSMBB",
+    "UCRIULCVTAGCMA",
+    "YKTPYENOHMBKOB",
+    "GACEAMRUHHXCZG",
+    "HDBCZRJWUCQAXX",
+    "SDIRAESEEHCQRN",
+    "KPICETRFITYOBX",
+    "OGGIPASTADWJBX",
+    "ZFHCIWDNASQWZP"
+  ],
+  "words": [
+    {
+      "word": "BREAD",
+      "row": 9,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CARROT",
+      "row": 11,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "CHEESE",
+      "row": 10,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 9,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "GRAPE",
+      "row": 1,
+      "col": 5,
+      "dir": "SW"
+    },
+    {
+      "word": "HONEY",
+      "row": 7,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "PASTA",
+      "row": 12,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PIZZA",
+      "row": 7,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "POTATO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 13,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SOUP",
+      "row": 4,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "WATERMELON",
+      "row": 13,
+      "col": 5,
+      "dir": "N"
+    }
+  ]
+}

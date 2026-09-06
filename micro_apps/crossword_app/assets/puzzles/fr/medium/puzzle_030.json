@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_030",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 030",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "HOPITAL",
+      "clue": "Lieu où l'on soigne les malades"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "POUVOIR",
+      "clue": "La capacité de faire ou de contrôler quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "FERMIER",
+      "clue": "Personne qui cultive la terre"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "COUSSIN",
+      "clue": "Coussin doux pour reposer la tête"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "VELO",
+      "clue": "Véhicule à deux roues propulsé par pédalage"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "AVION",
+      "clue": "Aéronef à voilure fixe"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "ORAGE",
+      "clue": "Tempête avec tonnerre et éclairs"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "MUSEE",
+      "clue": "Bâtiment qui expose des objets historiques"
+    }
+  ]
+}

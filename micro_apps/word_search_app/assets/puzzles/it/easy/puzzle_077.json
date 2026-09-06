@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_077",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 76,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "PVSUIXGK",
+    "NKTESTAF",
+    "MAOBCHGG",
+    "QBMENTOK",
+    "MEADITOO",
+    "MLCOLLOV",
+    "BKOHKRZL",
+    "PIEDENFF"
+  ],
+  "words": [
+    {
+      "word": "COLLO",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "DITO",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MENTO",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STOMACO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TESTA",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

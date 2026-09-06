@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_018",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 018",
+  "rows": 11,
+  "cols": 11,
+  "words": [
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "علمية",
+      "clue": "صفة تتعلق بالعلم"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 3,
+      "answer": "قلب",
+      "clue": "العضو الذي يضخ الدم في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "answer": "وطنية",
+      "clue": "صفة تتعلق بالوطن"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "مشروع",
+      "clue": "خطة أو عمل يُنفذ لتحقيق هدف"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "تعليم",
+      "clue": "عملية اكتساب المعرفة والمهارات"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "علاقة",
+      "clue": "رابطة بين شخصين أو أكثر"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "زراعية",
+      "clue": "صفة تتعلق بالزراعة"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "اقتصاد",
+      "clue": "علم إنتاج السلع والخدمات وتوزيعها"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "عقل",
+      "clue": "أداة التفكير في الإنسان"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "دراسات",
+      "clue": "جمع دراسة، أبحاث علمية"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "سلام",
+      "clue": "حالة خلو من الحرب والنزاع"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "صناعات",
+      "clue": "جمع صناعة"
+    }
+  ]
+}

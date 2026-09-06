@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_030",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 29,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "VSCIARPA",
+    "EGIACCAA",
+    "SANDALIH",
+    "TETRHUZC",
+    "IGUANTOK",
+    "THRIAZQC",
+    "ODAVGSFP",
+    "MCLIGNXE"
+  ],
+  "words": [
+    {
+      "word": "CINTURA",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "GIACCA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GUANTO",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALI",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCIARPA",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VESTITO",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

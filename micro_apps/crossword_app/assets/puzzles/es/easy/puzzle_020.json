@@ -1,0 +1,50 @@
+{
+  "id": "es_easy_020",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 020",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "OSO",
+      "clue": "Animal grande y peludo que vive en el bosque",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CAMPO",
+      "clue": "Terreno abierto para cultivos",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "NARIZ",
+      "clue": "Órgano usado para oler",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "LOBO",
+      "clue": "Animal salvaje emparentado con el perro",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "VIDRIO",
+      "clue": "Material duro y transparente",
+      "category": "home"
+    }
+  ]
+}

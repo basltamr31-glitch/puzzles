@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_087",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 86,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "AVIONFSENRFL",
+    "UCEQRYPEZDGY",
+    "TAXINYTQNTHK",
+    "OJYGCKOTEJPK",
+    "RECZAGAGJEQD",
+    "OVLCLRBHOKOO",
+    "UAQRPVELONJG",
+    "TROPHSSLQQGV",
+    "ERUTIOVUSEJQ",
+    "NBILLETXEUGN",
+    "RBATEAUDZQEP",
+    "NVTNDSRFGFQD"
+  ],
+  "words": [
+    {
+      "word": "AUTOROUTE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "AVION",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BATEAU",
+      "row": 10,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BILLET",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GARE",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PORT",
+      "row": 7,
+      "col": 3,
+      "dir": "W"
+    },
+    {
+      "word": "TAXI",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VALISE",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "VELO",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "VOITURE",
+      "row": 8,
+      "col": 6,
+      "dir": "W"
+    }
+  ]
+}

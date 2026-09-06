@@ -1,0 +1,50 @@
+{
+  "id": "fr_easy_061",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 061",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "SEL",
+      "clue": "Assaisonnement blanc qui relève les plats",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "TERRE",
+      "clue": "La planète où nous vivons",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "SUCRE",
+      "clue": "Substance cristalline sucrée",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "TEMPS",
+      "clue": "Ce que les horloges mesurent",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "MER",
+      "clue": "Grande étendue d'eau salée",
+      "category": "place"
+    }
+  ]
+}

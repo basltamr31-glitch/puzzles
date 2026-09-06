@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_085",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 085",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "TECHNOLOGIE",
+      "clue": "Application de la science à des fins pratiques"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "answer": "EMPLOI",
+      "clue": "Un travail rémunéré effectué régulièrement"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "NIVEAU",
+      "clue": "Un standard ou une hauteur particulière"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "COUT",
+      "clue": "Le montant payé pour quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "PENINSULE",
+      "clue": "Une terre presque entourée d'eau"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 3,
+      "answer": "ORDRE",
+      "clue": "Une séquence, ou une instruction à suivre"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "GRAVITE",
+      "clue": "La force qui attire les objets entre eux"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "PHOTOGRAPHIE",
+      "clue": "L'art de prendre des images"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "PASSAGER",
+      "clue": "Une personne voyageant dans un véhicule"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "answer": "OBJET",
+      "clue": "Un article ou une chose unique"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 8,
+      "answer": "TERME",
+      "clue": "Une période fixe, ou un mot spécifique"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 6,
+      "answer": "FAIT",
+      "clue": "Quelque chose de connu comme vrai"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 12,
+      "answer": "TAXE",
+      "clue": "Argent dû au gouvernement"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_004",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 3,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "KCLQMLLHYV",
+    "BUGPFGEAYH",
+    "ACAMINETTO",
+    "GIFXNDGZTF",
+    "NNSPECCHIO",
+    "OAYSSDISIM",
+    "GRLGTLLGDV",
+    "DGIARDINOZ",
+    "NDIVANOQPU",
+    "IGOGERQEPS"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CAMINETTO",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CUCINA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "DIVANO",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LETTO",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

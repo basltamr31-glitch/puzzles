@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_035",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 34,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "HOJMIUGNHNER",
+    "RIPPLZJCYFAE",
+    "YLRLVJMCYLRG",
+    "MYCFKMFSSUVE",
+    "XYCCIDNTWSTN",
+    "HXRBWCNHISOB",
+    "EWYLHIMMELAO",
+    "AAEAEHNUSRAG",
+    "DIBTJDWDEWFE",
+    "VISTZFSECSCN",
+    "KBUBAUMCOTML",
+    "IGBTEDCCVDDF"
+  ],
+  "words": [
+    {
+      "word": "BAUM",
+      "row": 10,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "BLATT",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "FLUSS",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "HIMMEL",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MEER",
+      "row": 10,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "REGENBOGEN",
+      "row": 0,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "STEIN",
+      "row": 9,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "WIESE",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "WIND",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "WUESTE",
+      "row": 8,
+      "col": 6,
+      "dir": "NE"
+    }
+  ]
+}

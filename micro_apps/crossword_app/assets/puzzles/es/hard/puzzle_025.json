@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_025",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 025",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "META",
+      "clue": "El objetivo hacia el que alguien trabaja"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "answer": "IDIOMA",
+      "clue": "Un sistema de palabras usado para comunicarse"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "CULTURA",
+      "clue": "Las costumbres y creencias de una sociedad"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "MEDICINA",
+      "clue": "La ciencia del tratamiento de enfermedades"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "answer": "TECLADO",
+      "clue": "Conjunto de teclas usadas para escribir"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 5,
+      "answer": "CIELO",
+      "clue": "El espacio sobre la tierra"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 5,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "TEMPERATURA",
+      "clue": "Una medida de calor o frío"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "OBJETO",
+      "clue": "Un artículo o cosa única"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 10,
+      "answer": "RANGO",
+      "clue": "La extensión entre dos límites"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "TAMAÑO",
+      "clue": "Cuán grande o pequeño es algo"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "answer": "LOGICA",
+      "clue": "Un razonamiento llevado según reglas estrictas"
+    }
+  ]
+}

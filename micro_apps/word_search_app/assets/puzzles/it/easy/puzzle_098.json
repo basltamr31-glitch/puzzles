@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_098",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 97,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "URUTPKCQ",
+    "YSAMRAPU",
+    "NQOMELAG",
+    "BVTLTINU",
+    "EXORSMEH",
+    "UFRAGOLA",
+    "NITGENPG",
+    "GLATTEKU"
+  ],
+  "words": [
+    {
+      "word": "FRAGOLA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LATTE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LIMONE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MELA",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PANE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TORTA",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

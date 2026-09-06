@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_034",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 33,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "LVFZSBMDDVOU",
+    "DKOSHROFBGVM",
+    "EKASDRJFFDPJ",
+    "THALEHMJPHJS",
+    "YZPMEXABKRBD",
+    "PFCOLNMIELBV",
+    "NORTICQSJGNX",
+    "ZQMAQRTCLBMG",
+    "FPPMIBEURREO",
+    "ICHPESHIXBSO",
+    "NCDEUQETSAPK",
+    "CJATALOCOHCK"
+  ],
+  "words": [
+    {
+      "word": "BEURRE",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CITRON",
+      "row": 6,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "FRAISE",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MIEL",
+      "row": 5,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "PAIN",
+      "row": 8,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "PASTEQUE",
+      "row": 10,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "POIRE",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "POMME",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

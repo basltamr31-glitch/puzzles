@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_079",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 78,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "ESDXAMIC",
+    "BATEAUTJ",
+    "GCKAVION",
+    "VALISEPA",
+    "KDMQZQLS",
+    "VOYAGEFY",
+    "SSQLJRLT",
+    "BUSKKHDP"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "BATEAU",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SACADOS",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VALISE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

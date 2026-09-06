@@ -1,0 +1,122 @@
+{
+  "id": "fr_expert_089",
+  "language": "fr",
+  "difficulty": "expert",
+  "title": "Grille 089",
+  "rows": 14,
+  "cols": 14,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "LOGIQUE",
+      "clue": "Un raisonnement mené selon des règles strictes"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "PLAN",
+      "clue": "Une proposition détaillée pour faire quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 10,
+      "answer": "POUVOIR",
+      "clue": "La capacité de faire ou de contrôler quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "EXAGERATION",
+      "clue": "Une déclaration qui exagère la vérité"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "TAILLE",
+      "clue": "La grandeur ou petitesse de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "VOCABULAIRE",
+      "clue": "L'ensemble des mots utilisés dans une langue"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 9,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "CONSTRUCTION",
+      "clue": "Le processus de construction de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "VALEUR",
+      "clue": "Combien vaut quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "PHILOSOPHIE",
+      "clue": "L'étude des questions fondamentales de l'existence"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 13,
+      "answer": "IDEE",
+      "clue": "Une pensée ou un plan"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 9,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "SON",
+      "clue": "Quelque chose que l'on entend"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 1,
+      "answer": "TAXE",
+      "clue": "Argent dû au gouvernement"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "CIEL",
+      "clue": "L'espace au-dessus de la terre"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    }
+  ]
+}

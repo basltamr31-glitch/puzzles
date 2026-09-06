@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_087",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 86,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "DMYSMDHN",
+    "BKFPSVCJ",
+    "YEZXPORT",
+    "PBUSCYVV",
+    "UUFSGARE",
+    "NDQYMGDL",
+    "LBILLETO",
+    "PYSKJENV"
+  ],
+  "words": [
+    {
+      "word": "BILLET",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GARE",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PORT",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VELO",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

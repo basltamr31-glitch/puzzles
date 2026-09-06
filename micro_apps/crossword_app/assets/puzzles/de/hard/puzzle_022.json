@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_022",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 022",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "EINHEIT",
+      "clue": "Ein einzelnes Standardmaß"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "BIOLOGIE",
+      "clue": "Die wissenschaftliche Erforschung des Lebens"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "FALL",
+      "clue": "Ein Beispiel für etwas, oder ein Behälter"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "PASSAGIER",
+      "clue": "Eine Person, die in einem Fahrzeug mitfährt"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "SKULPTUR",
+      "clue": "Ein dreidimensionales Kunstwerk"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "SCHWERKRAFT",
+      "clue": "Die Kraft, die Objekte zueinander zieht"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "SPRACHE",
+      "clue": "Ein System von Wörtern zur Kommunikation"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "ERDBEBEN",
+      "clue": "Ein plötzliches Erschüttern des Bodens"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 9,
+      "answer": "TYP",
+      "clue": "Eine Kategorie oder Art von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 9,
+      "answer": "SATZ",
+      "clue": "Eine Gruppe von Wörtern mit vollständigem Sinn"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "ALTER",
+      "clue": "Wie viele Jahre jemand gelebt hat"
+    }
+  ]
+}

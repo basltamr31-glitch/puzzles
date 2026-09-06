@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_019",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 18,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "PFZYGRIVIERE",
+    "JLIJLUROPXNN",
+    "SBAGAMXVZGVB",
+    "BTHGCASCADES",
+    "ARBREQOTSLNY",
+    "XDCABPNZLGTU",
+    "KURFCOPIRJXK",
+    "YHDYMUULFQXG",
+    "TRFTDEGAUNCZ",
+    "OPCGFLKPVITL",
+    "GPAUYBBLRZEK",
+    "HSYBEINFPUQD"
+  ],
+  "words": [
+    {
+      "word": "ARBRE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CASCADE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 9,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "GLACE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MONTAGNE",
+      "row": 7,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "NUAGE",
+      "row": 8,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "PLAGE",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PLUIE",
+      "row": 6,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "RIVIERE",
+      "row": 0,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "VENT",
+      "row": 2,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

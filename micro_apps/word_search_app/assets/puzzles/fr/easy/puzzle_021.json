@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_021",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 20,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "OGKBPZBM",
+    "KQNZKRQQ",
+    "ASCPIEDD",
+    "OKUIOMCK",
+    "HBUGENOU",
+    "ALMAINUD",
+    "XNJILMDP",
+    "IQJAMBET"
+  ],
+  "words": [
+    {
+      "word": "COUDE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GENOU",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "JAMBE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MAIN",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "OEIL",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PIED",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

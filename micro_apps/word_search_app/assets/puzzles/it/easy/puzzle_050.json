@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_050",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 49,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "LUQBTCEP",
+    "MSPERATS",
+    "IUCHDFPC",
+    "EYUTVFVB",
+    "LIMONEOV",
+    "EOURESRF",
+    "TKLTYSAM",
+    "QFRAGOLA"
+  ],
+  "words": [
+    {
+      "word": "CAFFE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LIMONE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MIELE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TORTA",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

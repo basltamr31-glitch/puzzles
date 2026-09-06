@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_038",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 37,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "OSANDALSNT",
+    "AWLTOFBWXF",
+    "SNTIIDRESS",
+    "AWJWPHAAIM",
+    "VUGAXPCTZZ",
+    "LNNQCYEEOZ",
+    "RRBCOKLRLF",
+    "HSNEAKERSC",
+    "XBMWTVTTYG",
+    "QLSAANVPOT"
+  ],
+  "words": [
+    {
+      "word": "BRACELET",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "COAT",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "DRESS",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "JACKET",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SANDALS",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SLIPPERS",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SNEAKERS",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SWEATER",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

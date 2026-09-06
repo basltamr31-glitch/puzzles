@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_086",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 85,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "LIFCEUUUEHAZVM",
+    "CGMFZPOZXQSDYT",
+    "MAPPGMJPPOPPIS",
+    "SBUAEPAHCJUXEB",
+    "JELNERKQLJTBIU",
+    "ADLTHRMUGVZUFV",
+    "JBRACELETAVARC",
+    "KTLLDSZQAFKRMQ",
+    "TITOVNTYMBOADT",
+    "MMANTEAUJBLDDM",
+    "PJCHAUSSETTEUC",
+    "GJDUEGMTLKQJPA",
+    "QZCSZAEREUZHYB",
+    "YEJAJMXOBBMAFV"
+  ],
+  "words": [
+    {
+      "word": "BRACELET",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHAPEAU",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "CHAUSSETTE",
+      "row": 10,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CRAVATE",
+      "row": 6,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "GANT",
+      "row": 11,
+      "col": 5,
+      "dir": "NW"
+    },
+    {
+      "word": "IMPERMEABLE",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PANTALON",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PULL",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ROBE",
+      "row": 7,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "SANDALES",
+      "row": 10,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "VESTE",
+      "row": 8,
+      "col": 4,
+      "dir": "SE"
+    }
+  ]
+}

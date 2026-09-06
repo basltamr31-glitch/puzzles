@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_048",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 048",
+  "rows": 13,
+  "cols": 11,
+  "words": [
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "answer": "SOCIETY",
+      "clue": "A large community of people living together"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CULTURE",
+      "clue": "The customs and beliefs of a society"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "FACT",
+      "clue": "Something known to be true"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "EARTHQUAKE",
+      "clue": "A sudden shaking of the ground"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "INTERNET",
+      "clue": "The global network connecting computers"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "ORDER",
+      "clue": "A sequence, or an instruction to do something"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "answer": "UNIT",
+      "clue": "A single standard measure or piece"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "WAR",
+      "clue": "Armed conflict between nations"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "COST",
+      "clue": "The amount paid for something"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "answer": "RANGE",
+      "clue": "The extent between limits"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 6,
+      "answer": "LEVEL",
+      "clue": "A particular standard or height"
+    }
+  ]
+}

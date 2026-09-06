@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_042",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 41,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "GWHGMGLFEB",
+    "GSXBXHPOXB",
+    "ICNKUKSVBA",
+    "UTOMATEAWN",
+    "TSKEXFTKJA",
+    "GVAUCYFESN",
+    "BMERDBEERE",
+    "ODSGSUPPEZ",
+    "OHETMUEEUX",
+    "FGIXXOGSTG"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "BUTTER",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KAESE",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "KEKSE",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "SUPPE",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_076",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 75,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "PELRDWCTCDZVGN",
+    "BADEZIMMERKXJL",
+    "DKVMDCPVTPVJIJ",
+    "GYFMNMWEVTPPOY",
+    "MOMIJLXLHJHIHT",
+    "JJAZWUKRGLWJCE",
+    "ANLFUEFMEHMRSH",
+    "KMKAMINGRUPRTC",
+    "SHOLJDEFGTTEBE",
+    "ALMHEISIDSBTYU",
+    "EBYCPVSVPDPXIK",
+    "TSKSEUIIOBEBRF",
+    "EEKINRKIZLPXCW",
+    "VZPTGGOTADIVFP"
+  ],
+  "words": [
+    {
+      "word": "BADEZIMMER",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BETT",
+      "row": 8,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "DECKE",
+      "row": 8,
+      "col": 5,
+      "dir": "SW"
+    },
+    {
+      "word": "KAMIN",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KISSEN",
+      "row": 12,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "KUECHE",
+      "row": 10,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "SCHLAFZIMMER",
+      "row": 11,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 11,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "STUHL",
+      "row": 9,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 0,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "TISCH",
+      "row": 13,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "TUER",
+      "row": 8,
+      "col": 10,
+      "dir": "NW"
+    }
+  ]
+}

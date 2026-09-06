@@ -1,0 +1,14 @@
+{
+  "id": "test_fixture_001",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Test Fixture",
+  "rows": 3,
+  "cols": 3,
+  "words": [
+    { "direction": "across", "row": 0, "col": 0, "answer": "CAT", "clue": "Common household pet that meows" },
+    { "direction": "down", "row": 0, "col": 0, "answer": "CAR", "clue": "Vehicle with four wheels" },
+    { "direction": "down", "row": 0, "col": 2, "answer": "TOT", "clue": "A very young child" },
+    { "direction": "across", "row": 2, "col": 0, "answer": "RAT", "clue": "A long-tailed rodent" }
+  ]
+}

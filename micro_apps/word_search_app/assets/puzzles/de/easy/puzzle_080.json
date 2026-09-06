@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_080",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 79,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "NXLSFGKL",
+    "GFDUNPMY",
+    "AMLAUFRJ",
+    "ZICBOXEN",
+    "BIZKGNNE",
+    "STADIONJ",
+    "ZOHOCKEY",
+    "KRJVBONZ"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LAUF",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RENNEN",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "STADION",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TOR",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

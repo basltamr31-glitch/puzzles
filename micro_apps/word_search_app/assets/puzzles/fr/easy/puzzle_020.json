@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_020",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 19,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "LNPFEAAY",
+    "AOOCUPMO",
+    "MSRHGIIB",
+    "PETAGERE",
+    "EDEIXJOT",
+    "CMBSCZIV",
+    "BQIETRRT",
+    "XCUISINE"
+  ],
+  "words": [
+    {
+      "word": "CHAISE",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CUISINE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "MIROIR",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PORTE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

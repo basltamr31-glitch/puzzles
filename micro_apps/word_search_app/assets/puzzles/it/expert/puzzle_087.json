@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_087",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 86,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "LAGYCGRDKCHMXK",
+    "OSAAPORTOGTPHF",
+    "KPTETTPXGRVZKQ",
+    "YFGARTKXEKMEEK",
+    "DUXLZEENZAINOC",
+    "VIAGGIOLCIPOZE",
+    "GQZLTLONCGHPUD",
+    "MTTFYGQNMIEVAN",
+    "KOOAGIYFELCEVM",
+    "GEOBCBRKMAIITL",
+    "VUVSNLSEPVHPBB",
+    "UAGBMHNETNAUNS",
+    "RDNKLXOQTNOARD",
+    "BVRPOQOQCBMAHL"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "BICICLETTA",
+      "row": 10,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "BIGLIETTO",
+      "row": 9,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "MAPPA",
+      "row": 8,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "NAVE",
+      "row": 7,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "PORTO",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "STAZIONE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "TAXI",
+      "row": 2,
+      "col": 4,
+      "dir": "SW"
+    },
+    {
+      "word": "TRENO",
+      "row": 1,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "VALIGIA",
+      "row": 10,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "VIAGGIO",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ZAINO",
+      "row": 4,
+      "col": 8,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_080",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 080",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "GALAXIE",
+      "clue": "Un immense système d'étoiles"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "answer": "CHIRURGIE",
+      "clue": "Une intervention médicale pour traiter une affection"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "NIVEAU",
+      "clue": "Un standard ou une hauteur particulière"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "PAYSAGE",
+      "clue": "Le décor visible d'une région"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 5,
+      "answer": "UNITE",
+      "clue": "Une seule mesure ou pièce standard"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "CELEBRATION",
+      "clue": "Un événement marquant une occasion spéciale"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "AGRICULTURE",
+      "clue": "La pratique de la culture de la terre"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "IDEE",
+      "clue": "Une pensée ou un plan"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "VOLCAN",
+      "clue": "Une montagne qui peut entrer en éruption"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 7,
+      "answer": "REGLE",
+      "clue": "Une instruction officielle sur la façon de se comporter"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "answer": "PHRASE",
+      "clue": "Un groupe de mots exprimant une pensée complète"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 1,
+      "answer": "VOTE",
+      "clue": "Un choix formel fait lors d'une élection"
+    }
+  ]
+}

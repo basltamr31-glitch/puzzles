@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_009",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 8,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "HPCHTHINDCPR",
+    "VUQASQVYBOYS",
+    "VSGVMASGDNQU",
+    "YAAABMSHIIVK",
+    "LZTIGREQDGOD",
+    "DETNAFELELLZ",
+    "ZBOOKPTMLIPN",
+    "SRBNLQKAFOEE",
+    "EANEEZVRIHAY",
+    "IEAONAZUNRNS",
+    "CPIVCEUHOUDV",
+    "DSKDDHKBCNPU"
+  ],
+  "words": [
+    {
+      "word": "CAMMELLO",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CAVALLO",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "CONIGLIO",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "DELFINO",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 5,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "GATTO",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "LEONE",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "TIGRE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VOLPE",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

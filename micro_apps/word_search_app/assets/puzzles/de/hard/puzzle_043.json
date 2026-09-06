@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_043",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 42,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "OUJDBHOBNBDR",
+    "WAOBDDCTGLFU",
+    "ESEJLNWALDKU",
+    "UAAMTTZAEEZG",
+    "VXSHAPFTTALB",
+    "GVNGNRNSSULF",
+    "NUWIESEOCDHG",
+    "ILNSWUANHVNO",
+    "AKSGWMPNEBEL",
+    "JACZWPLERXYD",
+    "WNWODDJDTKUV",
+    "HCMENZVJOFJN"
+  ],
+  "words": [
+    {
+      "word": "BLATT",
+      "row": 4,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "FLUSS",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "GLETSCHER",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "NEBEL",
+      "row": 8,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "SONNE",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "VULKAN",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "WALD",
+      "row": 2,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "WASSERFALL",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "WIESE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "WUESTE",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    }
+  ]
+}

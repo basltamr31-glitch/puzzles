@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_082",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 81,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "TZHZZOFIUGSFAC",
+    "FOPNBMINESTRAR",
+    "VOOKGLFGAFAEOS",
+    "CIDIEUYMGTOTPR",
+    "BEDBBVQDEAAQLD",
+    "XCPCUAAHTLMTTA",
+    "VLPUFRAGOLARAI",
+    "EIFXLGRCRESTOP",
+    "UHFBISCOTTOFTF",
+    "XMGKYOLGATZARE",
+    "ENOMILFHFIAHOK",
+    "ZOKCPCEKYRFDNP",
+    "GBGVUQNCLFKLLQ",
+    "TPNACZRYYTTGEL"
+  ],
+  "words": [
+    {
+      "word": "BISCOTTO",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "BURRO",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CIOCCOLATO",
+      "row": 11,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 8,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "FRITTELLA",
+      "row": 12,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "LATTE",
+      "row": 5,
+      "col": 9,
+      "dir": "SE"
+    },
+    {
+      "word": "LIMONE",
+      "row": 10,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "MELA",
+      "row": 3,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 1,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 7,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "TORTA",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

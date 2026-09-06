@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_093",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 92,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "VAFOUYOKCDTUCA",
+    "TMLAXIKMGFDLTU",
+    "QCDXOUFAOVEACH",
+    "KQPOPLNPIEDEUR",
+    "ZTFHSZLOHYRVFF",
+    "MLARUFZOCSPPNK",
+    "FVHDLKANCPFASD",
+    "DKDFFFNAOAPEEE",
+    "KKZRMGVMIVMTFS",
+    "FQNFOIHCCEROAZ",
+    "YINMGBSSCZDETB",
+    "NOILGICCARPOSS",
+    "OTIDTYRTRDQQEZ",
+    "OAQKEOMABMKSTF"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 13,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "CAVIGLIA",
+      "row": 6,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "COLLO",
+      "row": 6,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "DITO",
+      "row": 12,
+      "col": 3,
+      "dir": "W"
+    },
+    {
+      "word": "GOMITO",
+      "row": 8,
+      "col": 5,
+      "dir": "SW"
+    },
+    {
+      "word": "MANO",
+      "row": 8,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 7,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PIEDE",
+      "row": 3,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "SOPRACCIGLIO",
+      "row": 11,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "STOMACO",
+      "row": 11,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "TESTA",
+      "row": 13,
+      "col": 12,
+      "dir": "N"
+    }
+  ]
+}

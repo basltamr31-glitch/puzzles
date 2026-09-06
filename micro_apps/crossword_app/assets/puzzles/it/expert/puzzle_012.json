@@ -1,0 +1,122 @@
+{
+  "id": "it_expert_012",
+  "language": "it",
+  "difficulty": "expert",
+  "title": "Cruciverba 012",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "REGOLA",
+      "clue": "Un'istruzione ufficiale su come comportarsi"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "INCREDIBILE",
+      "clue": "Troppo straordinario per essere creduto"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "NEGOZIAZIONE",
+      "clue": "Una discussione per raggiungere un accordo"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "SPAZIO",
+      "clue": "Un'area vuota, o l'universo oltre la Terra"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "OPPORTUNITA",
+      "clue": "Una buona possibilità di progresso"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "FILOSOFIA",
+      "clue": "Lo studio delle domande fondamentali sull'esistenza"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "COLLABORAZIONE",
+      "clue": "L'atto di lavorare insieme"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 13,
+      "answer": "ISPIRAZIONE",
+      "clue": "Un'improvvisa influenza creativa"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 9,
+      "answer": "SUONO",
+      "clue": "Qualcosa che si sente"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 9,
+      "answer": "LUCE",
+      "clue": "La chiarezza che permette di vedere"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 9,
+      "answer": "COSTO",
+      "clue": "La somma pagata per qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 6,
+      "answer": "VOTO",
+      "clue": "Una scelta formale fatta in un'elezione"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 8,
+      "answer": "POTERE",
+      "clue": "La capacità di fare o controllare qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 5,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    }
+  ]
+}

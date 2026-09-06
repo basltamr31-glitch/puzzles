@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_002",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 002",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 4,
+      "answer": "PODEST",
+      "clue": "Eine erhöhte Plattform"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 7,
+      "answer": "KRIEG",
+      "clue": "Bewaffneter Konflikt zwischen Nationen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "GESELLSCHAFT",
+      "clue": "Eine große, zusammen lebende Gemeinschaft"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "EXPERIMENT",
+      "clue": "Ein wissenschaftlicher Test zur Entdeckung"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "ENTDECKUNG",
+      "clue": "Das Finden von etwas Neuem"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "TEMPERATUR",
+      "clue": "Ein Maß dafür, wie heiß oder kalt etwas ist"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "SATELLIT",
+      "clue": "Ein Objekt, das einen Planeten umkreist"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "FRESKO",
+      "clue": "Wandmalerei auf frischem Putz"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "ERNTE",
+      "clue": "Das Einbringen reifer Feldfrüchte"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "answer": "BERUF",
+      "clue": "Bezahlte Arbeit, die man regelmäßig verrichtet"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 9,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    }
+  ]
+}

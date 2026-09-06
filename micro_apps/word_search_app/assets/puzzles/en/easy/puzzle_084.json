@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_084",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 83,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "NSSMDDBH",
+    "CHAIROGM",
+    "UEBRWTML",
+    "TLERYNWO",
+    "HFDOORFQ",
+    "TCARUGJY",
+    "JFGMFVPN",
+    "QZVJLJVX"
+  ],
+  "words": [
+    {
+      "word": "BED",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CHAIR",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DOOR",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MIRROR",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "RUG",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SHELF",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_097",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 96,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "FLMCAMIKAJ",
+    "ONPTCCXRTU",
+    "KHAIMHBOHZ",
+    "AKNGNGPKWC",
+    "TXTETGKOWS",
+    "ZLHRKFUDPC",
+    "ELEFANTIPH",
+    "FOREMIVLNA",
+    "VCJKEFXTJF",
+    "IHURLFOUIL"
+  ],
+  "words": [
+    {
+      "word": "ELEFANT",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KAMEL",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "KATZE",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHER",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SCHAF",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TIGER",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

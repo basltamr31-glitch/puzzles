@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_015",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 14,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "OCSGXOPAJG",
+    "BATEAUZKQY",
+    "URUIVFXBFB",
+    "OTITIPTGBD",
+    "PEUROODJIV",
+    "DJJPNRYZLA",
+    "SNPILTOSLL",
+    "YZURDCVUEI",
+    "TBBMZGQCTS",
+    "FPTFJBGARE"
+  ],
+  "words": [
+    {
+      "word": "AUTOROUTE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "AVION",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BATEAU",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BILLET",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CARTE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GARE",
+      "row": 9,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "PORT",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "VALISE",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

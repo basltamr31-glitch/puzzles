@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_007",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 6,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "CBMKOBEMOJFX",
+    "YMBTQBDNTHZM",
+    "HGRETROPASAP",
+    "ADMSVIAJECYG",
+    "VVNTVBTCRCYE",
+    "FGVACACIONES",
+    "RMPCARTHPCXD",
+    "YALIHCOMUPRT",
+    "MLVOFOZDEGZD",
+    "OETNSRTJRALD",
+    "ZTEMIAQMTTDN",
+    "TAIEATJAOOZI"
+  ],
+  "words": [
+    {
+      "word": "AEROPUERTO",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "AVION",
+      "row": 5,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "BARCO",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ESTACION",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MALETA",
+      "row": 6,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "MAPA",
+      "row": 8,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 7,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "PASAPORTE",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "VACACIONES",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VIAJE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

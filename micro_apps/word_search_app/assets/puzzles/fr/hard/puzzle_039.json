@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_039",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 38,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "FSECNACAVION",
+    "YPVSECZUBIKA",
+    "CUBEERUTIOVF",
+    "QYLOAEROPORT",
+    "TDPKHNXRSITX",
+    "LTJNBGLORVMD",
+    "VDNAVVDULXQZ",
+    "XOUGYANTYBXZ",
+    "PYYMCLPEQTNP",
+    "LLTAXITEDSGY",
+    "YXSUGSJIQYSE",
+    "TVFOLEVTSSIR"
+  ],
+  "words": [
+    {
+      "word": "AEROPORT",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "AUTOROUTE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "AVION",
+      "row": 0,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "SACADOS",
+      "row": 10,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "TAXI",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VACANCES",
+      "row": 0,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "VALISE",
+      "row": 6,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "VELO",
+      "row": 11,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "VOITURE",
+      "row": 2,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 6,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

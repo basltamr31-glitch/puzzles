@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_025",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 24,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "EAJCSVSJFWZW",
+    "IKSDBEOBMYKP",
+    "GMAKRIWKIRRK",
+    "PSCTNAFELERK",
+    "CWZTZSGRFZNM",
+    "RMAUSEPFERDE",
+    "DHXHIIAHFRWA",
+    "HLCZKROKODIL",
+    "JUOGIXCPZZHO",
+    "FEXGGHZWXCOE",
+    "RCGVVKUMHHLW",
+    "CLZOWFAEMHFE"
+  ],
+  "words": [
+    {
+      "word": "BIENE",
+      "row": 1,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "ELEFANT",
+      "row": 3,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "FUCHS",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 9,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "KATZE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "LOEWE",
+      "row": 7,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "MAUS",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PFERD",
+      "row": 5,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "ZIEGE",
+      "row": 7,
+      "col": 3,
+      "dir": "NE"
+    }
+  ]
+}

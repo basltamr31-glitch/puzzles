@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_074",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 73,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "KJXBKMZB",
+    "UZZABIMR",
+    "CICNGLDO",
+    "HTEAGCWT",
+    "ERXNMHGD",
+    "NOAEZTYR",
+    "INDAPFEL",
+    "IEWBVFFW"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "BANANE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BROT",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "MILCH",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

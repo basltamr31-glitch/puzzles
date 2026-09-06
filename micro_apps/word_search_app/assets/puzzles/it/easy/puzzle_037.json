@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_037",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 36,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "BRACCIOY",
+    "STOMACOB",
+    "NASGUDYG",
+    "CFRONTEC",
+    "QVLMDUIZ",
+    "GEPIEDEI",
+    "YQOTRHPZ",
+    "MANOXASI"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FRONTE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GOMITO",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MANO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STOMACO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_033",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 32,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "EBMMXSHNEPJP",
+    "PCCBCJOAPBJJ",
+    "QACEVKWOAELX",
+    "SMJULWHYCMON",
+    "HEFFARIGHSVY",
+    "ELIDOCORCXXG",
+    "EESJOHPEISXV",
+    "PPVELLOTRFTR",
+    "ZHIJVIPCELEV",
+    "IADISOUHTGDK",
+    "NNUPENGUINCI",
+    "QTIBBARTFNBM"
+  ],
+  "words": [
+    {
+      "word": "CAMEL",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 5,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "DOLPHIN",
+      "row": 5,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 4,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "LION",
+      "row": 7,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PENGUIN",
+      "row": 10,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "RABBIT",
+      "row": 11,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "SHEEP",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TIGER",
+      "row": 11,
+      "col": 7,
+      "dir": "NE"
+    }
+  ]
+}

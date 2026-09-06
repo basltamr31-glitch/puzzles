@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_054",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 53,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "RJYPOHUTTF",
+    "EMIUKAHLOU",
+    "MTARALPAGU",
+    "LHANDSCHUH",
+    "INFATKAKEB",
+    "NSPKLEIDRX",
+    "OCODITLETK",
+    "WHTCXTSEEP",
+    "LJACKEWCLV",
+    "SMZFMELKJM"
+  ],
+  "words": [
+    {
+      "word": "GUERTEL",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "HALSKETTE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "HANDSCHUH",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HUT",
+      "row": 0,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "JACKE",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KLEID",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MANTEL",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SOCKE",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

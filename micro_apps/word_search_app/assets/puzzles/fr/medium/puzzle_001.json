@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_001",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 0,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "TTAHTVNYCB",
+    "LRONDJBDAC",
+    "OIMELVYGXL",
+    "TSOSHAZCMR",
+    "MOUNEVPHSA",
+    "LUTEFCKINI",
+    "JROOKXFENG",
+    "PINGOUINPL",
+    "FSQABEILLE",
+    "FHOQPFOZJU"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "AIGLE",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CHIEN",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LAPIN",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "LION",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "MOUTON",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PINGOUIN",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOURIS",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

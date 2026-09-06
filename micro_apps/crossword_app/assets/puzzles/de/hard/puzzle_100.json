@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_100",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 100",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "TASTATUR",
+      "clue": "Satz von Tasten zum Tippen"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "answer": "SATZ",
+      "clue": "Eine Gruppe von Wörtern mit vollständigem Sinn"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "WERT",
+      "clue": "Wie viel etwas wert ist"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "EXPERIMENT",
+      "clue": "Ein wissenschaftlicher Test zur Entdeckung"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "TEMPERATUR",
+      "clue": "Ein Maß dafür, wie heiß oder kalt etwas ist"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "SCHWERKRAFT",
+      "clue": "Die Kraft, die Objekte zueinander zieht"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "INDUSTRIE",
+      "clue": "Wirtschaftliche Tätigkeit im Bereich Fertigung"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "LEXIKON",
+      "clue": "Nachschlagewerk mit Begriffen und Erklärungen"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 2,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "FEIER",
+      "clue": "Ein Ereignis, das einen besonderen Anlass markiert"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "RAUM",
+      "clue": "Ein leerer Bereich, oder das Universum"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_092",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 91,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "FOGXFKMIVIOE",
+    "LQEOTEPPATSU",
+    "GTZFINESTRAD",
+    "VLAROTTELPDR",
+    "ICUXFONAVIDZ",
+    "HAOLOIHCCEPS",
+    "XMMVMTTRPOUI",
+    "CELAFFACSLYX",
+    "ERCQKQPVLNPP",
+    "DAEQUATROPTE",
+    "CVCKTOGCGLCD",
+    "KKLQYHLDOUOQ"
+  ],
+  "words": [
+    {
+      "word": "CAMERA",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CAMINETTO",
+      "row": 8,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "DIVANO",
+      "row": 4,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LETTO",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "PORTA",
+      "row": 9,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 7,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 1,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    }
+  ]
+}

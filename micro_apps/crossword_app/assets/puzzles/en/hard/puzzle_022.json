@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_022",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 022",
+  "rows": 11,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "PASSENGER",
+      "clue": "A person traveling in a vehicle, not driving it"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "CHALLENGE",
+      "clue": "A task that tests one's abilities"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "VOLCANO",
+      "clue": "A mountain that can erupt with lava"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "PRESIDENT",
+      "clue": "The elected head of a republic"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "FESTIVAL",
+      "clue": "A day or period of celebration"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "DICTIONARY",
+      "clue": "A book that lists words and their meanings"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "ITEM",
+      "clue": "A single article or object"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 0,
+      "answer": "RISK",
+      "clue": "The chance that something bad might happen"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "FACT",
+      "clue": "Something known to be true"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "answer": "CEREMONY",
+      "clue": "A formal event marking an occasion"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "UNIVERSE",
+      "clue": "All of space and everything in it"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 10,
+      "answer": "ICE",
+      "clue": "Frozen water"
+    }
+  ]
+}

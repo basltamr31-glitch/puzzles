@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_093",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 093",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "OHR",
+      "clue": "Körperteil zum Hören",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "GOLD",
+      "clue": "Wertvolles gelbes Metall",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "REGEN",
+      "clue": "Wasser, das aus Wolken fällt",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "BERG",
+      "clue": "Hoch aufragende Landform",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "TAG",
+      "clue": "Ein 24-Stunden-Zeitraum",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "ENTE",
+      "clue": "Wasservogel, der schnattert",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "NASE",
+      "clue": "Körperteil zum Riechen",
+      "category": "body"
+    }
+  ]
+}

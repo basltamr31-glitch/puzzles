@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_048",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 048",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "REY",
+      "clue": "Gobernante masculino de un reino",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "PERRO",
+      "clue": "Animal doméstico fiel que ladra",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SUEÑO",
+      "clue": "Descanso con los ojos cerrados",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "AGUA",
+      "clue": "Líquido claro esencial para la vida",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "PAN",
+      "clue": "Alimento horneado hecho de harina y agua",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "RIO",
+      "clue": "Gran corriente natural de agua",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "SOL",
+      "clue": "Estrella en el centro de nuestro sistema solar",
+      "category": "nature"
+    }
+  ]
+}

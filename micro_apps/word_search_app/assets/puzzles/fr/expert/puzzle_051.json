@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_051",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 50,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "KTTCDMCNFHHOVU",
+    "JVENTEANKIUTHA",
+    "VLIELOSRAGHDDI",
+    "QOUXCDCEMAKSNI",
+    "FTLRPRAIRIEGLZ",
+    "RGPCIYDCJTLGFK",
+    "PATXAREICALGIP",
+    "UPRGVNRMCMIBMX",
+    "SIPICABELIUNEG",
+    "GHCIUHRTSBEGKA",
+    "BNENPNARTIFCQV",
+    "GLUUHZULQQFURU",
+    "QHHQSEPXRJGTAY",
+    "FQCMJHDPZUCEEL"
+  ],
+  "words": [
+    {
+      "word": "ARBRE",
+      "row": 10,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "ARCENCIEL",
+      "row": 3,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "CASCADE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DESERT",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 10,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "GLACE",
+      "row": 4,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "GLACIER",
+      "row": 6,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PLUIE",
+      "row": 5,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "PRAIRIE",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 2,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "VENT",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

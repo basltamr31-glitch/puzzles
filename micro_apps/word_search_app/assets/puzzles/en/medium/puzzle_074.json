@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_074",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 73,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "FPFRHTSMCQ",
+    "VINPOOCEAR",
+    "VZKAIGTAII",
+    "PZCHEESEBM",
+    "JAMDOOWZBX",
+    "HZSOTNDKYU",
+    "BUTTERENLQ",
+    "LXGZANKYKJ",
+    "CXWAXGENGY",
+    "PYLAOLBKRY"
+  ],
+  "words": [
+    {
+      "word": "BUTTER",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CHEESE",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HONEY",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "JAM",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PASTA",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PIE",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PIZZA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

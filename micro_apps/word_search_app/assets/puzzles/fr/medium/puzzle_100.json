@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_100",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 99,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "UAVFENETRE",
+    "FGTJNOMHCS",
+    "FKYCPORTEO",
+    "QIODHXXACQ",
+    "POLEYAQPKJ",
+    "QSUIOLIITC",
+    "HKIQTASSEX",
+    "CMCHAMBREF",
+    "TRLXKPLQUC",
+    "LAXCOELZHJ"
+  ],
+  "words": [
+    {
+      "word": "CHAISE",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CHAMBRE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FENETRE",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPE",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LIT",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PORTE",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TAPIS",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TASSE",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

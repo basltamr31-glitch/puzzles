@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_034",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 33,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "BSTCAZDUNQRA",
+    "PXPLLEGROTVE",
+    "RKXVZQGLGMQU",
+    "QUZMCQPIURQL",
+    "LLOIHTGMXPBA",
+    "OGFPOCUOOEIL",
+    "PERACSVNTHIZ",
+    "QUESOPAAZDZQ",
+    "TTSTLTMNJYOJ",
+    "QXAEAOFCDPLY",
+    "AGBLTZMRBIYO",
+    "DRPCEOYKJTAH"
+  ],
+  "words": [
+    {
+      "word": "CHOCOLATE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FRESA",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "LIMON",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PASTEL",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PLATANO",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "QUESO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SANDIA",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "SOPA",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    }
+  ]
+}

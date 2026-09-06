@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_040",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 040",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "EXTRAORDINARY",
+      "clue": "Very unusual or remarkable"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 11,
+      "answer": "UNBELIEVABLE",
+      "clue": "Too extraordinary to be believed"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 10,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "COST",
+      "clue": "The amount paid for something"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "CERTIFICATION",
+      "clue": "Official confirmation of a qualification"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "TAX",
+      "clue": "Money owed to the government"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 10,
+      "answer": "RATE",
+      "clue": "A measure of how fast something happens"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 11,
+      "answer": "LOSS",
+      "clue": "The state of no longer having something"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 9,
+      "answer": "AGE",
+      "clue": "How many years someone has lived"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "answer": "ECOSYSTEM",
+      "clue": "A community of living things and their environment"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 8,
+      "answer": "CASE",
+      "clue": "An instance of something, or a container"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "SHAPE",
+      "clue": "The form or outline of something"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "STAGE",
+      "clue": "A raised platform, or a phase of a process"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "VOTE",
+      "clue": "A formal choice made in an election"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "CIVILIZATION",
+      "clue": "A complex, organized society"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 13,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    }
+  ]
+}

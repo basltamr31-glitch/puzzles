@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_045",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 44,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "OIEPGBRDRTJB",
+    "IVXEPGRHNDDT",
+    "EGDSJZGUTIAN",
+    "PDOGEESMBTQT",
+    "BHBRASNZGHTI",
+    "HGTSZOAJEKUN",
+    "QOEUXUFABYOO",
+    "HETNORFMVTXI",
+    "KCENKCOBNPLK",
+    "LZELLIVEHCLK",
+    "TGIODLMFIEEI",
+    "NJNPYMXSDLLK"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CHEVILLE",
+      "row": 9,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "DOIGT",
+      "row": 10,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "FRONT",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "GENOU",
+      "row": 10,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "JAMBE",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MENTON",
+      "row": 10,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "OEIL",
+      "row": 8,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "SOURCIL",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TETE",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

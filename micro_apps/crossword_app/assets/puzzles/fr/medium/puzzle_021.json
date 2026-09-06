@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_021",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 021",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 7,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "MESSAGE",
+      "clue": "Information envoyée d'une personne à une autre"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "SOLDAT",
+      "clue": "Membre d'une armée"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "LUMIERE",
+      "clue": "La clarté qui permet de voir"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "INSECTE",
+      "clue": "Petite créature à six pattes comme une fourmi"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "AIGLE",
+      "clue": "Grand oiseau de proie à la vue perçante"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "BOUSSOLE",
+      "clue": "Outil qui indique la direction du nord"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "SON",
+      "clue": "Quelque chose que l'on entend"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "LECON",
+      "clue": "Une période d'apprentissage sur un sujet"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "METEO",
+      "clue": "État de l'atmosphère, chaud, froid, pluvieux"
+    }
+  ]
+}

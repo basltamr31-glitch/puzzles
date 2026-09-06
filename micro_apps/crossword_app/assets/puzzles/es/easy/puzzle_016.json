@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_016",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 016",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "AGUA",
+      "clue": "Líquido claro esencial para la vida",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "HORA",
+      "clue": "Una unidad de tiempo de sesenta minutos",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "TIBURON",
+      "clue": "Gran pez depredador de dientes afilados",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "LEON",
+      "clue": "Gran felino, rey de la sabana",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "NIÑO",
+      "clue": "Ser humano joven, aún no adulto",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "ISLA",
+      "clue": "Tierra completamente rodeada de agua",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "PAN",
+      "clue": "Alimento horneado hecho de harina y agua",
+      "category": "food"
+    }
+  ]
+}

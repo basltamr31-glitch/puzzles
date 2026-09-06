@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_054",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 054",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "TESORO",
+      "clue": "Un valioso alijo escondido"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "ALMOHADA",
+      "clue": "Cojín suave para descansar la cabeza"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "VELA",
+      "clue": "Una barra de cera con una mecha, quemada por luz"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "CABALLERO",
+      "clue": "Guerrero medieval acorazado a caballo"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "DRAGON",
+      "clue": "Criatura mítica que escupe fuego"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "PINTOR",
+      "clue": "Artista que trabaja con pintura"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "ORDEN",
+      "clue": "Una secuencia, o una instrucción a seguir"
+    }
+  ]
+}

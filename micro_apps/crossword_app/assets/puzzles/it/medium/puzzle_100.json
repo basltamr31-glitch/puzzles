@@ -1,0 +1,80 @@
+{
+  "id": "it_medium_100",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 100",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "PROBLEMA",
+      "clue": "Una questione difficile da risolvere"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "SPAZIO",
+      "clue": "Un'area vuota, o l'universo oltre la Terra"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "answer": "AEREO",
+      "clue": "Velivolo con ali fisse"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "DRAGO",
+      "clue": "Creatura mitica che sputa fuoco"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "PITTORE",
+      "clue": "Artista che lavora con la pittura"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "INSETTO",
+      "clue": "Piccola creatura a sei zampe come una formica"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "ARTE",
+      "clue": "Espressione creativa, come la pittura"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    }
+  ]
+}

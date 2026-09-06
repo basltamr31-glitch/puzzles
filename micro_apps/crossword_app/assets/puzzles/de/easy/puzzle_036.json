@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_036",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 036",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "HAUS",
+      "clue": "Gebäude, in dem man wohnt",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "FEUER",
+      "clue": "Heiße, leuchtende Flammen",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "STERN",
+      "clue": "Leuchtender Punkt am Nachthimmel",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "FELD",
+      "clue": "Offenes Land für Ackerbau",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "BUCH",
+      "clue": "Gebundene Seiten zum Lesen",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "TAL",
+      "clue": "Niedriges Land zwischen Bergen",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "BROT",
+      "clue": "Gebackenes Nahrungsmittel aus Mehl und Wasser",
+      "category": "food"
+    }
+  ]
+}

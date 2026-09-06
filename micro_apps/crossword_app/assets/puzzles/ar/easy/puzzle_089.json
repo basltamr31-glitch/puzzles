@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_089",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 089",
+  "rows": 5,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "ريح",
+      "clue": "هواء متحرك",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "يد",
+      "clue": "عضو في نهاية الذراع",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "شهر",
+      "clue": "مدة تقارب ثلاثين يوماً",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "تفاح",
+      "clue": "فاكهة مستديرة حلوة",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "فيل",
+      "clue": "حيوان ضخم له خرطوم طويل",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "لبن",
+      "clue": "سائل أبيض يأتي من الأبقار",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "جيش",
+      "clue": "قوة عسكرية تدافع عن الوطن",
+      "category": "people"
+    }
+  ]
+}

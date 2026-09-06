@@ -1,0 +1,122 @@
+{
+  "id": "ar_expert_098",
+  "language": "ar",
+  "difficulty": "expert",
+  "title": "اللغز 098",
+  "rows": 15,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "answer": "حب",
+      "clue": "شعور عميق بالمودة تجاه شخص أو شيء"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "رائحة",
+      "clue": "ما يُحس به عند الشم"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "مدارس",
+      "clue": "جمع مدرسة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "طعم",
+      "clue": "ما يُحس به عند تذوق الطعام"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "حرية",
+      "clue": "القدرة على التصرف دون قيود"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "بطء",
+      "clue": "قلة السرعة"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "حساب",
+      "clue": "عملية رياضية أو مالية"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "استثمارات",
+      "clue": "جمع استثمار"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 10,
+      "answer": "جغرافية",
+      "clue": "صفة تتعلق بجغرافيا الأرض"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 8,
+      "answer": "اكتشافات",
+      "clue": "جمع اكتشاف"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 6,
+      "answer": "سلام",
+      "clue": "حالة خلو من الحرب والنزاع"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 9,
+      "answer": "حجم",
+      "clue": "مقدار المساحة التي يشغلها جسم"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "تكنولوجيا",
+      "clue": "العلوم التطبيقية المستخدمة لأغراض عملية"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 4,
+      "answer": "عقل",
+      "clue": "أداة التفكير في الإنسان"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 6,
+      "answer": "صوت",
+      "clue": "ما يُسمع عند الكلام أو الحركة"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "answer": "مكتبات",
+      "clue": "جمع مكتبة"
+    }
+  ]
+}

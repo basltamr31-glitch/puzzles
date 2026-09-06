@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_015",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 14,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "TILHYMPDPLOAAT",
+    "WFSMRQINKZIWOM",
+    "WSAUZVOXHZYHCT",
+    "HNCHIGHWAYOORP",
+    "OYDESTINATIONT",
+    "BJWFBBCVUFPQHK",
+    "WNVNOITATSMRTR",
+    "WCOHRRICSQOTTD",
+    "UDKOARLAVERBPW",
+    "IPSIPRPTKWLZJJ",
+    "WKNOPVBICYCLEO",
+    "UGRBBPCOHXUIGW",
+    "YTCYAGNNRSQENA",
+    "KYPQWPMASHDCSJ"
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "row": 6,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "BICYCLE",
+      "row": 10,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "DESTINATION",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HARBOR",
+      "row": 7,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 9,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "SHIP",
+      "row": 12,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "STATION",
+      "row": 6,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SUITCASE",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "TRAIN",
+      "row": 6,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "VACATION",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

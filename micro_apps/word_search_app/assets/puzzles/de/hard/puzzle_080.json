@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_080",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 79,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "CHTWSTOBOXEN",
+    "VOXKSCHACHYM",
+    "PCOFUJBSBORK",
+    "BKHBGEGKNELA",
+    "ZEPBMAWELLXV",
+    "BYSRVAMTAUZG",
+    "SMTFEMRBUDPR",
+    "TWUEIOSAFOEE",
+    "SEBWPSMLTSRN",
+    "TUHSUXLLNHPN",
+    "UCZFPMJLTAOE",
+    "SWWRLMACJMMN"
+  ],
+  "words": [
+    {
+      "word": "BASKETBALL",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BOXEN",
+      "row": 0,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "FUSSBALL",
+      "row": 10,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "LAUF",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "MARATHON",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "RENNEN",
+      "row": 6,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "SCHACH",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SCHWIMMEN",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "SPORTLER",
+      "row": 9,
+      "col": 3,
+      "dir": "NE"
+    }
+  ]
+}

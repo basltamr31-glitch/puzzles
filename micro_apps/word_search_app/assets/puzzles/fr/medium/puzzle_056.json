@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_056",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 55,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "NSOXFGYPFI",
+    "SIRMOGEEGE",
+    "LDLACRBQPC",
+    "OTLRBUSUVS",
+    "QBAAIOBITT",
+    "XSATRMXPPN",
+    "BBYHOCKEYY",
+    "HMCOURSEKH",
+    "STENNISZVZ",
+    "SCYCLISMET"
+  ],
+  "words": [
+    {
+      "word": "BOXE",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "BUT",
+      "row": 2,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "COURSE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CYCLISME",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "EQUIPE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MARATHON",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "it_hard_066",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 066",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "PERSONAGGIO",
+      "clue": "Una persona ritratta in una storia"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "GALASSIA",
+      "clue": "Un enorme sistema di stelle"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "OGGETTO",
+      "clue": "Un articolo o una cosa singola"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "CHIAVE",
+      "clue": "Strumento metallico usato per aprire una serratura"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "TASTIERA",
+      "clue": "Insieme di tasti usati per digitare"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 7,
+      "answer": "MISURA",
+      "clue": "Quanto grande o piccolo è qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 1,
+      "answer": "PERDITA",
+      "clue": "Lo stato di non avere più qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "VACCINO",
+      "clue": "Una sostanza che protegge da una malattia"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "TIPO",
+      "clue": "Una categoria o genere di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 11,
+      "answer": "COMPUTER",
+      "clue": "Apparecchio elettronico che elabora dati"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "answer": "VOTO",
+      "clue": "Una scelta formale fatta in un'elezione"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 12,
+      "answer": "ARTE",
+      "clue": "Espressione creativa, come la pittura"
+    }
+  ]
+}

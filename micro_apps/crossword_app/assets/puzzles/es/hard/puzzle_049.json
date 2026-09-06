@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_049",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 049",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "INDUSTRIA",
+      "clue": "Actividad económica relacionada con la fabricación"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "NAVEGACION",
+      "clue": "El proceso de planificar y seguir una ruta"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "VOLCAN",
+      "clue": "Una montaña que puede entrar en erupción"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "PINTURA",
+      "clue": "Una imagen hecha con pintura"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "LITERATURA",
+      "clue": "Obras escritas valoradas por su mérito artístico"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "SATELITE",
+      "clue": "Un objeto que orbita un planeta"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 9,
+      "answer": "REGLA",
+      "clue": "Una instrucción oficial sobre cómo comportarse"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 2,
+      "answer": "ECONOMIA",
+      "clue": "El sistema de producción e intercambio"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "DESTINO",
+      "clue": "El lugar hacia el que alguien viaja"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 9,
+      "answer": "LEY",
+      "clue": "Una regla impuesta por un gobierno"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "RANGO",
+      "clue": "La extensión entre dos límites"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    }
+  ]
+}

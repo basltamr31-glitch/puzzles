@@ -1,0 +1,58 @@
+{
+  "id": "es_easy_036",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 036",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "ORO",
+      "clue": "Metal precioso de color amarillo",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "REINA",
+      "clue": "Gobernante femenina de un reino",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "PIEL",
+      "clue": "Cubierta exterior del cuerpo",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ISLA",
+      "clue": "Tierra completamente rodeada de agua",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "OJO",
+      "clue": "Órgano usado para ver",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "BOSQUE",
+      "clue": "Gran extensión cubierta de árboles",
+      "category": "place"
+    }
+  ]
+}

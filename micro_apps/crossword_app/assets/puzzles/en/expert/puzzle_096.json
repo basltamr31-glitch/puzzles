@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_096",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 096",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 10,
+      "answer": "RANGE",
+      "clue": "The extent between limits"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "FACT",
+      "clue": "Something known to be true"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "ORGANIZATION",
+      "clue": "A group of people working toward a goal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "INFRASTRUCTURE",
+      "clue": "The basic physical systems of a country"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "answer": "APPRECIATION",
+      "clue": "Recognition of the value of something"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "ENTERTAINMENT",
+      "clue": "Activities that provide amusement"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 10,
+      "answer": "TERM",
+      "clue": "A fixed period of time, or a specific word"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 10,
+      "answer": "COST",
+      "clue": "The amount paid for something"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "answer": "SHAPE",
+      "clue": "The form or outline of something"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "CHOREOGRAPHY",
+      "clue": "The design of dance movements"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "GAIN",
+      "clue": "An increase in something, like wealth"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 12,
+      "answer": "ITEM",
+      "clue": "A single article or object"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "answer": "STATE",
+      "clue": "A condition, or a political territory"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 4,
+      "answer": "RULE",
+      "clue": "An official instruction on how to behave"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 9,
+      "answer": "FORCE",
+      "clue": "Strength or power exerted on something"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "SIZE",
+      "clue": "How big or small something is"
+    }
+  ]
+}

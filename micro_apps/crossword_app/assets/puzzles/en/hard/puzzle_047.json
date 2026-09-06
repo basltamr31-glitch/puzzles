@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_047",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 047",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "SIZE",
+      "clue": "How big or small something is"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "GOVERNMENT",
+      "clue": "The group that officially runs a country"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "STATE",
+      "clue": "A condition, or a political territory"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "VACCINE",
+      "clue": "A substance that protects against disease"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "WILDERNESS",
+      "clue": "A wild, uncultivated natural region"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 7,
+      "answer": "CASE",
+      "clue": "An instance of something, or a container"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "BIOLOGY",
+      "clue": "The scientific study of living things"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "AREA",
+      "clue": "A particular region or part of something"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 8,
+      "answer": "UNIT",
+      "clue": "A single standard measure or piece"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "JOB",
+      "clue": "Paid work someone does regularly"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "AUDIENCE",
+      "clue": "The group watching or listening to a performance"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "LANGUAGE",
+      "clue": "A system of words used for communication"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "WEB",
+      "clue": "A net spun by a spider, or the internet, informally"
+    }
+  ]
+}

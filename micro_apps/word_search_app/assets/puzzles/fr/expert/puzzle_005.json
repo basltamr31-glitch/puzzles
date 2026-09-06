@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_005",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 4,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "BEMNDMETETRLEO",
+    "SLZVZGRTKZZACZ",
+    "VLQPPTTGLKDYEI",
+    "MIYMAINIVXCIJD",
+    "FEPAULEOHGGHSA",
+    "BRASOOVDRUFKNO",
+    "POOYNLFSHFPHKC",
+    "JAMBEVCFIEZACR",
+    "KRDIGNXNCSIXGU",
+    "LPMFBKVLPMJYOP",
+    "HCHQEXFIXJJLDQ",
+    "MKOYVXMQZYEGTL",
+    "AHPTVSCSEGXBCE",
+    "REPGFCQZEXGLSI"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DOIGT",
+      "row": 5,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "EPAULE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FRONT",
+      "row": 6,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "GENOU",
+      "row": 8,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "JAMBE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MAIN",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "OEIL",
+      "row": 5,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "OREILLE",
+      "row": 6,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "PIED",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TETE",
+      "row": 0,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "VENTRE",
+      "row": 5,
+      "col": 6,
+      "dir": "N"
+    }
+  ]
+}

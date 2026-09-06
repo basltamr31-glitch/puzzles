@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_070",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 69,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "OIMMOPSS",
+    "HAAWPCOC",
+    "ODEKTLCH",
+    "SXSLGWKA",
+    "EGUERTEL",
+    "JXWIOMVZ",
+    "SUBDFRGN",
+    "LARMBAND"
+  ],
+  "words": [
+    {
+      "word": "ARMBAND",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GUERTEL",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HOSE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "KLEID",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SCHAL",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SOCKE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

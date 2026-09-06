@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_079",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 079",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "EBENE",
+      "clue": "Flaches, weites Land ohne große Erhebungen",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "ZUCKER",
+      "clue": "Süße kristalline Substanz",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "NASE",
+      "clue": "Körperteil zum Riechen",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "STEIN",
+      "clue": "Ein hartes Stück Fels",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "STUNDE",
+      "clue": "Eine Zeiteinheit von sechzig Minuten",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "SEE",
+      "clue": "Großes Gewässer, von Land umgeben",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "FELD",
+      "clue": "Offenes Land für Ackerbau",
+      "category": "place"
+    }
+  ]
+}

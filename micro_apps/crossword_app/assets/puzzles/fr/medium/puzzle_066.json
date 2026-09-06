@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_066",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 066",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "MARIN",
+      "clue": "Personne qui travaille sur un navire"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "LOGIQUE",
+      "clue": "Un raisonnement mené selon des règles strictes"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "LECON",
+      "clue": "Une période d'apprentissage sur un sujet"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "ARAIGNEE",
+      "clue": "Créature à huit pattes qui tisse des toiles"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "VOTE",
+      "clue": "Un choix formel fait lors d'une élection"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "ELEVE",
+      "clue": "Personne qui étudie dans une école"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "answer": "GARE",
+      "clue": "Arrêt pour les trains"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ORAGE",
+      "clue": "Tempête avec tonnerre et éclairs"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "ZONE",
+      "clue": "Une région ou partie particulière de quelque chose"
+    }
+  ]
+}

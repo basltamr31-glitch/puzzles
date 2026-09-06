@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_041",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 40,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "OVAHTYMCEXOH",
+    "RVHMPARCNXEO",
+    "SESIXVCYNNPO",
+    "OLLIRDOCCOCE",
+    "TEUDUKGATTOF",
+    "AFFARIGMBDXV",
+    "CAPRANRMFKKO",
+    "DNQNPTHEQUCI",
+    "XTPLCGYLBDIL",
+    "VEHQCTDLSNUL",
+    "CONIGLIOPULQ",
+    "FOTHZTYCZYHH"
+  ],
+  "words": [
+    {
+      "word": "CAMMELLO",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CAPRA",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COCCODRILLO",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CONIGLIO",
+      "row": 10,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GATTO",
+      "row": 4,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFA",
+      "row": 5,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "LUPO",
+      "row": 10,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "ORSO",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TOPO",
+      "row": 4,
+      "col": 8,
+      "dir": "NE"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_029",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 28,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "KOFABDUG",
+    "GRRKMDGC",
+    "CUELLOLL",
+    "ASNCPRDX",
+    "KUTSIEQJ",
+    "AMECEJAO",
+    "XACJMANO",
+    "INEIIVVI"
+  ],
+  "words": [
+    {
+      "word": "CEJA",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CUELLO",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FRENTE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MANO",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "OREJA",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PIE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

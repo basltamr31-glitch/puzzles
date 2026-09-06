@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_024",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 024",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "SHEEP",
+      "clue": "Woolly farm animal that says \"baa\"",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "FOREST",
+      "clue": "Large area covered with trees",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "MEAT",
+      "clue": "Animal flesh eaten as food",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "ROOF",
+      "clue": "Covering on top of a building",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "ARM",
+      "clue": "Limb between the shoulder and the hand",
+      "category": "body"
+    }
+  ]
+}

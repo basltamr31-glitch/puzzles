@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_040",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 39,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "ZLWGXBEE",
+    "KAAYPMBF",
+    "TEAMPCOO",
+    "EPCIPHXD",
+    "NIGFYEIU",
+    "NUOGUSNN",
+    "IOAHJSGE",
+    "SBLLSDVO"
+  ],
+  "words": [
+    {
+      "word": "BOXING",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CHESS",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GOAL",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "GYM",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TEAM",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

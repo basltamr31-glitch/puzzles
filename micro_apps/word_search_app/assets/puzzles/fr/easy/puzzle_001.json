@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_001",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 0,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "DGRZBDTI",
+    "GXRENARD",
+    "VRDBLUOY",
+    "ALEROPQF",
+    "THGEUHGJ",
+    "QHLAPINU",
+    "RUXRKNHD",
+    "RRHTIGRE"
+  ],
+  "words": [
+    {
+      "word": "DAUPHIN",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LAPIN",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LOUP",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "RENARD",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TIGRE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

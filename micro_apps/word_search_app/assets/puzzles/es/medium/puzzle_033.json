@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_033",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 32,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "MKHOFYRMCJ",
+    "PARFHVDCOC",
+    "ZGZMZYEANH",
+    "VAUEZJLMEN",
+    "KTFKCCFEJP",
+    "COCODRILOO",
+    "VYOAMANLBN",
+    "QHEKBTYOQM",
+    "SLECSRFJUJ",
+    "SQELEFANTE"
+  ],
+  "words": [
+    {
+      "word": "CABRA",
+      "row": 5,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CAMELLO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "COCODRILO",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CONEJO",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "DELFIN",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GATO",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "LEON",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

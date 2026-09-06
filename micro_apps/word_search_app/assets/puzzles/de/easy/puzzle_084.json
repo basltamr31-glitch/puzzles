@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_084",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 83,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "JZHXPXKA",
+    "MEVUWKJK",
+    "UIKAVUYO",
+    "PPATBEXO",
+    "SKMAECRH",
+    "OYISTHPB",
+    "FENSTERN",
+    "AAEEPRUW"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FENSTER",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KAMIN",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "KUECHE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TASSE",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

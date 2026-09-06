@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_090",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 89,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "LEQHPVKGLMFD",
+    "DSQEZEFFACTR",
+    "CYKTNMRGTYMR",
+    "RIKLOFIATCZA",
+    "XFOIARTSENIM",
+    "ILCCPATATAFL",
+    "CUONCGEAAIII",
+    "SMHVVOLTVLCL",
+    "IQGPRLLEDRCQ",
+    "KCMRPAAALXZI",
+    "KBUPLMTCTCSM",
+    "TBVNCKXIOOIF"
+  ],
+  "words": [
+    {
+      "word": "BURRO",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "CAFFE",
+      "row": 1,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CIOCCOLATO",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FRITTELLA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LATTE",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 4,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PATATA",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PERA",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TORTA",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

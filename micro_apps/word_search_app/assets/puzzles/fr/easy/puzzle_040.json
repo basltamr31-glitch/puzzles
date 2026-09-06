@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_040",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 39,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "RPAIHZQR",
+    "THTBOXEU",
+    "ECHECSPB",
+    "QOLPKQDB",
+    "UUEZEEMF",
+    "IRTLYATP",
+    "PSEMORHX",
+    "EENPBLCP"
+  ],
+  "words": [
+    {
+      "word": "ATHLETE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BOXE",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "COURSE",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ECHECS",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "EQUIPE",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

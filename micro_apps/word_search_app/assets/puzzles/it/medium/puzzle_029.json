@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_029",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 28,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "AVGHSDBZZH",
+    "FBOKZINIDQ",
+    "PBMRTTEAMS",
+    "NAIBEORUZP",
+    "ACTOSCLDCX",
+    "UHOKTCCABM",
+    "FCCLAHFHXA",
+    "AZSZLIRIIN",
+    "VZFSTOMACO",
+    "KMUAGNMXNU"
+  ],
+  "words": [
+    {
+      "word": "COLLO",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "DITO",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GOMITO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MANO",
+      "row": 5,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "STOMACO",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TESTA",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_028",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 27,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "TZPNJPGVHTUF",
+    "QUVRBKONRZND",
+    "GTABLEXZAMTW",
+    "YABOAIZNZUBA",
+    "DJRFNTGDIFEH",
+    "UPODKWHFYPDS",
+    "RSQQEMIRRORP",
+    "RAHUTNENOJOO",
+    "ZFHLIBHZDOOR",
+    "YTDESWLMEOMX",
+    "EYKUPGHVSDWJ",
+    "MHULCFSAKRQZ"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "BEDROOM",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "BLANKET",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 8,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "DOOR",
+      "row": 8,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "GARDEN",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "MIRROR",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 6,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "TABLE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "WINDOW",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    }
+  ]
+}

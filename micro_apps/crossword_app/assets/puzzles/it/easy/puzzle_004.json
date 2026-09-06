@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_004",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 004",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "RANA",
+      "clue": "Anfibio verde che salta e gracida",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "LIBRO",
+      "clue": "Pagine rilegate che si leggono",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "LEONE",
+      "clue": "Grande felino, re della savana",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "LAGO",
+      "clue": "Grande distesa d'acqua circondata da terra",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "CUORE",
+      "clue": "Organo che pompa il sangue nel corpo",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "BOCCA",
+      "clue": "Apertura usata per mangiare e parlare",
+      "category": "body"
+    }
+  ]
+}

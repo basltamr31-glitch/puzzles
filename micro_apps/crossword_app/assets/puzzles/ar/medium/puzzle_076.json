@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_076",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 076",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "طبيعة",
+      "clue": "العالم الطبيعي المحيط بنا"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "طبيب",
+      "clue": "شخص متخصص في علاج المرضى"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "ضعف",
+      "clue": "قلة القوة أو القدرة"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "اختبار",
+      "clue": "وسيلة لتقييم المعرفة أو المهارة"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "قلب",
+      "clue": "العضو الذي يضخ الدم في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "جائزة",
+      "clue": "مكافأة تُمنح للفائز"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "answer": "رأس",
+      "clue": "الجزء العلوي من الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "راتب",
+      "clue": "المال الذي يتقاضاه الموظف"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "سعادة",
+      "clue": "شعور بالفرح والرضا"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "رياضة",
+      "clue": "نشاط بدني يُمارس للياقة أو المتعة"
+    }
+  ]
+}

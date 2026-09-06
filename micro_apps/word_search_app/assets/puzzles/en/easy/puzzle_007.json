@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_007",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 6,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "DFETPGAY",
+    "HHVOYAGE",
+    "OSTATION",
+    "KCARIRET",
+    "VGXNCPFL",
+    "RIIQKOPP",
+    "SGWPEROQ",
+    "UOGXTTBK"
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CAR",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "STATION",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

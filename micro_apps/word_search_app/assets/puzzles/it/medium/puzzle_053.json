@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_053",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 52,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "XBRACCIOCK",
+    "PAMQDNYOCS",
+    "FTASYADFVD",
+    "ECNXDMPHLM",
+    "SHONRBEMXO",
+    "PFZLISLNNN",
+    "AIUHLIFDTO",
+    "LBENGOMITO",
+    "LKTDAKFYKU",
+    "AIOTESTAGB"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COLLO",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "GOMITO",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MANO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MENTO",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "PIEDE",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SPALLA",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TESTA",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

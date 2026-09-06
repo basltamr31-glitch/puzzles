@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_015",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 14,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "PORTABLV",
+    "DIRRIXKO",
+    "TLTAXIAI",
+    "PUBILLET",
+    "MOFNDZOU",
+    "NXDQKEVR",
+    "YJVALISE",
+    "BZQNJLNI"
+  ],
+  "words": [
+    {
+      "word": "BILLET",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PORT",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "VALISE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VOITURE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

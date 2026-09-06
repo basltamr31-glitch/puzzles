@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_096",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 096",
+  "rows": 5,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "نور",
+      "clue": "ضياء يساعد على الرؤية",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "أرنب",
+      "clue": "حيوان له أذنان طويلتان يقفز",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "ذئب",
+      "clue": "حيوان بري قريب من الكلب",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "عين",
+      "clue": "عضو الإبصار في الجسم",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "نمر",
+      "clue": "قط كبير مخطط",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "ظهر",
+      "clue": "منتصف النهار",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "قبعة",
+      "clue": "غطاء يُلبس على الرأس",
+      "category": "object"
+    }
+  ]
+}

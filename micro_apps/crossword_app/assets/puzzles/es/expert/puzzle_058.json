@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_058",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 058",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "INGENIERIA",
+      "clue": "La aplicación de la ciencia para construir cosas"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "answer": "PSICOLOGIA",
+      "clue": "El estudio científico de la mente y la conducta"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 13,
+      "answer": "ANIVERSARIO",
+      "clue": "El retorno anual de una fecha especial"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "ESPACIO",
+      "clue": "Un área vacía, o el universo más allá de la Tierra"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 4,
+      "answer": "COSTO",
+      "clue": "La cantidad pagada por algo"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "CONSTRUCCION",
+      "clue": "El proceso de construir algo"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "EXAGERACION",
+      "clue": "Una declaración que exagera la verdad"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 10,
+      "answer": "ORDEN",
+      "clue": "Una secuencia, o una instrucción a seguir"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "TRADICIONAL",
+      "clue": "Que sigue costumbres muy establecidas"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "REGLA",
+      "clue": "Una instrucción oficial sobre cómo comportarse"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 8,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 7,
+      "answer": "TASA",
+      "clue": "Una medida de la rapidez con la que ocurre algo"
+    },
+    {
+      "direction": "across",
+      "row": 14,
+      "col": 0,
+      "answer": "COMUNICACION",
+      "clue": "El intercambio de información entre personas"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 8,
+      "answer": "FORMA",
+      "clue": "El contorno o aspecto de algo"
+    }
+  ]
+}

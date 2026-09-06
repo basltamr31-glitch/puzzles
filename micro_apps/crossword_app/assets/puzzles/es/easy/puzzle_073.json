@@ -1,0 +1,58 @@
+{
+  "id": "es_easy_073",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 073",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "HOJA",
+      "clue": "Parte verde y plana de una planta",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "PARED",
+      "clue": "Estructura vertical que divide una habitación",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "GATO",
+      "clue": "Felino doméstico que maúlla",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "SUEÑO",
+      "clue": "Descanso con los ojos cerrados",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "PELO",
+      "clue": "Lo que crece en la piel, especialmente la cabeza",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "DIA",
+      "clue": "Un período de 24 horas",
+      "category": "time"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_042",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 41,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "ELCMFRREEVKG",
+    "INCYSPPBLSYF",
+    "EXAVOCADOIKU",
+    "LORNUXNSZEDQ",
+    "KGRAPECQTHED",
+    "DJOTOMATOAQY",
+    "TPTKTNKBJTHS",
+    "LOBJAAEUFVAQ",
+    "SKONTZASMKZJ",
+    "TZAMOTILRJPZ",
+    "YBUTTERHDNKE",
+    "FFVCYDIHKVZY"
+  ],
+  "words": [
+    {
+      "word": "AVOCADO",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BANANA",
+      "row": 10,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "BUTTER",
+      "row": 10,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CARROT",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "GRAPE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PASTA",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "POTATO",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SOUP",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATO",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

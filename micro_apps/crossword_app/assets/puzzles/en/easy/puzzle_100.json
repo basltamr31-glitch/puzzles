@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_100",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 100",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "EAR",
+      "clue": "Body part used for hearing",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "BLUE",
+      "clue": "Color of a clear sky",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "GRAPE",
+      "clue": "Small round fruit that grows in bunches",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "RICE",
+      "clue": "Small white grain, a staple food",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "BIRD",
+      "clue": "Feathered animal that can usually fly",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "GOAT",
+      "clue": "Horned farm animal known for climbing",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "LAMP",
+      "clue": "Device that gives off light in a room",
+      "category": "home"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_016",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 016",
+  "rows": 5,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "عمر",
+      "clue": "عدد السنوات التي عاشها الإنسان",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ساعة",
+      "clue": "أداة تُظهر الوقت",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "خروف",
+      "clue": "حيوان صوفي أليف",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "غرفة",
+      "clue": "مساحة مغلقة داخل منزل",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "أرض",
+      "clue": "الكوكب الذي نعيش عليه",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "فم",
+      "clue": "فتحة تُستخدم للأكل والكلام",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "أمس",
+      "clue": "اليوم الذي سبق اليوم الحالي",
+      "category": "time"
+    }
+  ]
+}

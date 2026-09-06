@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_031",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 30,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "BNBOLETO",
+    "ACOCHEOO",
+    "RSAVIONH",
+    "CKYNMAPA",
+    "OFTTBGXT",
+    "SBOJPARR",
+    "LTEFISBE",
+    "UPSEYLJN"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BARCO",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BOLETO",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "COCHE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MAPA",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TREN",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

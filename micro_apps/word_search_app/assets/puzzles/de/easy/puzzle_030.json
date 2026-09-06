@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_030",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 29,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "HVINHGIY",
+    "OJRSUUYD",
+    "SMANTELM",
+    "EGIZERLL",
+    "PGMHITKJ",
+    "GTAKLEID",
+    "FKWRVLHH",
+    "ARMBANDK"
+  ],
+  "words": [
+    {
+      "word": "ARMBAND",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GUERTEL",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "HOSE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "HUT",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "KLEID",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MANTEL",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

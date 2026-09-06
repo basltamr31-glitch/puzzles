@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_049",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 48,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "JWBPWYGR",
+    "PLBEARIW",
+    "IFENWYRJ",
+    "MXEGHLAD",
+    "ELJUXLFQ",
+    "EDVIIYFT",
+    "NPANTHER",
+    "DOLPHINY"
+  ],
+  "words": [
+    {
+      "word": "BEAR",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BEE",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "DOLPHIN",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHER",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PENGUIN",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

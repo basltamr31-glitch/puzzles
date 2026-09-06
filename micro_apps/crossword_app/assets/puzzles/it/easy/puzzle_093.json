@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_093",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 093",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "PAGINA",
+      "clue": "Un foglio in un libro",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "PIOGGIA",
+      "clue": "Acqua che cade dalle nuvole",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "FOGLIA",
+      "clue": "Parte verde e piatta di una pianta",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "LIBRO",
+      "clue": "Pagine rilegate che si leggono",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "MANO",
+      "clue": "Parte del corpo alla fine del braccio",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "APE",
+      "clue": "Insetto che ronza e produce miele",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

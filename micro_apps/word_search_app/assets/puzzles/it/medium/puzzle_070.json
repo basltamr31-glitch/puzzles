@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_070",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 69,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "VRSANDALIN",
+    "EQFTRSPRTT",
+    "SMCSCIARPA",
+    "TCALZINOLE",
+    "IIPGMVTSBU",
+    "TNPVLVAIVH",
+    "OTOYAILOVK",
+    "OUTYNKOVRF",
+    "IRTQSENNIZ",
+    "OAOOEUEUEI"
+  ],
+  "words": [
+    {
+      "word": "CALZINO",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CAPPOTTO",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CINTURA",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "MAGLIONE",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTALONE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALI",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCIARPA",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VESTITO",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

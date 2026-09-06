@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_022",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 21,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "IKPSGOSLQZZZTT",
+    "CPASIYTAPCPOPD",
+    "GOBXXSMLGDNMDN",
+    "ACRZAPGUZPLLIF",
+    "UHIBVAANFAJMPX",
+    "JAGNANIYDPPPKM",
+    "EQONTTDNCECSAX",
+    "ZUREEUAZRNQFOS",
+    "FEACYFRMVQHTTF",
+    "QTLNULEODITSEV",
+    "CALBKASBNRDATR",
+    "CDOOBSLEUFLCVK",
+    "KOCLTBUCBUUZKH",
+    "MKEZANPCDCQZUT"
+  ],
+  "words": [
+    {
+      "word": "ABRIGO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BUFANDA",
+      "row": 10,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "CALCETIN",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CHAQUETA",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CINTURON",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "COLLAR",
+      "row": 12,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "CORBATA",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "GUANTE",
+      "row": 2,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "IMPERMEABLE",
+      "row": 3,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "PANTUFLAS",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PULSERA",
+      "row": 13,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 9,
+      "col": 13,
+      "dir": "W"
+    }
+  ]
+}

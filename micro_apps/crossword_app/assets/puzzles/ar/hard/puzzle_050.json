@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_050",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 050",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "answer": "عالمية",
+      "clue": "صفة تتعلق بالعالم كله"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 9,
+      "answer": "مسافة",
+      "clue": "المقدار الفاصل بين مكانين"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "استثمار",
+      "clue": "توظيف المال لتحقيق أرباح"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 6,
+      "answer": "سرعة",
+      "clue": "مقدار المسافة المقطوعة في زمن معين"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "صناعات",
+      "clue": "جمع صناعة"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 4,
+      "answer": "طاقة",
+      "clue": "القدرة على القيام بعمل أو حركة"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 11,
+      "answer": "معلومة",
+      "clue": "حقيقة أو بيان يُعرف عن أمر ما"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "مواصلات",
+      "clue": "وسائل النقل بين الأماكن"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "حضارة",
+      "clue": "مرحلة متقدمة من تطور مجتمع"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "answer": "لافتات",
+      "clue": "جمع لافتة، لوحات تحمل إعلانات"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "قلب",
+      "clue": "العضو الذي يضخ الدم في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "لقاءات",
+      "clue": "جمع لقاء، اجتماعات بين أشخاص"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "answer": "علم",
+      "clue": "معرفة منظمة تقوم على الملاحظة والتجربة"
+    }
+  ]
+}

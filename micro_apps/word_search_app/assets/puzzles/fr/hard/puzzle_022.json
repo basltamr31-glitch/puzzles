@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_022",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 21,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "GHUYGUXMMXSH",
+    "EAHRSTZGSTZX",
+    "BASKETSEVOQA",
+    "FPANTALONKEM",
+    "ANNBHYHCAJXF",
+    "CDDMCDGECECK",
+    "POAHDLMIMNHV",
+    "AVLGLUYNTNAG",
+    "ESELFUOTNAPC",
+    "XESPILLUPUEU",
+    "XOBOXEXRNXAL",
+    "VYBGMYREAXUC"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CEINTURE",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CHAPEAU",
+      "row": 5,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "COLLIER",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "GANT",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PANTALON",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PANTOUFLES",
+      "row": 8,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "PULL",
+      "row": 9,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "SANDALES",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "VESTE",
+      "row": 2,
+      "col": 8,
+      "dir": "W"
+    }
+  ]
+}

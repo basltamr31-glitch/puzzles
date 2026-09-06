@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_022",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 022",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "ضعف",
+      "clue": "قلة القوة أو القدرة"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "عدد",
+      "clue": "قيمة رياضية تُستخدم للعد"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "دراجة",
+      "clue": "مركبة ذات عجلتين تُدار بالدواسة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "مدينة",
+      "clue": "منطقة حضرية كبيرة"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "محامي",
+      "clue": "شخص متخصص في الدفاع القانوني"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "رسالة",
+      "clue": "نص مكتوب يُرسل من شخص إلى آخر"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "محطة",
+      "clue": "مكان توقف القطارات أو الحافلات"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "جسم",
+      "clue": "الكيان المادي للإنسان أو الحيوان"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "مفتاح",
+      "clue": "أداة معدنية تُستخدم لفتح الأقفال"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "سعادة",
+      "clue": "شعور بالفرح والرضا"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_027",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 26,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "QEGUJIHQ",
+    "VGZXHGWZ",
+    "GFMHVCHT",
+    "QOETREER",
+    "DRAINBOW",
+    "NEDLSRYZ",
+    "TSOCEANT",
+    "UTWZABSW"
+  ],
+  "words": [
+    {
+      "word": "FOREST",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "MEADOW",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "OCEAN",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RAINBOW",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SEA",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TREE",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

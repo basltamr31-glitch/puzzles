@@ -1,0 +1,58 @@
+{
+  "id": "it_easy_052",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 052",
+  "rows": 7,
+  "cols": 5,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "LEGNO",
+      "clue": "Materiale di cui sono fatti gli alberi",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "REGINA",
+      "clue": "Sovrana femminile di un regno",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "LIBRO",
+      "clue": "Pagine rilegate che si leggono",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "ANNO",
+      "clue": "Un periodo di dodici mesi",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "TOPO",
+      "clue": "Piccolo roditore dalla coda lunga",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "RANA",
+      "clue": "Anfibio verde che salta e gracida",
+      "category": "animal"
+    }
+  ]
+}

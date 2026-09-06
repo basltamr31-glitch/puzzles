@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_096",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 95,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "XBBDCPBX",
+    "YABCOJHT",
+    "CROKUUON",
+    "OBXERBCU",
+    "JIEJSUKS",
+    "ATHLETEI",
+    "GRXIFAYG",
+    "TENNISBV"
+  ],
+  "words": [
+    {
+      "word": "ARBITRE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BUT",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "COURSE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

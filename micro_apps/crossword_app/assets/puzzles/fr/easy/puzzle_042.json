@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_042",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 042",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "LIVRE",
+      "clue": "Pages reliées que l'on lit",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "ANNEE",
+      "clue": "Une période de douze mois",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "MOIS",
+      "clue": "Une des douze divisions de l'année",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "PEAU",
+      "clue": "Enveloppe extérieure du corps",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "NEZ",
+      "clue": "Organe utilisé pour sentir",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ILE",
+      "clue": "Terre entièrement entourée d'eau",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "EAU",
+      "clue": "Liquide clair essentiel à la vie",
+      "category": "nature"
+    }
+  ]
+}

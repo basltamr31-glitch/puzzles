@@ -1,0 +1,58 @@
+{
+  "id": "it_easy_063",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 063",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "DONNA",
+      "clue": "Persona adulta di sesso femminile",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "FORMICA",
+      "clue": "Piccolo insetto laborioso che vive in colonie",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "PADRE",
+      "clue": "Genitore maschile",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "ORSO",
+      "clue": "Grande animale peloso che vive nei boschi",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "LAMPADA",
+      "clue": "Oggetto che dà luce",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "LUPO",
+      "clue": "Animale selvatico imparentato con il cane",
+      "category": "animal"
+    }
+  ]
+}

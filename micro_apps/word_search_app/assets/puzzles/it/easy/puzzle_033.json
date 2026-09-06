@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_033",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 32,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "NMGGYGXF",
+    "PGSNAFHT",
+    "BVYCPLCN",
+    "PANTERAZ",
+    "DXSBCNNM",
+    "SPLEONEZ",
+    "KYNORSOS",
+    "GMELAQNX"
+  ],
+  "words": [
+    {
+      "word": "APE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CANE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LEONE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ORSO",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PANTERA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PECORA",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_007",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 6,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "XIJAKIBV",
+    "DSOPOBUS",
+    "HCTBFTFT",
+    "IHHAFENJ",
+    "TICKETBI",
+    "AFFNRDPH",
+    "XFMHCTVC",
+    "IBNNPZYU"
+  ],
+  "words": [
+    {
+      "word": "BUS",
+      "row": 1,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "HAFEN",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KOFFER",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

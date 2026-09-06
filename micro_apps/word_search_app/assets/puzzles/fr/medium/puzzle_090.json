@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_090",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 89,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "YMGDFHOBJJ",
+    "ZCPFROMAGE",
+    "PIPCAFENRR",
+    "MAIBIMLAIT",
+    "FXIASNINUI",
+    "BEENEXMEVO",
+    "UZTFIKHJLI",
+    "PEPJSPRTPU",
+    "AVXOEJMTVG",
+    "KBISCUITVY"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CAFE",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FRAISE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LAIT",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "MIEL",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "PAIN",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

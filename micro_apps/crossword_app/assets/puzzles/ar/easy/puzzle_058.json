@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_058",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 058",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "قبعة",
+      "clue": "غطاء يُلبس على الرأس",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "بلد",
+      "clue": "دولة أو وطن",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "قطة",
+      "clue": "حيوان أليف يموء",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "أسد",
+      "clue": "ملك الغابة من القطط الكبيرة",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "بقرة",
+      "clue": "حيوان أليف يُربى لحليبه",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "كوب",
+      "clue": "إناء صغير يُستخدم لشرب الماء",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "بحر",
+      "clue": "مسطح مائي كبير مالح",
+      "category": "place"
+    }
+  ]
+}

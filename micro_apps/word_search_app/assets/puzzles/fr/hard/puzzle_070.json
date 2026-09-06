@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_070",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 69,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "FFBRCPNKMQCI",
+    "EPRAHCECTDKF",
+    "CPANTALONTCM",
+    "OUCRAVATEOSF",
+    "LLEJYXZFGMSB",
+    "LLLRUAETNAMO",
+    "ICEINTUREANP",
+    "ETTESSUAHCXT",
+    "RIGLRHCUCJFP",
+    "MUANXHIRONAY",
+    "NLQVMKERSYUB",
+    "SNGYRMZESGDC"
+  ],
+  "words": [
+    {
+      "word": "BRACELET",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CEINTURE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHAUSSETTE",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "COLLIER",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CRAVATE",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ECHARPE",
+      "row": 1,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "GANT",
+      "row": 4,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 5,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "PANTALON",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PULL",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

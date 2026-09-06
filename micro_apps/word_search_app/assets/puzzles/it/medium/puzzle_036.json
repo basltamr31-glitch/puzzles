@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_036",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 35,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "SPAQSQEGXP",
+    "PDCUCINAFF",
+    "ETAVOLOEMP",
+    "CAMINETTOX",
+    "CZEHBTHHGY",
+    "HZROATLYPT",
+    "IAAKGOKPGL",
+    "OCASNCNVOQ",
+    "QEIZOELQBS",
+    "OOHUNMVIEG"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CAMERA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CAMINETTO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CUCINA",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LETTO",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAZZA",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

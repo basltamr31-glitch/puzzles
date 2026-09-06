@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_099",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 98,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "PHBPGICFBHMBOH",
+    "UPRKGBXTQMTBOZ",
+    "CATKIZOSMFECXH",
+    "YFQAYSASCXXKOL",
+    "IEIVIXPACMAREQ",
+    "VFNPEMUIFOMFSM",
+    "AUTZNNDHENHPSQ",
+    "LYYXSUTBZTIAIF",
+    "UOHEMGVOTARPGD",
+    "DIGKUPIOGGIAUA",
+    "BTQBEKLGLNKDZM",
+    "DYQXLOICCAIHGD",
+    "TGMEYAIBBENVZG",
+    "CGVYETNUCMPSFP"
+  ],
+  "words": [
+    {
+      "word": "BOSCO",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "FIUME",
+      "row": 5,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "GHIACCIO",
+      "row": 11,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "MARE",
+      "row": 4,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "MONTAGNA",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 12,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 6,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PIETRA",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 9,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PRATO",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SPIAGGIA",
+      "row": 5,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "VENTO",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

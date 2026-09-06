@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_029",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 029",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "PHOTOGRAPHIE",
+      "clue": "L'art de prendre des images"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 7,
+      "answer": "LANGUE",
+      "clue": "Un système de mots utilisé pour communiquer"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 3,
+      "answer": "TYPE",
+      "clue": "Une catégorie ou sorte de quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "SCULPTURE",
+      "clue": "Une œuvre d'art en trois dimensions"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 10,
+      "answer": "TRADITION",
+      "clue": "Une coutume transmise de génération en génération"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 6,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "PERSONNAGE",
+      "clue": "Une personne dépeinte dans une histoire"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "FESTIVAL",
+      "clue": "Un jour ou une période de célébration"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "PASSAGER",
+      "clue": "Une personne voyageant dans un véhicule"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 8,
+      "answer": "TERME",
+      "clue": "Une période fixe, ou un mot spécifique"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 11,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 9,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ar_expert_091",
+  "language": "ar",
+  "difficulty": "expert",
+  "title": "اللغز 091",
+  "rows": 13,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "قلب",
+      "clue": "العضو الذي يضخ الدم في الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "تكنولوجيا",
+      "clue": "العلوم التطبيقية المستخدمة لأغراض عملية"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 5,
+      "answer": "ديمقراطية",
+      "clue": "نظام حكم يقوم على مشاركة الشعب"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "قانون",
+      "clue": "قاعدة يفرضها المجتمع أو الدولة"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 12,
+      "answer": "جغرافية",
+      "clue": "صفة تتعلق بجغرافيا الأرض"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "استثمارات",
+      "clue": "جمع استثمار"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 10,
+      "answer": "عدالة",
+      "clue": "إعطاء كل ذي حق حقه"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 14,
+      "answer": "قوة",
+      "clue": "القدرة على القيام بعمل أو التأثير"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "حساب",
+      "clue": "عملية رياضية أو مالية"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 8,
+      "answer": "رقم",
+      "clue": "رمز يدل على عدد"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "صوت",
+      "clue": "ما يُسمع عند الكلام أو الحركة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "مدارس",
+      "clue": "جمع مدرسة"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "إمكانيات",
+      "clue": "جمع إمكانية، قدرات متاحة"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "إنجازات",
+      "clue": "جمع إنجاز، أعمال مُنجزة بنجاح"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 9,
+      "answer": "حق",
+      "clue": "ما يستحقه الشخص"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "نظام",
+      "clue": "مجموعة قواعد منظمة"
+    }
+  ]
+}

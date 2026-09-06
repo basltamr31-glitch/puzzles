@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_035",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 34,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "LEHBLFMT",
+    "MESLMPXI",
+    "PIOGGIAS",
+    "RVLCIELO",
+    "ALEUTTFL",
+    "THRKCRSA",
+    "OHTFIACF",
+    "YYCHYAXV"
+  ],
+  "words": [
+    {
+      "word": "CIELO",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ISOLA",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PIETRA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PRATO",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SOLE",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

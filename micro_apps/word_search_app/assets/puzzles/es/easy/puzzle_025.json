@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_025",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 24,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "ISPMXZJR",
+    "MCABRAPK",
+    "DETIGRED",
+    "CBFSTDUV",
+    "LRMOJICD",
+    "BAPMFLRO",
+    "XCAMELLO",
+    "BABEJABE"
+  ],
+  "words": [
+    {
+      "word": "ABEJA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ARDILLA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CABRA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CAMELLO",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CEBRA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

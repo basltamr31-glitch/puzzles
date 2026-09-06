@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_068",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 068",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "SOURIS",
+      "clue": "Petit rongeur à longue queue",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "ARBRE",
+      "clue": "Grande plante avec un tronc et des branches",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "OISEAU",
+      "clue": "Animal à plumes qui peut voler",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "LION",
+      "clue": "Grand félin, roi de la savane",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "MOT",
+      "clue": "Une unité de langage avec un sens",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "MUR",
+      "clue": "Structure verticale qui divise une pièce",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "SEL",
+      "clue": "Assaisonnement blanc qui relève les plats",
+      "category": "food"
+    }
+  ]
+}

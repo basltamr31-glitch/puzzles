@@ -1,0 +1,50 @@
+{
+  "id": "it_easy_086",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 086",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "BOCCA",
+      "clue": "Apertura usata per mangiare e parlare",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "PANE",
+      "clue": "Alimento cotto a base di farina e acqua",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "BAMBINO",
+      "clue": "Essere umano giovane, non ancora adulto",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ROSSO",
+      "clue": "Colore del sangue o di un pomodoro maturo",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "GATTO",
+      "clue": "Felino domestico che miagola",
+      "category": "animal"
+    }
+  ]
+}

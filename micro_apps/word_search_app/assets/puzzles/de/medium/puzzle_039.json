@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_039",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 38,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "THNYJVROPF",
+    "IXYHXYUWFW",
+    "KFTFJXJRGK",
+    "OLAUTOFVWS",
+    "FUXHSMUFCI",
+    "FGIVRHROZU",
+    "EZUGYRLEON",
+    "REISEPASSZ",
+    "SUOKOEUDZJ",
+    "UGLPGKBRFY"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FAHRRAD",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "FLUGZEUG",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "KOFFER",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "REISEPASS",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "URLAUB",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ZUG",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

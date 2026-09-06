@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_074",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 73,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "BDVBSOPHMB",
+    "MBTRRUTAMU",
+    "XDIOAEPLIT",
+    "LLFTMPYPAT",
+    "WYHHKAFFEE",
+    "DGZOLITEYR",
+    "VNBANANELK",
+    "TCUAJIMSHX",
+    "CBSXBLGHBL",
+    "IHFXSMTFLU"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "BANANE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BROT",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BUTTER",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "HONIG",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SUPPE",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TOMATE",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

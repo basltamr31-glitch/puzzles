@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_067",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 66,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "HCYCVWKGIXWX",
+    "TJEAUOXUEVAP",
+    "CJIULLUTZNSJ",
+    "IOXEFKSIZKSL",
+    "MVSGLETSCHER",
+    "NDHRUXRTZSRB",
+    "RKXWSTAENYFH",
+    "XLRHSGNIXHAD",
+    "BXGNKYDNMSLK",
+    "DEZSWZNEBELI",
+    "LSZUCFILAWEC",
+    "DLRCMRJDYYLR"
+  ],
+  "words": [
+    {
+      "word": "FLUSS",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "GLETSCHER",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "INSEL",
+      "row": 7,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "MEER",
+      "row": 8,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "NEBEL",
+      "row": 9,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "STEIN",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "STRAND",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "WASSERFALL",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "WOLKE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "WUESTE",
+      "row": 6,
+      "col": 3,
+      "dir": "NE"
+    }
+  ]
+}

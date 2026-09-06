@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_002",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 1,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "TMYXOSBWNTZRWC",
+    "BHNJEPPUSLMNFJ",
+    "MENANABMCHGJTS",
+    "LDRFOAZLUKYRHU",
+    "NOSLLESEAKUCMZ",
+    "BGPZEYEFPBZBCX",
+    "BRYNMYFFGUZGXZ",
+    "YIMRREVOCXCYSP",
+    "ZHSEERETTUBJMY",
+    "BCDNSTORBRWYHL",
+    "YLRPSMCAPIRRKO",
+    "OIEDALOKOHCSAE",
+    "BMFTWDCKPZZFFZ",
+    "EMELMWUKRNRRFL"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 2,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "BIRNE",
+      "row": 12,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "BROT",
+      "row": 9,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "BUTTER",
+      "row": 8,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "KAESE",
+      "row": 4,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 3,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 11,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "MILCH",
+      "row": 12,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "SCHOKOLADE",
+      "row": 11,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SUPPE",
+      "row": 1,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "TOMATE",
+      "row": 8,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "WASSERMELONE",
+      "row": 12,
+      "col": 4,
+      "dir": "N"
+    }
+  ]
+}

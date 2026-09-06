@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_087",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 087",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "عدد",
+      "clue": "قيمة رياضية تُستخدم للعد"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "علم",
+      "clue": "معرفة منظمة تقوم على الملاحظة والتجربة"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "ميدان",
+      "clue": "ساحة واسعة في المدينة"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "فندق",
+      "clue": "مكان يُقيم فيه المسافرون"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "شكل",
+      "clue": "الهيئة الخارجية للشيء"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "answer": "قرار",
+      "clue": "حكم أو اختيار يُتخذ بعد تفكير"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "answer": "رأس",
+      "clue": "الجزء العلوي من الجسم"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "answer": "رسالة",
+      "clue": "نص مكتوب يُرسل من شخص إلى آخر"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "معلم",
+      "clue": "رجل يعمل في التدريس"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 7,
+      "answer": "خطة",
+      "clue": "تصور مُعد مسبقاً لتحقيق هدف"
+    }
+  ]
+}

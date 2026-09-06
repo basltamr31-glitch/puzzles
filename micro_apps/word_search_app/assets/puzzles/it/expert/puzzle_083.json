@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_083",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 82,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "IHXYBSQVEKNRZM",
+    "RKKUFCTHNSTSFE",
+    "HECGPTBSMPERUN",
+    "DMIUVXKNNGMEHQ",
+    "AXSQVPRATOXOVO",
+    "RTOYUMQNNEMYKX",
+    "CTLALKSTMIKSAY",
+    "OIAICCAIHGMULE",
+    "BXLGAGLLMXHOHD",
+    "ALBGNYBCVQRGEY",
+    "LFUAOVENTONSOK",
+    "EMUIFERAMFZLYA",
+    "NXZPIBOSCOAOUD",
+    "OBISMADFZXLNRQ"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 7,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ARCOBALENO",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BOSCO",
+      "row": 12,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "FIUME",
+      "row": 11,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "GHIACCIAIO",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "ISOLA",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MARE",
+      "row": 11,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "MONTAGNA",
+      "row": 3,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "PRATO",
+      "row": 4,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SPIAGGIA",
+      "row": 13,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "VENTO",
+      "row": 10,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "VULCANO",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

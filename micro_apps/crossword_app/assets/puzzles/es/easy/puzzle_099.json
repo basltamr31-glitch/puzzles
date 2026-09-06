@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_099",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 099",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "RANA",
+      "clue": "Anfibio verde que salta y croa",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "SILLA",
+      "clue": "Mueble en el que uno se sienta",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "PLATA",
+      "clue": "Metal precioso gris y brillante",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "REY",
+      "clue": "Gobernante masculino de un reino",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "PAPEL",
+      "clue": "Material fino usado para escribir",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "AÑO",
+      "clue": "Un período de doce meses",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "MES",
+      "clue": "Una de las doce divisiones de un año",
+      "category": "time"
+    }
+  ]
+}

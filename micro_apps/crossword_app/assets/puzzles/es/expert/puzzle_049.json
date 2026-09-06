@@ -1,0 +1,122 @@
+{
+  "id": "es_expert_049",
+  "language": "es",
+  "difficulty": "expert",
+  "title": "Crucigrama 049",
+  "rows": 15,
+  "cols": 15,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "GEOGRAFICO",
+      "clue": "Relativo a las características físicas de la Tierra"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "META",
+      "clue": "El objetivo hacia el que alguien trabaja"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "APRECIACION",
+      "clue": "El reconocimiento del valor de algo"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "VALOR",
+      "clue": "Cuánto vale algo"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "INSPIRACION",
+      "clue": "Una repentina influencia creativa"
+    },
+    {
+      "direction": "across",
+      "row": 13,
+      "col": 1,
+      "answer": "COLABORACION",
+      "clue": "El acto de trabajar juntos"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 11,
+      "answer": "PODER",
+      "clue": "La capacidad de hacer o controlar algo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "CONSECUENCIA",
+      "clue": "Un resultado o efecto de una acción"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "NEGOCIACION",
+      "clue": "Una discusión para llegar a un acuerdo"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 10,
+      "answer": "REGLA",
+      "clue": "Una instrucción oficial sobre cómo comportarse"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 14,
+      "answer": "RANGO",
+      "clue": "La extensión entre dos límites"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "COSTO",
+      "clue": "La cantidad pagada por algo"
+    },
+    {
+      "direction": "down",
+      "row": 11,
+      "col": 12,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 4,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 11,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_092",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 91,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "FBBDOBSWIFUI",
+    "BJFMLOUKJRUJ",
+    "CPRKCSPEHOEP",
+    "RHTUDOIOLOCF",
+    "YZACOFLEHSKM",
+    "VHPIOALJMIRP",
+    "BATHROOMTREF",
+    "XLTDUUWZFUZZ",
+    "BLANKETFQRFT",
+    "RWBOOOTNMGEW",
+    "CARPETUMLBBE",
+    "DYRCEILINGUT"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BLANKET",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CARPET",
+      "row": 10,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CEILING",
+      "row": 11,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CHAIR",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "DOOR",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PILLOW",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SHELF",
+      "row": 4,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SOFA",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_070",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 69,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "PCTROUSERS",
+    "HXDADDORBY",
+    "CSLIPPERSR",
+    "LUNNDCFQMJ",
+    "DSSCARFFZK",
+    "DGLOVELDKF",
+    "NBRACELETW",
+    "RNZTAKLBWB",
+    "RGFKPDNNLN",
+    "ANECKLACEB"
+  ],
+  "words": [
+    {
+      "word": "BRACELET",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GLOVE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "NECKLACE",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RAINCOAT",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SCARF",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SLIPPERS",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOCK",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TROUSERS",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

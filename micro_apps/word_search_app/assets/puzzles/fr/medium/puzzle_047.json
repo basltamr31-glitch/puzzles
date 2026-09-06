@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_047",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 46,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "FVBEDCPSYL",
+    "TRAINDCQEH",
+    "JAPLFFAPHT",
+    "RVVBIZRAFK",
+    "HIBAKSTOZV",
+    "VOITUREGGL",
+    "ENLESZGLMP",
+    "LLLANXDSER",
+    "OBEUPGDBXP",
+    "YJTTNOBOAR"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "BATEAU",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BILLET",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CARTE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TRAIN",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VALISE",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "VELO",
+      "row": 5,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VOITURE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

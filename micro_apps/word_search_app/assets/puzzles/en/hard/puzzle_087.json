@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_087",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 86,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "XKFZYFJPKHPK",
+    "TDESTINATION",
+    "CFAFBXLSHGSZ",
+    "JKIXATFSQHLE",
+    "DAMRCGUPIWSP",
+    "JXBJKDXORAVH",
+    "ENALPOCRCYYK",
+    "PWPVACATIONV",
+    "MVDVCAIRPORT",
+    "SPATKUCUBGII",
+    "IEPOSWWSXXXA",
+    "ICODXDTTUOEP"
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "BACKPACK",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "DESTINATION",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PLANE",
+      "row": 6,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "SHIP",
+      "row": 3,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "SUITCASE",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "TAXI",
+      "row": 3,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "VACATION",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

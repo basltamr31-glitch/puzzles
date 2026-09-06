@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_063",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 62,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "KMIIENSF",
+    "OMBGQNZD",
+    "FBIOXTCH",
+    "DTRENSEM",
+    "PMOCHILA",
+    "BPUERTOP",
+    "PPMALETA",
+    "RZMVIAJE"
+  ],
+  "words": [
+    {
+      "word": "MALETA",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MAPA",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PUERTO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TREN",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VIAJE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

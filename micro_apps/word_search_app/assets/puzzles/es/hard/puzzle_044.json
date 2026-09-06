@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_044",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 43,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "IZLGCMYEHCKM",
+    "KILVLCUDCHHL",
+    "IHGAENEMIHCP",
+    "FDRCMSRPDDQG",
+    "HLGLVPPUKBIV",
+    "OMRRGPAEGAUO",
+    "VRXDSHJRJNGI",
+    "YUCAMANTAONK",
+    "MTSMSOFARBZE",
+    "AASEERDDDXRU",
+    "IKMGPRZCIASE",
+    "LIHMRCRDNDFM"
+  ],
+  "words": [
+    {
+      "word": "BANO",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CAMA",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 2,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "JARDIN",
+      "row": 6,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "MANTA",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MESA",
+      "row": 10,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "PUERTA",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

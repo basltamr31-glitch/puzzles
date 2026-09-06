@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_039",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 039",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "NUAGE",
+      "clue": "Masse blanche ou grise flottant dans le ciel",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "REINE",
+      "clue": "Souveraine féminine d'un royaume",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "BRAS",
+      "clue": "Membre entre l'épaule et la main",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "TABLE",
+      "clue": "Meuble avec un plateau plat et des pieds",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "JAMBE",
+      "clue": "Membre utilisé pour marcher",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "NUIT",
+      "clue": "La partie sombre de la journée",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "AMI",
+      "clue": "Une personne que l'on aime et en qui on a confiance",
+      "category": "people"
+    }
+  ]
+}

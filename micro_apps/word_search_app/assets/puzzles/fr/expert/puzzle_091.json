@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_091",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 90,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "IDQDMBGYEQPSMK",
+    "PONHKFFKYPRJLA",
+    "HYSLGYXNBKJZYH",
+    "HEEDZXZQREQXOE",
+    "BRYEMVHAOKLOCU",
+    "OZOSDEEIULPAIE",
+    "NFOETAGLIELOSZ",
+    "ARBREICALGGZTV",
+    "JZOTHSBSLITCBS",
+    "MYBDHTFNAPUTXV",
+    "TTZOIEDHRCIELH",
+    "VDTLICOTDJVRFF",
+    "NPSDVQLTKTROZE",
+    "SSMSALEVEBVFBU"
+  ],
+  "words": [
+    {
+      "word": "ARBRE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BROUILLARD",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CASCADE",
+      "row": 10,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "CIEL",
+      "row": 10,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "DESERT",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 11,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "FORET",
+      "row": 13,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "GLACE",
+      "row": 7,
+      "col": 9,
+      "dir": "NE"
+    },
+    {
+      "word": "GLACIER",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "PLAGE",
+      "row": 9,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "PLUIE",
+      "row": 5,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 6,
+      "col": 12,
+      "dir": "W"
+    }
+  ]
+}

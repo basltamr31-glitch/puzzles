@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_059",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 059",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "KITCHEN",
+      "clue": "Room where food is cooked"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "VALUE",
+      "clue": "How much something is worth"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "AIRPORT",
+      "clue": "Place where airplanes take off and land"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "CASTLE",
+      "clue": "Large fortified building, home of nobility"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "BLANKET",
+      "clue": "Warm covering used on a bed"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "HARBOR",
+      "clue": "A sheltered place where ships dock"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "LIGHTNING",
+      "clue": "Flash of light during a storm"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "BUTTERFLY",
+      "clue": "Insect with large colorful wings"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "TAX",
+      "clue": "Money owed to the government"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "AIR",
+      "clue": "The gas we breathe"
+    }
+  ]
+}

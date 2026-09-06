@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_025",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 24,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "WNNGMPDZSTXVME",
+    "KZTIGERVDAOSRR",
+    "ZZTMLIDOKORKIR",
+    "WOLFUCHSEAYEFR",
+    "FBIGAHMUTYTEOZ",
+    "ENFCRHARNHEZXI",
+    "SNRCBOCSMDSUET",
+    "TFHLEEISEGYCFR",
+    "SSADZRHVDPESOF",
+    "USZAUNRPLEKEFL",
+    "GKLNBCNECSBIOM",
+    "KWGAWHBZSFVXGD",
+    "SYXXTEAZDUJRXT",
+    "HNIUGNIPVIXNAR"
+  ],
+  "words": [
+    {
+      "word": "DELFIN",
+      "row": 0,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "EICHHOERNCHEN",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FUCHS",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "HASE",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "HUND",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "KATZE",
+      "row": 2,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 13,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "SCHAF",
+      "row": 7,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "TIGER",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "WOLF",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 8,
+      "col": 4,
+      "dir": "N"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_024",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 024",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "LUPO",
+      "clue": "Animale selvatico imparentato con il cane",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "LEONE",
+      "clue": "Grande felino, re della savana",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "CAPELLI",
+      "clue": "Ciò che cresce sulla testa",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "LEGNO",
+      "clue": "Materiale di cui sono fatti gli alberi",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ARGENTO",
+      "clue": "Metallo prezioso grigio e lucente",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "ACQUA",
+      "clue": "Liquido chiaro essenziale per la vita",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

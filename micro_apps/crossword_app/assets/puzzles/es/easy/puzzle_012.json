@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_012",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 012",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "PELO",
+      "clue": "Lo que crece en la piel, especialmente la cabeza",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "PLATA",
+      "clue": "Metal precioso gris y brillante",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "LUNA",
+      "clue": "Satélite natural de la Tierra",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "HOJA",
+      "clue": "Parte verde y plana de una planta",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "GATO",
+      "clue": "Felino doméstico que maúlla",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ISLA",
+      "clue": "Tierra completamente rodeada de agua",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "AÑO",
+      "clue": "Un período de doce meses",
+      "category": "time"
+    }
+  ]
+}

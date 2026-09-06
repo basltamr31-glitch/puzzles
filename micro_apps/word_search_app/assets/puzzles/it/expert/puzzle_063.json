@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_063",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 62,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "GAPSAHQUALPDVH",
+    "SQDTGVOYBBYFXC",
+    "XQRAEREOIEVLUT",
+    "CVNZRVIAGGIOLT",
+    "HAUIATTELCICIB",
+    "LRIONDSRIDVFPG",
+    "RVANAVEOEXVLEN",
+    "OZPEAPCPTXAXCP",
+    "FHIRYINOTUCTTG",
+    "RZATHBPROCADEO",
+    "FKCQCEGTCENFNX",
+    "KQNQYDZOEIZICM",
+    "GBSIYLRZIVABVH",
+    "XVIMLNQCZZGSPZ"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "AEROPORTO",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "AUTOSTRADA",
+      "row": 9,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "BICICLETTA",
+      "row": 4,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "BIGLIETTO",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "NAVE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "STAZIONE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 8,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "TRENO",
+      "row": 9,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "VACANZA",
+      "row": 6,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "VIAGGIO",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "ZAINO",
+      "row": 13,
+      "col": 9,
+      "dir": "NE"
+    }
+  ]
+}

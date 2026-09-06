@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_089",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 88,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "PATHBQLADV",
+    "GWSCVUSIJN",
+    "TJVRAXIPWC",
+    "JLXONTTKOO",
+    "WNOCTHLCIA",
+    "JOROBOZVJT",
+    "CCFDIEWPCI",
+    "SQUIRRELSO",
+    "EDOLPHINIL",
+    "SHEEPDMROK"
+  ],
+  "words": [
+    {
+      "word": "ANT",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BEE",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CAT",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "DOLPHIN",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "OWL",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "SHEEP",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SQUIRREL",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

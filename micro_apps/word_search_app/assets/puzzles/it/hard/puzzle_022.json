@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_022",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 21,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "FELOFOTNAPYO",
+    "LCSGXRRFRZIN",
+    "ZOSNVBACCAIG",
+    "NOLLEPPACLDR",
+    "FHENOILGAMNC",
+    "LPTQRUUDPQAY",
+    "PCALZINOPVCN",
+    "PYCANALLOCTK",
+    "LZONSARUTNIC",
+    "SGVKKMMZTVOM",
+    "HRUGUANTOLLD",
+    "FMYOPZFCGURU"
+  ],
+  "words": [
+    {
+      "word": "CALZINO",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CAPPELLO",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "CAPPOTTO",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CINTURA",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "COLLANA",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "GIACCA",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "GUANTO",
+      "row": 10,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MAGLIONE",
+      "row": 4,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "PANTOFOLE",
+      "row": 0,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SANDALI",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    }
+  ]
+}

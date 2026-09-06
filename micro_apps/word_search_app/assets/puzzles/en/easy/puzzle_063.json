@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_063",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 62,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "DSSCWWKX",
+    "FRTAXUQG",
+    "UHARBORE",
+    "RETPUVHP",
+    "IBICYCLE",
+    "AJOURNEY",
+    "LUNETQIJ",
+    "HIGHWAYD"
+  ],
+  "words": [
+    {
+      "word": "BICYCLE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CAR",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "HARBOR",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "STATION",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

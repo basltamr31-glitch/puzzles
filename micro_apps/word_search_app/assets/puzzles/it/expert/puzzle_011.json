@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_011",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 10,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "QSOHTUTGGIIVIT",
+    "TQPKZAHZUPPIPM",
+    "LNVIOIAICCAIHG",
+    "DEOLALOVUNONZP",
+    "IBPCCGYEUGTDGC",
+    "ABCZUOGOGYRDQM",
+    "MIZUUFYIOREBLA",
+    "OANTUHATACSACI",
+    "ZNCRMZNYFHETZS",
+    "USAVBETOXGDAFB",
+    "BUYCVREQIQEDHO",
+    "GCNULFXQSDSGHV",
+    "LGCREUKXQSZNSP",
+    "BIUZTZVIETHUPD"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 6,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "CASCATA",
+      "row": 7,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "DESERTO",
+      "row": 9,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 6,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "GHIACCIAIO",
+      "row": 2,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "GHIACCIO",
+      "row": 0,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 3,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 1,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "SPIAGGIA",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "VENTO",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "VULCANO",
+      "row": 13,
+      "col": 6,
+      "dir": "NW"
+    }
+  ]
+}

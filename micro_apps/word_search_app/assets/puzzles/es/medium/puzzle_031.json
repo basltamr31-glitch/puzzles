@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_031",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 30,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "PEPRMLHYVS",
+    "AJSJSABPSG",
+    "NDHTZMLUOY",
+    "XCEAAMIESU",
+    "XZUVBCRRTY",
+    "LPTIZGITRA",
+    "RKBOLETOEV",
+    "SFENCOOUNU",
+    "MJEGTLPHNV",
+    "BICICLETAB"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BICICLETA",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BOLETO",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "ESTACION",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MALETA",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PUERTO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TREN",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

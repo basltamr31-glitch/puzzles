@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_059",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 58,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "FXWBRAWLWSBC",
+    "LVABRJYNUHHB",
+    "INSELNEGERBL",
+    "VWSDNARTSJES",
+    "IREGZATITBYF",
+    "IVREHCSTELGX",
+    "VHFTFXHNTGFX",
+    "EAAHEONVKYCX",
+    "MPLSSODVVZWY",
+    "WALDSYRNHLYY",
+    "UJELZANALWDE",
+    "ONFGYEXGFJHF"
+  ],
+  "words": [
+    {
+      "word": "BLATT",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "GLETSCHER",
+      "row": 5,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "INSEL",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "NEBEL",
+      "row": 6,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "REGEN",
+      "row": 2,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SONNE",
+      "row": 9,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "STRAND",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "WALD",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WASSERFALL",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "WUESTE",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

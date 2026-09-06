@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_094",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 094",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "NEVE",
+      "clue": "Fiocchi bianchi e ghiacciati che cadono d'inverno",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "ANNO",
+      "clue": "Un periodo di dodici mesi",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "APE",
+      "clue": "Insetto che ronza e produce miele",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CAPELLI",
+      "clue": "Ciò che cresce sulla testa",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "NASO",
+      "clue": "Organo usato per annusare",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ROSSO",
+      "clue": "Colore del sangue o di un pomodoro maturo",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "FIUME",
+      "clue": "Grande corso d'acqua naturale",
+      "category": "place"
+    }
+  ]
+}

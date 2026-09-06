@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_003",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 003",
+  "rows": 10,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "واجب",
+      "clue": "ما يجب على الشخص القيام به"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "حكومة",
+      "clue": "الجهة التي تدير شؤون الدولة"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "سلام",
+      "clue": "حالة خلو من الحرب والنزاع"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "مسرح",
+      "clue": "مكان تُعرض فيه المسرحيات"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "مهندس",
+      "clue": "شخص متخصص في التصميم والبناء"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "عمل",
+      "clue": "نشاط يقوم به الإنسان لكسب المال"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "answer": "حل",
+      "clue": "إجابة أو طريقة لمعالجة مشكلة"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "answer": "بطء",
+      "clue": "قلة السرعة"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "فنان",
+      "clue": "شخص يبدع في مجال من مجالات الفن"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 0,
+      "answer": "سوق",
+      "clue": "مكان يُباع ويُشترى فيه البضائع"
+    }
+  ]
+}

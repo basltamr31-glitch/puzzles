@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_058",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 57,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "BVRYYPYOMTHS",
+    "PCMSBTOEKJNG",
+    "ETALOCOHCGBZ",
+    "VUNFIQOKZRET",
+    "PYTTEMIRUMPR",
+    "VZEOXAOVCLJI",
+    "MGQMRCRNZSIR",
+    "VMUAPTRQZFZZ",
+    "YVITGTIXURTV",
+    "JILECHELOEPC",
+    "ZLLFLFZPLSSU",
+    "QQAZPCCYPAUO"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 2,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "FRESA",
+      "row": 7,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "LECHE",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LIMON",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "MANTEQUILLA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MIEL",
+      "row": 7,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "QUESO",
+      "row": 7,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "TOMATE",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TORTILLA",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

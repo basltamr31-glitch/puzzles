@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_062",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 61,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "GUANTEOG",
+    "BBUFANDA",
+    "DCORBATA",
+    "SUETERAB",
+    "XKUTCTUR",
+    "OIFFLDYI",
+    "SSAOVCEG",
+    "PVESTIDO"
+  ],
+  "words": [
+    {
+      "word": "ABRIGO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BUFANDA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CORBATA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GUANTE",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SUETER",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

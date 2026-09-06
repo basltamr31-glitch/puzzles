@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_002",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 1,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "KNBHZNOT",
+    "PFVOCKGG",
+    "BIRNEUNK",
+    "GUMILCHM",
+    "MBDGZHWB",
+    "NBUTTERZ",
+    "HXGTZNGM",
+    "PIKEKSEZ"
+  ],
+  "words": [
+    {
+      "word": "BIRNE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BUTTER",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HONIG",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KEKSE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MILCH",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

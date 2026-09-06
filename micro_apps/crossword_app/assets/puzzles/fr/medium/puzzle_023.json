@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_023",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 023",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "AVION",
+      "clue": "Aéronef à voilure fixe"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "OBJET",
+      "clue": "Un article ou une chose unique"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "PROBLEME",
+      "clue": "Une affaire difficile à résoudre"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "COUSSIN",
+      "clue": "Coussin doux pour reposer la tête"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "LECON",
+      "clue": "Une période d'apprentissage sur un sujet"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "DAUPHIN",
+      "clue": "Mammifère marin intelligent"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "answer": "COUT",
+      "clue": "Le montant payé pour quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "LANTERNE",
+      "clue": "Une lumière portative dans un boîtier"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 7,
+      "answer": "ETE",
+      "clue": "Saison la plus chaude de l'année"
+    }
+  ]
+}

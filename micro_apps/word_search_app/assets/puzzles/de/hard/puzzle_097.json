@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_097",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 96,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "RHCERODIJVKY",
+    "MCUULVTFAKPY",
+    "YYOFLOWJMKFV",
+    "NLNBBAERJSVY",
+    "ITDHDBUWJGYX",
+    "GKMZUZDREFPK",
+    "TCYAZNXESYXE",
+    "AIICUOADLERN",
+    "WYKHWSHCUFTE",
+    "ARNDKROKODIL",
+    "HEDRGWLOWEVN",
+    "TDXCWMONJHFJ"
+  ],
+  "words": [
+    {
+      "word": "ADLER",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "BAER",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "DELFIN",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "FUCHS",
+      "row": 8,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "HUND",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "LOEWE",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "MAUS",
+      "row": 5,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PFERD",
+      "row": 5,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "WOLF",
+      "row": 2,
+      "col": 6,
+      "dir": "W"
+    }
+  ]
+}

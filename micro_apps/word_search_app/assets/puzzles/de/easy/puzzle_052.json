@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_052",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 51,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "KLKISSEN",
+    "XLKGSONS",
+    "NSJADFZT",
+    "UKWRPAOU",
+    "JZKTISCH",
+    "AXDECKEL",
+    "ADYNZXAU",
+    "JRCNRSPN"
+  ],
+  "words": [
+    {
+      "word": "DECKE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GARTEN",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "STUHL",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TISCH",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

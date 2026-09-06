@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_045",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 045",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "GRAVITE",
+      "clue": "La force qui attire les objets entre eux"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "TECHNOLOGIE",
+      "clue": "Application de la science à des fins pratiques"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "CULTURE",
+      "clue": "Les coutumes et croyances d'une société"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "AVENTURE",
+      "clue": "Une expérience excitante et audacieuse"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "UNITE",
+      "clue": "Une seule mesure ou pièce standard"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "CONTINENT",
+      "clue": "Une des grandes masses continentales de la Terre"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 8,
+      "answer": "RISQUE",
+      "clue": "La chance que quelque chose de mauvais se produise"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 6,
+      "answer": "IDEE",
+      "clue": "Une pensée ou un plan"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "AGRICULTURE",
+      "clue": "La pratique de la culture de la terre"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "answer": "ZONE",
+      "clue": "Une région ou partie particulière de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "MODELE",
+      "clue": "Une représentation de quelque chose, souvent plus petite"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 2,
+      "answer": "ORDRE",
+      "clue": "Une séquence, ou une instruction à suivre"
+    }
+  ]
+}

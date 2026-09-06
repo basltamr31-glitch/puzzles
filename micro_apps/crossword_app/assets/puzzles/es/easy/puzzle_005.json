@@ -1,0 +1,58 @@
+{
+  "id": "es_easy_005",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 005",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "ARBOL",
+      "clue": "Planta grande con tronco y ramas",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "PUERTA",
+      "clue": "Panel que se abre para entrar a una habitación",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "ABEJA",
+      "clue": "Insecto que zumba y hace miel",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "PLATA",
+      "clue": "Metal precioso gris y brillante",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "GATO",
+      "clue": "Felino doméstico que maúlla",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CAMPO",
+      "clue": "Terreno abierto para cultivos",
+      "category": "place"
+    }
+  ]
+}

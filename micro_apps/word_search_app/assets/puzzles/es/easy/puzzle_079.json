@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_079",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 78,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "GIPMTLKL",
+    "ZNUSAXCU",
+    "JHEYXQSI",
+    "MURVIAJE",
+    "XVTNQVFM",
+    "BMOCHILA",
+    "VKONMODP",
+    "SZIGVNRA"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MAPA",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PUERTO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "VIAJE",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

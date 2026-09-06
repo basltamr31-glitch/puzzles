@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_100",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 99,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "VHAMANICUCKB",
+    "OSCAFFALEUMH",
+    "XPHOLOVATSSM",
+    "LETTOKHMFCGB",
+    "CCMKKVDPLIBZ",
+    "QCOPERTAVNTI",
+    "NHBZVFMDCOMP",
+    "FINESTRAXZVB",
+    "LONIDRAIGSXL",
+    "NZCYVFCEBILL",
+    "ZFRNMUGOBBCM",
+    "AYXVLEDKTEIA"
+  ],
+  "words": [
+    {
+      "word": "COPERTA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CUCINA",
+      "row": 0,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 8,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LETTO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 2,
+      "col": 8,
+      "dir": "W"
+    }
+  ]
+}

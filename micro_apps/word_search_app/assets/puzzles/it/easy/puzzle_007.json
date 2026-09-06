@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_007",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 6,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "XVVVOBVE",
+    "MAPPAUTO",
+    "VCRQDSKE",
+    "VALIGIAU",
+    "PNGXCVEB",
+    "YZDBBMRK",
+    "OAQKYMEZ",
+    "FKEIVIOM"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "AUTO",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MAPPA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VACANZA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VALIGIA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

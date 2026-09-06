@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_045",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 44,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "HCSTIRNX",
+    "NEPSAERX",
+    "KOPFUSSN",
+    "NHCHGYDT",
+    "CRTDEGFB",
+    "SZESCASJ",
+    "EIOGPOYL",
+    "ZHANDDFJ"
+  ],
+  "words": [
+    {
+      "word": "AUGE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FUSS",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "HAND",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KOPF",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "OHR",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "STIRN",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

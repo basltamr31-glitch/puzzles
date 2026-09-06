@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_013",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 12,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "CBYTQCAK",
+    "DAADRUMH",
+    "JTNYZEAA",
+    "LESTFLNC",
+    "TOBILLOE",
+    "ZBRAZOCJ",
+    "KZNRXJKA",
+    "KVQRTOCH"
+  ],
+  "words": [
+    {
+      "word": "BRAZO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CEJA",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CUELLO",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MANO",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "OJO",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TOBILLO",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

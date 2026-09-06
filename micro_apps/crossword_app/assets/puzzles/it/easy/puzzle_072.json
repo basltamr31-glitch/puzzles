@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_072",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 072",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "MESE",
+      "clue": "Una delle dodici divisioni di un anno",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "UCCELLO",
+      "clue": "Animale con le piume che può volare",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CANE",
+      "clue": "Animale domestico fedele che abbaia",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "SORRISO",
+      "clue": "Espressione felice del viso",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "TETTO",
+      "clue": "Copertura sopra un edificio",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "FUOCO",
+      "clue": "Fiamme calde e luminose",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

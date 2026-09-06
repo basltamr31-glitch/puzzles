@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_084",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 084",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "MEAT",
+      "clue": "Animal flesh eaten as food",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "RED",
+      "clue": "Color of blood or a ripe tomato",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "STAR",
+      "clue": "A glowing point of light in the night sky",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "SOUP",
+      "clue": "Warm liquid dish, often with vegetables",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "BLUE",
+      "clue": "Color of a clear sky",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "ROOF",
+      "clue": "Covering on top of a building",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "BABY",
+      "clue": "Very young child",
+      "category": "people"
+    }
+  ]
+}

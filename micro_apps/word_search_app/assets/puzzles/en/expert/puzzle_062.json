@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_062",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 61,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "XNSEXVBUITPUZG",
+    "YQKLZDDKVPOWFF",
+    "CDQVVVCLCGYALS",
+    "SVMTVOZTTZOEXR",
+    "GCESSQFVKTCTTB",
+    "JIINZRLPPAREJA",
+    "OXJOZDEALOKOUH",
+    "MOPTLHMKUCSYQW",
+    "UPZFRACSAMAJAP",
+    "DGLOVEEJSETGFS",
+    "OJDBNRTUSENYTK",
+    "MXGTSLIPPERSXM",
+    "BXBDEKEDNHLDRG",
+    "OAHBSALVSBVNGC"
+  ],
+  "words": [
+    {
+      "word": "BELT",
+      "row": 13,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "COAT",
+      "row": 7,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "DRESS",
+      "row": 12,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "GLOVE",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "JACKET",
+      "row": 9,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "NECKLACE",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "PAJAMAS",
+      "row": 8,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "SCARF",
+      "row": 8,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "SLIPPERS",
+      "row": 11,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SNEAKERS",
+      "row": 11,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "SOCK",
+      "row": 4,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "TROUSERS",
+      "row": 4,
+      "col": 11,
+      "dir": "SW"
+    }
+  ]
+}

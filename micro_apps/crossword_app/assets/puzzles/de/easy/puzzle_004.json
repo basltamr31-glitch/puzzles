@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_004",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 004",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "STRASSE",
+      "clue": "Weg, auf dem Autos fahren",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "KUCHEN",
+      "clue": "Süßes gebackenes Dessert, oft zum Geburtstag",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "SILBER",
+      "clue": "Glänzendes wertvolles graues Metall",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "NASE",
+      "clue": "Körperteil zum Riechen",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "ELCH",
+      "clue": "Großes geweihtragendes Waldtier",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "SAND",
+      "clue": "Winzige lose Körner an Stränden",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "HAUS",
+      "clue": "Gebäude, in dem man wohnt",
+      "category": "home"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_087",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 86,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "OZUGHMST",
+    "MTJBRHJA",
+    "JYKAEDSX",
+    "BJJHIXYI",
+    "EOYNSCLS",
+    "VBSHEUEO",
+    "AUTOMHYG",
+    "ISBFAWBI"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BAHNHOF",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "REISE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ZUG",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

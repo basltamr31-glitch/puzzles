@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_001",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 001",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "OSO",
+      "clue": "Animal grande y peludo que vive en el bosque",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "VIENTO",
+      "clue": "Aire en movimiento",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "PASTEL",
+      "clue": "Postre dulce horneado",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "ISLA",
+      "clue": "Tierra completamente rodeada de agua",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "LEON",
+      "clue": "Gran felino, rey de la sabana",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "PIE",
+      "clue": "Parte del cuerpo al final de la pierna",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "PIEL",
+      "clue": "Cubierta exterior del cuerpo",
+      "category": "body"
+    }
+  ]
+}

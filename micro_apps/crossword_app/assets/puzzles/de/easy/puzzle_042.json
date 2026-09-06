@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_042",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 042",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "EISEN",
+      "clue": "Starkes graues Metall, in Stahl verwendet",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "STERN",
+      "clue": "Leuchtender Punkt am Nachthimmel",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "HAND",
+      "clue": "Körperteil am Ende des Arms",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "WASSER",
+      "clue": "Klare Flüssigkeit, lebensnotwendig",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "HAI",
+      "clue": "Großer Raubfisch mit scharfen Zähnen",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "HUND",
+      "clue": "Treuer vierbeiniger Begleiter, der bellt",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "BUCH",
+      "clue": "Gebundene Seiten zum Lesen",
+      "category": "object"
+    }
+  ]
+}

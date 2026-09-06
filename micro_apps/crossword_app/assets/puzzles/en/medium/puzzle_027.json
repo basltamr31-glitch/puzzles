@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_027",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 027",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "COUNTRY",
+      "clue": "A nation with its own government"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "CANDLE",
+      "clue": "A wax stick with a wick, burned for light"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "GARDEN",
+      "clue": "Plot of land for growing flowers or vegetables"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "PAINTER",
+      "clue": "Artist who works with paint"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "ICE",
+      "clue": "Frozen water"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "PENGUIN",
+      "clue": "Flightless bird that lives in cold climates"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "RANGE",
+      "clue": "The extent between limits"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "answer": "WEB",
+      "clue": "A net spun by a spider, or the internet, informally"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_061",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 60,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "VMXKOPFJ",
+    "ECRBEAIG",
+    "MIHHHWNV",
+    "YHAAUSGK",
+    "XPELFPEI",
+    "FUSSTIRN",
+    "GSUBFJWN",
+    "SSGSPYOD"
+  ],
+  "words": [
+    {
+      "word": "FINGER",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "FUSS",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HALS",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KINN",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KOPF",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "STIRN",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

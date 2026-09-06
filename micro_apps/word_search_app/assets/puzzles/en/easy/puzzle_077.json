@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_077",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 76,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "HPGVKSLD",
+    "PLFINGER",
+    "SFLCEJGU",
+    "ZABHEYEV",
+    "WHEIZVMI",
+    "FHANDLTC",
+    "RRLPWXRK",
+    "NLGJKGNX"
+  ],
+  "words": [
+    {
+      "word": "CHIN",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "EYE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "FINGER",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HAND",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KNEE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "LEG",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

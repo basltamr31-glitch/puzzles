@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_022",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 21,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "ROBEMTIB",
+    "HCNGAHNA",
+    "PKECNKES",
+    "BYQITEBK",
+    "CHAPEAUE",
+    "KNJUACOT",
+    "UNBLUJOS",
+    "ECOLLIER"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CHAPEAU",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COLLIER",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PULL",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ROBE",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

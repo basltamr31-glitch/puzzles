@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_067",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 66,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "BMAZUMYNYN",
+    "CQUDSLZDXF",
+    "STONERTUME",
+    "XUKCNSRTON",
+    "EHAXEZESUN",
+    "VBBZBAERNA",
+    "OVQKWINDTR",
+    "KJAOTKVEAM",
+    "CIDCAEPTIN",
+    "ESWTISLAND"
+  ],
+  "words": [
+    {
+      "word": "DESERT",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "ISLAND",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "OCEAN",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "STONE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 4,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "TREE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "WIND",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

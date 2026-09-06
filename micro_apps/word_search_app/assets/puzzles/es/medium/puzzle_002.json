@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_002",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 1,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "USOPAZTIZU",
+    "PLATANOLPN",
+    "FIDXXTMBXO",
+    "JMVIQCAFER",
+    "ZOAAJUTTZB",
+    "ENFYFRESAS",
+    "SHDBVISSFL",
+    "SENJANIIOS",
+    "HXZXDNDYNP",
+    "MKKAOAAZJS"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "FRESA",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "LIMON",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PLATANO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "QUESO",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "SOPA",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

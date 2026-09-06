@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_091",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 90,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "DESUMPYHGC",
+    "IRIXNUVOLA",
+    "AVULCANOQS",
+    "REACKPMTYC",
+    "MNKPIOGGIA",
+    "DTBMQEIPOT",
+    "FOICSOLEFA",
+    "LOUPRATOOX",
+    "HHRSPDPXOZ",
+    "MTHUQOVDYY"
+  ],
+  "words": [
+    {
+      "word": "CASCATA",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CIELO",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PRATO",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SOLE",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VENTO",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VULCANO",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

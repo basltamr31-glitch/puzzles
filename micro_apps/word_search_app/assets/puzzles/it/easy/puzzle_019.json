@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_019",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 18,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "DXQUCXUR",
+    "TCCTMHEF",
+    "NIANAXRH",
+    "DESERTOY",
+    "ELCBEDMQ",
+    "VOABERRV",
+    "VTTISOLA",
+    "ZRAAPGAS"
+  ],
+  "words": [
+    {
+      "word": "CASCATA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CIELO",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "DESERTO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ISOLA",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MARE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

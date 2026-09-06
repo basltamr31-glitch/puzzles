@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_057",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 56,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "UPINGUIN",
+    "KAMELXFR",
+    "TNALEOTA",
+    "ATUCWOLF",
+    "JHSRNNBX",
+    "KERSSNII",
+    "YRZIEGEE",
+    "VMYHUMOL"
+  ],
+  "words": [
+    {
+      "word": "KAMEL",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MAUS",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHER",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "WOLF",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "ZIEGE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

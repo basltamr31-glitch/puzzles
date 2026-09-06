@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_082",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 81,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "ISHTFASZTESB",
+    "DQRQCBEPLFKP",
+    "HOPPEBURROAC",
+    "EYMELANGURIA",
+    "FVGZRVOGZMNF",
+    "ERETTALOGARF",
+    "TEZGGFGFNGGE",
+    "SSXHGDUAQGOG",
+    "BPFHOEBCCIUI",
+    "FPBISCOTTOOF",
+    "BVGXUXKOYZXP",
+    "LPXHTTOKIYMM"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "BANANA",
+      "row": 8,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BURRO",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CAFFE",
+      "row": 2,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "LATTE",
+      "row": 5,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "MELA",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PERA",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

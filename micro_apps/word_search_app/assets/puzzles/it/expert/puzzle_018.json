@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_018",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 17,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "TPFAGQROQGEZTQ",
+    "TNLBONBBURROYK",
+    "IRVMLBIDDTFGAV",
+    "IIQTQSLCCEEZUG",
+    "OTIBCPGXAKMLZZ",
+    "TODOLANMQTUTTM",
+    "ARTSENIMDNQACZ",
+    "LTEFVESTUVLBII",
+    "OAFNLNVYOOEBSQ",
+    "CALEMVNHGKFZXU",
+    "CLGLNKBANANAKT",
+    "OIGGAMROFMLAFZ",
+    "IXAACFXYQOAOCC",
+    "CUDZIVMEONHRUU"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 10,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 1,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "BURRO",
+      "row": 1,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "CAFFE",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CIOCCOLATO",
+      "row": 13,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 11,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 12,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "MELA",
+      "row": 9,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "MIELE",
+      "row": 5,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 6,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "PANE",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TORTA",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

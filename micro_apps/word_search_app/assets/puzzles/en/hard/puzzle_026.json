@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_026",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 25,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "MBZXZVFGPMLF",
+    "KIQDPEBRXYZO",
+    "LALULMDORPRI",
+    "BJEKIJCKTADL",
+    "OWMTWQHDPSYF",
+    "JPOTATOMATOT",
+    "ZNNZAAXEPARG",
+    "ZLGTLUSQBCAJ",
+    "AZKXRERPLINH",
+    "HHONEYHNKZGW",
+    "JXCHOCOLATEH",
+    "ZHCKLWANYRVF"
+  ],
+  "words": [
+    {
+      "word": "CHEESE",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 10,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GRAPE",
+      "row": 6,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "HONEY",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LEMON",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MILK",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "ORANGE",
+      "row": 5,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "PASTA",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATO",
+      "row": 5,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

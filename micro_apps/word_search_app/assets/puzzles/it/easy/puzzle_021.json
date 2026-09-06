@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_021",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 20,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "UDKSRNME",
+    "CGXSOBAB",
+    "CPXGEZNR",
+    "NUCOLLOA",
+    "CNPMBKRC",
+    "XQXIFOEC",
+    "TESTATII",
+    "ASTOMACO"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "COLLO",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GOMITO",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MANO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "STOMACO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TESTA",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

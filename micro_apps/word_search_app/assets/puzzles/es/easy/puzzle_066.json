@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_066",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 65,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "HTOMATES",
+    "THTPQDUS",
+    "UKVCBRIA",
+    "NQUESODN",
+    "LAQRKBQD",
+    "YXOGTHLI",
+    "PQVFRESA",
+    "MIELECHE"
+  ],
+  "words": [
+    {
+      "word": "FRESA",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LECHE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MIEL",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "QUESO",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SANDIA",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

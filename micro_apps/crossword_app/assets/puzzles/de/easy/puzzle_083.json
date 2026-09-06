@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_083",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 083",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "EISEN",
+      "clue": "Starkes graues Metall, in Stahl verwendet",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "STEIN",
+      "clue": "Ein hartes Stück Fels",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ZUCKER",
+      "clue": "Süße kristalline Substanz",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "MONAT",
+      "clue": "Einer von zwölf Teilen eines Jahres",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "ARM",
+      "clue": "Gliedmaße zwischen Schulter und Hand",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "BAUM",
+      "clue": "Große Pflanze mit Stamm und Ästen",
+      "category": "nature"
+    }
+  ]
+}

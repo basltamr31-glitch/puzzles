@@ -1,0 +1,101 @@
+{
+  "id": "it_hard_087",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 087",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "SOCIETA",
+      "clue": "Una grande comunità che vive insieme"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "GRAVITA",
+      "clue": "La forza che attrae gli oggetti tra loro"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "SCOPERTA",
+      "clue": "L'atto di trovare qualcosa di nuovo"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "BIOLOGIA",
+      "clue": "Lo studio scientifico degli esseri viventi"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "answer": "SPAZIO",
+      "clue": "Un'area vuota, o l'universo oltre la Terra"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "SCALA",
+      "clue": "La dimensione di qualcosa rispetto a un'altra"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "ORCHESTRA",
+      "clue": "Un grande gruppo di musicisti che suonano insieme"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "TASTIERA",
+      "clue": "Insieme di tasti usati per digitare"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "CHIMICO",
+      "clue": "Relativo alle sostanze e alle loro reazioni"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "LAVORO",
+      "clue": "Un impiego retribuito svolto regolarmente"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "REGOLA",
+      "clue": "Un'istruzione ufficiale su come comportarsi"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "POTERE",
+      "clue": "La capacità di fare o controllare qualcosa"
+    }
+  ]
+}

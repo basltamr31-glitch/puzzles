@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_055",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 54,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "MBOYBZBC",
+    "ZURLAUBP",
+    "ISXIHGKU",
+    "VGANNWAW",
+    "MWRIHURD",
+    "CATKONTO",
+    "OKKOFFER",
+    "CWSIFTMB"
+  ],
+  "words": [
+    {
+      "word": "BAHNHOF",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "KARTE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "KOFFER",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "URLAUB",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ZUG",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

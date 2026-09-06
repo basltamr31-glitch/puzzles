@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_054",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 054",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "FRIEND",
+      "clue": "Someone you like and trust",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "TIGER",
+      "clue": "Large striped wild cat",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "WOLF",
+      "clue": "Wild animal related to the dog",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "DOOR",
+      "clue": "Panel that swings open to enter a room",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "WORK",
+      "clue": "Effort done to earn a living",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "RUN",
+      "clue": "To move quickly on foot",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "SEA",
+      "clue": "A large body of salt water",
+      "category": "place"
+    }
+  ]
+}

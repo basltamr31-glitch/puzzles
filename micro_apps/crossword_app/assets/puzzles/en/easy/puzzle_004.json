@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_004",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 004",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "YEAR",
+      "clue": "A period of twelve months",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "LEG",
+      "clue": "Limb used for walking",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "HAIR",
+      "clue": "Strands that grow from the skin, especially the head",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "IRON",
+      "clue": "Strong gray metal used in tools and steel",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "NOSE",
+      "clue": "Body part used for smelling",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CHAIR",
+      "clue": "Piece of furniture you sit on, with a back",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "DANCE",
+      "clue": "To move rhythmically to music",
+      "category": "action"
+    }
+  ]
+}

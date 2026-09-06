@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_024",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 23,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "HTENNISF",
+    "DBSSKUXW",
+    "COCZTORT",
+    "YHHWVUES",
+    "DLAUFCNH",
+    "KSCNUTNV",
+    "DOHOCKEY",
+    "GDOLLNNM"
+  ],
+  "words": [
+    {
+      "word": "HOCKEY",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LAUF",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RENNEN",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SCHACH",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TOR",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

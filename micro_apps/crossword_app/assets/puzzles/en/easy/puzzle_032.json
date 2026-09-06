@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_032",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 032",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "ROOF",
+      "clue": "Covering on top of a building",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "HOUR",
+      "clue": "A unit of time equal to sixty minutes",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "BIRD",
+      "clue": "Feathered animal that can usually fly",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "DUCK",
+      "clue": "Water bird that quacks",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "IRON",
+      "clue": "Strong gray metal used in tools and steel",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "RUN",
+      "clue": "To move quickly on foot",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "CAT",
+      "clue": "Common household pet that meows",
+      "category": "animal"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_043",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 043",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "PAGINA",
+      "clue": "Un foglio in un libro",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "CARTA",
+      "clue": "Materiale sottile usato per scrivere",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SALE",
+      "clue": "Condimento bianco che rende saporito il cibo",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "TETTO",
+      "clue": "Copertura sopra un edificio",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "ORSO",
+      "clue": "Grande animale peloso che vive nei boschi",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "ISOLA",
+      "clue": "Terra completamente circondata dall'acqua",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

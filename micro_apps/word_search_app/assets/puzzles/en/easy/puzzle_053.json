@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_053",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 52,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "EANEFFVU",
+    "UECHINRS",
+    "EYELNMLT",
+    "HEADGSAO",
+    "KBRSEGNM",
+    "GRQIRCOA",
+    "QOQDMBCC",
+    "TWWHFERH"
+  ],
+  "words": [
+    {
+      "word": "CHIN",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "EAR",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "EYEBROW",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FINGER",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HEAD",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STOMACH",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

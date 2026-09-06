@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_026",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 25,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "SNSPKBROTH",
+    "DMPOKAFFEE",
+    "ZITRONELOL",
+    "RVVPJALSTX",
+    "JRBIRNEDEJ",
+    "MKUCHENSTN",
+    "XIUPAEGRVR",
+    "VULIWHOTWV",
+    "DCLCLSNVEF",
+    "DYZCHJMYMB"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BIRNE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BROT",
+      "row": 0,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "KAESE",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MILCH",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

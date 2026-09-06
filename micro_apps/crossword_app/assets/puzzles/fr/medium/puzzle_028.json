@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_028",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 028",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "MUSIQUE",
+      "clue": "Son organisé, souvent avec mélodie et rythme"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "GLACE",
+      "clue": "De l'eau gelée, ou un dessert froid"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "VOYAGE",
+      "clue": "Déplacement d'un endroit à un autre"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "TUNNEL",
+      "clue": "Un passage souterrain"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "VILLAGE",
+      "clue": "Petite communauté, plus petite qu'une ville"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "SECRET",
+      "clue": "Information gardée cachée des autres"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "CARTE",
+      "clue": "Un dessin qui montre où se trouvent les lieux"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "EMPLOI",
+      "clue": "Un travail rémunéré effectué régulièrement"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "answer": "PORT",
+      "clue": "Un lieu abrité où les navires accostent"
+    }
+  ]
+}

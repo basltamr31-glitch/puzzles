@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_052",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 51,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "QBEDROOM",
+    "LUTTYQSH",
+    "PTPOMCSV",
+    "ECGDIJHA",
+    "RUGARDEN",
+    "UPUARELM",
+    "EUYOOOFW",
+    "FPGIRQFP"
+  ],
+  "words": [
+    {
+      "word": "BEDROOM",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CUP",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MIRROR",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "RUG",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SHELF",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

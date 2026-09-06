@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_067",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 66,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "FHOLCKGKBEESCE",
+    "QHDOCVFEZLYIVO",
+    "MNPYOQDDXGCSOP",
+    "NULIOVEEVBZLLG",
+    "YTGLUEPHSDENCK",
+    "HJSXUQMBVIKFAA",
+    "MURCOVOPCFECNA",
+    "AHTALSIRIOCRAR",
+    "PLRPQYRAQGFNTB",
+    "JUBULFTDZNEGNO",
+    "IHEDTAIERBNHOL",
+    "YREDJPYRYFGFME",
+    "FNYXMPRAUHSSDI",
+    "OFPFQPQUVNKICH"
+  ],
+  "words": [
+    {
+      "word": "ARBOL",
+      "row": 6,
+      "col": 13,
+      "dir": "S"
+    },
+    {
+      "word": "ARCOIRIS",
+      "row": 7,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "BOSQUE",
+      "row": 5,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "CIELO",
+      "row": 6,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "DESIERTO",
+      "row": 2,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "HIELO",
+      "row": 13,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "ISLA",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "LLUVIA",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "MONTANA",
+      "row": 11,
+      "col": 12,
+      "dir": "N"
+    },
+    {
+      "word": "PLAYA",
+      "row": 8,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PRADERA",
+      "row": 6,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 1,
+      "col": 12,
+      "dir": "S"
+    }
+  ]
+}

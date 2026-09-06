@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_004",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 004",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "ORDNUNG",
+      "clue": "Eine Reihenfolge, oder eine Anweisung"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "VERLUST",
+      "clue": "Der Zustand, etwas nicht mehr zu haben"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "RAUMSCHIFF",
+      "clue": "Ein Fahrzeug für die Raumfahrt"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "answer": "FEIER",
+      "clue": "Ein Ereignis, das einen besonderen Anlass markiert"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "PASSAGIER",
+      "clue": "Eine Person, die in einem Fahrzeug mitfährt"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "RAUM",
+      "clue": "Ein leerer Bereich, oder das Universum"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "FESTIVAL",
+      "clue": "Ein Tag oder Zeitraum der Feier"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 6,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "LUFT",
+      "clue": "Das Gas, das wir atmen"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 8,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "HALBINSEL",
+      "clue": "Land, fast vollständig von Wasser umgeben"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "GALAXIE",
+      "clue": "Ein riesiges System von Sternen"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "answer": "KLANG",
+      "clue": "Etwas, das man hört"
+    }
+  ]
+}

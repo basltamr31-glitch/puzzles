@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_047",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 46,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "KRSTNNOP",
+    "MVIAGGIO",
+    "NAKPVSYR",
+    "BCTZNIHT",
+    "SAVTRENO",
+    "PNZMBYLQ",
+    "LZAINORI",
+    "VAEREOZD"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PORTO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TRENO",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VACANZA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VIAGGIO",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ZAINO",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

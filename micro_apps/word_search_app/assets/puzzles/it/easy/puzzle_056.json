@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_056",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 55,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "HSUHNNBA",
+    "AYGOANRR",
+    "AMCCTKTB",
+    "TGAKLISI",
+    "BOXEEOPT",
+    "MLAYTPNR",
+    "ZVSTADIO",
+    "BMITMREK"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ATLETA",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BOXE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GOL",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "STADIO",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

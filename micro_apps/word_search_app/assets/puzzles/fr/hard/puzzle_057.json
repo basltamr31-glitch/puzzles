@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_057",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 56,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "CLPSBBKSUZHG",
+    "CHATQIFZZBOK",
+    "FDEUSMSICKUO",
+    "VKVVGIRAFETJ",
+    "XSLVRFPPLSOV",
+    "MECUREUILIDU",
+    "ZPOVHADNEIAP",
+    "BSELEOAGSJQY",
+    "RQBMCCIOPQTF",
+    "IFAOVTGUGIBD",
+    "KHRRUHLIHPPL",
+    "CCIXLRENARDX"
+  ],
+  "words": [
+    {
+      "word": "AIGLE",
+      "row": 7,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CHAMEAU",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CHAT",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CHEVRE",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "ECUREUIL",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PINGOUIN",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "RENARD",
+      "row": 11,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SOURIS",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    }
+  ]
+}

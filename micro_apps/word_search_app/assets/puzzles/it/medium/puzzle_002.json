@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_002",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 1,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "XMIELELQGD",
+    "FTIIXNMMQR",
+    "ZOFNPGQOMO",
+    "KBRYEKCBGH",
+    "SYAMRSBUGU",
+    "GRGNAATRDO",
+    "YDOMAGMRBP",
+    "BRLDPNGOAI",
+    "FLATTEAIQX",
+    "RQFPXKXAOR"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "BURRO",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "LATTE",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MIELE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PERA",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_001",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 0,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "DMTIGERI",
+    "HYWKYLFX",
+    "ZKEBAERK",
+    "WPWOLFHZ",
+    "TBDZMAUS",
+    "FBSJCNNR",
+    "ANYHWTDV",
+    "BPETDUKW"
+  ],
+  "words": [
+    {
+      "word": "BAER",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ELEFANT",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "HUND",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MAUS",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TIGER",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "WOLF",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "es_medium_069",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 069",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "PRIMAVERA",
+      "clue": "Estación en la que florecen las flores"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "OFICINA",
+      "clue": "Habitación usada para trabajo profesional"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "EQUIPO",
+      "clue": "Un grupo que trabaja junto hacia una meta"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "IMAGEN",
+      "clue": "Una foto o un dibujo"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "answer": "PUEBLO",
+      "clue": "Comunidad pequeña, más pequeña que una ciudad"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "MERCADO",
+      "clue": "Lugar donde se compran y venden bienes"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "ANIMAL",
+      "clue": "Todo ser vivo que no sea una planta"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "REGLA",
+      "clue": "Una instrucción oficial sobre cómo comportarse"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    }
+  ]
+}

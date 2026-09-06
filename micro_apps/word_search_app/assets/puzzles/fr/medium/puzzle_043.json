@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_043",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 42,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "EHEHVKBFPJ",
+    "QUIOVFMPBL",
+    "OHTUMEJAUB",
+    "GXEVPUNEPU",
+    "ALPBOIHTVN",
+    "NVDSOLEILU",
+    "KSTLDLCRSA",
+    "JPLAGEMARG",
+    "TEZNVERXNE",
+    "NONCASCADE"
+  ],
+  "words": [
+    {
+      "word": "CASCADE",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "NUAGE",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PIERRE",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PLAGE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VENT",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

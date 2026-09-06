@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_068",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 67,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "TIUURXEB",
+    "ALAMPADA",
+    "PCUSCINO",
+    "PNMTAZZA",
+    "EUCZMPKR",
+    "TVSZEFUG",
+    "OMFGROCI",
+    "UCYBAGNO"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CAMERA",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TAZZA",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

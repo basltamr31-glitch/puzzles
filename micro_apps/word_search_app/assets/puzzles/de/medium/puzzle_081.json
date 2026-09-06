@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_081",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 80,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "NEUXFSHETN",
+    "XJTMRXMASM",
+    "WLPNGYGYSE",
+    "JOJSAXUPNE",
+    "BELPDGHIOV",
+    "ZWPFMCGNCH",
+    "WEFJPMOGUR",
+    "MZEBRAHUND",
+    "PKROKODILO",
+    "HHDSPYSNAX"
+  ],
+  "words": [
+    {
+      "word": "HASE",
+      "row": 0,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "HUND",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LOEWE",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PFERD",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "WOLF",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

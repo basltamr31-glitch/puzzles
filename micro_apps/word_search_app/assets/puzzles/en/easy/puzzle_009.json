@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_009",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 8,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "PSXBAWGM",
+    "APDEHOCW",
+    "NIMACLXA",
+    "TGIRAFFE",
+    "HBKATIFA",
+    "ETPWPEVN",
+    "RJFJIHFL",
+    "TDJXBNUG"
+  ],
+  "words": [
+    {
+      "word": "BEAR",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CAT",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PANTHER",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PIG",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "WOLF",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

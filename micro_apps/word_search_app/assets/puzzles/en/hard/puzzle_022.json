@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_022",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 21,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "BXOYELGBGCRG",
+    "PSDAVKQYRRJY",
+    "FRACSNJIEDDN",
+    "IYHSWNTLEMMY",
+    "QGBRACELETQI",
+    "LUMAJNGAKGHA",
+    "XSPDAGDRKKFG",
+    "OUNECKLACEDV",
+    "PGZLKSUOLORH",
+    "BYSMENSVVSAS",
+    "YXPATZETBELT",
+    "CWROFAONGAHJ"
+  ],
+  "words": [
+    {
+      "word": "BELT",
+      "row": 10,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "BRACELET",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "COAT",
+      "row": 7,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "GLOVE",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "JACKET",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "NECKLACE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALS",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SCARF",
+      "row": 2,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "SNEAKERS",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "SOCK",
+      "row": 9,
+      "col": 6,
+      "dir": "NE"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_010",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 9,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "NLNNYGXMTFJCQJ",
+    "QJPILKBVUZZFFP",
+    "YOFRAISEKNVLII",
+    "AUSHSUEJFLRFDF",
+    "HBOCLNFFCNYZXK",
+    "JVUJCITRONRZFH",
+    "JIPFPAEOTDNBRN",
+    "TDELRPOMMEGCUE",
+    "UVAJEMQAJALZAU",
+    "YVAMTCYGTLTZPL",
+    "LUDPOIREKGGEHR",
+    "SIRHBSAYUCPFVM",
+    "QSILGUOLPAQDEZ",
+    "XPUHYGTOHPERIX"
+  ],
+  "words": [
+    {
+      "word": "BISCUIT",
+      "row": 1,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "CITRON",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CREPE",
+      "row": 4,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "FRAISE",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GATEAU",
+      "row": 7,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "LAIT",
+      "row": 12,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "PAIN",
+      "row": 7,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "POIRE",
+      "row": 10,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "POMME",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SOUPE",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

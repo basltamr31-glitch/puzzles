@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_051",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 50,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "RGBVPXNMNHFO",
+    "LKVWVMJCMIRM",
+    "XMUWPGIROWLZ",
+    "HOMVULKANRLB",
+    "NRLMEERGXDKV",
+    "AHVBITNRWEZV",
+    "LBERGSTEINRZ",
+    "ONBMMCTYXHYB",
+    "AOEUNHGRLCWG",
+    "LLAFRESSAWIH",
+    "LBRBGRZCFNNX",
+    "SCXFHCMKXUDC"
+  ],
+  "words": [
+    {
+      "word": "BAUM",
+      "row": 10,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "BERG",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GLETSCHER",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MEER",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "NEBEL",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "STEIN",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "STRAND",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "VULKAN",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "WASSERFALL",
+      "row": 9,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "WIND",
+      "row": 8,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

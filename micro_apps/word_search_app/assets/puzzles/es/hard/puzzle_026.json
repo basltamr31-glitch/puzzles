@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_026",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 25,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "XTPSPUUAKLHX",
+    "APMLPMPBKKRJ",
+    "OAIXLEHCELVU",
+    "SYKZTERGHPKK",
+    "OMSANDIAMISM",
+    "PZMNOMILJNED",
+    "AOIZUAZLYIMJ",
+    "TXEEQAGEDFXL",
+    "ALLIUQETNAMS",
+    "TRFFGTRALDIS",
+    "ACEBZMTRVYTX",
+    "IYBKKQJEHKQY"
+  ],
+  "words": [
+    {
+      "word": "GALLETA",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LECHE",
+      "row": 2,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "LIMON",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "MANTEQUILLA",
+      "row": 8,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "MIEL",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 5,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "SANDIA",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOPA",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 7,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

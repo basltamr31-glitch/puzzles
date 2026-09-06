@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_099",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 98,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "GLACIERM",
+    "JLSPOVZL",
+    "VOLCANOE",
+    "JGRIVERX",
+    "STONETIM",
+    "CYDESERT",
+    "QWWHQUTJ",
+    "ZRAINESZ"
+  ],
+  "words": [
+    {
+      "word": "DESERT",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RIVER",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_063",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 063",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "ماء",
+      "clue": "سائل شفاف ضروري للحياة",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "مدرسة",
+      "clue": "مكان يتعلم فيه الأطفال",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "غرفة",
+      "clue": "مساحة مغلقة داخل منزل",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "بقرة",
+      "clue": "حيوان أليف يُربى لحليبه",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "ذئب",
+      "clue": "حيوان بري قريب من الكلب",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "سماء",
+      "clue": "الفضاء الأزرق فوق الأرض",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "ريح",
+      "clue": "هواء متحرك",
+      "category": "nature"
+    }
+  ]
+}

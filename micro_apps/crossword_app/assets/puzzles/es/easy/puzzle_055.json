@@ -1,0 +1,58 @@
+{
+  "id": "es_easy_055",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 055",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "NIEVE",
+      "clue": "Copos blancos y helados que caen en invierno",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "TIEMPO",
+      "clue": "Lo que miden los relojes",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "PUERTA",
+      "clue": "Panel que se abre para entrar a una habitación",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "GATO",
+      "clue": "Felino doméstico que maúlla",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "VIENTO",
+      "clue": "Aire en movimiento",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "SOL",
+      "clue": "Estrella en el centro de nuestro sistema solar",
+      "category": "nature"
+    }
+  ]
+}

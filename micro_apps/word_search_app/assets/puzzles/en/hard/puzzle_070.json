@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_070",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 69,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "SFBXHCSIATWB",
+    "JXEKOIOGNSED",
+    "CLTELECARBBV",
+    "MZQJACKETAHD",
+    "SAMAJAPZDXTM",
+    "DXTJWPMRRHZB",
+    "TTGMIBAJEHSV",
+    "ECALKCENSWMO",
+    "LISANDALSTLN",
+    "UVRQBWWJTYSG",
+    "UBVBKEDZVLYZ",
+    "OKLNHNUMKSZT"
+  ],
+  "words": [
+    {
+      "word": "BELT",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "BRACELET",
+      "row": 2,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "COAT",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "DRESS",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "JACKET",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "NECKLACE",
+      "row": 7,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "PAJAMAS",
+      "row": 4,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "SANDALS",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SLIPPERS",
+      "row": 8,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "SOCK",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

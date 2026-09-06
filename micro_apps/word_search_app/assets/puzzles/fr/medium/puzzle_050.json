@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_050",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 49,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "HJJSDMBCNY",
+    "TSACUEPIBD",
+    "CHOCOLATAG",
+    "EPLFRFSRRB",
+    "GNPGLXTOVA",
+    "FROMAGENAN",
+    "KLIYIBQINA",
+    "GXRFTMUXRN",
+    "GBEURREOHE",
+    "AZHBPTOFRL"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "BEURRE",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CITRON",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LAIT",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PASTEQUE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "POIRE",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

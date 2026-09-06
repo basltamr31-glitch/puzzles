@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_057",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 56,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "FTHURMTTOGFHVQ",
+    "IPBVLZSOGIIABU",
+    "XQFQOMLGRUQQDC",
+    "VNXTVPVOCKFUDD",
+    "FLIXBUORSOCIOC",
+    "XLYGXXOTPVOLPE",
+    "AITUCYCUTENACO",
+    "PBVRNELPVAIRDM",
+    "OLBQFQPXVXGERS",
+    "UFDUDZANRCLTRN",
+    "SGVRUKDSOFINZD",
+    "LCHLPLRXIGOAGR",
+    "GOSHIRKNRCAPRA",
+    "VHLLRTOEAMBYTO"
+  ],
+  "words": [
+    {
+      "word": "AQUILA",
+      "row": 1,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "CANE",
+      "row": 6,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "CAPRA",
+      "row": 12,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "CONIGLIO",
+      "row": 4,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "DELFINO",
+      "row": 7,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "GATTO",
+      "row": 8,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "LUPO",
+      "row": 7,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "ORSO",
+      "row": 4,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "PANTERA",
+      "row": 12,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "TIGRE",
+      "row": 9,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "TOPO",
+      "row": 5,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "VOLPE",
+      "row": 5,
+      "col": 9,
+      "dir": "E"
+    }
+  ]
+}

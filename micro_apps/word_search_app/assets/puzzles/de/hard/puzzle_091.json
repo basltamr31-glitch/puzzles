@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_091",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 90,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "SODAHESZIDDO",
+    "TYRPHUOBUPWI",
+    "MKZJPNEBELUN",
+    "YKLDNIWOLKEH",
+    "ACJVWDNARTSF",
+    "DHSMFEFSGBTC",
+    "AJZZGRXREGEN",
+    "NDVIEFEVFLIU",
+    "OVNSIBDUEWNO",
+    "GBSXPGFWLGUO",
+    "YAPPWLJUAGOG",
+    "WSFMOBZVRLZR"
+  ],
+  "words": [
+    {
+      "word": "BERG",
+      "row": 8,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "INSEL",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "NEBEL",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "REGEN",
+      "row": 6,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "STEIN",
+      "row": 4,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "STRAND",
+      "row": 4,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "WASSERFALL",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "WIND",
+      "row": 3,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "WOLKE",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "WUESTE",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

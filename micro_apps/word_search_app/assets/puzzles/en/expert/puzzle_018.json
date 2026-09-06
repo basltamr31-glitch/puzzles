@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_018",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 17,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "UOQDPPDRVXCNSD",
+    "ZYDCAUNVLXANEO",
+    "AGLANEOPWYTOBH",
+    "GKKGCTRSPMEHEE",
+    "UKORAOWBOGIDDO",
+    "OIJTKMVCNAEKIW",
+    "EHOPEANAPPLEMG",
+    "NPZCDTRRAIJKSE",
+    "FOYHWOSRMRWLQS",
+    "VLYBIPGOETJZCX",
+    "MYNXROQTELGFCB",
+    "UGSQKQTEMKDBLF",
+    "RKJJYUBLHDKKFM",
+    "EWEXBXMIOFOIEA"
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "row": 6,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "AVOCADO",
+      "row": 6,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "BREAD",
+      "row": 4,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "BUTTER",
+      "row": 13,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "CARROT",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GRAPE",
+      "row": 9,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "MILK",
+      "row": 8,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "ORANGE",
+      "row": 8,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "SOUP",
+      "row": 3,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "TOMATO",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_008",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 7,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "FKRCNIAOZBTOFO",
+    "ADSODZMMCDDTLR",
+    "RRCAARDAUQSOOT",
+    "TYSKRSLGRSVULS",
+    "YITFBCORSAENIE",
+    "SELLIPOXLTTNRN",
+    "OSKOTRBLSLNOBA",
+    "OXLCRSASIELNNC",
+    "HNNPOPHTTTXTBA",
+    "RLFRVHXSUAMSUL",
+    "OICOZZCKLGDKSL",
+    "ORHQITZZBFHIBA",
+    "DFNETMAXXHIMOP",
+    "FILLISADQAKCPD"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ATLETA",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CALCIO",
+      "row": 1,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "CORSA",
+      "row": 4,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 9,
+      "col": 5,
+      "dir": "NW"
+    },
+    {
+      "word": "MARATONA",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "NUOTO",
+      "row": 4,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "PALLACANESTRO",
+      "row": 12,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "PALLAVOLO",
+      "row": 8,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "SQUADRA",
+      "row": 2,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "STADIO",
+      "row": 7,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "TENNIS",
+      "row": 8,
+      "col": 8,
+      "dir": "NE"
+    }
+  ]
+}

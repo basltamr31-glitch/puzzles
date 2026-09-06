@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_077",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 76,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "CCXFOBZELAERBP",
+    "KCPECCJPPDHCLS",
+    "UXAFLJZAMEEAES",
+    "MNDGQLZUMCGEEC",
+    "FKISZYILHBQZDY",
+    "YZINHMTEPIEDBP",
+    "XHTRGAVFRFNLLU",
+    "QVQXLICRUOSARB",
+    "NRFOLNBOTNQJYN",
+    "SUFLZNGNXKQAFD",
+    "RUEVPEETMMJFKP",
+    "UHMJSMNOTIQEIT",
+    "RTIUUDOIGTSCBC",
+    "YMAHDNUFLMSREI"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 7,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "CHEVILLE",
+      "row": 3,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "DOIGT",
+      "row": 12,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "EPAULE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "FRONT",
+      "row": 6,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GENOU",
+      "row": 9,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "JAMBE",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "MAIN",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MENTON",
+      "row": 11,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "OREILLE",
+      "row": 7,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "PIED",
+      "row": 5,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "SOURCIL",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    }
+  ]
+}

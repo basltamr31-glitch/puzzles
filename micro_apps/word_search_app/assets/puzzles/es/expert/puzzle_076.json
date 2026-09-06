@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_076",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 75,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "ROAGAVQTTUDNHR",
+    "UQUMRTZMZLFEJO",
+    "DEANATNEVNVDSD",
+    "ICPDPPSAABZUCL",
+    "MDUPMTHZMHMUEY",
+    "IMESAOQRXMCUCR",
+    "KERNLYODHGDVCT",
+    "VITZMNPILXOULN",
+    "QEAFOSRYYXYXED",
+    "LNZGHQMYEITPUF",
+    "YTAJARDINLKJXD",
+    "BTVGDDSPCQAGYT",
+    "RPQHARBMOFLAHQ",
+    "YEQIPPYIFPXCLI"
+  ],
+  "words": [
+    {
+      "word": "ALFOMBRA",
+      "row": 12,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "ALMOHADA",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CAMA",
+      "row": 3,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 2,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "JARDIN",
+      "row": 10,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 6,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "MANTA",
+      "row": 4,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "MESA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PUERTA",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 8,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "TAZA",
+      "row": 7,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "VENTANA",
+      "row": 2,
+      "col": 8,
+      "dir": "W"
+    }
+  ]
+}

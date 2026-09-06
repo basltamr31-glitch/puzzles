@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_042",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 41,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "NREOLYESPDUF",
+    "ALWVDXNVVZNZ",
+    "UENVOZNMZKHM",
+    "KUMNPZXZWFBP",
+    "ABZBSNMWLWAV",
+    "RMILCHONIGBO",
+    "TMTKJRRUIYDM",
+    "OMRAAFDTZWEY",
+    "FJOEPPUSPSVS",
+    "FENSRGFMKHWV",
+    "EREEBDRETTUB",
+    "LAYLWPKSLDHZ"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 7,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "BUTTER",
+      "row": 10,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 10,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "HONIG",
+      "row": 5,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "KAESE",
+      "row": 6,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "KEKSE",
+      "row": 11,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "MILCH",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SUPPE",
+      "row": 8,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

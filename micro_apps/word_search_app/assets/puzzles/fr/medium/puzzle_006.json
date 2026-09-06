@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_006",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 5,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "YCQOTUECVA",
+    "PHEMSUDOKX",
+    "OATIAKILAH",
+    "IPNFNNQLZL",
+    "VENTDTTINQ",
+    "RAUIANUEVD",
+    "NUOZLLPRAR",
+    "UFNZEROBEU",
+    "EEKNSATNGG",
+    "BBASKETSMI"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CEINTURE",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CHAPEAU",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "COLLIER",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTALON",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "ROBE",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALES",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

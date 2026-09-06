@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_081",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 081",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "FAKT",
+      "clue": "Etwas, das als wahr bekannt ist"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "TUNNEL",
+      "clue": "Ein unterirdischer Durchgang"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "STUDENT",
+      "clue": "Person, die an einer Universität lernt"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "MARKT",
+      "clue": "Ort, an dem Waren gekauft und verkauft werden"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "KUNST",
+      "clue": "Kreativer Ausdruck, wie Malerei oder Bildhauerei"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "AUFGABE",
+      "clue": "Eine Lerneinheit zu einem Thema"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "DELFIN",
+      "clue": "Intelligentes Meeressäugetier"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "KAMERA",
+      "clue": "Gerät zum Fotografieren"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "answer": "ARZT",
+      "clue": "Medizinischer Fachmann, der Patienten behandelt"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "ZAHL",
+      "clue": "Ein mathematischer Wert, wie eins oder zwei"
+    }
+  ]
+}

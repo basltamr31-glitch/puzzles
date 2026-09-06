@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_094",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 93,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "ILBASKETSL",
+    "SYENLGMEAX",
+    "QCHAPEAURU",
+    "SHEFRNNZOM",
+    "GJPIVQTRBK",
+    "XTKLNLEOEP",
+    "BUPANTALON",
+    "TRNACPULLA",
+    "ELDPPRLRPT",
+    "ZBBRACELET"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BRACELET",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CEINTURE",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CHAPEAU",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PANTALON",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PULL",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "ROBE",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_085",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 085",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "EAR",
+      "clue": "Body part used for hearing",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "LEMON",
+      "clue": "Sour yellow citrus fruit",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "SING",
+      "clue": "To make music with your voice",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "FROG",
+      "clue": "Green amphibian that hops and croaks",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "FISH",
+      "clue": "Aquatic animal that breathes through gills",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "HILL",
+      "clue": "A raised area of land, smaller than a mountain",
+      "category": "place"
+    }
+  ]
+}

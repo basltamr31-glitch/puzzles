@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_098",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 97,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "ZXMZNITP",
+    "IKAFFEEA",
+    "TUPMBUAO",
+    "RCFHUKJH",
+    "OHELTPXO",
+    "NELYTGWN",
+    "ENHHETGI",
+    "SNCCRWEG"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BUTTER",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HONIG",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

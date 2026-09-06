@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_073",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 72,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "WCPKBDAU",
+    "LASTIGER",
+    "SMDZEBRA",
+    "CZZJNGXV",
+    "HKAMELLA",
+    "APINGUIN",
+    "FRMGBJBN",
+    "PZZWBXMT"
+  ],
+  "words": [
+    {
+      "word": "BIENE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "KAMEL",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SCHAF",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TIGER",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

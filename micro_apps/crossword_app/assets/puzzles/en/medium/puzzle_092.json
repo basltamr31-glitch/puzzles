@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_092",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 092",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "HISTORY",
+      "clue": "The study of past events"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "GARDEN",
+      "clue": "Plot of land for growing flowers or vegetables"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "JACKET",
+      "clue": "A short outer coat"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "CHURCH",
+      "clue": "Christian place of worship"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "NUMBER",
+      "clue": "A mathematical value, like one or two"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "TYPE",
+      "clue": "A category or kind of something"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "VOTE",
+      "clue": "A formal choice made in an election"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "answer": "GAIN",
+      "clue": "An increase in something, like wealth"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "ANIMAL",
+      "clue": "Any living creature that isn't a plant"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "IDEA",
+      "clue": "A thought or plan"
+    }
+  ]
+}

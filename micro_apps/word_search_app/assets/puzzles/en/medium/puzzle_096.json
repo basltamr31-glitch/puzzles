@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_096",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 95,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "SXTKUUWKOW",
+    "YUKSRKAFKM",
+    "ENZKIAOBIJ",
+    "QCZPTRCOCT",
+    "BHAHOCKEYX",
+    "OEPATHLETE",
+    "XSOCCERTWL",
+    "ISWIMRLWNH",
+    "NEBHXYVMJA",
+    "GDMLQOUMKB"
+  ],
+  "words": [
+    {
+      "word": "ARCHERY",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "BOXING",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CHESS",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "RACE",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "SOCCER",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SWIM",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

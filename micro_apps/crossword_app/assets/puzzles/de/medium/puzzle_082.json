@@ -1,0 +1,66 @@
+{
+  "id": "de_medium_082",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 082",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "KANZLEI",
+      "clue": "Büroräume, oft für Anwälte oder Behörden"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "RISIKO",
+      "clue": "Die Chance, dass etwas Schlechtes passiert"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "WOHNZIMMER",
+      "clue": "Raum zum Entspannen und Fernsehen"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "LEHRER",
+      "clue": "Person, die Schüler unterrichtet"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "MUSEUM",
+      "clue": "Gebäude, das historische Objekte zeigt"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "GEWINN",
+      "clue": "Eine Zunahme von etwas, wie Vermögen"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "DRACHE",
+      "clue": "Mythisches feuerspeiendes Wesen"
+    }
+  ]
+}

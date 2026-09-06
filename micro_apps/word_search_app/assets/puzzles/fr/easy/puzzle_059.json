@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_059",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 58,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "YZPJVEJO",
+    "NEBMIXUD",
+    "UGSGLACE",
+    "AGQRENKS",
+    "GGRARBRE",
+    "ECJASMER",
+    "NRJNYGAT",
+    "KKTLSGLH"
+  ],
+  "words": [
+    {
+      "word": "ARBRE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "DESERT",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GLACE",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ILE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MER",
+      "row": 5,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "NUAGE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

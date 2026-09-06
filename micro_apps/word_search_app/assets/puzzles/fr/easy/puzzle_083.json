@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_083",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 82,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "YVOLCANN",
+    "VESLEZUE",
+    "GNUDTIAN",
+    "STQEIGGD",
+    "OLHSPLEP",
+    "RQGEAAKM",
+    "LMERICUO",
+    "PTOTJEXF"
+  ],
+  "words": [
+    {
+      "word": "DESERT",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "GLACE",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MER",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "NUAGE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "VENT",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

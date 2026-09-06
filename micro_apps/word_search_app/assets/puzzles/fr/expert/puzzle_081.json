@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_081",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 80,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "UROZDHMUDSIXKL",
+    "RLZCEYKKKJLNIB",
+    "LTCBUBHUTCDYEH",
+    "TAHABSRAHNTRTV",
+    "UITTIGREFPRHZG",
+    "NCHTCIVMPAAUBV",
+    "ZAJVARJACUEPXK",
+    "RANUEAOHOZESVH",
+    "JYGNUFICSLPYJH",
+    "XUAJOEOIONSUVH",
+    "CRSRNALUUDQKZR",
+    "DELESAPGRTIYGH",
+    "TGPEDTANIPALQP",
+    "NMOYOHICSAQNEY"
+  ],
+  "words": [
+    {
+      "word": "AIGLE",
+      "row": 13,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "CHAMEAU",
+      "row": 8,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "CHEVRE",
+      "row": 2,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "CHIEN",
+      "row": 6,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LAPIN",
+      "row": 12,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "LOUP",
+      "row": 8,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "RENARD",
+      "row": 6,
+      "col": 5,
+      "dir": "SW"
+    },
+    {
+      "word": "SOURIS",
+      "row": 8,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

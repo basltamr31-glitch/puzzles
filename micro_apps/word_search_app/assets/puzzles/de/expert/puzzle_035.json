@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_035",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 34,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "WHROJOJNEBELED",
+    "KOAAKMZDKLLRYL",
+    "DPCFWOLPNAVVND",
+    "FYTNYFNGFTEXCM",
+    "BLJVDHURCTJNZG",
+    "ZCUHGVEAWIBWZV",
+    "OKSSISWZSWCRZT",
+    "IGNNSKTNLBVTUU",
+    "STRANDBSBDRHHV",
+    "DHWEKLOWWKMMDA",
+    "SUGDBLEYKZNMSX",
+    "SELWAAUSVGAUIK",
+    "RJHVUZBVNCCRBW",
+    "RVMEMTIDNIWFKN"
+  ],
+  "words": [
+    {
+      "word": "BAUM",
+      "row": 10,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BERG",
+      "row": 10,
+      "col": 4,
+      "dir": "NW"
+    },
+    {
+      "word": "BLATT",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "FLUSS",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "INSEL",
+      "row": 13,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "NEBEL",
+      "row": 0,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "REGEN",
+      "row": 12,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "STRAND",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VULKAN",
+      "row": 12,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "WASSERFALL",
+      "row": 9,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "WIND",
+      "row": 13,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "WOLKE",
+      "row": 9,
+      "col": 7,
+      "dir": "W"
+    }
+  ]
+}

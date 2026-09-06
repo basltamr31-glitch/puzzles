@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_032",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 032",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "MEDICINE",
+      "clue": "The science of treating illness"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "INDUSTRY",
+      "clue": "Economic activity concerned with manufacturing"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "SUBMARINE",
+      "clue": "A vessel that travels underwater"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "AVALANCHE",
+      "clue": "A mass of snow sliding down a mountain"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "EQUATOR",
+      "clue": "The imaginary line around Earth's middle"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "MONUMENT",
+      "clue": "A structure built to honor a person or event"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 8,
+      "answer": "LOSS",
+      "clue": "The state of no longer having something"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ICE",
+      "clue": "Frozen water"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "ART",
+      "clue": "Creative expression, like painting or sculpture"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "FESTIVAL",
+      "clue": "A day or period of celebration"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "AREA",
+      "clue": "A particular region or part of something"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 7,
+      "answer": "LEVEL",
+      "clue": "A particular standard or height"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 11,
+      "answer": "PLAN",
+      "clue": "A detailed proposal for doing something"
+    }
+  ]
+}

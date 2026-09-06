@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_060",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 59,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "CYALFOMBRARRIR",
+    "KINLYIHGQLNFCR",
+    "LSFOMRRNUEPGDH",
+    "YOGMSOFAEJYCOU",
+    "LPTRFTHIECNCLJ",
+    "NYCOCINATDOBPS",
+    "BYDGBMRNDFITVE",
+    "ECPUERTARAPMAL",
+    "PIAOHOZTTZSHDH",
+    "NPPPHDJNLVNYVT",
+    "PQPADEAEVOSMQI",
+    "ORURYMRVPFSPSE",
+    "YJONABYJYSSMCE",
+    "VSJCXQFKDEESJX"
+  ],
+  "words": [
+    {
+      "word": "ALFOMBRA",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ALMOHADA",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "BANO",
+      "row": 12,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "CAMA",
+      "row": 13,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "COCINA",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "DORMITORIO",
+      "row": 9,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 13,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 7,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "MANTA",
+      "row": 11,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "PUERTA",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VENTANA",
+      "row": 11,
+      "col": 7,
+      "dir": "N"
+    }
+  ]
+}

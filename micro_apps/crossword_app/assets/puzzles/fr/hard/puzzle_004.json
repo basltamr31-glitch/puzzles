@@ -1,0 +1,101 @@
+{
+  "id": "fr_hard_004",
+  "language": "fr",
+  "difficulty": "hard",
+  "title": "Grille 004",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "MONTAGNE",
+      "clue": "Un relief naturel très élevé"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "MONUMENT",
+      "clue": "Une structure construite en l'honneur de quelqu'un"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "ORCHESTRE",
+      "clue": "Un grand groupe de musiciens jouant ensemble"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "MUSCLE",
+      "clue": "Un tissu qui produit le mouvement dans le corps"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "GLACE",
+      "clue": "De l'eau gelée, ou un dessert froid"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "SOCIETE",
+      "clue": "Une grande communauté vivant ensemble"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "FAIT",
+      "clue": "Quelque chose de connu comme vrai"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "answer": "THEATRE",
+      "clue": "Un bâtiment où l'on joue des pièces"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "ECONOMIE",
+      "clue": "Le système de production et d'échange"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "answer": "SCENE",
+      "clue": "Une plate-forme surélevée, ou une phase d'un processus"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "answer": "PERTE",
+      "clue": "L'état de ne plus avoir quelque chose"
+    }
+  ]
+}

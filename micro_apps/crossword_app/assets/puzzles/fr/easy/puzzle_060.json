@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_060",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 060",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "CHAMP",
+      "clue": "Terrain ouvert pour les cultures",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "AMI",
+      "clue": "Une personne que l'on aime et en qui on a confiance",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "FEUILLE",
+      "clue": "Partie verte et plate d'une plante",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "FEU",
+      "clue": "Flammes chaudes et lumineuses",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "LIVRE",
+      "clue": "Pages reliées que l'on lit",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "PERE",
+      "clue": "Parent masculin",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "CHEVAL",
+      "clue": "Grand animal que l'on monte",
+      "category": "animal"
+    }
+  ]
+}

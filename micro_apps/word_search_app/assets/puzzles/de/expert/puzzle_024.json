@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_024",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 23,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "KSMEXFAGDLCNVZ",
+    "VOXVXYHMLAICLH",
+    "BTSAYSOAFUEOKD",
+    "KRZNWYBKHFYYAF",
+    "LDRXUSIMIOLRBA",
+    "DRARSMIAFEJNCM",
+    "ZPDUCRRNEXOBIN",
+    "SEFPHMHNNHFADU",
+    "FTAMAOYITEJWFC",
+    "LVHGCTHATWTHSG",
+    "ZRRKHERWXWZKJH",
+    "LDESTADIONDSAT",
+    "IYNEMMIWHCSGJT",
+    "CXLLABYELLOVOX"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 6,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "FUSSBALL",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 7,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "LAUF",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "MARATHON",
+      "row": 12,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "RADFAHREN",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SCHACH",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SCHWIMMEN",
+      "row": 12,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "STADION",
+      "row": 11,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 9,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 9,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "VOLLEYBALL",
+      "row": 13,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

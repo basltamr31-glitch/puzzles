@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_037",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 36,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "VGCBRIZLHY",
+    "UTDESIJSKW",
+    "KNIELFLCHJ",
+    "NPWREIEHBY",
+    "ODWUUNBAWA",
+    "ELLBOGENWW",
+    "CFYAMEIDZG",
+    "HKGUURNHFT",
+    "EXWCHGOFUL",
+    "LUTHBTEJRA"
+  ],
+  "words": [
+    {
+      "word": "AUGE",
+      "row": 6,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "BAUCH",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BEIN",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ELLBOGEN",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FINGER",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KNIE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KNOECHEL",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

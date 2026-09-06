@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_077",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 76,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "GXPOGZTF",
+    "DOIGTOEK",
+    "FVRQDPTK",
+    "RVENTREH",
+    "OXCOUDEZ",
+    "NFNJAMBE",
+    "TYOSSVEM",
+    "MAPBMVSG"
+  ],
+  "words": [
+    {
+      "word": "COUDE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "DOIGT",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FRONT",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "JAMBE",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TETE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "VENTRE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

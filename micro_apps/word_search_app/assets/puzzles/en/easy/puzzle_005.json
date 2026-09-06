@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_005",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 4,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "KABWGLDB",
+    "YOACHINK",
+    "KTWJLPPK",
+    "NECKCHES",
+    "ELBOWZWO",
+    "EYEWKVZO",
+    "PFSCYSPG",
+    "UHGPREQH"
+  ],
+  "words": [
+    {
+      "word": "CHIN",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ELBOW",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "EYE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KNEE",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "LIP",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "NECK",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

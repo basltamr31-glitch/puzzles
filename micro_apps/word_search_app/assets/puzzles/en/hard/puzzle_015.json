@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_015",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 14,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "ZEEKCCOZQUZD",
+    "YUHKIBICYCLE",
+    "OSEEZCRXFYRS",
+    "GLETMBTICKET",
+    "DSUKIPJDYKUI",
+    "HKHHVACATION",
+    "ZCSIDJJPWNDA",
+    "LFKGPASSPORT",
+    "KQHHLTUYDDTI",
+    "BRMWAXLCAOJO",
+    "ODJANSTATION",
+    "GOAYENRUOJDU"
+  ],
+  "words": [
+    {
+      "word": "BICYCLE",
+      "row": 1,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "DESTINATION",
+      "row": 0,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 11,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PLANE",
+      "row": 7,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SHIP",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "STATION",
+      "row": 10,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TICKET",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "VACATION",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_065",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 64,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "YSHJMDNLHYLCYD",
+    "USIWKCTYWROZHQ",
+    "DBPNAICFBOXREX",
+    "IJPEBFBNJHIWWP",
+    "TVOZNOKXSRKUFT",
+    "OXPMHGZNHESUPN",
+    "ZNOBMCUHKEHQEO",
+    "XFTMOOLIFDNAWW",
+    "BUAVJHUFNOGKOB",
+    "DOMAYDASILIYED",
+    "SQUIRRELEPHANT",
+    "NZSMIBXVPHRMYR",
+    "LJUGRNEARINAVY",
+    "GSCHHWMZBNYQYL"
+  ],
+  "words": [
+    {
+      "word": "BEAR",
+      "row": 8,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "DEER",
+      "row": 7,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "DOLPHIN",
+      "row": 7,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "EAGLE",
+      "row": 6,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 10,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 12,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "HIPPOPOTAMUS",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "LION",
+      "row": 10,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "MOUSE",
+      "row": 6,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PENGUIN",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SQUIRREL",
+      "row": 10,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 13,
+      "col": 7,
+      "dir": "NW"
+    }
+  ]
+}

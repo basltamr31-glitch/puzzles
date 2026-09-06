@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_035",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 34,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "DCGNXIHG",
+    "EHPVCIEL",
+    "SIFORETA",
+    "ERILEPDC",
+    "RLTCZLRI",
+    "TXBAGATE",
+    "COHNPNCR",
+    "MIIZFHMN"
+  ],
+  "words": [
+    {
+      "word": "CIEL",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "DESERT",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "FORET",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ILE",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

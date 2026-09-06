@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_040",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 040",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "KLIMA",
+      "clue": "Langfristiges Muster von Wetterbedingungen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "PLAN",
+      "clue": "Ein detaillierter Vorschlag zur Erledigung von etwas"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "PINGUIN",
+      "clue": "Flugunfähiger Vogel aus kalten Regionen"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "SPIEL",
+      "clue": "Eine Aktivität zum Vergnügen, oft mit Regeln"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "WETTER",
+      "clue": "Zustand der Atmosphäre, heiß, kalt, regnerisch"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "REGEL",
+      "clue": "Eine offizielle Anweisung, wie man sich verhält"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "JACKE",
+      "clue": "Ein kurzer Übermantel"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "ANTWORT",
+      "clue": "Eine Erwiderung auf eine Frage"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "WERT",
+      "clue": "Wie viel etwas wert ist"
+    }
+  ]
+}

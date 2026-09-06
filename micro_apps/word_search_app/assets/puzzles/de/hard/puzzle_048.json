@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_048",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 47,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "WTYZEKAJRBZX",
+    "NFXYXSSMOJBN",
+    "MHATLLWMRFOO",
+    "GDOATEAMAIXX",
+    "KODCZAZUDAEH",
+    "EKOUKCEAFSND",
+    "UBASKETBALLZ",
+    "HCAHCSYXHMHZ",
+    "BFORXGTTRUXJ",
+    "DSCHWIMMENSM",
+    "EIDIMTENNISY",
+    "ZGJJFOGUVLNY"
+  ],
+  "words": [
+    {
+      "word": "BASKETBALL",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BOXEN",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "LAUF",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "RADFAHREN",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "SCHACH",
+      "row": 7,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "SCHWIMMEN",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "STADION",
+      "row": 7,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "TEAM",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 10,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

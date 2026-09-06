@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_065",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 64,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "UFMHIKMCHX",
+    "XSPVWIVRWJ",
+    "HJHEMQZODO",
+    "QTPENCSCOW",
+    "TDPAEGZOTL",
+    "BLPGNPUDIY",
+    "HRMLETTINO",
+    "VBKENEHLNU",
+    "GZYLXIMEEC",
+    "AKZBTIGERW"
+  ],
+  "words": [
+    {
+      "word": "COW",
+      "row": 3,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "EAGLE",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "OWL",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHER",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PENGUIN",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SHEEP",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "TIGER",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

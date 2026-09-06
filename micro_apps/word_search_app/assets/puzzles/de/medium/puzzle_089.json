@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_089",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 88,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "KROKODILWP",
+    "UZLLOEWEZN",
+    "OGMADLERED",
+    "EKGYZFMIBB",
+    "HBYRTIGERX",
+    "FDBMVNEYAX",
+    "UBNRFLYGON",
+    "PLPJTHASEC",
+    "SZLETBYXMX",
+    "RDSKFFIUOJ"
+  ],
+  "words": [
+    {
+      "word": "ADLER",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "DELFIN",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "HASE",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LOEWE",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TIGER",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "ZIEGE",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_079",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 78,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "FUCNOTQCMNNQ",
+    "BGSMALETATCQ",
+    "SLBCNNFLPPCO",
+    "JCAARSIVAHUU",
+    "SORVOHVNSUSJ",
+    "BICICLETAXIZ",
+    "OXOOTREUPTQE",
+    "NMMNTOKOOCEQ",
+    "KRNMMJBVRQME",
+    "RGIVJSPQTGBM",
+    "NLRCETZCEHQQ",
+    "DQJIXBSZLGVE"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BARCO",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BICICLETA",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MALETA",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MAPA",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "PASAPORTE",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "PUERTO",
+      "row": 6,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "TAXI",
+      "row": 5,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "TREN",
+      "row": 7,
+      "col": 4,
+      "dir": "NE"
+    }
+  ]
+}

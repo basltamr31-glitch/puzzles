@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_014",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 13,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "DRCPLOTYXIJIYB",
+    "ASYHJQPAUMBNVD",
+    "JHQDGQCGVKMDOR",
+    "XYBZCMUOVANZZT",
+    "GJFNPCRIRADVZD",
+    "RNMQTORERBMOSP",
+    "KFOROGSFTKAAFT",
+    "FJHRULEEPELTLH",
+    "ZCNCUADNAFUBAX",
+    "HEOPRTYIUBJSXK",
+    "ZFBLPANTALONJQ",
+    "UTXVLHNITECLAC",
+    "ATEUQAHCCXGKKG",
+    "SZIMPERMEABLEJ"
+  ],
+  "words": [
+    {
+      "word": "BUFANDA",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CALCETIN",
+      "row": 11,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "CHAQUETA",
+      "row": 12,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "CINTURON",
+      "row": 12,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "COLLAR",
+      "row": 8,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CORBATA",
+      "row": 2,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "IMPERMEABLE",
+      "row": 13,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANTALON",
+      "row": 10,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PANTUFLAS",
+      "row": 13,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "PULSERA",
+      "row": 9,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "SOMBRERO",
+      "row": 5,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "SUETER",
+      "row": 9,
+      "col": 11,
+      "dir": "NW"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_076",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 75,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "ZTZDVXDC",
+    "HPFFBEHH",
+    "JNELCPNA",
+    "RBNIVFHI",
+    "LKETAPIS",
+    "NETAGERE",
+    "JARDINDT",
+    "MREKFDKU"
+  ],
+  "words": [
+    {
+      "word": "CHAISE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FENETRE",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "JARDIN",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LIT",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TAPIS",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

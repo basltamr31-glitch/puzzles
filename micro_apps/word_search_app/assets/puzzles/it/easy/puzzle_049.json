@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_049",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 48,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "SGUZGFUA",
+    "DELFINOQ",
+    "FLUXRTBU",
+    "CEPXAUZI",
+    "TOOSFEQL",
+    "XNPCFBSA",
+    "ZEBRAATU",
+    "SEVGRVDG"
+  ],
+  "words": [
+    {
+      "word": "AQUILA",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "DELFINO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "LEONE",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "LUPO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

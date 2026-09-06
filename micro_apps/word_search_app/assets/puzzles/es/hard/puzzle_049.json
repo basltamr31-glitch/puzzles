@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_049",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 48,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "FVIPZILBFZPK",
+    "PKUDJXAJCQVZ",
+    "UHSRASSBAPMY",
+    "OZRXDZAUBINI",
+    "ZQZCELEFANTE",
+    "POBOLKTZLGOA",
+    "ENJIRAFALUIX",
+    "CJDPRRZMOISG",
+    "FRDBKTOAANIH",
+    "ASERGITLEONH",
+    "BCKHBKKZAMIO",
+    "ITOROMVOUREY"
+  ],
+  "words": [
+    {
+      "word": "ARDILLA",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CABALLO",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CEBRA",
+      "row": 10,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LEON",
+      "row": 9,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "LOBO",
+      "row": 5,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 9,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "ZORRO",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_089",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 089",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "LUNA",
+      "clue": "Satellite naturale della Terra",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "BAMBINO",
+      "clue": "Essere umano giovane, non ancora adulto",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "LIBRO",
+      "clue": "Pagine rilegate che si leggono",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "LAGO",
+      "clue": "Grande distesa d'acqua circondata da terra",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "PAGINA",
+      "clue": "Un foglio in un libro",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "ORO",
+      "clue": "Metallo prezioso di colore giallo",
+      "category": "nature"
+    }
+  ]
+}

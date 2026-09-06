@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_041",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 40,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "LKOZVVTX",
+    "YCHEVALO",
+    "IYVBAKLU",
+    "TIGREYIR",
+    "FYAEZLOS",
+    "KMOUTONT",
+    "JEBXHIAF",
+    "HHHYHVLI"
+  ],
+  "words": [
+    {
+      "word": "CHEVAL",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LION",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MOUTON",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "OURS",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

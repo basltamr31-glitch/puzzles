@@ -1,0 +1,58 @@
+{
+  "id": "fr_easy_083",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 083",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "LION",
+      "clue": "Grand félin, roi de la savane",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "CANARD",
+      "clue": "Oiseau aquatique qui fait coin-coin",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "REVE",
+      "clue": "Images et pensées pendant le sommeil",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "LAMPE",
+      "clue": "Objet qui donne de la lumière",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "PAPIER",
+      "clue": "Matériau fin utilisé pour écrire",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    }
+  ]
+}

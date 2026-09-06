@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_082",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 81,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "NBLSXSAD",
+    "OTIMUHZT",
+    "TOMATEHZ",
+    "TQONFSUI",
+    "XANZFAPS",
+    "SOPASTEL",
+    "ZIQNXNRF",
+    "UJQAIPAZ"
+  ],
+  "words": [
+    {
+      "word": "LIMON",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MANZANA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PASTEL",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PERA",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SOPA",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

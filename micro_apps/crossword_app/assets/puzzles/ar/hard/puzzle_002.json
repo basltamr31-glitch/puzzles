@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_002",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 002",
+  "rows": 12,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "دولية",
+      "clue": "صفة تتعلق بأكثر من دولة"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 1,
+      "answer": "واجب",
+      "clue": "ما يجب على الشخص القيام به"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "حجم",
+      "clue": "مقدار المساحة التي يشغلها جسم"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "طاقة",
+      "clue": "القدرة على القيام بعمل أو حركة"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "answer": "ظل",
+      "clue": "منطقة مظلمة يحجب فيها الضوء"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "رائحة",
+      "clue": "ما يُحس به عند الشم"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "answer": "حضارة",
+      "clue": "مرحلة متقدمة من تطور مجتمع"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "مسؤولية",
+      "clue": "واجب يجب على الشخص القيام به"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "answer": "مهرجان",
+      "clue": "احتفال كبير يضم فعاليات فنية"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "answer": "احتفال",
+      "clue": "مناسبة يجتمع فيها الناس للفرح"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "answer": "فلسفة",
+      "clue": "دراسة الأسئلة الأساسية حول الوجود"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 11,
+      "answer": "علمية",
+      "clue": "صفة تتعلق بالعلم"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 7,
+      "answer": "عدالة",
+      "clue": "إعطاء كل ذي حق حقه"
+    }
+  ]
+}

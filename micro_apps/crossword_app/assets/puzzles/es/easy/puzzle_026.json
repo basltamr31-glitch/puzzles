@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_026",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 026",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "BEBE",
+      "clue": "Niño muy pequeño",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "BOCA",
+      "clue": "Abertura usada para comer y hablar",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "MADRE",
+      "clue": "Progenitor femenino",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "PIEL",
+      "clue": "Cubierta exterior del cuerpo",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "OSO",
+      "clue": "Animal grande y peludo que vive en el bosque",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "COLOR",
+      "clue": "Rojo, azul, verde u otro tono",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "SOPA",
+      "clue": "Plato líquido caliente, a menudo con verduras",
+      "category": "food"
+    }
+  ]
+}

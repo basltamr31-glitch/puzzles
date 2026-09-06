@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_038",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 37,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "NBCEINTURE",
+    "JTMANTEAUC",
+    "BUZBPOFEFH",
+    "PVYCYUSGVA",
+    "JUICOLLIER",
+    "SYSVVSYLSP",
+    "XICCRAVATE",
+    "MRTBOLFCEC",
+    "CZPZBYAHPH",
+    "KRLIEYUNNF"
+  ],
+  "words": [
+    {
+      "word": "CEINTURE",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "COLLIER",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CRAVATE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ECHARPE",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PULL",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "ROBE",
+      "row": 6,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "VESTE",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

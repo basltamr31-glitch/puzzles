@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_019",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 019",
+  "rows": 7,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "صحيفة",
+      "clue": "مطبوعة يومية تنشر الأخبار"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "مسرح",
+      "clue": "مكان تُعرض فيه المسرحيات"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "نظارة",
+      "clue": "أداة تُوضع على العين لتحسين الرؤية"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "عمل",
+      "clue": "نشاط يقوم به الإنسان لكسب المال"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "شارع",
+      "clue": "طريق عام تسير فيه السيارات"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "فندق",
+      "clue": "مكان يُقيم فيه المسافرون"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "عقل",
+      "clue": "أداة التفكير في الإنسان"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "answer": "قطار",
+      "clue": "وسيلة نقل تسير على سكة حديدية"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "تجارة",
+      "clue": "نشاط بيع وشراء السلع"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "سوق",
+      "clue": "مكان يُباع ويُشترى فيه البضائع"
+    }
+  ]
+}

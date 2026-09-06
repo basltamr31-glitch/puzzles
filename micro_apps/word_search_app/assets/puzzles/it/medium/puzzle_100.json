@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_100",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 99,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "CCDQXDIFTA",
+    "PSRPBISTYM",
+    "PPDOTVGAKA",
+    "LETTOALPOP",
+    "QCUCINAPYP",
+    "BCOXSOQEVU",
+    "AHKTECFTNY",
+    "GIARDINOZD",
+    "NOGAIIKMHE",
+    "OMKPAPIXFT"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 5,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CUCINA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DIVANO",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LETTO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SEDIA",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

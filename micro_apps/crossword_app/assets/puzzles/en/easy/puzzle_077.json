@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_077",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 077",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "CRAB",
+      "clue": "Sea creature that walks sideways",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "VALLEY",
+      "clue": "Low land between hills or mountains",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "DUCK",
+      "clue": "Water bird that quacks",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "TABLE",
+      "clue": "Flat-topped furniture with legs",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "GOAT",
+      "clue": "Horned farm animal known for climbing",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "SAND",
+      "clue": "Tiny loose grains found on beaches and deserts",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "ROCK",
+      "clue": "Hard mineral material, or a large stone",
+      "category": "nature"
+    }
+  ]
+}

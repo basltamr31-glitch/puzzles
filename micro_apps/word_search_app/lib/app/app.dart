@@ -1,0 +1,127 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+
+import '../core/audio/sound_service.dart';
+import '../core/errors/error_handler.dart';
+import '../core/localization/generated/app_localizations.dart';
+import '../core/localization/locale_controller.dart';
+import '../core/localization/supported_locales.dart';
+import '../core/notifications/reminder_controller.dart';
+import '../features/settings/settings_controller.dart';
+import 'app_config.dart';
+import 'router.dart';
+import 'theme/app_theme.dart';
+import 'theme/theme_mode_controller.dart';
+
+/// Root widget. Composes the theme, localization, and router providers
+/// built up across `app/` and `core/` into a single `MaterialApp.router`.
+/// RTL follows automatically from [locale] via Flutter's own
+/// `Localizations`/`Directionality` resolution — no manual direction
+/// handling needed here.
+///
+/// Also owns background-music lifecycle: resumes the player's chosen
+/// track on launch (state itself is passive — nothing else in the
+/// provider graph triggers actual playback as a side effect of being
+/// read), and pauses/resumes it as the app leaves/re-enters the
+/// foreground so music doesn't keep playing over other apps.
+class WordSearchApp extends ConsumerStatefulWidget {
+  const WordSearchApp({super.key});
+
+  @override
+  ConsumerState<WordSearchApp> createState() => _WordSearchAppState();
+}
+
+class _WordSearchAppState extends ConsumerState<WordSearchApp>
+    with WidgetsBindingObserver {
+  /// Last reminder text pushed down to the scheduler, so a rebuild that
+  /// changes nothing doesn't trigger another cancel + schedule round trip.
+  String? _reminderTitle;
+  String? _reminderBody;
+
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addObserver(this);
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      final track = ref.read(settingsControllerProvider).musicTrack;
+      if (track != MusicTrack.off) {
+        ref.read(soundServiceProvider).playMusic(track);
+      }
+    });
+  }
+
+  @override
+  void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
+    super.dispose();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    final soundService = ref.read(soundServiceProvider);
+    switch (state) {
+      case AppLifecycleState.paused:
+      case AppLifecycleState.inactive:
+      case AppLifecycleState.hidden:
+        soundService.pauseMusic();
+      case AppLifecycleState.resumed:
+        soundService.resumeMusic();
+      case AppLifecycleState.detached:
+        break;
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final router = ref.watch(routerProvider);
+    final locale = ref.watch(localeControllerProvider);
+    final themeMode = ref.watch(themeModeControllerProvider);
+
+    return AppErrorBoundary(
+      child: MaterialApp.router(
+        title: AppConfig.appName,
+        debugShowCheckedModeBanner: false,
+        theme: AppTheme.light,
+        darkTheme: AppTheme.dark,
+        themeMode: themeMode,
+        locale: locale,
+        supportedLocales: SupportedLocales.all,
+        localizationsDelegates: const [
+          AppLocalizations.delegate,
+          GlobalMaterialLocalizations.delegate,
+          GlobalWidgetsLocalizations.delegate,
+          GlobalCupertinoLocalizations.delegate,
+        ],
+        routerConfig: router,
+        builder: (context, child) {
+          // The reminder fires long after this app is gone from memory, so
+          // its text must be captured now, while a localized context still
+          // exists.
+          //
+          // Guarded on the text actually changing. `builder` runs on every
+          // route rebuild, and rescheduling performs a cancel + schedule
+          // platform call each time — doing that per build was pure waste
+          // and contributed to gameplay jank.
+          final l10n = AppLocalizations.of(context);
+          final title = l10n.reminderTitle;
+          final body = l10n.reminderBody;
+          if (title != _reminderTitle || body != _reminderBody) {
+            _reminderTitle = title;
+            _reminderBody = body;
+            WidgetsBinding.instance.addPostFrameCallback((_) {
+              if (!mounted) return;
+              ref
+                  .read(reminderStringsProvider.notifier)
+                  .set(ReminderStrings(title: title, body: body));
+              ref
+                  .read(reminderControllerProvider.notifier)
+                  .rescheduleIfEnabled();
+            });
+          }
+          return child ?? const SizedBox.shrink();
+        },
+      ),
+    );
+  }
+}

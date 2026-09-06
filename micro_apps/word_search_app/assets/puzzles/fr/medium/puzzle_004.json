@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_004",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 3,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "BCHGSBRJOS",
+    "YOUHCTNOJT",
+    "YUDCXXHYFH",
+    "ASJGHBAPEN",
+    "GSAGAAGONE",
+    "MIROIRMLEZ",
+    "LNDCCQXBTN",
+    "PLIETAGERE",
+    "FSNSTASSEE",
+    "MYFTAPISAX"
+  ],
+  "words": [
+    {
+      "word": "CHAMBRE",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FENETRE",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "JARDIN",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MIROIR",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAPIS",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TASSE",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

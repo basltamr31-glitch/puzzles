@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_020",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 19,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "EYIHGFEOUASE",
+    "EPANACOTYEVM",
+    "DTJOAAYTCEAD",
+    "KEAOZVETROPJ",
+    "HQFGCJJUVJCT",
+    "TSSXEATAPISX",
+    "MIROIRCGQEUQ",
+    "NIABEDELLASI",
+    "EQJVXIULAXHK",
+    "ICUGZNGRMBPU",
+    "EODEEOBHPLCA",
+    "CUISINETEAYY"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 1,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "COUVERTURE",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CUISINE",
+      "row": 11,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "JARDIN",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPE",
+      "row": 7,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "MIROIR",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PORTE",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SALLEDEBAIN",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "TAPIS",
+      "row": 5,
+      "col": 6,
+      "dir": "E"
+    }
+  ]
+}

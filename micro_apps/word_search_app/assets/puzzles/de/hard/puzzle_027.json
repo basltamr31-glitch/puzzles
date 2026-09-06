@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_027",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 26,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "RIXEXKWWMBKC",
+    "XGHHHEMLGVFF",
+    "KTRWJIBSSNPI",
+    "TAWGFRMGGWRA",
+    "IJNIHLRMLATD",
+    "GNPMEXUIEUEM",
+    "HZXBSSKSTLKS",
+    "SCEXMOETSEUW",
+    "ANBNCKNSCCID",
+    "ADLZLRPNHTET",
+    "IZAOWHTMEERI",
+    "ELWNMDNARTSE"
+  ],
+  "words": [
+    {
+      "word": "FLUSS",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "GLETSCHER",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "HIMMEL",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "MEER",
+      "row": 10,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "NEBEL",
+      "row": 8,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "SONNE",
+      "row": 6,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "STRAND",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "WIESE",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "WOLKE",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "WUESTE",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_044",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 044",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "MOT",
+      "clue": "Une unité de langage avec un sens",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "MUR",
+      "clue": "Structure verticale qui divise une pièce",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "CHAT",
+      "clue": "Animal domestique qui miaule",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "BOUCHE",
+      "clue": "Ouverture utilisée pour manger et parler",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "DESERT",
+      "clue": "Zone sèche et sablonneuse avec peu de pluie",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ARBRE",
+      "clue": "Grande plante avec un tronc et des branches",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "de_easy_028",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 028",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "STIFT",
+      "clue": "Schreibwerkzeug",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "GLAS",
+      "clue": "Hartes, durchsichtiges Fenstermaterial",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "WOLF",
+      "clue": "Wildtier, verwandt mit dem Hund",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "GOLD",
+      "clue": "Wertvolles gelbes Metall",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "WIND",
+      "clue": "Bewegte Luft",
+      "category": "nature"
+    }
+  ]
+}

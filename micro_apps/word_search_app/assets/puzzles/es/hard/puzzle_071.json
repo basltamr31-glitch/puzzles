@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_071",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 70,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "MCFNQFOLRAIB",
+    "GAACTTHBDXMM",
+    "ZULDRVUSRKYF",
+    "AAPESBHVOFPR",
+    "NCUATELCICIB",
+    "APXTSARSQPEV",
+    "MMPAOATUCQXZ",
+    "TAZNBPPLDHNF",
+    "BVACACIONESL",
+    "NIVLMZISRECO",
+    "FOEEQNHTTTJM",
+    "XNVMOCHILAEA"
+  ],
+  "words": [
+    {
+      "word": "AUTOPISTA",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "AVION",
+      "row": 7,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "BARCO",
+      "row": 7,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "BICICLETA",
+      "row": 4,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "MALETA",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 11,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PASAPORTE",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PUERTO",
+      "row": 5,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "TREN",
+      "row": 10,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "VACACIONES",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

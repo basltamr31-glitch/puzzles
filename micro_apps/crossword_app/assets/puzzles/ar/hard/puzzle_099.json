@@ -1,0 +1,101 @@
+{
+  "id": "ar_hard_099",
+  "language": "ar",
+  "difficulty": "hard",
+  "title": "اللغز 099",
+  "rows": 12,
+  "cols": 11,
+  "words": [
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "فلسفة",
+      "clue": "دراسة الأسئلة الأساسية حول الوجود"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 1,
+      "answer": "علم",
+      "clue": "معرفة منظمة تقوم على الملاحظة والتجربة"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "answer": "مساحة",
+      "clue": "مقدار السطح الذي يشغله شيء ما"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "لقاءات",
+      "clue": "جمع لقاء، اجتماعات بين أشخاص"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "answer": "مساجد",
+      "clue": "جمع مسجد، أماكن أداء الصلاة"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "تعليم",
+      "clue": "عملية اكتساب المعرفة والمهارات"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "مجتمع",
+      "clue": "مجموعة كبيرة من الناس تعيش معاً"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "معلومة",
+      "clue": "حقيقة أو بيان يُعرف عن أمر ما"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "حرية",
+      "clue": "القدرة على التصرف دون قيود"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "دراسة",
+      "clue": "عملية تعلم واكتساب المعرفة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "قوة",
+      "clue": "القدرة على القيام بعمل أو التأثير"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "مؤسسة",
+      "clue": "جهة تعمل بشكل منظم لتحقيق أهداف"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "answer": "حساب",
+      "clue": "عملية رياضية أو مالية"
+    }
+  ]
+}

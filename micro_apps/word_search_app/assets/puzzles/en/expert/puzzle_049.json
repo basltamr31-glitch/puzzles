@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_049",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 48,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "DBGJKOMVPPBNAD",
+    "SQUIRRELGAEGYF",
+    "UREEXDSRAWWEWZ",
+    "MDGZGMAZUFCTHP",
+    "AIXOGOUHYDCLNS",
+    "TIBBARBEZOSEVL",
+    "OJSLITSYVZWVQS",
+    "PVBQGFTXHRHKLA",
+    "OYNWMEBHROVWJY",
+    "PLFLOWLYICHEQV",
+    "PENGUINCXKAFMF",
+    "IBMVSZNGUCPQHE",
+    "HORSEVAKWDZWXC",
+    "VLGFQLUXOWVGKV"
+  ],
+  "words": [
+    {
+      "word": "EAGLE",
+      "row": 1,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "GOAT",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "HIPPOPOTAMUS",
+      "row": 12,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "HORSE",
+      "row": 12,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MOUSE",
+      "row": 8,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PENGUIN",
+      "row": 10,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RABBIT",
+      "row": 5,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "SHEEP",
+      "row": 4,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "SQUIRREL",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TIGER",
+      "row": 5,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "WOLF",
+      "row": 9,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 5,
+      "col": 8,
+      "dir": "W"
+    }
+  ]
+}

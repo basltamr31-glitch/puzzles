@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_032",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 31,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "HZDHOMUMEC",
+    "OYLBQMPHNL",
+    "DASQUADRAC",
+    "UMDRRRCGVH",
+    "OPALLAVOLO",
+    "DAYDGTGLVC",
+    "CALCIOPEZK",
+    "ADTENNISEE",
+    "HCORSATMLY",
+    "YZQAYDNOIV"
+  ],
+  "words": [
+    {
+      "word": "CALCIO",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CORSA",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GOL",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "MARATONA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PALLAVOLO",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SQUADRA",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

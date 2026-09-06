@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_023",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 22,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "FKXZYPGXVAVC",
+    "JJATTNEVDUVP",
+    "GLZNOTUAKMOH",
+    "WEAYRHRBRYUW",
+    "VBUALRUTWTAJ",
+    "IVKBHJCAAHFO",
+    "ZGOAJKKXDEUH",
+    "UGFHNESIERSA",
+    "BNFNEFAHGULF",
+    "XWEHBLCZBMWS",
+    "GFROWUKGDMHG",
+    "YESFSHWIOCHN"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 2,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "BAHNHOF",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "FAHRRAD",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "FLUGHAFEN",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "KARTE",
+      "row": 5,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "KOFFER",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "REISE",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "RUCKSACK",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "URLAUB",
+      "row": 4,
+      "col": 6,
+      "dir": "W"
+    }
+  ]
+}

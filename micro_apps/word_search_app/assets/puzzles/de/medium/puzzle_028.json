@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_028",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 27,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "CIUYSUKNKW",
+    "GBETTHIREJ",
+    "YICLUISYGM",
+    "BIDNHRSOFA",
+    "OBFBLCECSS",
+    "BDKAMINGHB",
+    "ZJTSKVXCAN",
+    "PIMNZMUPML",
+    "CXEAXWLJPV",
+    "ABPJBKTUER"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KAMIN",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KISSEN",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "REGAL",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "SOFA",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "STUHL",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TISCH",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TUER",
+      "row": 9,
+      "col": 6,
+      "dir": "E"
+    }
+  ]
+}

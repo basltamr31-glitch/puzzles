@@ -1,0 +1,101 @@
+{
+  "id": "de_hard_055",
+  "language": "de",
+  "difficulty": "hard",
+  "title": "Rätsel 055",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "LANDSCHAFT",
+      "clue": "Die sichtbare Szenerie eines Gebiets"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "IDEE",
+      "clue": "Ein Gedanke oder Plan"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "STEUER",
+      "clue": "Geld, das der Regierung geschuldet wird"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "ORCHESTER",
+      "clue": "Eine große Gruppe von Musikern"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "BEREICH",
+      "clue": "Die Spanne zwischen zwei Grenzen"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "TASTATUR",
+      "clue": "Satz von Tasten zum Tippen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "answer": "CHARAKTER",
+      "clue": "Eine Figur in einer Geschichte"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "LITERATUR",
+      "clue": "Für ihren künstlerischen Wert geschätzte Schriften"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 12,
+      "answer": "ERFINDUNG",
+      "clue": "Ein neu geschaffenes Gerät oder Verfahren"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "answer": "MACHT",
+      "clue": "Die Fähigkeit, etwas zu tun oder zu kontrollieren"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "MUSKEL",
+      "clue": "Gewebe, das Bewegung im Körper erzeugt"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "SATZ",
+      "clue": "Eine Gruppe von Wörtern mit vollständigem Sinn"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    }
+  ]
+}

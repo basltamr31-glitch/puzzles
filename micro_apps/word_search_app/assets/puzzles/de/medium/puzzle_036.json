@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_036",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 35,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "LDGILBCXDI",
+    "KWKISSENUX",
+    "AKYOPOICOK",
+    "OUUGIFUUYU",
+    "YCLAEAEJWE",
+    "RWLRGCGUDC",
+    "GVBTEPPICH",
+    "NBKELTASSE",
+    "KCMNEVTLAL",
+    "LCFENSTERY"
+  ],
+  "words": [
+    {
+      "word": "FENSTER",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GARTEN",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KUECHE",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TASSE",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_036",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 35,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "ILZLHGQYOZYPQX",
+    "YCAMINETTOPVIC",
+    "TVNMDNTPANZTOC",
+    "HRMXPEIOPIPNXD",
+    "IEAULAGRPDDAEF",
+    "SERMSGDTERMEID",
+    "SPULFYAATAOESC",
+    "IKQZBAGNOINUYL",
+    "IUSHZVOIHGAVSZ",
+    "SUPTETYCHKVXAH",
+    "RNDBGACUSCINOD",
+    "MVLPTEICHLDKON",
+    "DKETPGYMPXUDHF",
+    "RZPSVXZLPSUSYP"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CAMINETTO",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CUCINA",
+      "row": 11,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 10,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "DIVANO",
+      "row": 11,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 8,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "LETTO",
+      "row": 4,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "PORTA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SEDIA",
+      "row": 6,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 13,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

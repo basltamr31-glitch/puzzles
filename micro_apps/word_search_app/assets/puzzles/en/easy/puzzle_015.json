@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_015",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 14,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "NOBHYBKX",
+    "HQCVSHIP",
+    "IGQMTMVH",
+    "GOLTAXIA",
+    "HSCMTYZR",
+    "WTRAINBW",
+    "ARRPOFTW",
+    "YIFMNLVA"
+  ],
+  "words": [
+    {
+      "word": "HIGHWAY",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SHIP",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "STATION",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

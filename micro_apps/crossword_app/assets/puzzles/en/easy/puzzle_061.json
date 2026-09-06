@@ -1,0 +1,50 @@
+{
+  "id": "en_easy_061",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 061",
+  "rows": 6,
+  "cols": 5,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "ROAD",
+      "clue": "A route cars and people travel on",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "BREAD",
+      "clue": "Baked food made from flour and water",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "BEAR",
+      "clue": "Large furry animal that lives in the woods",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "BABY",
+      "clue": "Very young child",
+      "category": "people"
+    }
+  ]
+}

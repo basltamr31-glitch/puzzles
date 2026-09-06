@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_098",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 97,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "QFPNRXCZORPOSV",
+    "KCCORANGEDHZQX",
+    "GLBLEAADUYSYAM",
+    "TSIETTTDDZBPYH",
+    "FUIMTSXERTSIJL",
+    "FJPRUALWKTRDTE",
+    "WQUEBPLXYCDXBV",
+    "BAOTPHEOXDJIGC",
+    "KPSANDWICHCMRM",
+    "IBYWSCCBLOMLQT",
+    "UPSYOCPKFSHGUI",
+    "KCLRGAIFTTUCEW",
+    "TIPIWKEUCMEWNT",
+    "GXRIJESEEHCHTE"
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "BUTTER",
+      "row": 6,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "CAKE",
+      "row": 10,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CHEESE",
+      "row": 13,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 11,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "COFFEE",
+      "row": 8,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "MILK",
+      "row": 4,
+      "col": 3,
+      "dir": "NW"
+    },
+    {
+      "word": "ORANGE",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PASTA",
+      "row": 6,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOUP",
+      "row": 8,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "WATERMELON",
+      "row": 9,
+      "col": 3,
+      "dir": "N"
+    }
+  ]
+}

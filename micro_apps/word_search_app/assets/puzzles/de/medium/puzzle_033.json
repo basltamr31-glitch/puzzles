@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_033",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 32,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "KFKROKODIL",
+    "HUUNBCZEIR",
+    "FHPOIYGLPJ",
+    "KUTAEMHFGG",
+    "CNCZNRYIJD",
+    "EDXHETHNGE",
+    "KWDVSCHAFU",
+    "DXWGKAMELJ",
+    "ZLNVLOXLRF",
+    "ZEKSDHYGDS"
+  ],
+  "words": [
+    {
+      "word": "BIENE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "DELFIN",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "FUCHS",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "HUND",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "KAMEL",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANTHER",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SCHAF",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

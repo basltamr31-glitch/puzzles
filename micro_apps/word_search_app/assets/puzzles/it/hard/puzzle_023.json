@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_023",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 22,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "VKFOMLKMEOOR",
+    "TCSNLYGCUNUB",
+    "ATTELCICIBHL",
+    "UCGEYXTAXICY",
+    "TKRGATZELGIY",
+    "OUMONTTRCLZD",
+    "SYYNVTPEFIZQ",
+    "TUSTAZIONERT",
+    "RSQDOVYHRTER",
+    "AVQGYSEVCTER",
+    "DUQGBTQSQOOU",
+    "ATTVXUFNLTFT"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "AUTOSTRADA",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BICICLETTA",
+      "row": 2,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "BIGLIETTO",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "NAVE",
+      "row": 6,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PORTO",
+      "row": 6,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "STAZIONE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "TRENO",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "ZAINO",
+      "row": 4,
+      "col": 6,
+      "dir": "NE"
+    }
+  ]
+}

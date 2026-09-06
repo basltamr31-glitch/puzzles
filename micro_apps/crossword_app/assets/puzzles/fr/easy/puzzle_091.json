@@ -1,0 +1,58 @@
+{
+  "id": "fr_easy_091",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 091",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "BOIS",
+      "clue": "Matériau dont sont faits les arbres",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "SABLE",
+      "clue": "Petits grains présents sur les plages",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "MOIS",
+      "clue": "Une des douze divisions de l'année",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "PIERRE",
+      "clue": "Un petit morceau de roche",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "BRAS",
+      "clue": "Membre entre l'épaule et la main",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "ROI",
+      "clue": "Souverain masculin d'un royaume",
+      "category": "people"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_021",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 20,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "PSITTECEIH",
+    "INPOQFZUEL",
+    "LSVVERRUFV",
+    "GJUMENTONM",
+    "MOOEKDRRNR",
+    "DZEIPQOENT",
+    "LZSYCAGILN",
+    "RPGENOULGV",
+    "AYUXJJULJT",
+    "KNCJAMBEEV"
+  ],
+  "words": [
+    {
+      "word": "COU",
+      "row": 6,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "DOIGT",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "EPAULE",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "FRONT",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "GENOU",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "JAMBE",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MENTON",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "OREILLE",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

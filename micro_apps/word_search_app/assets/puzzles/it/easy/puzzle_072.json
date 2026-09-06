@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_072",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 71,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "ESDXRGHU",
+    "GTENNISP",
+    "OARKSXQC",
+    "TDVZINUX",
+    "TICORSAB",
+    "BOXEQKDY",
+    "BGOLIZRT",
+    "ESLERTAR"
+  ],
+  "words": [
+    {
+      "word": "BOXE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CORSA",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GOL",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SQUADRA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "STADIO",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

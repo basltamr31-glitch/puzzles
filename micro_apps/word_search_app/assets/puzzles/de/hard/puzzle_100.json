@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_100",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 99,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "PMWFMVEVXYHS",
+    "RYXLHUTSKAYT",
+    "STPLADGKTUER",
+    "GXYFUMFNXHNW",
+    "ZZASXHPHCZBW",
+    "FGEAEKCEDZNF",
+    "EECRPSUXAPEV",
+    "NESSIKOAEABB",
+    "SDNTZVFFOTVL",
+    "THNDEGEBATSP",
+    "ESVUHDENRZHL",
+    "REMMIZEDABOS"
+  ],
+  "words": [
+    {
+      "word": "BADEZIMMER",
+      "row": 11,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "DECKE",
+      "row": 5,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "FENSTER",
+      "row": 5,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 7,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "KUECHE",
+      "row": 7,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "LAMPE",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SOFA",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "STUHL",
+      "row": 1,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "TISCH",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "TUER",
+      "row": 2,
+      "col": 8,
+      "dir": "E"
+    }
+  ]
+}

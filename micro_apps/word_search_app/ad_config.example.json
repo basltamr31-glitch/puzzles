@@ -1,0 +1,8 @@
+{
+  "_comment": "Copy this file to ad_config.json and paste your real AdMob ad unit IDs. ad_config.json is gitignored so your IDs never end up in source control. Build with: flutter build appbundle --release --dart-define-from-file=ad_config.json",
+  "_note_app_id": "The AdMob APP ID (the one with a ~) does NOT go here. It belongs in android/app/src/main/AndroidManifest.xml.",
+
+  "BANNER_AD_UNIT_ID": "ca-app-pub-0000000000000000/0000000000",
+  "INTERSTITIAL_AD_UNIT_ID": "ca-app-pub-0000000000000000/0000000000",
+  "REWARDED_AD_UNIT_ID": "ca-app-pub-0000000000000000/0000000000"
+}

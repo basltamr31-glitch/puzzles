@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_026",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 026",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "عقل",
+      "clue": "أداة التفكير في الإنسان"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "حديقة",
+      "clue": "مكان به أشجار وزهور للنزهة"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "صحيفة",
+      "clue": "مطبوعة يومية تنشر الأخبار"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "محطة",
+      "clue": "مكان توقف القطارات أو الحافلات"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "جامعة",
+      "clue": "مؤسسة تعليمية للدراسات العليا"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "قصة",
+      "clue": "سرد لأحداث خيالية أو واقعية"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "طبيب",
+      "clue": "شخص متخصص في علاج المرضى"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "برنامج",
+      "clue": "خطة منظمة لتنفيذ أنشطة معينة"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "ميدان",
+      "clue": "ساحة واسعة في المدينة"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 6,
+      "answer": "قوة",
+      "clue": "القدرة على القيام بعمل أو التأثير"
+    }
+  ]
+}

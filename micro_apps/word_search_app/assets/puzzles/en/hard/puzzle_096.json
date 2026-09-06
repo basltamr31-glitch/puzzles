@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_096",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 95,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "EGNJUYVERGOC",
+    "FDRVERUKUOPB",
+    "YHWEYMRBOVSS",
+    "YVCMFCBAECKD",
+    "ZAISAEUSCMEA",
+    "IWHYRRRKFEYQ",
+    "SSEHCJAEHBBB",
+    "NLATHLETEROR",
+    "OJNQEAQBHLXG",
+    "DFCGRIWAEOII",
+    "XBSZYAYLWTNX",
+    "DHWYRXMLAOGX"
+  ],
+  "words": [
+    {
+      "word": "ARCHERY",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BASKETBALL",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BOXING",
+      "row": 6,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "CHESS",
+      "row": 6,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "GOAL",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "MARATHON",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "RACE",
+      "row": 2,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "REFEREE",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SWIM",
+      "row": 6,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

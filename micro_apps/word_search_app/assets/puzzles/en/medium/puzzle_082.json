@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_082",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 81,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "WMSHRSVINY",
+    "DGYURCCQYY",
+    "YWRPCOOKIE",
+    "NSEAUDFPDY",
+    "QRZNPNFADD",
+    "QAZCHEESEG",
+    "ZORANGETRU",
+    "MILKSVHAFJ",
+    "NXREYLVMMR",
+    "YHWZVYBZDN"
+  ],
+  "words": [
+    {
+      "word": "CHEESE",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "COFFEE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "COOKIE",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "GRAPE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MILK",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ORANGE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PASTA",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_092",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 91,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "RAMPHDHJFRTBIG",
+    "ECJGPEEKTRBURZ",
+    "MJJGSESLSKSTVA",
+    "MCUIWMIMIATGGP",
+    "IDHKTASSEDLYRJ",
+    "ZNLHUTSWWVDLEK",
+    "FENSTERXKKYHNF",
+    "ATNDNUCLFGEPCS",
+    "LREZADAHZAGZHN",
+    "HAPKXMOFECPGPX",
+    "CGGLPHJKOOEUOK",
+    "STUERMJGKSRAFU",
+    "IENIRJMRELZKBA",
+    "TGSMLNDGRUFPEE"
+  ],
+  "words": [
+    {
+      "word": "FENSTER",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GARTEN",
+      "row": 10,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "KISSEN",
+      "row": 2,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "KUECHE",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "LAMPE",
+      "row": 7,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "REGAL",
+      "row": 12,
+      "col": 4,
+      "dir": "NW"
+    },
+    {
+      "word": "SCHLAFZIMMER",
+      "row": 11,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "SOFA",
+      "row": 11,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "STUHL",
+      "row": 5,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "TASSE",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TISCH",
+      "row": 13,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "TUER",
+      "row": 11,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

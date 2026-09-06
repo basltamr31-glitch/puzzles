@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_021",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 021",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "VERDE",
+      "clue": "Colore dell'erba e delle foglie",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "SALE",
+      "clue": "Condimento bianco che rende saporito il cibo",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "CAPELLI",
+      "clue": "Ciò che cresce sulla testa",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "PANE",
+      "clue": "Alimento cotto a base di farina e acqua",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "FIUME",
+      "clue": "Grande corso d'acqua naturale",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "MARE",
+      "clue": "Grande distesa d'acqua salata",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

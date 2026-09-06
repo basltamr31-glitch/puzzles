@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_060",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 060",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "MILCH",
+      "clue": "Weiße Flüssigkeit von Kühen",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "HAAR",
+      "clue": "Strähnen, die aus der Haut wachsen",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "MOND",
+      "clue": "Erdtrabant, der nachts leuchtet",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "HOLZ",
+      "clue": "Material, aus dem Bäume bestehen",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "HAUS",
+      "clue": "Gebäude, in dem man wohnt",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "HAUT",
+      "clue": "Äußere Hülle des Körpers",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "SEITE",
+      "clue": "Ein Blatt in einem Buch",
+      "category": "object"
+    }
+  ]
+}

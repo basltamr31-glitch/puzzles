@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_013",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 013",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "LIBRO",
+      "clue": "Pagine rilegate che si leggono",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "FUOCO",
+      "clue": "Fiamme calde e luminose",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "PELLE",
+      "clue": "Involucro esterno del corpo",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "PIEDE",
+      "clue": "Parte del corpo alla fine della gamba",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "TOPO",
+      "clue": "Piccolo roditore dalla coda lunga",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "GATTO",
+      "clue": "Felino domestico che miagola",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "GAMBA",
+      "clue": "Arto usato per camminare",
+      "category": "body"
+    }
+  ]
+}

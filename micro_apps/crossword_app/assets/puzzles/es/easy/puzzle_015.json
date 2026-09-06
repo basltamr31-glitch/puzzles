@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_015",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 015",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "OJO",
+      "clue": "Órgano usado para ver",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "TIBURON",
+      "clue": "Gran pez depredador de dientes afilados",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "PERRO",
+      "clue": "Animal doméstico fiel que ladra",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "PEZ",
+      "clue": "Animal acuático que respira por branquias",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "RIO",
+      "clue": "Gran corriente natural de agua",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ROJO",
+      "clue": "Color de la sangre o un tomate maduro",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "OSO",
+      "clue": "Animal grande y peludo que vive en el bosque",
+      "category": "animal"
+    }
+  ]
+}

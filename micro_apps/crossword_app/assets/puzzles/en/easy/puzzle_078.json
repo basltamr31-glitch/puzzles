@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_078",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 078",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "LEAF",
+      "clue": "Flat green part of a plant",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "GLASS",
+      "clue": "Hard, clear material used for windows",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "SNAKE",
+      "clue": "Legless reptile that slithers",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "STONE",
+      "clue": "A small piece of rock",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "EARTH",
+      "clue": "The planet we live on",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SEA",
+      "clue": "A large body of salt water",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "ANT",
+      "clue": "Small hardworking insect that lives in colonies",
+      "category": "animal"
+    }
+  ]
+}

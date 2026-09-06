@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_037",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 037",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "HORSE",
+      "clue": "Large animal people ride",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "HOUR",
+      "clue": "A unit of time equal to sixty minutes",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "RICE",
+      "clue": "Small white grain, a staple food",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "TIME",
+      "clue": "What clocks measure",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "CHAIR",
+      "clue": "Piece of furniture you sit on, with a back",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "TREE",
+      "clue": "Tall plant with a trunk, branches, and leaves",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "CAT",
+      "clue": "Common household pet that meows",
+      "category": "animal"
+    }
+  ]
+}

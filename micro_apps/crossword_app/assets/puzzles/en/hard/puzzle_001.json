@@ -1,0 +1,101 @@
+{
+  "id": "en_hard_001",
+  "language": "en",
+  "difficulty": "hard",
+  "title": "Puzzle 001",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "DICTIONARY",
+      "clue": "A book that lists words and their meanings"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 10,
+      "answer": "GRAVITY",
+      "clue": "The force that pulls objects toward each other"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "MICROSCOPE",
+      "clue": "Instrument used to view very small objects"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 8,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 5,
+      "answer": "LEVEL",
+      "clue": "A particular standard or height"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "INVENTION",
+      "clue": "A newly created device or process"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 10,
+      "answer": "TAX",
+      "clue": "Money owed to the government"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "CASE",
+      "clue": "An instance of something, or a container"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "answer": "SYMPHONY",
+      "clue": "A long musical composition for orchestra"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 10,
+      "answer": "SKY",
+      "clue": "The space above the earth, seen from the ground"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "VOLCANO",
+      "clue": "A mountain that can erupt with lava"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 1,
+      "answer": "POWER",
+      "clue": "The ability to do or control something"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "AREA",
+      "clue": "A particular region or part of something"
+    }
+  ]
+}

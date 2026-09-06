@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_007",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 6,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "VEIOPASSEPORTB",
+    "AHUBNEJTEKMELM",
+    "LUDVIRUODTRUGR",
+    "IZPCAOBTXSLOCP",
+    "SNXERPDFHFQNOV",
+    "EPKOTOEMIGKOKF",
+    "CBTJTRGGPZXRNT",
+    "NUALUTAIILYUIV",
+    "AUXTARYCRBQDHJ",
+    "CAILEEOHOTUZGH",
+    "AOXQPAVAOHZAHO",
+    "VZVJIOUBDEAHGF",
+    "VEJDFQTXBBHAXS",
+    "LRTBHJZRQKURKL"
+  ],
+  "words": [
+    {
+      "word": "AEROPORT",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "AUTOROUTE",
+      "row": 8,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "BATEAU",
+      "row": 6,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CARTE",
+      "row": 8,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "GARE",
+      "row": 6,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "PASSEPORT",
+      "row": 0,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TRAIN",
+      "row": 5,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "VACANCES",
+      "row": 11,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "VALISE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VOITURE",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 10,
+      "col": 6,
+      "dir": "N"
+    }
+  ]
+}

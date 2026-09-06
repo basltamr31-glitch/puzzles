@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_071",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 071",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "LATTE",
+      "clue": "Liquido bianco che viene dalle mucche",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "SABBIA",
+      "clue": "Piccoli granelli sciolti sulle spiagge",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "CAVALLO",
+      "clue": "Grande animale su cui si cavalca",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "APE",
+      "clue": "Insetto che ronza e produce miele",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "BRACCIO",
+      "clue": "Arto tra la spalla e la mano",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "BLU",
+      "clue": "Colore di un cielo sereno",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "ORA",
+      "clue": "Un'unità di tempo di sessanta minuti",
+      "category": "time"
+    }
+  ]
+}

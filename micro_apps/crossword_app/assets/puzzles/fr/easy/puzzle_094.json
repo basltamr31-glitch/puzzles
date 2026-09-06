@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_094",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 094",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "BRAS",
+      "clue": "Membre entre l'épaule et la main",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "SOUPE",
+      "clue": "Plat liquide chaud, souvent avec des légumes",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ABEILLE",
+      "clue": "Insecte qui bourdonne et fait du miel",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "SOLEIL",
+      "clue": "Étoile au centre de notre système solaire",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "SEL",
+      "clue": "Assaisonnement blanc qui relève les plats",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "MERE",
+      "clue": "Parent féminin",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "ILE",
+      "clue": "Terre entièrement entourée d'eau",
+      "category": "place"
+    }
+  ]
+}

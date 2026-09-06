@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_012",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 11,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "JSIXHPYS",
+    "NIJCFBKC",
+    "CLAMPARA",
+    "OLRIFNHM",
+    "CADQHOCA",
+    "ILICAIUX",
+    "NZNRAXGD",
+    "ADYIFGXK"
+  ],
+  "words": [
+    {
+      "word": "BANO",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CAMA",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "COCINA",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "JARDIN",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SILLA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

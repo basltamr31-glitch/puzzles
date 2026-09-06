@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_043",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 42,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "QMCCMOVEPXXT",
+    "OYNANRZGESAE",
+    "CFESQYYSEOMR",
+    "SYBCMFNXQXSC",
+    "UPBAOCSOBSCI",
+    "BZITFAPPDTKS",
+    "XYAAOIGIEXCF",
+    "QRNTGLPESBEF",
+    "PQNOLGUTEYVC",
+    "HEFVILIRRPUY",
+    "VDLIANGATNOM",
+    "HVSDULRZORIT"
+  ],
+  "words": [
+    {
+      "word": "BOSCO",
+      "row": 4,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "CASCATA",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "DESERTO",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MONTAGNA",
+      "row": 10,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PIETRA",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PRATO",
+      "row": 8,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "SPIAGGIA",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "VENTO",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

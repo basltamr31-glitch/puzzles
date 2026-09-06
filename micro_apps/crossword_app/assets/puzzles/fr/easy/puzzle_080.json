@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_080",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 080",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "ABEILLE",
+      "clue": "Insecte qui bourdonne et fait du miel",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "ARGENT",
+      "clue": "Métal précieux gris et brillant",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "MERE",
+      "clue": "Parent féminin",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "VERT",
+      "clue": "Couleur de l'herbe et des feuilles",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "TEMPS",
+      "clue": "Ce que les horloges mesurent",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "MOIS",
+      "clue": "Une des douze divisions de l'année",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    }
+  ]
+}

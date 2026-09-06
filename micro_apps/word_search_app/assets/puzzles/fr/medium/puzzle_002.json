@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_002",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 1,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "NXCMLLYDCU",
+    "RQREBBVRRY",
+    "UUYBOAMBEH",
+    "PCFVSNLIPX",
+    "OSQFRAISEN",
+    "MUMCSNLCBL",
+    "MIGATEAUKX",
+    "ESRGZVIIZE",
+    "DZDSGSTTLN",
+    "ZBYIMBCNMV"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CREPE",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "FRAISE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GATEAU",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LAIT",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MIEL",
+      "row": 2,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "POMME",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_063",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 62,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "GFKEVCGBACXD",
+    "DAKNOIVAYOYG",
+    "MSDEXYAEICAV",
+    "KJAJPPVRCHIK",
+    "EVACACIONESY",
+    "LSDMSXBPLYFU",
+    "KLNPADDUYEHP",
+    "SGKTPLAEGCVS",
+    "BARCONERTYHL",
+    "IFTVRPMTFLIH",
+    "CVKXTOMOAMQV",
+    "QIFMEZKHZPOZ"
+  ],
+  "words": [
+    {
+      "word": "AEROPUERTO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "AVION",
+      "row": 1,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "BARCO",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COCHE",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "MALETA",
+      "row": 5,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "MAPA",
+      "row": 5,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "PASAPORTE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 7,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "TREN",
+      "row": 8,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "VACACIONES",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

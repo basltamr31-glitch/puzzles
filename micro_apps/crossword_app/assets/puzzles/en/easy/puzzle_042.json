@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_042",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 042",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "TIGER",
+      "clue": "Large striped wild cat",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "SILVER",
+      "clue": "Shiny precious gray-white metal",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "SEA",
+      "clue": "A large body of salt water",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "LEMON",
+      "clue": "Sour yellow citrus fruit",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "SNOW",
+      "clue": "Frozen white flakes that fall in winter",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "SUN",
+      "clue": "Star at the center of our solar system",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "SWIM",
+      "clue": "To move through water using your body",
+      "category": "action"
+    }
+  ]
+}

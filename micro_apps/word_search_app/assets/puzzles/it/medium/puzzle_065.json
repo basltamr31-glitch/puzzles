@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_065",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 64,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "XOLMRKUNSZ",
+    "GSCGZFSCBG",
+    "NGPCCGNCRQ",
+    "VCAKAQAAHV",
+    "LCLUPOCMBV",
+    "OGUORSOMSL",
+    "ELEFANTELE",
+    "EECONIGLIO",
+    "PFOPUNYLVN",
+    "PINGUINOTE"
+  ],
+  "words": [
+    {
+      "word": "CAMMELLO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CAPRA",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CONIGLIO",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LEONE",
+      "row": 5,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "LUPO",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ORSO",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

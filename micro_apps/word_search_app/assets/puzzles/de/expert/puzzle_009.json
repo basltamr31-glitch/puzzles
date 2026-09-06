@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_009",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 8,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "FNSNJBGLONHUJM",
+    "OYOOIAMTAIKZCC",
+    "HAEXSFIDIUASGW",
+    "AOWXICLZOGMRAL",
+    "RPCRBETEBNEDSO",
+    "XXSKROKODILRBX",
+    "GNGVMIZKBPEIKU",
+    "CXZFDRKRHWFXOM",
+    "KOGFCYVWEUAZGK",
+    "FIMEEVYOCHNEXO",
+    "SLRSBJLHJNTDRO",
+    "IBTJWISIBMNNJM",
+    "EMHKKLNXIEZTAK",
+    "TIWCLPJKBFBHLP"
+  ],
+  "words": [
+    {
+      "word": "ADLER",
+      "row": 1,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "DELFIN",
+      "row": 5,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "ELEFANT",
+      "row": 4,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "FUCHS",
+      "row": 7,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "HUND",
+      "row": 7,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "KAMEL",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "KATZE",
+      "row": 12,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LOEWE",
+      "row": 10,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "PANTHER",
+      "row": 13,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 6,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "TIGER",
+      "row": 1,
+      "col": 7,
+      "dir": "SE"
+    }
+  ]
+}

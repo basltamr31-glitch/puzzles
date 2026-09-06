@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_053",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 52,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "HOKEBGNDGUSS",
+    "MRDKKQUOFHZZ",
+    "LSEVYMMUHMEO",
+    "OBOUZHECYATU",
+    "CFTVDDOTFNLK",
+    "CBHBZBQCEOLQ",
+    "HRRXYLZMRSPF",
+    "IAHRXFCGIKTX",
+    "OCAMOTSPALLA",
+    "FCVDTDPVCMTY",
+    "PIEDEPTMOFBO",
+    "AORECCHIONEA"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GAMBA",
+      "row": 7,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "MANO",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "MENTO",
+      "row": 6,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 11,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDE",
+      "row": 10,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SPALLA",
+      "row": 8,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "STOMACO",
+      "row": 8,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "TESTA",
+      "row": 4,
+      "col": 7,
+      "dir": "SE"
+    }
+  ]
+}

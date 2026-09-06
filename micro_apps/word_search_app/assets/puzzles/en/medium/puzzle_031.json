@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_031",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 30,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "MSPNCXTURR",
+    "YRUAXBKUVJ",
+    "WFMISULUNE",
+    "WBHZTSMFOG",
+    "YNIDVCPSCZ",
+    "IYGCOMAOAI",
+    "EIHZYWPSRN",
+    "RRWVACXZET",
+    "XMAIGPLANE",
+    "PEYHEDDEMW"
+  ],
+  "words": [
+    {
+      "word": "BICYCLE",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "BUS",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CAR",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PLANE",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SUITCASE",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

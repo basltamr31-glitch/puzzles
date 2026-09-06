@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_055",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 54,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "BIZMBFZY",
+    "CHIGHWAY",
+    "XLUDTADY",
+    "NVOYAGEJ",
+    "HXWOXJIA",
+    "XDSHIPXN",
+    "HARBORKQ",
+    "STATIONU"
+  ],
+  "words": [
+    {
+      "word": "HARBOR",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SHIP",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STATION",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

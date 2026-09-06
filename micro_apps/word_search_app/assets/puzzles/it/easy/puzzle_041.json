@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_041",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 40,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "LSLUPOTT",
+    "ZDECANEQ",
+    "QEOTNUIU",
+    "ILNITOEP",
+    "UFEGEOCO",
+    "HICRRZNH",
+    "CNLEAAPF",
+    "BOQGQXXB"
+  ],
+  "words": [
+    {
+      "word": "CANE",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "DELFINO",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "LEONE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "LUPO",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANTERA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

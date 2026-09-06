@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_085",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 84,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "ZJDXMAEPFLEC",
+    "EPAULELLIERO",
+    "JDPMECNEXEZB",
+    "JSARBOOTSMDX",
+    "ZGTETEMUONEG",
+    "VFVYBTCQDNCT",
+    "ZFRJOUQDNEKP",
+    "EYTLRFPNTOZG",
+    "MERKDFVCUFEZ",
+    "DKHTIVPLFFBS",
+    "JEELZNUKRJHF",
+    "AHMGCAAIUZHR"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 3,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "COUDE",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "EPAULE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GENOU",
+      "row": 4,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "JAMBE",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MENTON",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "OEIL",
+      "row": 3,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "OREILLE",
+      "row": 1,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PIED",
+      "row": 0,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "TETE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

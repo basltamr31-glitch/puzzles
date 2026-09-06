@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_044",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 43,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "ICUISINEMS",
+    "CHEMINEEDO",
+    "HADPITETBT",
+    "LMSVPRAAGZ",
+    "NBMALKOPCK",
+    "DRXHIXXIUD",
+    "FENETRESRP",
+    "TOXDTDLDYV",
+    "BCUOMKTNPY",
+    "LJCOUSSINJ"
+  ],
+  "words": [
+    {
+      "word": "CHAMBRE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CHEMINEE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CUISINE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FENETRE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LIT",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MIROIR",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "TAPIS",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

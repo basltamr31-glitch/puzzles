@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_038",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 37,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "VTJORMZDBVRG",
+    "LEJHZCYLSPBU",
+    "ZTSZECORBATA",
+    "LATTCGTLNNYN",
+    "FQPCIOVYLTMT",
+    "ZVSANDALIASE",
+    "XOCSTDOVZLRP",
+    "BPJUUIXQVOYL",
+    "KGHERRLAONLG",
+    "GPGTOBXLCJMT",
+    "MNTENULXARLH",
+    "EBORERBMOSDU"
+  ],
+  "words": [
+    {
+      "word": "CINTURON",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "COLLAR",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "CORBATA",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "GUANTE",
+      "row": 0,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "PANTALON",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALIAS",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOMBRERO",
+      "row": 11,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SUETER",
+      "row": 6,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "ZAPATILLAS",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

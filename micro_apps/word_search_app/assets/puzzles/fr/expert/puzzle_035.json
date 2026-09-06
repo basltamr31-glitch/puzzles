@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_035",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 34,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "ETEZPVZAAPTJIS",
+    "OHKMNHUMMDPGBE",
+    "UMLEICNECRAJLR",
+    "IPTINJXGLACIER",
+    "OTOUOGXPPLEGOE",
+    "UQILQDARILIJSI",
+    "GMOPUFETOIAURP",
+    "ZDHGJYGSNUAGEN",
+    "AXPECZPPEOZREF",
+    "IEJOQDHKRRMHXQ",
+    "ISRSPNUVBBTGVX",
+    "RZMPLEDBRZQMBM",
+    "KYVGDJBKALQSCZ",
+    "UAPXCFQKHOBLXI"
+  ],
+  "words": [
+    {
+      "word": "ARBRE",
+      "row": 12,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "ARCENCIEL",
+      "row": 2,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "BROUILLARD",
+      "row": 10,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "DESERT",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 8,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "GLACIER",
+      "row": 3,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "MONTAGNE",
+      "row": 9,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "NUAGE",
+      "row": 7,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "PIERRE",
+      "row": 6,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "PLAGE",
+      "row": 4,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "PLUIE",
+      "row": 6,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 7,
+      "col": 7,
+      "dir": "NE"
+    }
+  ]
+}

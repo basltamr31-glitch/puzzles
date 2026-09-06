@@ -1,0 +1,122 @@
+{
+  "id": "en_expert_088",
+  "language": "en",
+  "difficulty": "expert",
+  "title": "Puzzle 088",
+  "rows": 14,
+  "cols": 14,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "INDEPENDENCE",
+      "clue": "Freedom from outside control"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "CONSEQUENCE",
+      "clue": "A result or effect of an action"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "answer": "INSPIRATION",
+      "clue": "A sudden creative or motivating influence"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "answer": "LOGIC",
+      "clue": "Reasoning conducted according to strict rules"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "INTERNATIONAL",
+      "clue": "Involving more than one country"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "RANGE",
+      "clue": "The extent between limits"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "ANNIVERSARY",
+      "clue": "The yearly return of a special date"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 4,
+      "answer": "AIR",
+      "clue": "The gas we breathe"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "GAIN",
+      "clue": "An increase in something, like wealth"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "ITEM",
+      "clue": "A single article or object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "POWER",
+      "clue": "The ability to do or control something"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "RATE",
+      "clue": "A measure of how fast something happens"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 10,
+      "answer": "LAW",
+      "clue": "A rule enforced by a government"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 10,
+      "answer": "FACT",
+      "clue": "Something known to be true"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 13,
+      "answer": "VOTE",
+      "clue": "A formal choice made in an election"
+    }
+  ]
+}

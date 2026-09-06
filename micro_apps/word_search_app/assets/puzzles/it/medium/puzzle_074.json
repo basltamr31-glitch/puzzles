@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_074",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 73,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "PATATAHMIA",
+    "YNMIELEVBB",
+    "NGZGXSCFAR",
+    "BURROGPPND",
+    "FRITTELLAO",
+    "BISCOTTONL",
+    "LATTEGXIAB",
+    "PFHHIBCEEM",
+    "GAIYCCCOUI",
+    "ULZAORARLV"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "BANANA",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BURRO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FRITTELLA",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LATTE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MIELE",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

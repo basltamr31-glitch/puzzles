@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_069",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 069",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "PENGUIN",
+      "clue": "Flightless bird that lives in cold climates"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "SAILOR",
+      "clue": "Person who works on a ship"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "LESSON",
+      "clue": "A period of learning about one subject"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "HOSPITAL",
+      "clue": "Place where sick people are treated"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "TEAM",
+      "clue": "A group working together toward a goal"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "WRITER",
+      "clue": "Person who creates books or articles"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "WINTER",
+      "clue": "Coldest season of the year"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "TYPE",
+      "clue": "A category or kind of something"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "LANTERN",
+      "clue": "A portable light in a case"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "LOSS",
+      "clue": "The state of no longer having something"
+    }
+  ]
+}

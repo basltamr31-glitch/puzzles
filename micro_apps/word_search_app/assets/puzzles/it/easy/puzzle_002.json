@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_002",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 1,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "OEZAPFBY",
+    "RRDYADAI",
+    "KGPGLANI",
+    "CUAQIMAB",
+    "AUTRMENZ",
+    "FRAGOLAT",
+    "FITONAHF",
+    "EBAXEBYI"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CAFFE",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LIMONE",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MELA",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

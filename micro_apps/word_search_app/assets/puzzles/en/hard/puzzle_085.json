@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_085",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 84,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "JCADEOYSWSTB",
+    "NVYVABBZSZPM",
+    "GVWMGPMRVTDF",
+    "NLOKWSYOYFFY",
+    "CKPCDSMMTOOF",
+    "AHBHETZJOFRU",
+    "RALIWORBEYEV",
+    "PMRNPMNJAEHX",
+    "QFANEAFINGER",
+    "JFSQNCSKKMAI",
+    "WUMTWHKQLSDR",
+    "DYZGWOBLEPNG"
+  ],
+  "words": [
+    {
+      "word": "ANKLE",
+      "row": 7,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CHIN",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ELBOW",
+      "row": 11,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "EYEBROW",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "FINGER",
+      "row": 8,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "FOOT",
+      "row": 4,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "FOREHEAD",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "KNEE",
+      "row": 9,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "NECK",
+      "row": 7,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "STOMACH",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

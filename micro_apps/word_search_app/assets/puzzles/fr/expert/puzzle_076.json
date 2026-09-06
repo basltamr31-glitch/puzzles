@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_076",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 75,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "KHBCUQXQIUUGRL",
+    "VDCNBXOBUFJBPM",
+    "VFXKHREDDXISVL",
+    "GCJOHGQYDXLRMS",
+    "UDKLNSARLELRSG",
+    "UUEQNSCYEAJLBJ",
+    "KERNEIUNNAMVGR",
+    "NDRPBSIIRSIPAT",
+    "APXTTMSDQTROEU",
+    "UFRRESIAHCORLB",
+    "SRCHUNNSTCITKI",
+    "MUCOUVERTUREVX",
+    "UHCHFXRFOCIMEN",
+    "HNBPLITYXUODEN"
+  ],
+  "words": [
+    {
+      "word": "CHAISE",
+      "row": 9,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CHEMINEE",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 12,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "COUVERTURE",
+      "row": 11,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CUISINE",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "FENETRE",
+      "row": 12,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "JARDIN",
+      "row": 5,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "LAMPE",
+      "row": 4,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "MIROIR",
+      "row": 6,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "PORTE",
+      "row": 7,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "TAPIS",
+      "row": 7,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "TASSE",
+      "row": 10,
+      "col": 8,
+      "dir": "NW"
+    }
+  ]
+}

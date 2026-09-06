@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_088",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 87,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "BIQJBIAVJK",
+    "SGQZIORHVU",
+    "VVOLEIBOLA",
+    "VNATACIONV",
+    "UIZJFUTBOL",
+    "HOCKEYRGJX",
+    "EDUAZDOBKQ",
+    "BNNSFFRKEV",
+    "TPGRATLETA",
+    "BEQUIPOAZH"
+  ],
+  "words": [
+    {
+      "word": "AJEDREZ",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "ARBITRO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ATLETA",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "EQUIPO",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FUTBOL",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "NATACION",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VOLEIBOL",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

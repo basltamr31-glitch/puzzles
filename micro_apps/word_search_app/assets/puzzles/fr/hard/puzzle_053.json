@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_053",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 52,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "KMQZYLIEOPLY",
+    "EOESARBVCEGM",
+    "CRQPSMDEPQDX",
+    "XMVLAODNIAMJ",
+    "GHLJCUUTETEL",
+    "MZGXOELRDNAB",
+    "KPQCOXPECJTH",
+    "CSNIJOBJTIJD",
+    "DQINCBIQYNLT",
+    "VHMVTPZCIGSJ",
+    "OKRNDUEIHHHI",
+    "AEJJCIDFHRAX"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 1,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "COUDE",
+      "row": 6,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "EPAULE",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "JAMBE",
+      "row": 4,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "MAIN",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "OEIL",
+      "row": 0,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "PIED",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "SOURCIL",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TETE",
+      "row": 4,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "VENTRE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

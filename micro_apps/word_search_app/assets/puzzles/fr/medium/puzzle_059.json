@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_059",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 58,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "RIVIEREQSF",
+    "OGTLQFESPQ",
+    "HYSFEUILLE",
+    "EGRDNCCAUT",
+    "RBSREAFIIM",
+    "KAFDKSRLEF",
+    "MERYRCEGZL",
+    "LCKBYAVRUP",
+    "NTSPRDRATC",
+    "UQDBMEMBCU"
+  ],
+  "words": [
+    {
+      "word": "ARBRE",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CASCADE",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CIEL",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "DESERT",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MER",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PLUIE",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "RIVIERE",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

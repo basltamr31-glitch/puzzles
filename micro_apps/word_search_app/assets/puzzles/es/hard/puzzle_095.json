@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_095",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 94,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "DPMPOMTPTCCN",
+    "PJVACACIONES",
+    "ABASPOFBDRKR",
+    "GUXAGACETSKM",
+    "MITPDCOHRZEI",
+    "GUNOIVABEDVL",
+    "QXPRPEIIMAMG",
+    "CEVTJIXATERE",
+    "EBKEAISJJSXG",
+    "MUVBOLETOEZF",
+    "IDNZQGFEAXBH",
+    "ZFTQODUVZRGH"
+  ],
+  "words": [
+    {
+      "word": "AUTOPISTA",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "AVION",
+      "row": 5,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "BOLETO",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "COCHE",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "MAPA",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PASAPORTE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 7,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "TREN",
+      "row": 3,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "VACACIONES",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VIAJE",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_034",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 33,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "PTXNIPWCJH",
+    "UZZKYJYGEZ",
+    "AKXJJCYVCG",
+    "HKRPZOZFLT",
+    "BROTITNKGT",
+    "KAFETNCAAD",
+    "AXNJRGEFEP",
+    "EGUAOAPFEL",
+    "SBIRNEWESD",
+    "ERDBEEREUH"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "BANANE",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "BIRNE",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BROT",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KAESE",
+      "row": 5,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

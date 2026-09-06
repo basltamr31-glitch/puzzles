@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_023",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 22,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "UCFTDUCK",
+    "MNTETNGP",
+    "SRHNAVEO",
+    "TBUSXZGR",
+    "MTSNIUFT",
+    "DYKZAINO",
+    "DZNZQKTN",
+    "VACANZAH"
+  ],
+  "words": [
+    {
+      "word": "BUS",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "NAVE",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PORTO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "VACANZA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ZAINO",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

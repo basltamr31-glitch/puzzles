@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_032",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 31,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "ACXEYHDX",
+    "TARIZAHI",
+    "LROXJRJD",
+    "ERCVTBJF",
+    "TENISIMU",
+    "ARBVKTZF",
+    "GAJEDREZ",
+    "FXKPGOLL"
+  ],
+  "words": [
+    {
+      "word": "AJEDREZ",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ARBITRO",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ATLETA",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CARRERA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GOL",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TENIS",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

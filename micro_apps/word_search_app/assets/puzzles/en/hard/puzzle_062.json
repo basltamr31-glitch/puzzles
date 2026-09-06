@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_062",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 61,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "OWIACGRJNMES",
+    "DHPUHSLADNAS",
+    "TMECALKCENRO",
+    "VMMEHIINGEIS",
+    "NGHSLPFTSXSW",
+    "OEBCNPLUYDWE",
+    "EBHADEOSOCEA",
+    "EHZRBRACELET",
+    "CGYFTSQKIZBE",
+    "XAMFLBAFEYNR",
+    "GPPISYCGDRLJ",
+    "ADAHPAJAMASU"
+  ],
+  "words": [
+    {
+      "word": "BELT",
+      "row": 7,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "BRACELET",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "NECKLACE",
+      "row": 2,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "PAJAMAS",
+      "row": 11,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALS",
+      "row": 1,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SCARF",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SLIPPERS",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SNEAKERS",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SWEATER",
+      "row": 3,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "TROUSERS",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    }
+  ]
+}

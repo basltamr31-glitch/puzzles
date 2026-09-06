@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_065",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 64,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "SJPOJLZUOATUZA",
+    "HMJMOUTONCDVPG",
+    "QEUUPYJUILQJHM",
+    "DKPPRRIRUVUQZH",
+    "HGAXUDVPOSBOTV",
+    "ONOHXGZDGTUNAN",
+    "FPIZJCQPNNAOZQ",
+    "FLYZVIYNIHPUAD",
+    "USOJQHRPPPCRBG",
+    "MRAMGEAETHHSYX",
+    "JZAFELLIEBALFE",
+    "IXQMFEKVUCTDVA",
+    "ZKNODRANERBEZM",
+    "QCCOVLQZVGBUYI"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 10,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CHAT",
+      "row": 8,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 8,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "DAUPHIN",
+      "row": 7,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 11,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "LAPIN",
+      "row": 10,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "LOUP",
+      "row": 0,
+      "col": 5,
+      "dir": "SW"
+    },
+    {
+      "word": "MOUTON",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "OURS",
+      "row": 6,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "PINGOUIN",
+      "row": 8,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "RENARD",
+      "row": 12,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 12,
+      "col": 12,
+      "dir": "W"
+    }
+  ]
+}

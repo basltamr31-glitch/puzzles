@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_055",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 54,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "GJMGBUREOG",
+    "GMKXYYQZRE",
+    "UGVACANCES",
+    "AUTOROUTEV",
+    "BILLETVJND",
+    "PASSEPORTG",
+    "ZXTVLXKIAG",
+    "GARETMJEXM",
+    "DGRLASUDIT",
+    "FRROIUVZXR"
+  ],
+  "words": [
+    {
+      "word": "AUTOROUTE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BATEAU",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "BILLET",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GARE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PASSEPORT",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "VACANCES",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VELO",
+      "row": 6,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

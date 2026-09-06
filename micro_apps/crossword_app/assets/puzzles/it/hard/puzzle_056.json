@@ -1,0 +1,101 @@
+{
+  "id": "it_hard_056",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 056",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "PENISOLA",
+      "clue": "Terra quasi completamente circondata dall'acqua"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "answer": "ECONOMIA",
+      "clue": "Il sistema di produzione e scambio"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "FATTO",
+      "clue": "Qualcosa che si sa essere vero"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "ESPERIMENTO",
+      "clue": "Un test scientifico per scoprire qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "INDUSTRIA",
+      "clue": "Attività economica legata alla produzione"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "MUSCOLO",
+      "clue": "Tessuto che produce movimento nel corpo"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "AGRICOLTURA",
+      "clue": "La pratica della coltivazione della terra"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "RACCOLTO",
+      "clue": "La raccolta dei prodotti maturi"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "FRASE",
+      "clue": "Un gruppo di parole che esprime un pensiero completo"
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 8,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "ARTE",
+      "clue": "Espressione creativa, come la pittura"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "UNIVERSO",
+      "clue": "Tutto lo spazio e tutto ciò che contiene"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "FORMA",
+      "clue": "Il contorno o l'aspetto di qualcosa"
+    }
+  ]
+}

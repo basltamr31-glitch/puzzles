@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_037",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 36,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "CCOUDELA",
+    "OIRKZEOC",
+    "AVENTREC",
+    "MAINASIE",
+    "HZLUYILR",
+    "TTLTPAVQ",
+    "HGENOUDG",
+    "UITCIMRD"
+  ],
+  "words": [
+    {
+      "word": "COUDE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GENOU",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MAIN",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "OEIL",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "OREILLE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "VENTRE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

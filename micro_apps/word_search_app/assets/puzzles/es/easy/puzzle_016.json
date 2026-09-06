@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_016",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 15,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "HOCKEYEH",
+    "AZLCQTSS",
+    "RPEAUETL",
+    "BBCRINAF",
+    "IEZRPIDX",
+    "TVCEOSIK",
+    "RNPRFVOF",
+    "OBTAUKKV"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CARRERA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "EQUIPO",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ESTADIO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TENIS",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

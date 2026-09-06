@@ -1,0 +1,101 @@
+{
+  "id": "it_hard_075",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 075",
+  "rows": 13,
+  "cols": 12,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "UNIVERSO",
+      "clue": "Tutto lo spazio e tutto ciò che contiene"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SOCIETA",
+      "clue": "Una grande comunità che vive insieme"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "LIVELLO",
+      "clue": "Uno standard o un'altezza particolare"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "SCHELETRO",
+      "clue": "La struttura ossea di un corpo"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "answer": "MONTAGNA",
+      "clue": "Un rilievo naturale molto elevato"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "answer": "CULTURA",
+      "clue": "Le usanze e le credenze di una società"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "BIOLOGIA",
+      "clue": "Lo studio scientifico degli esseri viventi"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 8,
+      "answer": "LUCE",
+      "clue": "La chiarezza che permette di vedere"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "DIPINTO",
+      "clue": "Un'immagine realizzata con la pittura"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 11,
+      "answer": "GOVERNO",
+      "clue": "Il gruppo che dirige ufficialmente un paese"
+    },
+    {
+      "direction": "down",
+      "row": 10,
+      "col": 5,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 8,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    }
+  ]
+}

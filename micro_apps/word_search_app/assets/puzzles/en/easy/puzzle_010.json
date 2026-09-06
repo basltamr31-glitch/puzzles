@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_010",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 9,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "EOCHEESE",
+    "IDNRPBSY",
+    "JSXSIAGQ",
+    "APPLENHR",
+    "MAVOCADO",
+    "XBXTSNXA",
+    "GDRFDATT",
+    "LKRXCEUJ"
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "AVOCADO",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BANANA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CHEESE",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "JAM",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PIE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

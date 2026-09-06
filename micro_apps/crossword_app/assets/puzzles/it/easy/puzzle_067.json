@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_067",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 067",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "PORTA",
+      "clue": "Pannello che si apre per entrare in una stanza",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "OCCHIO",
+      "clue": "Organo usato per vedere",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "MADRE",
+      "clue": "Genitore femminile",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "DONNA",
+      "clue": "Persona adulta di sesso femminile",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "BOSCO",
+      "clue": "Grande estensione coperta di alberi",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "TOPO",
+      "clue": "Piccolo roditore dalla coda lunga",
+      "category": "animal"
+    }
+  ]
+}

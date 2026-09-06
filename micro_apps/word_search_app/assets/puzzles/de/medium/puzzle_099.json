@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_099",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 98,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "VNCALNAGLU",
+    "CUERECSLFP",
+    "JWLBFRWEFF",
+    "WOLKEJKTXM",
+    "ICBZALLSYC",
+    "NSTEINJCSX",
+    "DSLFRRDHAU",
+    "RWICOGBERW",
+    "CERLUYDRIL",
+    "LPCJPPNFPS"
+  ],
+  "words": [
+    {
+      "word": "BERG",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "EIS",
+      "row": 7,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "GLETSCHER",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "NEBEL",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "STEIN",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VULKAN",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "WIND",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "WOLKE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

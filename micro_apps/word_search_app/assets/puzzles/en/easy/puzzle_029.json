@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_029",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 28,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "CFINGERO",
+    "YOCHINBG",
+    "ZOHACNQZ",
+    "RTANKLEG",
+    "ZYMDXLFH",
+    "JJMIXDAP",
+    "UBQZGJBS",
+    "FNJJEQLV"
+  ],
+  "words": [
+    {
+      "word": "ANKLE",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CHIN",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FINGER",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FOOT",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "LEG",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

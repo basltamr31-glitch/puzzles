@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_010",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 9,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "HPPZOPTY",
+    "IOFGDHIG",
+    "DMIELFHA",
+    "BMZAQHPT",
+    "AEBANANE",
+    "BISCUITA",
+    "IUCAFEQU",
+    "LKKVYUUK"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CAFE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GATEAU",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MIEL",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "POMME",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

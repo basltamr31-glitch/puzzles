@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_083",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 82,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "NEMYDSUXDPQNYT",
+    "FFEOKTUSPOMSJH",
+    "CGASIGRLHGCWJU",
+    "RLDCNWRNLYEZNN",
+    "UWOBNIARMRQZSD",
+    "RSWULQEOFCFTFE",
+    "DOVRDIUPCJJNXR",
+    "CFWJCNHCOYZITS",
+    "ENWATERFALLSHT",
+    "ISLANDESERTJYO",
+    "BGIOISVRBLAYQR",
+    "TNTZHVICTSBPJM",
+    "XSMDLNRNSCIIDA",
+    "JVMUKTNDODIUUF"
+  ],
+  "words": [
+    {
+      "word": "CLOUD",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "DESERT",
+      "row": 9,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 10,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "ISLAND",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MEADOW",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 4,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "RAINBOW",
+      "row": 4,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "RIVER",
+      "row": 12,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "STONE",
+      "row": 12,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "THUNDERSTORM",
+      "row": 0,
+      "col": 13,
+      "dir": "S"
+    },
+    {
+      "word": "TREE",
+      "row": 11,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "WATERFALL",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

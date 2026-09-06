@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_059",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 58,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "YTNMVTOSAXSY",
+    "TTFOTRESEDAQ",
+    "TRLNNZESAFYO",
+    "OYMTESHMTHHN",
+    "PONACLUVOGUZ",
+    "XMUGRYQCGXBM",
+    "OGVNPERIXGSL",
+    "REOAIBBENNMR",
+    "KVLDEDXLDFFU",
+    "YUADTNDOCSOB",
+    "OIVERQORLEQG",
+    "GBPRATOUYILB"
+  ],
+  "words": [
+    {
+      "word": "BOSCO",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CIELO",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "DESERTO",
+      "row": 1,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "MARE",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "MONTAGNA",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 7,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PIETRA",
+      "row": 6,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PRATO",
+      "row": 11,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VULCANO",
+      "row": 4,
+      "col": 7,
+      "dir": "W"
+    }
+  ]
+}

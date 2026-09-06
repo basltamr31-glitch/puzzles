@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_073",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 073",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "STAR",
+      "clue": "A glowing point of light in the night sky",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "SUGAR",
+      "clue": "Sweet crystalline substance",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "GRAPE",
+      "clue": "Small round fruit that grows in bunches",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "SHARK",
+      "clue": "Large predatory fish with sharp teeth",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "ANT",
+      "clue": "Small hardworking insect that lives in colonies",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "MONTH",
+      "clue": "One of twelve divisions of a year",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "PLAY",
+      "clue": "To have fun, often with games or toys",
+      "category": "action"
+    }
+  ]
+}

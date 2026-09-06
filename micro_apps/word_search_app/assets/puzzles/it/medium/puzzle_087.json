@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_087",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 86,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "IBIGLIETTO",
+    "CYUZXOARUM",
+    "IBZSTSHYOS",
+    "ZGZTRENOEU",
+    "KTVACANZAL",
+    "HHQZIFXIPI",
+    "LSOIBNHMYX",
+    "EVPORTOMGS",
+    "AYKNELXDHT",
+    "CMAEREOPLF"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BIGLIETTO",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PORTO",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STAZIONE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TRENO",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VACANZA",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ZAINO",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

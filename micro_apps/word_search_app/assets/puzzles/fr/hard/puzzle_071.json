@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_071",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 70,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "PYYZHJUAZICX",
+    "JISACADOSAEC",
+    "TLYQEEXPEKNC",
+    "ERPTFRLKFHQC",
+    "RXAUTOROUTEG",
+    "NBSIUPJTFRAU",
+    "SXSGNOIVAFMJ",
+    "LQEJFRDAEXHH",
+    "VKPQBTEVLLID",
+    "HVOYAGEGZSOO",
+    "QIRBMLJTNXJX",
+    "SDTGSTBQZTVG"
+  ],
+  "words": [
+    {
+      "word": "AEROPORT",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "AUTOROUTE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "AVION",
+      "row": 6,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "BATEAU",
+      "row": 5,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "PASSEPORT",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SACADOS",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 5,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "TRAIN",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "VELO",
+      "row": 6,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

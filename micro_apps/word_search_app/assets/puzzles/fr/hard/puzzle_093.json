@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_093",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 92,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "KJIDCEBIMMJA",
+    "LMDPFNOXAAVC",
+    "RTKTGTHJITCC",
+    "QNFQSERTNEVZ",
+    "SUDYBOKOLBNG",
+    "HUEOHRRUBNUV",
+    "LYJYFFASVMOM",
+    "BSPTXPDSUEJN",
+    "UQPIEDUOCJXC",
+    "NIBIAMNLIEOR",
+    "HLRHTEGHLGUG",
+    "YZHEGIILZSTU"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "COUDE",
+      "row": 8,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "DOIGT",
+      "row": 7,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "EPAULE",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "FRONT",
+      "row": 6,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "GENOU",
+      "row": 11,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "MAIN",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "OEIL",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "PIED",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VENTRE",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    }
+  ]
+}

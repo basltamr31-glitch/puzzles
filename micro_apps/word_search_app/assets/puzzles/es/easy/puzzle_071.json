@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_071",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 70,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "UTTQMGDO",
+    "BARCOTPM",
+    "ZVEICBUS",
+    "UINXHIEP",
+    "YONOINRM",
+    "KNFALETC",
+    "LYPBASOZ",
+    "YMHMBPHS"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "BARCO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PUERTO",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TREN",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

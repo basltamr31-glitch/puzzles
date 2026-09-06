@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_046",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 45,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "QCWJVMPYHZ",
+    "MGIEMLICIF",
+    "JDWKLWPYEE",
+    "DRESSIQYXP",
+    "KBJWAIYEQA",
+    "BKAEBNDQHJ",
+    "MMCANNDFAA",
+    "BVKTKCOATM",
+    "XWEESSDLLA",
+    "WXTROUSERS"
+  ],
+  "words": [
+    {
+      "word": "COAT",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "DRESS",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "JACKET",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PAJAMAS",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALS",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SWEATER",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TROUSERS",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

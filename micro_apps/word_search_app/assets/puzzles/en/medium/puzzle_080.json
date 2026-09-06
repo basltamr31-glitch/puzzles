@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_080",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 79,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "XATHLETEAM",
+    "JPEOZKAVXX",
+    "XRNCHVKDTL",
+    "NENKGBMMHN",
+    "RQIESORZRU",
+    "GZSYFXACUC",
+    "ESPHKICLMM",
+    "SBRRUNEQFB",
+    "PICZWGKKAT",
+    "BKBJKFVQLK"
+  ],
+  "words": [
+    {
+      "word": "ATHLETE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BOXING",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GOAL",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "RACE",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "RUN",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 0,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_001",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 0,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "AESCMMJFMUAMDP",
+    "MDNEONVFHSMOEF",
+    "KKFEBRCTPSDUEP",
+    "LYMGOLARDKYSRF",
+    "ZQOAFSSBRHJEHQ",
+    "WZXZQQDHBSGLMB",
+    "LRKCROCODILEDE",
+    "CIMFLOWRTFTPWG",
+    "CGGPNOISDAPHOD",
+    "WOHCMBPEDWZAJB",
+    "EIMPPUSZIVTNSY",
+    "NYLQBCEBGKLTCO",
+    "OAWAFZHLRMYQDG",
+    "RFZTSYODJVNLIG"
+  ],
+  "words": [
+    {
+      "word": "BIRD",
+      "row": 9,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "DEER",
+      "row": 0,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "DOLPHIN",
+      "row": 5,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 4,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "FISH",
+      "row": 7,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "GOAT",
+      "row": 7,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "HORSE",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MOUSE",
+      "row": 0,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "RABBIT",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "TIGER",
+      "row": 7,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "WOLF",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    }
+  ]
+}

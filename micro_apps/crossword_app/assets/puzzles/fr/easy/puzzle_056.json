@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_056",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 056",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "CANARD",
+      "clue": "Oiseau aquatique qui fait coin-coin",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "SABLE",
+      "clue": "Petits grains présents sur les plages",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "ANNEE",
+      "clue": "Une période de douze mois",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "FER",
+      "clue": "Métal gris résistant, utilisé dans l'acier",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "ILE",
+      "clue": "Terre entièrement entourée d'eau",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "ROI",
+      "clue": "Souverain masculin d'un royaume",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "LUNE",
+      "clue": "Satellite naturel de la Terre",
+      "category": "nature"
+    }
+  ]
+}

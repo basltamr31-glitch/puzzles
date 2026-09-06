@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_059",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 059",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "LECHE",
+      "clue": "Líquido blanco que viene de las vacas",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "LOBO",
+      "clue": "Animal salvaje emparentado con el perro",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "OVEJA",
+      "clue": "Animal lanudo que bala",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "CAMPO",
+      "clue": "Terreno abierto para cultivos",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "VERDE",
+      "clue": "Color de la hierba y las hojas",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "PADRE",
+      "clue": "Progenitor masculino",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "DIA",
+      "clue": "Un período de 24 horas",
+      "category": "time"
+    }
+  ]
+}

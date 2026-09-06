@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_047",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 46,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "GOTPEAKZEBPVXL",
+    "YUEFBZCMEQMMTH",
+    "NZZTMSRAGMDSTV",
+    "FREVUEJNRVSLGN",
+    "IVDJFNIPEHPDRA",
+    "QIXDFOPEUREMOM",
+    "ZZYVGINQPETVGN",
+    "MMBYRCGOBARCOI",
+    "MALETATSIPOTUA",
+    "ZPYYJCAGSCPLOB",
+    "OAREMAXNHAAMPJ",
+    "YAEPQVIESPSTMU",
+    "GKGUAHTVGNAOSM",
+    "BBYZKBYLFIPCXE"
+  ],
+  "words": [
+    {
+      "word": "AUTOPISTA",
+      "row": 8,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "BARCO",
+      "row": 7,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "COCHE",
+      "row": 7,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "ESTACION",
+      "row": 13,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "MALETA",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MAPA",
+      "row": 7,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PASAPORTE",
+      "row": 13,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "PUERTO",
+      "row": 4,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "TAXI",
+      "row": 8,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TREN",
+      "row": 6,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "VACACIONES",
+      "row": 11,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "VIAJE",
+      "row": 12,
+      "col": 7,
+      "dir": "NW"
+    }
+  ]
+}

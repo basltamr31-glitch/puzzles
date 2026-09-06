@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_064",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 63,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "ARJCBWTFMR",
+    "KTOYMGBZNE",
+    "VEHCAZHSTR",
+    "PIQLRVOGQU",
+    "HAXIEVCRWE",
+    "SRUNFTKCPA",
+    "NQPGEGEJZS",
+    "FBRVROYAOH",
+    "SOCCERRMMX",
+    "YJQCEUWSUC"
+  ],
+  "words": [
+    {
+      "word": "ATHLETE",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CYCLING",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "GYM",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "REFEREE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "RUN",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOCCER",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    }
+  ]
+}

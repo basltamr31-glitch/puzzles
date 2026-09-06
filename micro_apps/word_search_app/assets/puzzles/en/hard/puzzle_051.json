@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_051",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 50,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "LGXMLUKIXMEP",
+    "MSSTZJAPVZQL",
+    "KBJRFTQKVAKC",
+    "BSDESERTCKHY",
+    "GTZEBFHUCZLC",
+    "VBRBAQJEOUTE",
+    "COPEWLLMLJUA",
+    "FTLAUIREVIRK",
+    "XDRCQKNAHASX",
+    "ZAKHABRDTCLF",
+    "MNIATNUOMLJH",
+    "SHENTZOWQOQN"
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "DESERT",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FOREST",
+      "row": 7,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "LEAF",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "MEADOW",
+      "row": 6,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 10,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "RIVER",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "TREE",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "WIND",
+      "row": 6,
+      "col": 4,
+      "dir": "SE"
+    }
+  ]
+}

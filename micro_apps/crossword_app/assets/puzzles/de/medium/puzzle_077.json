@@ -1,0 +1,73 @@
+{
+  "id": "de_medium_077",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 077",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "REGENBOGEN",
+      "clue": "Farbenbogen nach dem Regen"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "MARKT",
+      "clue": "Ort, an dem Waren gekauft und verkauft werden"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "SOMMER",
+      "clue": "Heißeste Jahreszeit"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "LOGIK",
+      "clue": "Nach strengen Regeln geführte Argumentation"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "LUFT",
+      "clue": "Das Gas, das wir atmen"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "FAHRRAD",
+      "clue": "Zweirädriges Fahrzeug, mit Pedalen bewegt"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "MUSIKER",
+      "clue": "Person, die ein Instrument spielt oder Musik macht"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "FLUGZEUG",
+      "clue": "Luftfahrzeug mit festen Tragflächen"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "answer": "EIS",
+      "clue": "Gefrorenes Wasser"
+    }
+  ]
+}

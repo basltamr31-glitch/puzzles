@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_002",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 002",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "SAL",
+      "clue": "Condimento blanco que sazona la comida",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "CABALLO",
+      "clue": "Animal grande que se monta",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "TIEMPO",
+      "clue": "Lo que miden los relojes",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "HOJA",
+      "clue": "Parte verde y plana de una planta",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "TECHO",
+      "clue": "Cubierta en la parte superior de un edificio",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "RIO",
+      "clue": "Gran corriente natural de agua",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "MAR",
+      "clue": "Gran extensión de agua salada",
+      "category": "place"
+    }
+  ]
+}

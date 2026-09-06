@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_045",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 44,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "BBRASGNZIU",
+    "FBDCOROICZ",
+    "OVAHUGDNEA",
+    "KRMERIETLE",
+    "MIEVCYPNYB",
+    "UQNIIIAIOJ",
+    "CITLLAUAEU",
+    "ZJOLZLLYMD",
+    "QGNEIYEYVQ",
+    "PKPBTUBRJG"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHEVILLE",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "EPAULE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GENOU",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "MENTON",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "OREILLE",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PIED",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "SOURCIL",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

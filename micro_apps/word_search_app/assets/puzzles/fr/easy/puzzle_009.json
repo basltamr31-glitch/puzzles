@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_009",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 8,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "QRAIYFLP",
+    "EEJKCZGU",
+    "DLGZHPNK",
+    "KAFEACZC",
+    "OPTBMQQH",
+    "TIGRECGI",
+    "LNSEAFZE",
+    "LIMOUTON"
+  ],
+  "words": [
+    {
+      "word": "CHAMEAU",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CHIEN",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LAPIN",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "MOUTON",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TIGRE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

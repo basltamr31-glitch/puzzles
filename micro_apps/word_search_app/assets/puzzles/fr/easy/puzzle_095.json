@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_095",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 94,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "IDFKLZSU",
+    "BQSEYEKN",
+    "GFAVIONL",
+    "OHCTCYEI",
+    "XAAAAAHE",
+    "TVDXRBAQ",
+    "RVOITURE",
+    "MBSLESFR"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CARTE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SACADOS",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "VOITURE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

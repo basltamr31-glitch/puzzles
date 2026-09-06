@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_025",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 24,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "ILOCCKGOXH",
+    "XFIDHEOEOD",
+    "CRGUAEDJPI",
+    "QFEOMUVRAS",
+    "SDCNEXPRBR",
+    "FTHQANRHEM",
+    "PPECUREUIL",
+    "URVJHKDELN",
+    "JDANOIPGLT",
+    "EBLOAIGLEK"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "AIGLE",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CHAMEAU",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CHEVRE",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "DAUPHIN",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "ECUREUIL",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RENARD",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_043",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 043",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "ECRIVAIN",
+      "clue": "Personne qui crée des livres"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "BOUTEILLE",
+      "clue": "Un récipient au col étroit pour les liquides"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "SCIENCE",
+      "clue": "Étude du monde naturel par l'expérimentation"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "GUERRE",
+      "clue": "Un conflit armé entre nations"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "MARIN",
+      "clue": "Personne qui travaille sur un navire"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "CHANTEUR",
+      "clue": "Personne qui fait de la musique avec sa voix"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "TAUX",
+      "clue": "Une mesure de la vitesse à laquelle quelque chose se produit"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 0,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "OBJET",
+      "clue": "Un article ou une chose unique"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "IMAGE",
+      "clue": "Une photo ou un dessin"
+    }
+  ]
+}

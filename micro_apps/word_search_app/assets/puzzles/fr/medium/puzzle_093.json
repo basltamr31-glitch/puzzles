@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_093",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 92,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "NKNRIOUSPL",
+    "CXVPUHRGHI",
+    "HSQNZECEQT",
+    "ETMQTVPNDL",
+    "VJDRKEPZCU",
+    "IOFRONTCLZ",
+    "LLEDFTMEIG",
+    "LFTIBRASVS",
+    "EPAULEITUA",
+    "TPQYTINUEQ"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CHEVILLE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "EPAULE",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FRONT",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MAIN",
+      "row": 6,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "OEIL",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "TETE",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "VENTRE",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

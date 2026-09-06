@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_009",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 8,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "EWGSZGBGRULM",
+    "FVWECRXIFYDG",
+    "ZPANTHERNYCZ",
+    "LFGMOCAAZMZP",
+    "ZRMDIUPFUCHS",
+    "NLMYMOWFRSUG",
+    "HULIKAMELBNX",
+    "FATPAWLCNIDL",
+    "FPKMHDOVLIWE",
+    "AGEHASEWEKFA",
+    "PMOCXVWGXRRF",
+    "AHYAZIENEIBV"
+  ],
+  "words": [
+    {
+      "word": "ADLER",
+      "row": 9,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "BIENE",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "FUCHS",
+      "row": 4,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "HASE",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "HUND",
+      "row": 4,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "KAMEL",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "LOEWE",
+      "row": 7,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHER",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SCHAF",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

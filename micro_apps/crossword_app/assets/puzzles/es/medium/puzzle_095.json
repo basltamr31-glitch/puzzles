@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_095",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 095",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "AVION",
+      "clue": "Aeronave de alas fijas"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "HISTORIA",
+      "clue": "El estudio de eventos pasados"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "OTOÑO",
+      "clue": "Estación entre el verano y el invierno"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "COSTO",
+      "clue": "La cantidad pagada por algo"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "TESORO",
+      "clue": "Un valioso alijo escondido"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "ESPACIO",
+      "clue": "Un área vacía, o el universo más allá de la Tierra"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "ESCRITOR",
+      "clue": "Persona que crea libros"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "RESPUESTA",
+      "clue": "Una réplica a una pregunta"
+    }
+  ]
+}

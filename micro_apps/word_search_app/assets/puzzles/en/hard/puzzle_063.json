@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_063",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 62,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "DQDBDZJAXLMH",
+    "NHEPFUZKCLYB",
+    "HISEHBNFSMEX",
+    "YSTATIONECTM",
+    "SHIPICGDRSYI",
+    "MONXCYHHRSAI",
+    "KCAPKCABWONM",
+    "ZTTNELRPLANE",
+    "GDIKTEBNCAYM",
+    "RCODEROCZDBH",
+    "JKNZVBRAMZJU",
+    "PPEAODKGMUFK"
+  ],
+  "words": [
+    {
+      "word": "BACKPACK",
+      "row": 6,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "BICYCLE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "DESTINATION",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HARBOR",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PLANE",
+      "row": 7,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "SHIP",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STATION",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "TICKET",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

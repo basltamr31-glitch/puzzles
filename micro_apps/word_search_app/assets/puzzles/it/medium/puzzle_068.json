@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_068",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 67,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "SGSAHCLVAM",
+    "PCTEVUKCBE",
+    "EOAMDCMLRQ",
+    "CPPFDIFETD",
+    "CEPKFNATLF",
+    "HREGHABTRP",
+    "ITTAVOLOLO",
+    "OAOGONNELR",
+    "TYYMKYBOPN",
+    "ROLLBMQIXH"
+  ],
+  "words": [
+    {
+      "word": "COPERTA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CUCINA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LETTO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SEDIA",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

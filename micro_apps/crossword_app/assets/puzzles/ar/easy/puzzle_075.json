@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_075",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 075",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "غرب",
+      "clue": "جهة غروب الشمس",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "قمر",
+      "clue": "الجرم السماوي الذي يضيء الليل",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "قهوة",
+      "clue": "مشروب ساخن ذو رائحة مميزة",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "جنوب",
+      "clue": "الجهة المقابلة للشمال",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "بحر",
+      "clue": "مسطح مائي كبير مالح",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "أرض",
+      "clue": "الكوكب الذي نعيش عليه",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "جيش",
+      "clue": "قوة عسكرية تدافع عن الوطن",
+      "category": "people"
+    }
+  ]
+}

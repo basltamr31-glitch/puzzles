@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_078",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 078",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "WAL",
+      "clue": "Riesiges Meeressäugetier",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "STRAND",
+      "clue": "Sandiger Bereich am Meer",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "SCHAF",
+      "clue": "Wolliges Weidetier, das blökt",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "FREUND",
+      "clue": "Jemand, den man mag und dem man vertraut",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "OHR",
+      "clue": "Körperteil zum Hören",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "MOND",
+      "clue": "Erdtrabant, der nachts leuchtet",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "SEE",
+      "clue": "Großes Gewässer, von Land umgeben",
+      "category": "place"
+    }
+  ]
+}

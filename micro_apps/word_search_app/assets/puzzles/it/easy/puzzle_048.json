@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_048",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 47,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "YSQUADRA",
+    "CCSRKFOG",
+    "UARBITRO",
+    "RCORSAXL",
+    "TCALCIOH",
+    "ZHTKKSQQ",
+    "TIFKZQVB",
+    "FXOLZTMY"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CALCIO",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CORSA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GOL",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SQUADRA",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

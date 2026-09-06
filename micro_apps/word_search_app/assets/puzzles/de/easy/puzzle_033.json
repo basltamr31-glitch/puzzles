@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_033",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 32,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "BVUMBZSK",
+    "GMBAERGP",
+    "IWHUNDDA",
+    "RHZSOIUN",
+    "AKIVEMOW",
+    "FUEPMNII",
+    "FNGADOHD",
+    "ELEFANTL"
+  ],
+  "words": [
+    {
+      "word": "BAER",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ELEFANT",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "HUND",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MAUS",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ZIEGE",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

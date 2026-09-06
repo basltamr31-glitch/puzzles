@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_099",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 98,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "BUFNOELFVS",
+    "EBISDOMQZX",
+    "OHUPZELAPA",
+    "VNMPLOFLRM",
+    "EVEDISOLAE",
+    "UBEBCDGETX",
+    "MAPSBTLFOP",
+    "OLMGOIISUM",
+    "QNUVOLAQPN",
+    "UNPCLKENYQ"
+  ],
+  "words": [
+    {
+      "word": "FIUME",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ISOLA",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MARE",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PRATO",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "SOLE",
+      "row": 6,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

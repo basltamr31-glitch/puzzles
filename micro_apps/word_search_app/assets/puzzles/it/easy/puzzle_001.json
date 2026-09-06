@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_001",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 0,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "BCQGNPSA",
+    "GATOPOXP",
+    "IVPPAPEI",
+    "RAETNDGR",
+    "ALCFTEES",
+    "FLOZEBRA",
+    "FORTRFAV",
+    "ALAHAIHO"
+  ],
+  "words": [
+    {
+      "word": "CAVALLO",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFFA",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PANTERA",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PECORA",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TOPO",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

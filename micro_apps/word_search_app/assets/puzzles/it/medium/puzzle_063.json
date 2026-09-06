@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_063",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 62,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "OVUQBZNZHL",
+    "CPIMSASARV",
+    "PFOAUGTEKP",
+    "EKYPGXARDQ",
+    "SHSPFGZOFT",
+    "BYTAQGIPRN",
+    "KQZAINOOHQ",
+    "SPGGXPNROB",
+    "ZBIGLIETTO",
+    "ILHXAUTOTI"
+  ],
+  "words": [
+    {
+      "word": "AEROPORTO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "AUTO",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BIGLIETTO",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MAPPA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "STAZIONE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 5,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "VIAGGIO",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "ZAINO",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

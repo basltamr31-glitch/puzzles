@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_027",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 26,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "SKIVCGWZFGOA",
+    "EUWINDKENEDR",
+    "BYWZNAECORCB",
+    "XQZATRWJUFSW",
+    "RELNTNXBLMZG",
+    "KSUNSETRESED",
+    "IGIZYXRQBBZM",
+    "AUHHXQGFETRY",
+    "VFWAXJJFAELG",
+    "UTMEDUOLCLMN",
+    "JCPTNWIQHOLO",
+    "NOSZYZURKNAU"
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "row": 6,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CLOUD",
+      "row": 9,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "DESERT",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "ISLAND",
+      "row": 6,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "LEAF",
+      "row": 8,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "OCEAN",
+      "row": 2,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "SUNSET",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TREE",
+      "row": 4,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "WATERFALL",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "WIND",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

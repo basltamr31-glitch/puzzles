@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_059",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 059",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "سنة",
+      "clue": "مدة اثني عشر شهراً",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "نمر",
+      "clue": "قط كبير مخطط",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "أرنب",
+      "clue": "حيوان له أذنان طويلتان يقفز",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "أمس",
+      "clue": "اليوم الذي سبق اليوم الحالي",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "يوم",
+      "clue": "مدة أربع وعشرين ساعة",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "قبعة",
+      "clue": "غطاء يُلبس على الرأس",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "قطة",
+      "clue": "حيوان أليف يموء",
+      "category": "animal"
+    }
+  ]
+}

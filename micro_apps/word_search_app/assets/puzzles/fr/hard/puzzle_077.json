@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_077",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 76,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "OVYZBQJZYYBJ",
+    "MRFNFCOKVSGO",
+    "MZEBMAJNVFGC",
+    "XTGIODSBSEGI",
+    "KNMELEVUGAVG",
+    "TVPELLIVEHCO",
+    "ZZFRNHELATEY",
+    "NCUIZTUZRIBY",
+    "EVADEAOJYICI",
+    "YMBTPJYNKOFJ",
+    "YRDEIPOFNCED",
+    "IAJBMGQYXGQR"
+  ],
+  "words": [
+    {
+      "word": "CHEVILLE",
+      "row": 5,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "DOIGT",
+      "row": 3,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "EPAULE",
+      "row": 10,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "JAMBE",
+      "row": 2,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "MAIN",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "MENTON",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "OEIL",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "OREILLE",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PIED",
+      "row": 10,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "TETE",
+      "row": 9,
+      "col": 3,
+      "dir": "NE"
+    }
+  ]
+}

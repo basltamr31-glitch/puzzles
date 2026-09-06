@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_083",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 083",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "SKALA",
+      "clue": "Die Größe von etwas im Verhältnis zu einem anderen"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "FABRIK",
+      "clue": "Gebäude, in dem Güter hergestellt werden"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "FRAGE",
+      "clue": "Ein Satz, der um Auskunft bittet"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "SCHRANK",
+      "clue": "Möbelstück zur Aufbewahrung von Kleidung"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "DECKE",
+      "clue": "Innere Oberfläche oben in einem Raum"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "WOHNZIMMER",
+      "clue": "Raum zum Entspannen und Fernsehen"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "KLANG",
+      "clue": "Etwas, das man hört"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "TIER",
+      "clue": "Jedes Lebewesen, das keine Pflanze ist"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "SPIEGEL",
+      "clue": "Reflektierende Glasfläche"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "answer": "FALL",
+      "clue": "Ein Beispiel für etwas, oder ein Behälter"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_044",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 43,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "SKAQDLTICD",
+    "CTSLCTRYVO",
+    "AACSVUBZYL",
+    "FZMYKFCZSA",
+    "FZOIGBVIOM",
+    "AAKBNEBHNP",
+    "LUQNOELUCA",
+    "EVMPORTAXD",
+    "TCFINESTRA",
+    "ASPECCHIOG"
+  ],
+  "words": [
+    {
+      "word": "CAMINETTO",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CUCINA",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PORTA",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAZZA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

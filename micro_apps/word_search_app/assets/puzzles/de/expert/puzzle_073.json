@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_073",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 72,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "AWJUEZTAKDMSRL",
+    "ZKEWRBAERBYHVN",
+    "ONEHCNREOHHCIE",
+    "HOMFDAFIKHYUMO",
+    "LRZJPPWCOVGFBZ",
+    "SWWOUSXXDNUHOF",
+    "CMVHCTSLIEAWTK",
+    "OZKREXYPLFGGCV",
+    "IXLDXXJEFFARIG",
+    "SOGPKSFCFTEJDB",
+    "NGPHEANTBYMXFX",
+    "BYDANIMBSKLVEO",
+    "VCETMBBENXCGWC",
+    "WMSVVZVPLWCOAW"
+  ],
+  "words": [
+    {
+      "word": "BAER",
+      "row": 1,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "EICHHOERNCHEN",
+      "row": 2,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "ELEFANT",
+      "row": 6,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "FUCHS",
+      "row": 4,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 8,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "HUND",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "KAMEL",
+      "row": 9,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "KATZE",
+      "row": 0,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "LOEWE",
+      "row": 4,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "PFERD",
+      "row": 4,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 7,
+      "col": 7,
+      "dir": "NE"
+    }
+  ]
+}

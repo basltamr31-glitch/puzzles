@@ -1,0 +1,58 @@
+{
+  "id": "fr_easy_096",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 096",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "PIERRE",
+      "clue": "Un petit morceau de roche",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "BALEINE",
+      "clue": "Immense mammifère marin",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "REINE",
+      "clue": "Souveraine féminine d'un royaume",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "HEURE",
+      "clue": "Une unité de temps de soixante minutes",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "LOUP",
+      "clue": "Animal sauvage apparenté au chien",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "PLAGE",
+      "clue": "Zone sablonneuse au bord de la mer",
+      "category": "place"
+    }
+  ]
+}

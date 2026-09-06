@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_090",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 89,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "OPGPXCOOXG",
+    "TTOMATETGM",
+    "ZLHSUTUOEL",
+    "NAHMUNARUZ",
+    "CHOCOLATEU",
+    "DRSUMLXIAH",
+    "GFOMILELVQ",
+    "BYPKEAALAO",
+    "EGALLETAEC",
+    "CZNSMVGNFF"
+  ],
+  "words": [
+    {
+      "word": "CHOCOLATE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GALLETA",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MIEL",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PAN",
+      "row": 7,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SOPA",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TORTILLA",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

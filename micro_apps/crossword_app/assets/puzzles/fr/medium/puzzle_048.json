@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_048",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 048",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "HUILE",
+      "clue": "Liquide glissant utilisé pour cuisiner ou comme carburant"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "ECRIVAIN",
+      "clue": "Personne qui crée des livres"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "TRESOR",
+      "clue": "Un précieux trésor caché"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "VOYAGE",
+      "clue": "Déplacement d'un endroit à un autre"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "NOMBRE",
+      "clue": "Une valeur mathématique, comme un ou deux"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "JARDIN",
+      "clue": "Terrain où l'on cultive des fleurs ou légumes"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "ORDRE",
+      "clue": "Une séquence, ou une instruction à suivre"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "IMAGE",
+      "clue": "Une photo ou un dessin"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 7,
+      "answer": "ART",
+      "clue": "Expression créative, comme la peinture"
+    }
+  ]
+}

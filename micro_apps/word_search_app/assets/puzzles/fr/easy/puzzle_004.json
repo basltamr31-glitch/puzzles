@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_004",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 3,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "ZICQHVUH",
+    "MGHEBYSP",
+    "ICANAPER",
+    "RLITFOCR",
+    "OYSERRES",
+    "IJEYETND",
+    "RTASSEFM",
+    "FKZRPINM"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHAISE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "LIT",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MIROIR",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PORTE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TASSE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

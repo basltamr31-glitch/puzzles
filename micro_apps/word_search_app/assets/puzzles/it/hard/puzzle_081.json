@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_081",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 80,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "YQMAGXBIHAOD",
+    "XDDYIGZFELIC",
+    "TMEARZMXLCNH",
+    "SLLNAUPENACC",
+    "YIFDFSMCAVLL",
+    "NXIGFMTAEAVE",
+    "UFNZAVBPELQG",
+    "YCOCCODRILLO",
+    "VZVRKUGAEONI",
+    "DNYNSIVVVNAL",
+    "VDDBTOPOOCCT",
+    "LNGGNQNGHFSF"
+  ],
+  "words": [
+    {
+      "word": "CAMMELLO",
+      "row": 7,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "CANE",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CAPRA",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CAVALLO",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "COCCODRILLO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DELFINO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFFA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ORSO",
+      "row": 7,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TIGRE",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "TOPO",
+      "row": 10,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_044",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 43,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "FENETREO",
+    "LTUXCZOA",
+    "IAQPUBIL",
+    "NGFXIJQA",
+    "DEYNSZLM",
+    "BREEIMVP",
+    "HECANAPE",
+    "TABLEAHY"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CUISINE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FENETRE",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPE",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

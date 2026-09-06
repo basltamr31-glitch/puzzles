@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_038",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 37,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "RVTLPZHL",
+    "JECRUEPT",
+    "TSCOLLAR",
+    "QTKXSCTC",
+    "DISUETER",
+    "EDABRIGO",
+    "CORBATAO",
+    "XARQQIUA"
+  ],
+  "words": [
+    {
+      "word": "ABRIGO",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "COLLAR",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CORBATA",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PULSERA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SUETER",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

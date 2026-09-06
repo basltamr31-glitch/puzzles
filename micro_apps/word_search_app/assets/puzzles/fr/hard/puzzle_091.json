@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_091",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 90,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "OARBSGZFQGON",
+    "IKQTXXSHPQKD",
+    "JEBQVDZFQITH",
+    "TXPRGHKEGAUN",
+    "EILVOVFUXQUM",
+    "ZPCVTURIZTCC",
+    "BIASRJILQZXN",
+    "DESERTVLTIBM",
+    "ARCENCIELYFV",
+    "PRAIRIEEGALP",
+    "EEDJYKRGJURA",
+    "KGEQHAERTTQD"
+  ],
+  "words": [
+    {
+      "word": "ARCENCIEL",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BROUILLARD",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CASCADE",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "DESERT",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "NUAGE",
+      "row": 3,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PIERRE",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PLAGE",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PRAIRIE",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RIVIERE",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

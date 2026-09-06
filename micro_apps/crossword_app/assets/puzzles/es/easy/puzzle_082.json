@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_082",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 082",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "PAGINA",
+      "clue": "Una hoja de un libro",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "SONRISA",
+      "clue": "Expresión feliz del rostro",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "PAJARO",
+      "clue": "Animal con plumas que puede volar",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "SAL",
+      "clue": "Condimento blanco que sazona la comida",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "RIO",
+      "clue": "Gran corriente natural de agua",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "ISLA",
+      "clue": "Tierra completamente rodeada de agua",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ORO",
+      "clue": "Metal precioso de color amarillo",
+      "category": "nature"
+    }
+  ]
+}

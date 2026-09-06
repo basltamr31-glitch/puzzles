@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_098",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 97,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "UGJVKXXJRCIWDC",
+    "MNLTXHBFLDJEJP",
+    "FGUJMYIYCCNNFL",
+    "UDTFSCHOKOLADE",
+    "MIZWHROCRONNTF",
+    "MCWYEBNTHNHADF",
+    "ZZYTRJIWKDMBDO",
+    "FWTEDZGUJOSZCT",
+    "JUOTBACZTYUVJR",
+    "BIRNEHTXPSCKCA",
+    "RFBREZCZICFZLK",
+    "CCZNRIAAJIGLNK",
+    "KAFFEEJMPKZKEW",
+    "MXWODHGNYZOZLB"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 6,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "BIRNE",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BROT",
+      "row": 10,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "BUTTER",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HONIG",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 12,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 10,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "PFANNKUCHEN",
+      "row": 1,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "SCHOKOLADE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 8,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 7,
+      "col": 5,
+      "dir": "NE"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_087",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 087",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "COUNTRY",
+      "clue": "A nation with its own government"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "SQUIRREL",
+      "clue": "Small bushy-tailed animal that collects nuts"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "DANCER",
+      "clue": "Person who performs dance"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "SKY",
+      "clue": "The space above the earth, seen from the ground"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "SUNSET",
+      "clue": "When the sun goes down in the evening"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "RABBIT",
+      "clue": "Long-eared animal known for hopping"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "SANDALS",
+      "clue": "Open shoes with straps"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "GAIN",
+      "clue": "An increase in something, like wealth"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "AIR",
+      "clue": "The gas we breathe"
+    }
+  ]
+}

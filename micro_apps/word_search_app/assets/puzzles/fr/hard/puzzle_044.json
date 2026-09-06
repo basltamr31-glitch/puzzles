@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_044",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 43,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "CTQZADKCBAGL",
+    "OCXJHGLADCDC",
+    "UHANKVGPQUYG",
+    "SALLEDEBAINU",
+    "SMPTXSTASSET",
+    "IBTSIPATCIXC",
+    "NREAVXGCFNCL",
+    "PEHGBEECYEBM",
+    "RCMINLRRIVMY",
+    "RVTIHTEPMALG",
+    "DBAOJMKZCFPH",
+    "HOKSLMRRUOMG"
+  ],
+  "words": [
+    {
+      "word": "CHAISE",
+      "row": 8,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "CHAMBRE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CUISINE",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPE",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SALLEDEBAIN",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 5,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TAPIS",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "TASSE",
+      "row": 4,
+      "col": 6,
+      "dir": "E"
+    }
+  ]
+}

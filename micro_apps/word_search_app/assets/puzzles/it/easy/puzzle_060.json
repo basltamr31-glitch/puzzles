@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_060",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 59,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "QPSIBCTU",
+    "LOIXDDCT",
+    "AKASKLUA",
+    "MYNEGESP",
+    "PZSDCTCP",
+    "ATIIRTIE",
+    "DIVANONT",
+    "AQIXIAOO"
+  ],
+  "words": [
+    {
+      "word": "CUSCINO",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DIVANO",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "LETTO",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SEDIA",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

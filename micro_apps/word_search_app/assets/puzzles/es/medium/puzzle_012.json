@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_012",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 11,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "ABIZVTXBOM",
+    "DTDUOVLTYA",
+    "PKIVMNRCCS",
+    "VVCPEEGAHF",
+    "GXPMONSMIO",
+    "VVPUERTAMQ",
+    "UNSVTAZAEJ",
+    "KTKATHBANO",
+    "TYTIKMGLEA",
+    "FYCCOCINAP"
+  ],
+  "words": [
+    {
+      "word": "BANO",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "CAMA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "COCINA",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MESA",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PUERTA",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TAZA",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VENTANA",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

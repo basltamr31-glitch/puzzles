@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_031",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 30,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "LMRYOQCGDCDXJZ",
+    "LNVGTPMJMEPZSM",
+    "ERJAINGYPOSAFR",
+    "BYVELOSKKGZPCJ",
+    "PVENKIKTQHLNIJ",
+    "TPTXIVSTDDCEDD",
+    "SYRFBATEAUTNIO",
+    "XYPLCHRSCUGUAV",
+    "CETAXIOTONGOYK",
+    "PLDELFPRXPAJIP",
+    "OOPUDEOYUGVCDX",
+    "SYRMRTROPESSAP",
+    "SLVFUKEAAUHRFV",
+    "SBUAVRANGASKBF"
+  ],
+  "words": [
+    {
+      "word": "AEROPORT",
+      "row": 13,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "AUTOROUTE",
+      "row": 13,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "AVION",
+      "row": 6,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "BATEAU",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "GARE",
+      "row": 13,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "PASSEPORT",
+      "row": 11,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "SACADOS",
+      "row": 5,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "TAXI",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 8,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "VACANCES",
+      "row": 12,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "VALISE",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "VELO",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

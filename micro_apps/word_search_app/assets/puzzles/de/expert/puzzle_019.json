@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_019",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 18,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "KATRNTOHETJGMZ",
+    "CAJBLTECSSTESP",
+    "JKDGREXBDMRSBJ",
+    "CECJRSSONNECOG",
+    "IXDMXEVNDEEFPA",
+    "WYCKEIBSIGMLUL",
+    "CYEMPWOLKEMUFL",
+    "MHXGMPDNARTSRP",
+    "RWYAGRNLXTKSAV",
+    "CVZKREISJTTKWD",
+    "BUAKSXWERZGAOT",
+    "YDOUJVRYGJECVR",
+    "WPBDIYYVWOCZLL",
+    "SNDANGRFCVUBJF"
+  ],
+  "words": [
+    {
+      "word": "BERG",
+      "row": 5,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "BLATT",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "FLUSS",
+      "row": 4,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "INSEL",
+      "row": 5,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "MEER",
+      "row": 5,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "REGEN",
+      "row": 7,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "SONNE",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "STEIN",
+      "row": 8,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "STRAND",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "WIESE",
+      "row": 6,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "WIND",
+      "row": 10,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "WOLKE",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

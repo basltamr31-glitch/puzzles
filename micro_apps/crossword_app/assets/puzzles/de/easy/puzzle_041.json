@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_041",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 041",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "BIENE",
+      "clue": "Summendes Insekt, das Honig macht",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "SEITE",
+      "clue": "Ein Blatt in einem Buch",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "EBENE",
+      "clue": "Flaches, weites Land ohne große Erhebungen",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "INSEL",
+      "clue": "Land, komplett von Wasser umgeben",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "STIFT",
+      "clue": "Schreibwerkzeug",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "ELCH",
+      "clue": "Großes geweihtragendes Waldtier",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "TRAUM",
+      "clue": "Bilder und Gedanken beim Schlafen",
+      "category": "action"
+    }
+  ]
+}

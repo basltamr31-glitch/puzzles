@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_036",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 35,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "LKAOEMHJ",
+    "BPXPSNUA",
+    "EHJIPFTD",
+    "TKAMINNV",
+    "TASSEAFS",
+    "ZCNYGJWT",
+    "RKTUERIC",
+    "STUHLVLT"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "KAMIN",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "STUHL",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TASSE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TUER",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

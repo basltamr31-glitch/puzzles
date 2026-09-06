@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_050",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 49,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "CGDBEGOW",
+    "YJMBKSTZ",
+    "YNIDKOBB",
+    "UKLDAGIA",
+    "KACEVVRN",
+    "TEHMFXNA",
+    "USSUPPEN",
+    "UETOMATE"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BIRNE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "KAESE",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "MILCH",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SUPPE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

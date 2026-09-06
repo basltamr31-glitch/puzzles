@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_024",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 23,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "PPCSAKZHXU",
+    "CEHOCKEYKV",
+    "VAMARATONA",
+    "XNSVZSCVKA",
+    "ARBYRIACUR",
+    "KGLOPNDXHB",
+    "YCCYXLUMRI",
+    "VRDGYEBORT",
+    "UYUIZQRVTR",
+    "SSEGSTADIO"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "BOXE",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CORSA",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MARATONA",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "NUOTO",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "STADIO",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

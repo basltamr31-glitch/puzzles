@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_083",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 82,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "MLNUVOLACH",
+    "TENEMIBXKO",
+    "ARMOBRDSPA",
+    "UDZPMBLPMI",
+    "HOQQXAIIUF",
+    "HPQVULCANO",
+    "UDRIQBAGFG",
+    "GZFASETGUL",
+    "OLNUTRGIII",
+    "IRUISOLAXA"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "ISOLA",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PRATO",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SPIAGGIA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "VULCANO",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

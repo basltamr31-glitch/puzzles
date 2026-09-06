@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_064",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 63,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "KKZOVNHFPIZO",
+    "EGOSXGSYVBOQ",
+    "QOPDFUTBOLNO",
+    "UVOTPTNFLSMP",
+    "IFBALONCESTO",
+    "PAXTTGQOIGXS",
+    "OIDATSELBJQU",
+    "PVRJZXCDOLAJ",
+    "BAJEOIATLETA",
+    "MTTBCARRERAF",
+    "SXRCHQFDYLNM",
+    "GUZRRNHCTTHN"
+  ],
+  "words": [
+    {
+      "word": "ATLETA",
+      "row": 8,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "BALONCESTO",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BOXEO",
+      "row": 9,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "CARRERA",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CICLISMO",
+      "row": 9,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "EQUIPO",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "ESTADIO",
+      "row": 6,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "FUTBOL",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MARATON",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "VOLEIBOL",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

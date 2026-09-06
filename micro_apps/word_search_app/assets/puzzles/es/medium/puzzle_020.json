@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_020",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 19,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "ZTPIRZZCGY",
+    "MZULKRSFHH",
+    "EHEABPCJIT",
+    "SSRMANTAIS",
+    "AJTPNRJLMD",
+    "TLAAOHIVAA",
+    "UGDRNIXNVQ",
+    "ZDCADTZTLP",
+    "JCUQQIEDUL",
+    "ZPJGYGNXZP"
+  ],
+  "words": [
+    {
+      "word": "BANO",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CAMA",
+      "row": 2,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "JARDIN",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MANTA",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MESA",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PUERTA",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

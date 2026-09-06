@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_060",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 59,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "GFHATPTOLC",
+    "YENYDAIBBK",
+    "PALNFESOFB",
+    "KZXLWZCSRY",
+    "MRIXLZHKES",
+    "BCELIFMUEN",
+    "RYRGARTENF",
+    "SBDOAMFCSG",
+    "BFJNFLPHUY",
+    "ATSPIEGELB"
+  ],
+  "words": [
+    {
+      "word": "DECKE",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "GARTEN",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "KUECHE",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPE",
+      "row": 5,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "REGAL",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TASSE",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TISCH",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

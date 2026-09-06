@@ -1,0 +1,58 @@
+{
+  "id": "fr_easy_024",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 024",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "PIERRE",
+      "clue": "Un petit morceau de roche",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "JAMBE",
+      "clue": "Membre utilisé pour marcher",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "SUCRE",
+      "clue": "Substance cristalline sucrée",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "FEMME",
+      "clue": "Personne adulte de sexe féminin",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "LIVRE",
+      "clue": "Pages reliées que l'on lit",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "LAMPE",
+      "clue": "Objet qui donne de la lumière",
+      "category": "home"
+    }
+  ]
+}

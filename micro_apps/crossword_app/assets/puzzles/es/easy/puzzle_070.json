@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_070",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 070",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "LEON",
+      "clue": "Gran felino, rey de la sabana",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "COLOR",
+      "clue": "Rojo, azul, verde u otro tono",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "LOBO",
+      "clue": "Animal salvaje emparentado con el perro",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "OSO",
+      "clue": "Animal grande y peludo que vive en el bosque",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "SOPA",
+      "clue": "Plato líquido caliente, a menudo con verduras",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "PAN",
+      "clue": "Alimento horneado hecho de harina y agua",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "SAL",
+      "clue": "Condimento blanco que sazona la comida",
+      "category": "food"
+    }
+  ]
+}

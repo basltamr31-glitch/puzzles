@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_020",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 19,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "REGALFYK",
+    "YFHOALEI",
+    "PEBNMCLS",
+    "RNTDPTWS",
+    "LSKUECHE",
+    "PTFWPMPN",
+    "TEPPICHW",
+    "DRELTUXV"
+  ],
+  "words": [
+    {
+      "word": "FENSTER",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KUECHE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "REGAL",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

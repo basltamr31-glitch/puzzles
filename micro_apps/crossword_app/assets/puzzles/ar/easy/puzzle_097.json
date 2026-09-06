@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_097",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 097",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "قطة",
+      "clue": "حيوان أليف يموء",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "بقرة",
+      "clue": "حيوان أليف يُربى لحليبه",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "كوب",
+      "clue": "إناء صغير يُستخدم لشرب الماء",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "قبعة",
+      "clue": "غطاء يُلبس على الرأس",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "جبل",
+      "clue": "مرتفع طبيعي كبير من الأرض",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "سمك",
+      "clue": "حيوان مائي يتنفس بالخياشيم",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "مساء",
+      "clue": "نهاية اليوم",
+      "category": "time"
+    }
+  ]
+}

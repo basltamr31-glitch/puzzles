@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_074",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 074",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "JAHR",
+      "clue": "Ein Zeitraum von zwölf Monaten",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "FRAU",
+      "clue": "Erwachsene weibliche Person",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "ARM",
+      "clue": "Gliedmaße zwischen Schulter und Hand",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "UHR",
+      "clue": "Gerät, das die Zeit anzeigt",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "HAND",
+      "clue": "Körperteil am Ende des Arms",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "HAAR",
+      "clue": "Strähnen, die aus der Haut wachsen",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "SCHNEE",
+      "clue": "Gefrorene weiße Flocken im Winter",
+      "category": "nature"
+    }
+  ]
+}

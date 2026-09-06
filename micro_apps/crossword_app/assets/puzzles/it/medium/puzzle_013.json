@@ -1,0 +1,80 @@
+{
+  "id": "it_medium_013",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 013",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "LEZIONE",
+      "clue": "Un periodo di apprendimento su un argomento"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "FATTO",
+      "clue": "Qualcosa che si sa essere vero"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "CONIGLIO",
+      "clue": "Animale dalle lunghe orecchie che salta"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "UFFICIO",
+      "clue": "Stanza usata per il lavoro professionale"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "ARIA",
+      "clue": "Il gas che respiriamo"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "ANIMALE",
+      "clue": "Ogni essere vivente che non è una pianta"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "ESTATE",
+      "clue": "Stagione più calda dell'anno"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "OLIO",
+      "clue": "Liquido scivoloso usato per cucinare o come carburante"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "LUCE",
+      "clue": "La chiarezza che permette di vedere"
+    }
+  ]
+}

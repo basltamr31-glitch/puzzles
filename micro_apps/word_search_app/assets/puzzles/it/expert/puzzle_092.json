@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_092",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 91,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "PFOLOVATCDIVNB",
+    "EEPINNFQSTUUOI",
+    "LDYRISRGCKNTNO",
+    "AAEXCBAICOBCGD",
+    "FINESTRABBKBAU",
+    "FUOIUVERADCTBN",
+    "AUFLCSMDEHREVR",
+    "CGNPKUAIDESPQX",
+    "SOQAHOCNPXCADC",
+    "GTAPPETOFLTKAC",
+    "DFXUSOCTFVFCDR",
+    "XEFEXFSMELEXTS",
+    "EYEABZLQDLAXLT",
+    "NLRHAMUAFVOCXU"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 5,
+      "col": 12,
+      "dir": "N"
+    },
+    {
+      "word": "CAMERA",
+      "row": 8,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "COPERTA",
+      "row": 10,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "CUCINA",
+      "row": 8,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 6,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LETTO",
+      "row": 12,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 8,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "SEDIA",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 0,
+      "col": 7,
+      "dir": "W"
+    }
+  ]
+}

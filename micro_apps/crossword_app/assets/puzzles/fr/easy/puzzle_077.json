@@ -1,0 +1,58 @@
+{
+  "id": "fr_easy_077",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 077",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "PERE",
+      "clue": "Parent masculin",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "PAIN",
+      "clue": "Aliment cuit à base de farine et d'eau",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SEMAINE",
+      "clue": "Une période de sept jours",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "BOIS",
+      "clue": "Matériau dont sont faits les arbres",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "FEUILLE",
+      "clue": "Partie verte et plate d'une plante",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "BEBE",
+      "clue": "Très jeune enfant",
+      "category": "people"
+    }
+  ]
+}

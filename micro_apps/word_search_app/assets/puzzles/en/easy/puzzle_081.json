@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_081",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 80,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "SPQPAYES",
+    "UCKIUKUL",
+    "ZVGGIOSQ",
+    "SWNKOUDA",
+    "HORSERPH",
+    "ELIMAUCM",
+    "EFOXIVUV",
+    "PANTHERX"
+  ],
+  "words": [
+    {
+      "word": "FOX",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HORSE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PANTHER",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PIG",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SHEEP",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "WOLF",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

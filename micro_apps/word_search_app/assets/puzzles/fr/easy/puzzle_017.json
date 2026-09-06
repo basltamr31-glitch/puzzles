@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_017",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 16,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "DESMSFEX",
+    "BLOUPXJO",
+    "JNUXCYTQ",
+    "IXRCHOPA",
+    "KGIRAFEL",
+    "VDSHTHNI",
+    "SQLZJGMO",
+    "EDAUPHIN"
+  ],
+  "words": [
+    {
+      "word": "CHAT",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "DAUPHIN",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LION",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LOUP",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOURIS",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

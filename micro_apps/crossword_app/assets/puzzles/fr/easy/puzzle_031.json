@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_031",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 031",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "CHEVEUX",
+      "clue": "Ce qui pousse sur la tête",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "OISEAU",
+      "clue": "Animal à plumes qui peut voler",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "ILE",
+      "clue": "Terre entièrement entourée d'eau",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ROUGE",
+      "clue": "Couleur du sang ou d'une tomate mûre",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "TETE",
+      "clue": "Partie supérieure du corps, avec le cerveau",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "LAC",
+      "clue": "Grande étendue d'eau entourée de terre",
+      "category": "place"
+    }
+  ]
+}

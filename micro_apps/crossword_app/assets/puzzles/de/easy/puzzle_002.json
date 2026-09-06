@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_002",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 002",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "HAAR",
+      "clue": "Strähnen, die aus der Haut wachsen",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "WASSER",
+      "clue": "Klare Flüssigkeit, lebensnotwendig",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "UHR",
+      "clue": "Gerät, das die Zeit anzeigt",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "BRAUN",
+      "clue": "Farbe von Erde und Schokolade",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "HAND",
+      "clue": "Körperteil am Ende des Arms",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "SAND",
+      "clue": "Winzige lose Körner an Stränden",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ENTE",
+      "clue": "Wasservogel, der schnattert",
+      "category": "animal"
+    }
+  ]
+}

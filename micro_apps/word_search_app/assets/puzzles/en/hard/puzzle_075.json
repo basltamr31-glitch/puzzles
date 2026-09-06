@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_075",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 74,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "RRPOQEWLUGUE",
+    "OZSEWORTDANR",
+    "DWINDGSTZIZV",
+    "SWWATERFALLY",
+    "NAETREETIUKR",
+    "CMIOSINYSSLS",
+    "WTFETUVLFFPB",
+    "CSDCOUJEJEIW",
+    "GRRMNRVARYUK",
+    "PKPZEDZFZOLX",
+    "QLUVYNECDCQF",
+    "SGVPITWPNUIJ"
+  ],
+  "words": [
+    {
+      "word": "DESERT",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "FOREST",
+      "row": 6,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "LEAF",
+      "row": 6,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MEADOW",
+      "row": 5,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "RIVER",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "STONE",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TREE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "WATERFALL",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

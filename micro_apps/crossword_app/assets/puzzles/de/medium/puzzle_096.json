@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_096",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 096",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "PILOT",
+      "clue": "Person, die ein Flugzeug fliegt"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "LICHT",
+      "clue": "Helligkeit, die das Sehen ermöglicht"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "HASE",
+      "clue": "Langohriges, hüpfendes Tier"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "PROBLEM",
+      "clue": "Eine schwierige Sache, die gelöst werden muss"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "BAUER",
+      "clue": "Person, die Feldfrüchte anbaut"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "answer": "MALER",
+      "clue": "Künstler, der mit Farbe arbeitet"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "JACKE",
+      "clue": "Ein kurzer Übermantel"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "DECKE",
+      "clue": "Innere Oberfläche oben in einem Raum"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "MARKT",
+      "clue": "Ort, an dem Waren gekauft und verkauft werden"
+    }
+  ]
+}

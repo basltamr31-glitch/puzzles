@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_066",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 65,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "VLBOOZCUCS",
+    "NGKFTRCMHV",
+    "PATATAAJOO",
+    "GLHYFPFHCF",
+    "ZLBPGPEEOD",
+    "XENEKXKRLQ",
+    "CTORTILLAU",
+    "MAIJTOMATE",
+    "APJIBYLSES",
+    "YOJJASDTLO"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "GALLETA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PERA",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "QUESO",
+      "row": 5,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TORTILLA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

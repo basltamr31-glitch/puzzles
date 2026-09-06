@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_060",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 59,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "TMGCEYOGDBIDUF",
+    "PCCHATUFIXDBGD",
+    "SSXASXGLPCSTVQ",
+    "IACAMERAAZPYCC",
+    "ZCUSCINOBREQCB",
+    "CBTPRANTHUCUGE",
+    "VSAQAIDESFCECO",
+    "OBURDZKPTIHNFY",
+    "KNIRNZZPNTIERQ",
+    "OUAOLOVATROPGL",
+    "OIEVFAUTTOTMYZ",
+    "GCKZIKZNBEDFXL",
+    "HACIUDUCQZCZTS",
+    "KHHGFKASGBECVB"
+  ],
+  "words": [
+    {
+      "word": "CAMERA",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CAMINETTO",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CUCINA",
+      "row": 4,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DIVANO",
+      "row": 12,
+      "col": 5,
+      "dir": "NW"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "PORTA",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SEDIA",
+      "row": 6,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 2,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 10,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 9,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "TAZZA",
+      "row": 10,
+      "col": 8,
+      "dir": "NW"
+    }
+  ]
+}

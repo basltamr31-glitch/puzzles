@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_007",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 007",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "KATZE",
+      "clue": "Haustier, das schnurrt und maunzt",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "HOLZ",
+      "clue": "Material, aus dem Bäume bestehen",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "FRAU",
+      "clue": "Erwachsene weibliche Person",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "ELCH",
+      "clue": "Großes geweihtragendes Waldtier",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "JAHR",
+      "clue": "Ein Zeitraum von zwölf Monaten",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "FROSCH",
+      "clue": "Grüne Amphibie, die hüpft und quakt",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "OHR",
+      "clue": "Körperteil zum Hören",
+      "category": "body"
+    }
+  ]
+}

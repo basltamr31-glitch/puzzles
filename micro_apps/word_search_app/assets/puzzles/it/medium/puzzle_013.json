@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_013",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 12,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "YTAKSBLPTX",
+    "OGINOCCHIO",
+    "CRSNBGAMBA",
+    "OYEPRNVTOC",
+    "VQUCADIEEZ",
+    "MDHOCLGSYR",
+    "PODLCHLTRK",
+    "TSNLICIAML",
+    "LCOOOZAORK",
+    "LUSEGVZOQC"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CAVIGLIA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "COLLO",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "GAMBA",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "GINOCCHIO",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SPALLA",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TESTA",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

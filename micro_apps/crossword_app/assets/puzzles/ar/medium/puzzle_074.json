@@ -1,0 +1,80 @@
+{
+  "id": "ar_medium_074",
+  "language": "ar",
+  "difficulty": "medium",
+  "title": "اللغز 074",
+  "rows": 10,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "answer": "بطء",
+      "clue": "قلة السرعة"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "answer": "راتب",
+      "clue": "المال الذي يتقاضاه الموظف"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "مزرعة",
+      "clue": "أرض تُستخدم لتربية الحيوانات وزراعة المحاصيل"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "answer": "عمق",
+      "clue": "المسافة من السطح إلى الأسفل"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "تجارة",
+      "clue": "نشاط بيع وشراء السلع"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "برنامج",
+      "clue": "خطة منظمة لتنفيذ أنشطة معينة"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "أمطار",
+      "clue": "جمع مطر"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "جسم",
+      "clue": "الكيان المادي للإنسان أو الحيوان"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "خبر",
+      "clue": "معلومة جديدة عن حدث ما"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "سوق",
+      "clue": "مكان يُباع ويُشترى فيه البضائع"
+    }
+  ]
+}

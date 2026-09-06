@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_013",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 013",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SOURIRE",
+      "clue": "Expression heureuse du visage",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "CHAISE",
+      "clue": "Meuble sur lequel on s'assoit",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "LUNE",
+      "clue": "Satellite naturel de la Terre",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "ROUGE",
+      "clue": "Couleur du sang ou d'une tomate mûre",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "TETE",
+      "clue": "Partie supérieure du corps, avec le cerveau",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "BOIS",
+      "clue": "Matériau dont sont faits les arbres",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "LAC",
+      "clue": "Grande étendue d'eau entourée de terre",
+      "category": "place"
+    }
+  ]
+}

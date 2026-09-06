@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_078",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 77,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "GXBVREHSPBXC",
+    "XVRTPRCZYFCH",
+    "GXDTRDLHBKEA",
+    "YBVUNOCAANEU",
+    "AIVITPMZNRBS",
+    "NZRDRZBJUMPS",
+    "NRBNOLATNAPE",
+    "XKJABTNAGOUT",
+    "HFTREILLOCLT",
+    "YIMPERMEABLE",
+    "BRACELETHHQS",
+    "ULQJUOXDDTBT"
+  ],
+  "words": [
+    {
+      "word": "BRACELET",
+      "row": 10,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CEINTURE",
+      "row": 10,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "CHAUSSETTE",
+      "row": 0,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "COLLIER",
+      "row": 8,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "ECHARPE",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "GANT",
+      "row": 7,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "IMPERMEABLE",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PANTALON",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "PULL",
+      "row": 6,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "ROBE",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

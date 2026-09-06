@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_056",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 55,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "QVGUMEYC",
+    "XDNYATAM",
+    "ICARRERA",
+    "GGVZANBT",
+    "YBPMTIIA",
+    "UABCOSTG",
+    "TQEKNFRO",
+    "YMFUTBOL"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CARRERA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FUTBOL",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GOL",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MARATON",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TENIS",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

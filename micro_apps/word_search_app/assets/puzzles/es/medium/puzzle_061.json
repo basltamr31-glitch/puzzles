@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_061",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 60,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "GCODOIBALO",
+    "CHTREFUTYD",
+    "UAOFEDHAGL",
+    "ENBRTJOAHV",
+    "LPIERNAOFT",
+    "LVLNZRUFGU",
+    "ORLTRAVDMK",
+    "HEOESTTLFG",
+    "SNEIOCFZBB",
+    "AYLMLHRHJC"
+  ],
+  "words": [
+    {
+      "word": "CABEZA",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CODO",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CUELLO",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "DEDO",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "FRENTE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "OREJA",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PIERNA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TOBILLO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

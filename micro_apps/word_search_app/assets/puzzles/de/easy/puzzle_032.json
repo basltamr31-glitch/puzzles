@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_032",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 31,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "UYSCHACH",
+    "MOJTLLKO",
+    "ITXOZABC",
+    "JYERRUBK",
+    "ZXVRLFOE",
+    "NNWOZJXY",
+    "KGCEREEL",
+    "STADIONT"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LAUF",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SCHACH",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STADION",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TOR",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

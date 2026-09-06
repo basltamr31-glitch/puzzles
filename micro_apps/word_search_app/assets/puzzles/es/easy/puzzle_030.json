@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_030",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 29,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "GLYZMVVF",
+    "UPULSERA",
+    "AGCLJSZB",
+    "NIOVKTCR",
+    "TRLZZISI",
+    "ETLQGDVG",
+    "MXASFOZO",
+    "CORBATAG"
+  ],
+  "words": [
+    {
+      "word": "ABRIGO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "COLLAR",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CORBATA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GUANTE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PULSERA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

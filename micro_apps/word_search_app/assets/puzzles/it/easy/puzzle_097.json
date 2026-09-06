@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_097",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 96,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "GIRPAEPU",
+    "LIQSQMVS",
+    "YSQLUPOS",
+    "SGHAITSC",
+    "CAVALLOV",
+    "HTBCAPRA",
+    "NTPYZISR",
+    "DOMNZIOX"
+  ],
+  "words": [
+    {
+      "word": "AQUILA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CAPRA",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CAVALLO",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GATTO",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "LUPO",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ORSO",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

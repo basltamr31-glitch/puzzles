@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_078",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 77,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "UHPVRJITXTCO",
+    "XOXREVOLLUPP",
+    "UJZLPKZSJRKH",
+    "ZKRZBWXNONUY",
+    "LZLMJACKESOH",
+    "TGUERTELOCFY",
+    "OLMGIWAEJHXV",
+    "YIHANDSCHUHE",
+    "BIXINPKOTHJN",
+    "AWXACTBKPEGE",
+    "CHSOCKEUFBHI",
+    "JYFGTVULWSCG"
+  ],
+  "words": [
+    {
+      "word": "GUERTEL",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HANDSCHUH",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HOSE",
+      "row": 4,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "JACKE",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "KLEID",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MANTEL",
+      "row": 6,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PULLOVER",
+      "row": 1,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SANDALEN",
+      "row": 10,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "SOCKE",
+      "row": 10,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TURNSCHUHE",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

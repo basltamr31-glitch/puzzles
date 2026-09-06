@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_059",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 059",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "STAR",
+      "clue": "A glowing point of light in the night sky",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "DANCE",
+      "clue": "To move rhythmically to music",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "RIVER",
+      "clue": "A large natural stream of flowing water",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CLASS",
+      "clue": "Group of students taught together",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "WHALE",
+      "clue": "Enormous sea mammal",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "WOOD",
+      "clue": "Material that trees are made of",
+      "category": "nature"
+    }
+  ]
+}

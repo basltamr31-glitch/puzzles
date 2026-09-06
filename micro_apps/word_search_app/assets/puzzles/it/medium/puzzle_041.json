@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_041",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 40,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "YLUPOEBCFU",
+    "ZGIRAFFAEO",
+    "DELFINOMGS",
+    "ZABCDSTMQP",
+    "TIGRESYEQO",
+    "BMQKACILRC",
+    "CGMYGDTLYA",
+    "RFTTKKBOTN",
+    "SDNYVKFCLE",
+    "ILHFIZIYBF"
+  ],
+  "words": [
+    {
+      "word": "CAMMELLO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CANE",
+      "row": 5,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "DELFINO",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LUPO",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PANTERA",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "TIGRE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

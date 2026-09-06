@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_050",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 49,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "NXSKBDGC",
+    "MRASSJRZ",
+    "WJXKOJAM",
+    "GICTULPS",
+    "NCAPPLEB",
+    "PJKJRICE",
+    "YNEPMPMT",
+    "JXDWIOEV"
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CAKE",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "GRAPE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "JAM",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "RICE",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SOUP",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

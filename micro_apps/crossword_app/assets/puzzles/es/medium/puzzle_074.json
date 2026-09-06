@@ -1,0 +1,80 @@
+{
+  "id": "es_medium_074",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 074",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "META",
+      "clue": "El objetivo hacia el que alguien trabaja"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "CONEJO",
+      "clue": "Animal de orejas largas conocido por saltar"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "TAMAÑO",
+      "clue": "Cuán grande o pequeño es algo"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "INSECTO",
+      "clue": "Pequeña criatura de seis patas como una hormiga"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "MERCADO",
+      "clue": "Lugar donde se compran y venden bienes"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "DRAGON",
+      "clue": "Criatura mítica que escupe fuego"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "BOTON",
+      "clue": "Un pequeño cierre en la ropa"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "BOLSILLO",
+      "clue": "Una pequeña bolsa cosida en la ropa"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    }
+  ]
+}

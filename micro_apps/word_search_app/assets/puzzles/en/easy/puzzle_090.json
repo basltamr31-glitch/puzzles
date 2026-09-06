@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_090",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 89,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "RCJQFKXP",
+    "REIBQQRI",
+    "TOMATOCZ",
+    "MWNNBSHZ",
+    "POTATOEA",
+    "LVDNEUEL",
+    "VLUAFPSC",
+    "CVQMSQEI"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CHEESE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PIZZA",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOUP",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATO",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

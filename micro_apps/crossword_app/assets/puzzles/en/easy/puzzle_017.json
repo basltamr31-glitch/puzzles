@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_017",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 017",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SHEEP",
+      "clue": "Woolly farm animal that says \"baa\"",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "FISH",
+      "clue": "Aquatic animal that breathes through gills",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "FIELD",
+      "clue": "Open land used for crops or grazing",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "DOG",
+      "clue": "Loyal pet known for barking",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "ARM",
+      "clue": "Limb between the shoulder and the hand",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SWIM",
+      "clue": "To move through water using your body",
+      "category": "action"
+    }
+  ]
+}

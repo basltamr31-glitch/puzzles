@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_034",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 034",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "WOLKE",
+      "clue": "Weiße oder graue Masse am Himmel",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "WOLF",
+      "clue": "Wildtier, verwandt mit dem Hund",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "TAL",
+      "clue": "Niedriges Land zwischen Bergen",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "WALD",
+      "clue": "Große mit Bäumen bedeckte Fläche",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "BERG",
+      "clue": "Hoch aufragende Landform",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "KATZE",
+      "clue": "Haustier, das schnurrt und maunzt",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "FRAU",
+      "clue": "Erwachsene weibliche Person",
+      "category": "people"
+    }
+  ]
+}

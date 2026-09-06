@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_063",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 62,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "CTSLUVNS",
+    "BSYXXECE",
+    "TXQTVLAU",
+    "FTSRPORT",
+    "QBTAXITH",
+    "GIBILLET",
+    "FPINCNPF",
+    "UNNIZUHO"
+  ],
+  "words": [
+    {
+      "word": "BILLET",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CARTE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PORT",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "VELO",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_001",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 0,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "VEHORSETMG",
+    "STKNYPAAWP",
+    "MOFISHGSQQ",
+    "FOUTOHLDXP",
+    "VHKTIGERMI",
+    "IUIXOOZEOQ",
+    "WDPSHANTPC",
+    "RGGCATCYUN",
+    "IRQGZQVSIU",
+    "VDFMPNKXLR"
+  ],
+  "words": [
+    {
+      "word": "ANT",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CAT",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "EAGLE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "FISH",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GOAT",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "HORSE",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SHEEP",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TIGER",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

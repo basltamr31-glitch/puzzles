@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_050",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 050",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "AIGLE",
+      "clue": "Grand oiseau de proie à la vue perçante"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "TUNNEL",
+      "clue": "Un passage souterrain"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "ARCENCIEL",
+      "clue": "Arc de couleurs visible après la pluie"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "ANIMAL",
+      "clue": "Tout être vivant qui n'est pas une plante"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "EMPLOI",
+      "clue": "Un travail rémunéré effectué régulièrement"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "BOUGIE",
+      "clue": "Un bâton de cire avec une mèche, brûlé pour la lumière"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "CARTE",
+      "clue": "Un dessin qui montre où se trouvent les lieux"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "CLE",
+      "clue": "Outil métallique utilisé pour ouvrir une serrure"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "AIR",
+      "clue": "Le gaz que nous respirons"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "answer": "LOI",
+      "clue": "Une règle appliquée par un gouvernement"
+    }
+  ]
+}

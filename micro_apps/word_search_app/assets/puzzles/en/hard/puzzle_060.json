@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_060",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 59,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "GNILIECDVVXE",
+    "STJFFQQNNXVP",
+    "XHBCXUZDFXZS",
+    "WWESACRIATSG",
+    "ROFFPAWSJNYX",
+    "RQOMOORHTABT",
+    "ESABLTYEWIYJ",
+    "JLPLUZKLQGFI",
+    "WUINONLFIROH",
+    "CPUXAAVFSZNM",
+    "XNGLHBOIXFQH",
+    "LPBXWOKITPKZ"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 5,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "BLANKET",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "CEILING",
+      "row": 0,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "CUPBOARD",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "LAMP",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "PILLOW",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "SHELF",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 6,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "STAIRCASE",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_095",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 94,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "KIYIBVRQIPIM",
+    "ERZNIOIOJNEL",
+    "OYSGBYVCVLSB",
+    "FSVRVASPAWWO",
+    "BYAWHGIHVNGL",
+    "AHCFTEKCITEZ",
+    "BUALXULNYPCS",
+    "SSTATIONFTQK",
+    "QBICYCLEJHRP",
+    "TROPSSAPZXKM",
+    "YENRUOJSLZAX",
+    "RYXJMVVCKSNH"
+  ],
+  "words": [
+    {
+      "word": "BICYCLE",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HARBOR",
+      "row": 5,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 4,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 10,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 9,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "SHIP",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "STATION",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TICKET",
+      "row": 5,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "VACATION",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

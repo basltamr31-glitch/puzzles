@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_042",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 41,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "LQMZBQMX",
+    "EMIOKXAP",
+    "CZEALMNL",
+    "HALCJGZV",
+    "EPATATAA",
+    "ODLIMONM",
+    "YQUESOAA",
+    "ZNZYEZGR"
+  ],
+  "words": [
+    {
+      "word": "LECHE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "LIMON",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MANZANA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MIEL",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "QUESO",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

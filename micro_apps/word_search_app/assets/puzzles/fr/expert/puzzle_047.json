@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_047",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 46,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "TROPESSAPEZHZV",
+    "GBILLETCSOIIVG",
+    "ROUKXCZIEBLNOX",
+    "NTFZSNLDJEBONO",
+    "GOVOYAGESREHCC",
+    "SNVBVCCFTUPPYY",
+    "VXZETALAYTYHJR",
+    "UZSGRVXXDIPDZF",
+    "FEDTNIPSDOYUGQ",
+    "TVELOOASHVSSFP",
+    "CPPTBNIARTCYQM",
+    "SLJOEAGNEYBZMU",
+    "HYNLMUPSIZGEUE",
+    "ULCNCHIUVQGTOS"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 6,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BILLET",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CARTE",
+      "row": 5,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "PASSEPORT",
+      "row": 0,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "SACADOS",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TAXI",
+      "row": 5,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "TRAIN",
+      "row": 10,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "VACANCES",
+      "row": 7,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "VALISE",
+      "row": 5,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "VELO",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VOITURE",
+      "row": 9,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

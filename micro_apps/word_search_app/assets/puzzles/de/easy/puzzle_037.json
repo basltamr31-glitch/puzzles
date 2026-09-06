@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_037",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 36,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "HAEKOPFH",
+    "PJXIFTFZ",
+    "CAKNZANB",
+    "UDWNAUGE",
+    "ZFMTAAJI",
+    "JBSTIRNN",
+    "OCBRMMJO",
+    "JOMVWPFE"
+  ],
+  "words": [
+    {
+      "word": "ARM",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "AUGE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BEIN",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KINN",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KOPF",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "STIRN",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

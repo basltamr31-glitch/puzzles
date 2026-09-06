@@ -1,0 +1,50 @@
+{
+  "id": "it_easy_014",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 014",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "DONNA",
+      "clue": "Persona adulta di sesso femminile",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "BAMBINO",
+      "clue": "Essere umano giovane, non ancora adulto",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "SQUALO",
+      "clue": "Grande pesce predatore dai denti affilati",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "NASO",
+      "clue": "Organo usato per annusare",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "LAGO",
+      "clue": "Grande distesa d'acqua circondata da terra",
+      "category": "place"
+    }
+  ]
+}

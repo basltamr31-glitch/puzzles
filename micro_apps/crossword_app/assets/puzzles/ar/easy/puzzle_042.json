@@ -1,0 +1,50 @@
+{
+  "id": "ar_easy_042",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 042",
+  "rows": 7,
+  "cols": 4,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "نمر",
+      "clue": "قط كبير مخطط",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "نافذة",
+      "clue": "فتحة في الجدار للضوء والهواء",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "حذاء",
+      "clue": "ما يُلبس في القدمين",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "يوم",
+      "clue": "مدة أربع وعشرين ساعة",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "جيش",
+      "clue": "قوة عسكرية تدافع عن الوطن",
+      "category": "people"
+    }
+  ]
+}

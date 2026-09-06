@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_089",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 089",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "WOLKE",
+      "clue": "Weiße oder graue Masse am Himmel",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "MEER",
+      "clue": "Große Fläche mit Salzwasser",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "FRAU",
+      "clue": "Erwachsene weibliche Person",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "HAUS",
+      "clue": "Gebäude, in dem man wohnt",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "SALZ",
+      "clue": "Weißes Gewürz, macht Speisen herzhaft",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "WIND",
+      "clue": "Bewegte Luft",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "FUSS",
+      "clue": "Körperteil am Ende des Beins",
+      "category": "body"
+    }
+  ]
+}

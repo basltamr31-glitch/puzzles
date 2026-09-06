@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_089",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 88,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "TYLKNXVPAZPXLI",
+    "VGQQTNAHPELEIV",
+    "VBMNQCSPOBRBOO",
+    "HPPIWBYKGREJNI",
+    "HLVLAIEMIASIUX",
+    "EGXPMOSURPUERH",
+    "DTPVBOQJAYEUAF",
+    "JFLKESUNFCQJTH",
+    "KXEPRFTSFLLKJL",
+    "BFVOEHVIEVIPOF",
+    "BAQIEQHMKTGENJ",
+    "MBIRDLAOOHPVZD",
+    "PAKLPCEJWMVDJL",
+    "OUYQSOMFYCTPWF"
+  ],
+  "words": [
+    {
+      "word": "BEAR",
+      "row": 2,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "BIRD",
+      "row": 11,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CAMEL",
+      "row": 12,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "DEER",
+      "row": 11,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 1,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "HORSE",
+      "row": 1,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "LION",
+      "row": 0,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "MOUSE",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTHER",
+      "row": 5,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "SQUIRREL",
+      "row": 7,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

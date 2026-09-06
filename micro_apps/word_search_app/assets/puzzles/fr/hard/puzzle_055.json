@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_055",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 54,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "YVGKXQMSJBTI",
+    "EQEAUNLKQPRJ",
+    "BFGTROPESSAP",
+    "SAGPNETEICIA",
+    "QTTHTPCMIBNR",
+    "VGHEPNOYTOGP",
+    "FTVLAXXEIEPU",
+    "CCACRULVELOK",
+    "JKAXJLABUQRY",
+    "EVALISETQBPE",
+    "EUKBOROOXBOP",
+    "BYXGEPUOMNPP"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 8,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "BATEAU",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "BILLET",
+      "row": 10,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "GARE",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PASSEPORT",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "TAXI",
+      "row": 6,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "TRAIN",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "VACANCES",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "VALISE",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VELO",
+      "row": 7,
+      "col": 7,
+      "dir": "E"
+    }
+  ]
+}

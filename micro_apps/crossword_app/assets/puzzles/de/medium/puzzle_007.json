@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_007",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 007",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "BAHNHOF",
+      "clue": "Haltestelle für Züge"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "AUFGABE",
+      "clue": "Eine Lerneinheit zu einem Thema"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "GEHEIMNIS",
+      "clue": "Information, die verborgen bleibt"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "DORF",
+      "clue": "Kleine Gemeinde, kleiner als eine Stadt"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "ANTWORT",
+      "clue": "Eine Erwiderung auf eine Frage"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "MUSEUM",
+      "clue": "Gebäude, das historische Objekte zeigt"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "RAUM",
+      "clue": "Ein leerer Bereich, oder das Universum"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "TEAM",
+      "clue": "Eine Gruppe, die gemeinsam auf ein Ziel hinarbeitet"
+    }
+  ]
+}

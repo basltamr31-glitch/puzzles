@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_047",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 46,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "ABBFLZYE",
+    "VUHAGXLK",
+    "LSCHIFFX",
+    "PKARTEOL",
+    "FVURAYPO",
+    "NUTAXPDE",
+    "GEODIZNK",
+    "SWBOUBXE"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FAHRRAD",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KARTE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

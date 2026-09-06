@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_050",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 49,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "TLMFJKXHTS",
+    "MEIVCFDYUJ",
+    "ZIXMHGOCRF",
+    "QUESOPAEBI",
+    "LTVACNJKFA",
+    "XOSNORPURZ",
+    "CMIELSFPEZ",
+    "IAIDAXFYSE",
+    "YTORTILLAI",
+    "RERVEPXHVF"
+  ],
+  "words": [
+    {
+      "word": "CHOCOLATE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FRESA",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "LIMON",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MIEL",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "QUESO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOPA",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TORTILLA",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

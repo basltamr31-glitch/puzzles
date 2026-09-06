@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_009",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 8,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "OYSNDGQR",
+    "KVZEEQBV",
+    "AQUILAIN",
+    "OIZBFVIQ",
+    "IHNLIODA",
+    "SDCANEVP",
+    "MXMVOLPE",
+    "YEXKORSO"
+  ],
+  "words": [
+    {
+      "word": "APE",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "AQUILA",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CANE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "DELFINO",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ORSO",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VOLPE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "es_medium_062",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 062",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "MODELO",
+      "clue": "Una representación de algo, a menudo más pequeña"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "TORMENTA",
+      "clue": "Tempestad con truenos y relámpagos"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "OFICINA",
+      "clue": "Habitación usada para trabajo profesional"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ALUMNO",
+      "clue": "Persona que estudia en una escuela"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "RANGO",
+      "clue": "La extensión entre dos límites"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "TUNEL",
+      "clue": "Un pasaje subterráneo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "GUITARRA",
+      "clue": "Instrumento de cuerda que se rasguea"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "ANIMAL",
+      "clue": "Todo ser vivo que no sea una planta"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "EDAD",
+      "clue": "Cuántos años ha vivido alguien"
+    }
+  ]
+}

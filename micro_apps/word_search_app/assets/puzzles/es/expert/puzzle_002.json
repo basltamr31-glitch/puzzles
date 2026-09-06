@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_002",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 1,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "FAIFZONOTVOANF",
+    "PVMESSQZDLXRFK",
+    "RORSMHQCPPMBIA",
+    "NLXAJRTXUAUHVE",
+    "IAILJAOFNEBNDY",
+    "EKHMSIMZEVCCHQ",
+    "LCDHODABFDHBAT",
+    "LJGRPNTRAOLSRO",
+    "LHCGAAEHCELEDQ",
+    "EHRKVSLOTTSZRI",
+    "AGZMAKLSNOXZKB",
+    "ZMXIEAACASOOYR",
+    "STETTPGIQQXTPQ",
+    "DPLEIMEIHSVLPD"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 8,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 5,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "FRESA",
+      "row": 6,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "GALLETA",
+      "row": 12,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "LECHE",
+      "row": 8,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "LIMON",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MANZANA",
+      "row": 2,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "MIEL",
+      "row": 13,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "PASTEL",
+      "row": 12,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "SANDIA",
+      "row": 9,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "SOPA",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

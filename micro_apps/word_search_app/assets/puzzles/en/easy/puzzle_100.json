@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_100",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 99,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "OZYBRBJL",
+    "SHELFURI",
+    "ULLAMPBD",
+    "PWINDOWX",
+    "HYDKOWJG",
+    "MPNEOFSB",
+    "YPQTRUGR",
+    "QSIQSMDW"
+  ],
+  "words": [
+    {
+      "word": "BLANKET",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "DOOR",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "LAMP",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RUG",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SHELF",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WINDOW",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

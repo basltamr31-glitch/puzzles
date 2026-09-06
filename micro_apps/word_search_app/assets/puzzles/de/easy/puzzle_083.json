@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_083",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 82,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "ORECVAMV",
+    "OWINDGOM",
+    "AIMVJWEG",
+    "NFLUSSAY",
+    "GVZLUATK",
+    "WOLKEVZN",
+    "FOBAUMNG",
+    "UKINSELN"
+  ],
+  "words": [
+    {
+      "word": "BAUM",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FLUSS",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "INSEL",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VULKAN",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "WIND",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "WOLKE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

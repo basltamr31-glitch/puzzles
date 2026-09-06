@@ -1,0 +1,58 @@
+{
+  "id": "es_easy_052",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 052",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "NIEVE",
+      "clue": "Copos blancos y helados que caen en invierno",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "HORMIGA",
+      "clue": "Pequeño insecto trabajador que vive en colonias",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "ORO",
+      "clue": "Metal precioso de color amarillo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "PASTEL",
+      "clue": "Postre dulce horneado",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "PIE",
+      "clue": "Parte del cuerpo al final de la pierna",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "MAR",
+      "clue": "Gran extensión de agua salada",
+      "category": "place"
+    }
+  ]
+}

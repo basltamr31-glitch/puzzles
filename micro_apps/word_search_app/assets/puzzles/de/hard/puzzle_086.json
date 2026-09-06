@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_086",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 85,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "TWNERESKSMIC",
+    "GKATNZYVVDIH",
+    "TSMWJRMGGAXW",
+    "EGYLLAHCSKFE",
+    "LDFDZSCPGNTW",
+    "MKNSEASKUTZX",
+    "ARMBANDIELKH",
+    "NLYRDDXKRJIN",
+    "TJIGIASRTNDX",
+    "EXPULLOVERXY",
+    "LMYSAEZFLOZE",
+    "SXZHANDSCHUH"
+  ],
+  "words": [
+    {
+      "word": "ARMBAND",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GUERTEL",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "HALSKETTE",
+      "row": 11,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "HANDSCHUH",
+      "row": 11,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "JACKE",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "KLEID",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "MANTEL",
+      "row": 5,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PULLOVER",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALEN",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SCHAL",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    }
+  ]
+}

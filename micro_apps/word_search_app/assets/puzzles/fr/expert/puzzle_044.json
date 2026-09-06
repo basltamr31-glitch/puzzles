@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_044",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 43,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "ZLRMCPMEBUJSXB",
+    "TLVEKPMZFPOTGN",
+    "CMQDTDMLMGUIYD",
+    "VXOFCDCATTRSYT",
+    "GEGRTTHOVABCCO",
+    "YERTENEFUSPFUS",
+    "RSQUISMRCSEIIL",
+    "XNBETPIZBESASM",
+    "IFITJRNLYMIIIT",
+    "XKSALLEDEBAINV",
+    "XGPGMZEVVPHHEU",
+    "QMQEHDQMUKCMCU",
+    "MVQRTKYNFOODND",
+    "JZGETROPVGCHHT"
+  ],
+  "words": [
+    {
+      "word": "CHAISE",
+      "row": 11,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "CHAMBRE",
+      "row": 11,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "CHEMINEE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "COUVERTURE",
+      "row": 13,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "CUISINE",
+      "row": 4,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 7,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "FENETRE",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "PORTE",
+      "row": 13,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "SALLEDEBAIN",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TAPIS",
+      "row": 3,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "TASSE",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

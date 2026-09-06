@@ -1,0 +1,66 @@
+{
+  "id": "es_medium_063",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 063",
+  "rows": 9,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "MEDICO",
+      "clue": "Profesional médico que atiende pacientes"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "TECHO",
+      "clue": "Superficie interior en lo alto de una habitación"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "ZONA",
+      "clue": "Una región o parte particular de algo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "ESTACION",
+      "clue": "Parada para trenes o autobuses"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "EMPLEO",
+      "clue": "Un trabajo remunerado que se hace regularmente"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "CONDUCTOR",
+      "clue": "Persona que maneja un vehículo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "TORMENTA",
+      "clue": "Tempestad con truenos y relámpagos"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "AVION",
+      "clue": "Aeronave de alas fijas"
+    }
+  ]
+}

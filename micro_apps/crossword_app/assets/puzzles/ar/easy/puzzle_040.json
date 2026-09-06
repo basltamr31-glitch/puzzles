@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_040",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 040",
+  "rows": 5,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "شاي",
+      "clue": "مشروب ساخن يُحضّر من أوراق نبات",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "كتاب",
+      "clue": "مجموعة صفحات مطبوعة تُقرأ",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "مكتب",
+      "clue": "مكان يُستخدم للعمل",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "جبل",
+      "clue": "مرتفع طبيعي كبير من الأرض",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "لون",
+      "clue": "صفة بصرية مثل الأحمر أو الأزرق",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "نهر",
+      "clue": "مجرى مائي طبيعي كبير",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "قمر",
+      "clue": "الجرم السماوي الذي يضيء الليل",
+      "category": "nature"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_087",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 86,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "UYQZSCQA",
+    "RAAYTAEV",
+    "OHUVATHO",
+    "MAPGTIPY",
+    "SRXKICMA",
+    "IBMOOKZG",
+    "JOURNEYE",
+    "KRAXATDT"
+  ],
+  "words": [
+    {
+      "word": "HARBOR",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STATION",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

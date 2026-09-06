@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_096",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 95,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "UGEWDLOR",
+    "LYSCHACH",
+    "DDTRLUHS",
+    "TTEAMFMO",
+    "ODNMIFPC",
+    "RENNENNA",
+    "PUIZDKLO",
+    "GSSZXTGA"
+  ],
+  "words": [
+    {
+      "word": "LAUF",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "RENNEN",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCHACH",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TOR",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

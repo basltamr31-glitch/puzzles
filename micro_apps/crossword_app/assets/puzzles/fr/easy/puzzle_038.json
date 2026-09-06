@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_038",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 038",
+  "rows": 7,
+  "cols": 5,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "VENT",
+      "clue": "Air en mouvement",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "TETE",
+      "clue": "Partie supérieure du corps, avec le cerveau",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "NEZ",
+      "clue": "Organe utilisé pour sentir",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "CHIEN",
+      "clue": "Animal domestique fidèle qui aboie",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "ILE",
+      "clue": "Terre entièrement entourée d'eau",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "EAU",
+      "clue": "Liquide clair essentiel à la vie",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "PEAU",
+      "clue": "Enveloppe extérieure du corps",
+      "category": "body"
+    }
+  ]
+}

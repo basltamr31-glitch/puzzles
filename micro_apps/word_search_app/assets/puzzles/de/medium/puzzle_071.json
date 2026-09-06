@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_071",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 70,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "RUCKSACKIL",
+    "ZYRTKUJOLW",
+    "TICKETVFFR",
+    "IHHVNOMFLW",
+    "MTHIUBPEUL",
+    "FAHRRADRGT",
+    "PXYTSHKTZU",
+    "MILBANRPEV",
+    "GHRFRCMZUG",
+    "FRYLZLXSGT"
+  ],
+  "words": [
+    {
+      "word": "AUTOBAHN",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FAHRRAD",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FLUGZEUG",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "KOFFER",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "RUCKSACK",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ZUG",
+      "row": 8,
+      "col": 7,
+      "dir": "E"
+    }
+  ]
+}

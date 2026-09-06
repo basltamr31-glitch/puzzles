@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_051",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 50,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "NMSXTVSISOLAIR",
+    "ISAAVIFFIKSPXU",
+    "ALROVLPAOKDYIZ",
+    "LSHTURILUEZUHK",
+    "OXTCLCEBSZEFAN",
+    "QBOSCOTEHSOTFU",
+    "SKHAAARRGGBXPQ",
+    "RVIGNTAOLEICFO",
+    "MHPIOGGIAOPOBQ",
+    "GDZEUOAVDBKDAM",
+    "PKNVYEATYDXUCC",
+    "OHVALOVUNOGORF",
+    "KFYGFHILGOCMKG",
+    "UHSPOOZCNXMBPB"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BOSCO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CIELO",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "DESERTO",
+      "row": 2,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 4,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "GHIACCIAIO",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "ISOLA",
+      "row": 0,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "MONTAGNA",
+      "row": 13,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 11,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "PIETRA",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VULCANO",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

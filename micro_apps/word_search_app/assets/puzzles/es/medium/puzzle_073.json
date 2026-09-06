@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_073",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 72,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "PSXFPNNMFM",
+    "FSJJATESEH",
+    "KPOQISNPIR",
+    "QCOCODRILO",
+    "OJDCVMGNSK",
+    "DAJUEMQGOZ",
+    "VBATJKQUOR",
+    "CEBRAGUILA",
+    "OJISLEONUZ",
+    "TAEPRATONZ"
+  ],
+  "words": [
+    {
+      "word": "ABEJA",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "AGUILA",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CEBRA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COCODRILO",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LEON",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "OVEJA",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "RATON",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

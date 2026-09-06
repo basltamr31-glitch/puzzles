@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_026",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 026",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "RAIN",
+      "clue": "Water falling from clouds",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "SWIM",
+      "clue": "To move through water using your body",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "DREAM",
+      "clue": "Images and thoughts that happen while sleeping",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "LAKE",
+      "clue": "A large body of water surrounded by land",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "GOLD",
+      "clue": "Precious yellow metal",
+      "category": "nature"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_070",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 69,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "XLZAPATILLAS",
+    "QETNAUGEBEAO",
+    "CQZINACHSIRR",
+    "NORUTNICLETY",
+    "CHAQUETARLOY",
+    "OCIGFNDBYIYO",
+    "ROYULNMBQGQR",
+    "BLLPAOOVXGTY",
+    "ALXSSXKVTCTG",
+    "TAFZRDFCZYIK",
+    "ARESLUPCTYCK",
+    "LQYMDUJZFJLL"
+  ],
+  "words": [
+    {
+      "word": "CHAQUETA",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CINTURON",
+      "row": 3,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "COLLAR",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CORBATA",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "GUANTE",
+      "row": 1,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "PANTUFLAS",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PULSERA",
+      "row": 10,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "SANDALIAS",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "SOMBRERO",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "ZAPATILLAS",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

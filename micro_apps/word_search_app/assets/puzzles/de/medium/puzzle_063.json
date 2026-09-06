@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_063",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 62,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "FWERDRVTPT",
+    "LJRAKMORON",
+    "UAORFHOWOZ",
+    "GABNXCANDM",
+    "ZSUGTUBFRY",
+    "EYSCHIFFEK",
+    "URLAUBCGIN",
+    "GCTAKUFKSV",
+    "JKWKKOFFER",
+    "HDCDGEEIGT"
+  ],
+  "words": [
+    {
+      "word": "BUS",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "FLUGZEUG",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "HAFEN",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "KOFFER",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "REISE",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TICKET",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "URLAUB",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

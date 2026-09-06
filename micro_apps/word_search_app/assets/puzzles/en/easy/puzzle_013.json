@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_013",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 12,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "AOFRNYOB",
+    "STOMACHB",
+    "VGOCEHDU",
+    "XQTVFIFA",
+    "MWIKDNWO",
+    "HOMNFEFU",
+    "BKLEGERK",
+    "TEYEBROW"
+  ],
+  "words": [
+    {
+      "word": "CHIN",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "EYEBROW",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FOOT",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "KNEE",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "LEG",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STOMACH",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

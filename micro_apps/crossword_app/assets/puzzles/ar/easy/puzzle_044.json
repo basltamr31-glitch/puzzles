@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_044",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 044",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "تفاح",
+      "clue": "فاكهة مستديرة حلوة",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "غرفة",
+      "clue": "مساحة مغلقة داخل منزل",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "غرب",
+      "clue": "جهة غروب الشمس",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "سرير",
+      "clue": "أثاث يُستخدم للنوم",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "نهر",
+      "clue": "مجرى مائي طبيعي كبير",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "ساعة",
+      "clue": "أداة تُظهر الوقت",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "عين",
+      "clue": "عضو الإبصار في الجسم",
+      "category": "body"
+    }
+  ]
+}

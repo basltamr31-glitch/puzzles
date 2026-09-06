@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_031",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 30,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "GZESBXYDPVGBGP",
+    "RPMHIGHWAYRTVU",
+    "SVQGMBOCEYRDIE",
+    "PTABPLANEOEHWR",
+    "SQVGSTROPSSAPH",
+    "GTNLIUBRTYDROK",
+    "MKSOOOIIMKEBZT",
+    "QCNJPANTWLCOYH",
+    "LGSKCAPKCABRPE",
+    "SLKOTBWYZALTGR",
+    "TRAINQCBOUSNQQ",
+    "OGOYEIOYOJSEEJ",
+    "JNKRBEEKHRCFYC",
+    "GHAWOQYVBARXNV"
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "row": 7,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "BACKPACK",
+      "row": 8,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "BICYCLE",
+      "row": 12,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "DESTINATION",
+      "row": 2,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "HARBOR",
+      "row": 3,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 7,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 4,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "PLANE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SUITCASE",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TRAIN",
+      "row": 10,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VACATION",
+      "row": 0,
+      "col": 9,
+      "dir": "SW"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_011",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 10,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "BNLMCKYK",
+    "MONTANAY",
+    "CFKJSVUC",
+    "DGLACIAR",
+    "VMSSAEIY",
+    "RYUODNXU",
+    "HISLATUR",
+    "LYQLIODU"
+  ],
+  "words": [
+    {
+      "word": "CASCADA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "GLACIAR",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ISLA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MONTANA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOL",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "VIENTO",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

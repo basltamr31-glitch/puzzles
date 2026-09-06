@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_011",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 011",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "STELLA",
+      "clue": "Punto luminoso visibile nel cielo notturno",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "MANO",
+      "clue": "Parte del corpo alla fine del braccio",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SORRISO",
+      "clue": "Espressione felice del viso",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "TORTA",
+      "clue": "Dolce da forno",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "NASO",
+      "clue": "Organo usato per annusare",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "APE",
+      "clue": "Insetto che ronza e produce miele",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "PANE",
+      "clue": "Alimento cotto a base di farina e acqua",
+      "category": "food"
+    }
+  ]
+}

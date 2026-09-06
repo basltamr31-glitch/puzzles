@@ -1,0 +1,58 @@
+{
+  "id": "ar_easy_051",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 051",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "طالب",
+      "clue": "شخص يدرس في مدرسة أو جامعة",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "طاولة",
+      "clue": "أثاث ذو سطح مستوٍ للأكل أو العمل",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "كوب",
+      "clue": "إناء صغير يُستخدم لشرب الماء",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "لبن",
+      "clue": "سائل أبيض يأتي من الأبقار",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "شجرة",
+      "clue": "نبات كبير له جذع وأغصان",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "جيش",
+      "clue": "قوة عسكرية تدافع عن الوطن",
+      "category": "people"
+    }
+  ]
+}

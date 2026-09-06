@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_065",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 64,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "CSCQIUFNXB",
+    "OAHCBUEKMI",
+    "MPABEILLEM",
+    "KFTIGREAOV",
+    "MRIOQDPCUP",
+    "ILPANTHERE",
+    "RHCHEVALSS",
+    "ACPMYLNOGT",
+    "YSNMDETUZK",
+    "NZISPXSPKC"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CHAT",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LOUP",
+      "row": 6,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "OURS",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHERE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TIGRE",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

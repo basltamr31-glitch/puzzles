@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_027",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 027",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "ESCRITOR",
+      "clue": "Persona que crea libros"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CHAQUETA",
+      "clue": "Un abrigo corto"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "CANTANTE",
+      "clue": "Persona que hace música con su voz"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "AVION",
+      "clue": "Aeronave de alas fijas"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "TECHO",
+      "clue": "Superficie interior en lo alto de una habitación"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ESPEJO",
+      "clue": "Superficie de vidrio reflectante"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "LOGICA",
+      "clue": "Un razonamiento llevado según reglas estrictas"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "PLAN",
+      "clue": "Una propuesta detallada para hacer algo"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "GUERRA",
+      "clue": "Un conflicto armado entre naciones"
+    }
+  ]
+}

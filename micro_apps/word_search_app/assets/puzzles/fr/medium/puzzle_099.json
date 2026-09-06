@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_099",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 98,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "ZCKDVVCFFL",
+    "XTARSOLEYQ",
+    "NBRSZLMUDP",
+    "RTCPCCLIEL",
+    "OGEIXALLSU",
+    "NQNEBNDLEI",
+    "CRCRIVIERE",
+    "EJIRVHGETB",
+    "FKEEVYUTDN",
+    "VULPZZNQLP"
+  ],
+  "words": [
+    {
+      "word": "ARCENCIEL",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CASCADE",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "DESERT",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PIERRE",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PLUIE",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "RIVIERE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

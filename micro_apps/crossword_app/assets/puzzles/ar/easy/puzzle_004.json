@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_004",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 004",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "ثلج",
+      "clue": "ماء متجمد أبيض يتساقط في الشتاء",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "رجل",
+      "clue": "إنسان بالغ من الذكور",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "ريح",
+      "clue": "هواء متحرك",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "تفاح",
+      "clue": "فاكهة مستديرة حلوة",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "غرفة",
+      "clue": "مساحة مغلقة داخل منزل",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "ثوب",
+      "clue": "قطعة قماش تُلبس",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "لبن",
+      "clue": "سائل أبيض يأتي من الأبقار",
+      "category": "food"
+    }
+  ]
+}

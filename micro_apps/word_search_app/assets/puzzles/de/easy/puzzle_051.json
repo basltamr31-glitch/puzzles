@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_051",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 50,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "UNINJPHZ",
+    "YKWNFHIN",
+    "WJIJRMMD",
+    "KVEPTIMR",
+    "YISONNEY",
+    "HMEERSLT",
+    "OLAYVERO",
+    "KOPWALDS"
+  ],
+  "words": [
+    {
+      "word": "HIMMEL",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "INSEL",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MEER",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SONNE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "WALD",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "WIESE",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

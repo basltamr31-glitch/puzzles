@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_036",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 35,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "SALLEDEBAINP",
+    "MKXAZLZZSIUF",
+    "CZPMDLQZDRBE",
+    "HADPVHORRTSY",
+    "EFTESSATSIAD",
+    "MBSDPJOFAUSZ",
+    "IEDCRJGHSBJL",
+    "NISSUOCNNHLP",
+    "ERUTREVUOCGE",
+    "ERBMAHCGZTVL",
+    "ZBSQYTNTRTCF",
+    "BSHNACFPOXFG"
+  ],
+  "words": [
+    {
+      "word": "CHAISE",
+      "row": 7,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "CHAMBRE",
+      "row": 9,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "CHEMINEE",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "COUVERTURE",
+      "row": 8,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "JARDIN",
+      "row": 5,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "LAMPE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SALLEDEBAIN",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 4,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "TASSE",
+      "row": 4,
+      "col": 7,
+      "dir": "W"
+    }
+  ]
+}

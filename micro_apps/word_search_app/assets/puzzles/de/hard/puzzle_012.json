@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_012",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 11,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "KDNGDMAMLLWX",
+    "APNIMAKHEUDG",
+    "IYTTEBUGKREB",
+    "EPMALTEPPICH",
+    "FAZFSICRHLKI",
+    "HOHYPSHVCNEM",
+    "KKXSLCEWBCOH",
+    "WESRYHRRSFGR",
+    "UMCRGATCULIX",
+    "COKGSNATXZDE",
+    "OZETLCJTTMMM",
+    "SJLKLVBTBKIS"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 2,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "DECKE",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "KAMIN",
+      "row": 1,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "KUECHE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPE",
+      "row": 3,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 6,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "STUHL",
+      "row": 4,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "TASSE",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TISCH",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

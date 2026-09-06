@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_058",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 57,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "GPCMGBURRO",
+    "OEBISCOTTO",
+    "BRANGURIAE",
+    "PANEFMHLMX",
+    "CNASABHPUB",
+    "HNNTVZVHML",
+    "GYARKDBXTL",
+    "UBCAFFEPQG",
+    "ZLAQQVGQMQ",
+    "SKRGPETGUV"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BANANA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BURRO",
+      "row": 0,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CAFFE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PANE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PERA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

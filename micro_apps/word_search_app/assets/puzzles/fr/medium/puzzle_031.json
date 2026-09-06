@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_031",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 30,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "VVXIRTYCFY",
+    "HTJPCSOLRG",
+    "VACANCESMJ",
+    "BXHSACDGJM",
+    "BIGSVYOBBH",
+    "JNIERZJAIN",
+    "SJKPVADTLK",
+    "MAVOYAGELA",
+    "BCARTEAAEM",
+    "HAUTOROUTE"
+  ],
+  "words": [
+    {
+      "word": "AUTOROUTE",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BATEAU",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BILLET",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CARTE",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PASSEPORT",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VACANCES",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

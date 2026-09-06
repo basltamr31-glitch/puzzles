@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_016",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 15,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "RMKTUIKHXY",
+    "FMASCACCHI",
+    "MSGARBITRO",
+    "EQXFYKCESX",
+    "VURBGOLNTZ",
+    "GAKBGNINAQ",
+    "KDVHVHSIDY",
+    "VRCPFPMSIQ",
+    "PALLAVOLOB",
+    "CYMRAQLZPF"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CICLISMO",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GOL",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PALLAVOLO",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SQUADRA",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "STADIO",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

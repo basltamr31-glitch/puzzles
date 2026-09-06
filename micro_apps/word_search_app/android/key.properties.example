@@ -1,0 +1,15 @@
+## Copy this file to android/key.properties (same directory) and fill in
+## your real values. Never commit the real key.properties or the .jks
+## keystore file it points to — both must stay out of source control.
+##
+## Generate an upload keystore (do this once, back it up somewhere safe —
+## losing it means you can never update your Play Store listing again):
+##   keytool -genkey -v -keystore ~/upload-keystore.jks \
+##     -keyalg RSA -keysize 2048 -validity 10000 -alias upload
+##
+## Then fill in the same values you gave keytool below.
+
+storePassword=REPLACE_ME
+keyPassword=REPLACE_ME
+keyAlias=upload
+storeFile=/absolute/path/to/upload-keystore.jks

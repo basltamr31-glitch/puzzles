@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_055",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 54,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "GAVIONNK",
+    "IFXKLLMV",
+    "PFUJZOJM",
+    "OJTTRENA",
+    "MPMOVZNL",
+    "FYUCOCHE",
+    "TAXICMGT",
+    "SMOCHILA"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COCHE",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MALETA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TREN",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

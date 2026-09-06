@@ -1,0 +1,50 @@
+{
+  "id": "de_easy_094",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 094",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "SCHLAF",
+      "clue": "Ruhe mit geschlossenen Augen",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "WOLKE",
+      "clue": "Weiße oder graue Masse am Himmel",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "WOCHE",
+      "clue": "Ein Zeitraum von sieben Tagen",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "STIFT",
+      "clue": "Schreibwerkzeug",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "BIENE",
+      "clue": "Summendes Insekt, das Honig macht",
+      "category": "animal"
+    }
+  ]
+}

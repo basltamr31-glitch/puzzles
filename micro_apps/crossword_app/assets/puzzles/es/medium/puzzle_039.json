@@ -1,0 +1,80 @@
+{
+  "id": "es_medium_039",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 039",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "MUSEO",
+      "clue": "Edificio que exhibe objetos históricos"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "PUEBLO",
+      "clue": "Comunidad pequeña, más pequeña que una ciudad"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "CIENCIA",
+      "clue": "Estudio del mundo natural mediante experimentos"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "COCINA",
+      "clue": "Habitación donde se preparan las comidas"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "LLAVE",
+      "clue": "Herramienta metálica usada para abrir una cerradura"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "MEDICO",
+      "clue": "Profesional médico que atiende pacientes"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "BICICLETA",
+      "clue": "Vehículo de dos ruedas movido a pedales"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "answer": "LEY",
+      "clue": "Una regla impuesta por un gobierno"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "VELA",
+      "clue": "Una barra de cera con una mecha, quemada por luz"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_057",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 057",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "answer": "LABORATORIO",
+      "clue": "Una sala equipada para investigación científica"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 7,
+      "answer": "VOTO",
+      "clue": "Una elección formal hecha en una votación"
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "col": 1,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 3,
+      "answer": "ASTRONAUTA",
+      "clue": "Una persona entrenada para viajar al espacio"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 12,
+      "answer": "PINTURA",
+      "clue": "Una imagen hecha con pintura"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "TERMINO",
+      "clue": "Un período fijo, o una palabra específica"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "INDUSTRIA",
+      "clue": "Actividad económica relacionada con la fabricación"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "AUDIENCIA",
+      "clue": "El grupo que ve una actuación"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 10,
+      "answer": "QUIMICO",
+      "clue": "Relativo a sustancias y sus reacciones"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "COSECHA",
+      "clue": "La recolección de cultivos maduros"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ARTE",
+      "clue": "Expresión creativa, como la pintura"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "GUERRA",
+      "clue": "Un conflicto armado entre naciones"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "answer": "META",
+      "clue": "El objetivo hacia el que alguien trabaja"
+    }
+  ]
+}

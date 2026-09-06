@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_017",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 16,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "EALSEHLHFXAX",
+    "AQZIIICAPRAO",
+    "HTUCZEPIOGHL",
+    "OLLIRDOCCOCP",
+    "GZLGBLEBIMRG",
+    "LPIATPXLGYZI",
+    "YTIOTGGAFADS",
+    "CLAQUILACIBM",
+    "ARETNAPQTPNP",
+    "XGDONMZRTHCO",
+    "SGCPNLFDIUZD",
+    "SCNOYEAPNHCK"
+  ],
+  "words": [
+    {
+      "word": "AQUILA",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CAPRA",
+      "row": 1,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "COCCODRILLO",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CONIGLIO",
+      "row": 10,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "DELFINO",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "LEONE",
+      "row": 7,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTERA",
+      "row": 8,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "PECORA",
+      "row": 5,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "TIGRE",
+      "row": 6,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "TOPO",
+      "row": 8,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

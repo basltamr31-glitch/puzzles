@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_020",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 19,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "ROQGQGYRUFCFAO",
+    "HIBLPHRLVADMMN",
+    "AUEVRXFKERKHUI",
+    "XQHDXXVHITXKNC",
+    "ZVBCRBZSLSTXXS",
+    "ZASOHHATREPOCU",
+    "ULVPVXRUDNLAEC",
+    "XQCBSHEAOIFZDC",
+    "QQVSQHMBKFVZIE",
+    "MVELGTADAPMALQ",
+    "ZYXLIQCLIGITNI",
+    "RBPSMNETEDNRHO",
+    "VHNBUHHVEXAOPU",
+    "HPBDNAOSATGPBC"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 8,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "CAMERA",
+      "row": 10,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "COPERTA",
+      "row": 5,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 6,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "DIVANO",
+      "row": 6,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 8,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 9,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "LETTO",
+      "row": 1,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "PORTA",
+      "row": 13,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 4,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "SEDIA",
+      "row": 13,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "TAZZA",
+      "row": 10,
+      "col": 11,
+      "dir": "N"
+    }
+  ]
+}

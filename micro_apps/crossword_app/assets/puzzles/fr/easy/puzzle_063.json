@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_063",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 063",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "NEIGE",
+      "clue": "Flocons blancs et gelés qui tombent en hiver",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "NUIT",
+      "clue": "La partie sombre de la journée",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "MER",
+      "clue": "Grande étendue d'eau salée",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "REVE",
+      "clue": "Images et pensées pendant le sommeil",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "TABLE",
+      "clue": "Meuble avec un plateau plat et des pieds",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "GATEAU",
+      "clue": "Dessert sucré cuit au four",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "EAU",
+      "clue": "Liquide clair essentiel à la vie",
+      "category": "nature"
+    }
+  ]
+}

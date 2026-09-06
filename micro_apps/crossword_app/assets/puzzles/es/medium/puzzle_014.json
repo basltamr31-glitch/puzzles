@@ -1,0 +1,66 @@
+{
+  "id": "es_medium_014",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 014",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "ALUMNO",
+      "clue": "Persona que estudia en una escuela"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "PINTOR",
+      "clue": "Artista que trabaja con pintura"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "MODELO",
+      "clue": "Una representación de algo, a menudo más pequeña"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "DRAGON",
+      "clue": "Criatura mítica que escupe fuego"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "ESPEJO",
+      "clue": "Superficie de vidrio reflectante"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "ALMOHADA",
+      "clue": "Cojín suave para descansar la cabeza"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "PARAGUAS",
+      "clue": "Objeto que protege de la lluvia"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "AIRE",
+      "clue": "El gas que respiramos"
+    }
+  ]
+}

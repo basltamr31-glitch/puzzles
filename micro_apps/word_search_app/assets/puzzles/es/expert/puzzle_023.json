@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_023",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 22,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "ISVMRQCBOTICPZ",
+    "RXNUPXOZBCOXJC",
+    "CFBPZYRLNERTMO",
+    "RGIMJTHGCVBABS",
+    "LUHQKYAHHOPXBP",
+    "XBPNUQESTACION",
+    "XUDCAERNULCHLP",
+    "PCZXYYOZKIHNEN",
+    "BIGPMTPXCNTBTL",
+    "GXARSNULCXNOOA",
+    "YOHYERESIQINNI",
+    "CGEUETROPASAPJ",
+    "XSDQAUTOPISTAQ",
+    "NEMSENOICACAVT"
+  ],
+  "words": [
+    {
+      "word": "AEROPUERTO",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "AUTOPISTA",
+      "row": 12,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BARCO",
+      "row": 4,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "BICICLETA",
+      "row": 4,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "BOLETO",
+      "row": 4,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "COCHE",
+      "row": 3,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "ESTACION",
+      "row": 5,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "MAPA",
+      "row": 2,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "PASAPORTE",
+      "row": 11,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "TAXI",
+      "row": 2,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "TREN",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "VACACIONES",
+      "row": 13,
+      "col": 12,
+      "dir": "W"
+    }
+  ]
+}

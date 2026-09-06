@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_051",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 50,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "HMVOBHBMZO",
+    "NHDAEFPYTU",
+    "UOYERPICGK",
+    "ACGVSBEITZ",
+    "GLACIERNBR",
+    "EDKSYLRESN",
+    "ZSUGCZETQL",
+    "CEXAIAMJZS",
+    "ZOPKEXDLKA",
+    "LNLTLTZEMA"
+  ],
+  "words": [
+    {
+      "word": "ARBRE",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CASCADE",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CIEL",
+      "row": 6,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "DESERT",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "GLACIER",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ILE",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "NUAGE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PIERRE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

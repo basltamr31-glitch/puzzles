@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_084",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 83,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "YQALDIOKQUGF",
+    "FTSAIAGMEVXR",
+    "MVNCVIVRFDXP",
+    "IBTUARTSENIF",
+    "IFACNFVPTQRR",
+    "URVIOFFTVTRQ",
+    "URONIDRAIGUU",
+    "IHLAYLLPLATO",
+    "TZONGABPQECF",
+    "EZFECAMERAYG",
+    "UXNAZZATOHDT",
+    "KKRCHRZORVUS"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 8,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "CAMERA",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CUCINA",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "DIVANO",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 3,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 6,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TAZZA",
+      "row": 10,
+      "col": 7,
+      "dir": "W"
+    }
+  ]
+}

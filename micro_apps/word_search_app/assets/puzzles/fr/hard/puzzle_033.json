@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_033",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 32,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "JGJPGUSABAVF",
+    "CELLIEBAZDEJ",
+    "MOUTONSBTAGI",
+    "OQPPKXGOGUVF",
+    "CTYSIRUOSPSN",
+    "GVCHAMEAUHCD",
+    "TAHCRLKHYIFD",
+    "UFERGITMYNNU",
+    "JYVIOGLFYKBI",
+    "XZARXHVDOGNC",
+    "RXLNMXMBUOII",
+    "DABMBXEVJFUP"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 1,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "AIGLE",
+      "row": 9,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "CHAMEAU",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CHAT",
+      "row": 6,
+      "col": 3,
+      "dir": "W"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "DAUPHIN",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "MOUTON",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PINGOUIN",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SOURIS",
+      "row": 4,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "TIGRE",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    }
+  ]
+}

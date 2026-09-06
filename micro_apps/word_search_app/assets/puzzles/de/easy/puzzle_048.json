@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_048",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 47,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "EEKDVHDY",
+    "SCHACHLR",
+    "RHOCKEYE",
+    "TORENNEN",
+    "XGYJSYTR",
+    "MIOGGOEO",
+    "LAUFPKAE",
+    "ZYEWOIMK"
+  ],
+  "words": [
+    {
+      "word": "HOCKEY",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LAUF",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RENNEN",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCHACH",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TOR",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_074",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 73,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "OBDLFZSK",
+    "AUPZMNGR",
+    "FRAGOLAD",
+    "DRTMMIHK",
+    "IOARXMLU",
+    "MITCFOOP",
+    "TCAPANEU",
+    "RIGSMELA"
+  ],
+  "words": [
+    {
+      "word": "BURRO",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LIMONE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MELA",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PANE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_026",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 026",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "TABLE",
+      "clue": "Meuble avec un plateau plat et des pieds",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "CHAT",
+      "clue": "Animal domestique qui miaule",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "TEMPS",
+      "clue": "Ce que les horloges mesurent",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "OURS",
+      "clue": "Grand animal poilu qui vit dans les bois",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "MUR",
+      "clue": "Structure verticale qui divise une pièce",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "MER",
+      "clue": "Grande étendue d'eau salée",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SOURIS",
+      "clue": "Petit rongeur à longue queue",
+      "category": "animal"
+    }
+  ]
+}

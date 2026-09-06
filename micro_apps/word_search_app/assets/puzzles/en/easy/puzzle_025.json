@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_025",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 24,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "SNIMYGAT",
+    "RBZFDTPW",
+    "XPZFOWPA",
+    "GPENGUIN",
+    "AJBBFIRT",
+    "HAREUSYE",
+    "VSAEWZIA",
+    "FCXUSFNO"
+  ],
+  "words": [
+    {
+      "word": "ANT",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BEE",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "DOG",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HARE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PENGUIN",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

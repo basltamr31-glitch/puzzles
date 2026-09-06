@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_088",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 088",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "PORTA",
+      "clue": "Pannello che si apre per entrare in una stanza",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "RANA",
+      "clue": "Anfibio verde che salta e gracida",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "TAVOLO",
+      "clue": "Mobile con un piano piatto e gambe",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "PECORA",
+      "clue": "Animale lanoso che bela",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "PIETRA",
+      "clue": "Un piccolo pezzo di roccia",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "NOTTE",
+      "clue": "La parte buia della giornata",
+      "category": "time"
+    }
+  ]
+}

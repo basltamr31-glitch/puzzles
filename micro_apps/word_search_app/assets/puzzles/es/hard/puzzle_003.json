@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_003",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 2,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "PXJHDCZCECYA",
+    "LACIELOBRALY",
+    "NTJTRPUYASQH",
+    "SKNVCNVOICCG",
+    "BONKEELRFACN",
+    "TUOTREISEDXZ",
+    "MFZLIOTBPAEV",
+    "YTXHCERZYZPH",
+    "UGIRAHRAQXUQ",
+    "KJAIVULLURDB",
+    "UVJAFPBEBDFC",
+    "DNFXIZOGPSFG"
+  ],
+  "words": [
+    {
+      "word": "ARBOL",
+      "row": 1,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "ARCOIRIS",
+      "row": 9,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "CASCADA",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CIELO",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "DESIERTO",
+      "row": 5,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "HIELO",
+      "row": 7,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "ISLA",
+      "row": 3,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "LLUVIA",
+      "row": 9,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "NUBE",
+      "row": 3,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "PLAYA",
+      "row": 10,
+      "col": 5,
+      "dir": "NE"
+    }
+  ]
+}

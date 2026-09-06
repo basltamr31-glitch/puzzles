@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_052",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 51,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "BZRCPYJHDI",
+    "EYSUPJYNKS",
+    "TCSOYZOCKA",
+    "TBDFFPFUGA",
+    "TAREGALWKU",
+    "ELSNCXSIUM",
+    "RPYSSKTXER",
+    "FTFTECETCE",
+    "LCTEPPICHW",
+    "BLPRFKMPEL"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "DECKE",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "FENSTER",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KUECHE",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "REGAL",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TASSE",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

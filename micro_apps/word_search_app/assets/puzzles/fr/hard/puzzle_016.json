@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_016",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 15,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "BVECROFKIOBY",
+    "KNOEONGYLOJY",
+    "RICQFUYTUMCH",
+    "PZRUTTRZKRAA",
+    "FUGIOCRSEXFQ",
+    "OPZPAYHTECZZ",
+    "OSCEHCERKCLT",
+    "TTDVXLTENNIS",
+    "BALLHINUJEDG",
+    "ADQTBSXDCYQT",
+    "LEARHMTLANKR",
+    "LLABYELLOVVS"
+  ],
+  "words": [
+    {
+      "word": "ARBITRE",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 10,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "COURSE",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CYCLISME",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ECHECS",
+      "row": 6,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "EQUIPE",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "FOOTBALL",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "STADE",
+      "row": 6,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "VOLLEYBALL",
+      "row": 11,
+      "col": 9,
+      "dir": "W"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_076",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 076",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "FORET",
+      "clue": "Grande étendue couverte d'arbres",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "SERPENT",
+      "clue": "Reptile sans pattes qui rampe",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "EAU",
+      "clue": "Liquide clair essentiel à la vie",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "VENT",
+      "clue": "Air en mouvement",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "SOEUR",
+      "clue": "Membre féminin de la fratrie",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "ROUTE",
+      "clue": "Voie sur laquelle circulent les voitures",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    }
+  ]
+}

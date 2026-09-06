@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_023",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 22,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "HPDUAIUAAZ",
+    "SEAVIONDUR",
+    "DCUSSLHNTM",
+    "XFPTAXITOO",
+    "KJSURPKBPK",
+    "FBOLETOAIJ",
+    "MLXBJRMRSQ",
+    "ZDJEHETCTA",
+    "CLAGLNJOAE",
+    "NBTVIYCYDS"
+  ],
+  "words": [
+    {
+      "word": "AUTOPISTA",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "AVION",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BARCO",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BOLETO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PASAPORTE",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PUERTO",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TAXI",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TREN",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

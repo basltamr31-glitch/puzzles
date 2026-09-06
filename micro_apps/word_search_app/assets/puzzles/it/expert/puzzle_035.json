@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_035",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 34,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "PXURLQFMMQVVPE",
+    "YGCLMOYVIXYMUS",
+    "AKAOPVMIBAVTKP",
+    "NOSILYRBTLXFNX",
+    "BASAILGOFYIPEY",
+    "HLXIRFICICEAEP",
+    "NKCCECISMNFPYO",
+    "TPLCCBOOCMHIRV",
+    "QQUAFLNBEOYEOZ",
+    "RKIIATAIANBTZI",
+    "PHEHASCFILARQT",
+    "GKAGHDLMAREADY",
+    "OMNROKUXPYQNCG",
+    "BACALLVMNZESOH"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 11,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "ARCOBALENO",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "BOSCO",
+      "row": 8,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 4,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "GHIACCIAIO",
+      "row": 11,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "GHIACCIO",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "ISOLA",
+      "row": 5,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "MARE",
+      "row": 11,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "MONTAGNA",
+      "row": 6,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "PIETRA",
+      "row": 6,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "PRATO",
+      "row": 12,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "VULCANO",
+      "row": 13,
+      "col": 6,
+      "dir": "N"
+    }
+  ]
+}

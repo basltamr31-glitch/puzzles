@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_082",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 082",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "WEATHER",
+      "clue": "The state of the atmosphere, hot, cold, rainy, etc."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "SQUIRREL",
+      "clue": "Small bushy-tailed animal that collects nuts"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "TUNNEL",
+      "clue": "An underground passage"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "RANGE",
+      "clue": "The extent between limits"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "POCKET",
+      "clue": "A small pouch sewn into clothing"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "PILOT",
+      "clue": "Person who flies an aircraft"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "HISTORY",
+      "clue": "The study of past events"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "answer": "AIR",
+      "clue": "The gas we breathe"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "SWEATER",
+      "clue": "A warm knitted garment for the upper body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "JOB",
+      "clue": "Paid work someone does regularly"
+    }
+  ]
+}

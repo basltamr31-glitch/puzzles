@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_038",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 37,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "VZPPGCSN",
+    "ECZXIOCH",
+    "SANDALIN",
+    "TLAICLAK",
+    "IZBBCARA",
+    "TIYKANPR",
+    "ONBELAAQ",
+    "HOGYKBLX"
+  ],
+  "words": [
+    {
+      "word": "CALZINO",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "COLLANA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GIACCA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALI",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCIARPA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "VESTITO",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

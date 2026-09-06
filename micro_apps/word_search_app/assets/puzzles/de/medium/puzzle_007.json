@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_007",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 6,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "RFVFGMBOCD",
+    "EALLJVTKNB",
+    "IHAUTOBAHN",
+    "SRTGGOHRXG",
+    "ERFZGHETKI",
+    "PAYEDZAEHF",
+    "ADSUVWMFAC",
+    "SVOGKOFFER",
+    "SAHESBNNCN",
+    "VWJJUBXFRC"
+  ],
+  "words": [
+    {
+      "word": "AUTOBAHN",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FAHRRAD",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FLUGHAFEN",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "FLUGZEUG",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KARTE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KOFFER",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "REISEPASS",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

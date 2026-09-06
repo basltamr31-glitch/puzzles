@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_036",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 35,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "FOBHOAPZIFAS",
+    "LKDORMITORIO",
+    "NPUNTELMBPTF",
+    "HEUGCHIMENEA",
+    "GGIEZHOCPSNK",
+    "ISASRFURLIYI",
+    "IZPTLTEXDOBJ",
+    "DNLAMPARATKS",
+    "STZNCVALLISZ",
+    "NADTTJZMMSTY",
+    "TMHESKONMETD",
+    "RPDXRXOLBKSX"
+  ],
+  "words": [
+    {
+      "word": "ALFOMBRA",
+      "row": 7,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "DORMITORIO",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "JARDIN",
+      "row": 9,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PUERTA",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SILLA",
+      "row": 8,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SOFA",
+      "row": 0,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "TAZA",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_078",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 77,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "ZIFLDZTF",
+    "TGZMPEOL",
+    "VXGANTGP",
+    "EFCNPHRN",
+    "SSCTLBOZ",
+    "TRPEJQBF",
+    "ECHARPEH",
+    "PGPULLLG"
+  ],
+  "words": [
+    {
+      "word": "ECHARPE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GANT",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PULL",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ROBE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "VESTE",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

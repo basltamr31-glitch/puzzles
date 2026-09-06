@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_099",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 98,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "TMHHFAAYOYOX",
+    "DJIJAYPGEBAJ",
+    "GXSZZDSLZDNK",
+    "TROVCCUAAZEM",
+    "HAREKPHCEYNB",
+    "ZNDPZRSITYAJ",
+    "GMONTANAELAU",
+    "SVBQCDARKLKH",
+    "DDFPIEDRAJOH",
+    "ARCOIRISLAHX",
+    "FGAKAAPPDIYQ",
+    "DRGYUSEFMNLU"
+  ],
+  "words": [
+    {
+      "word": "ARCOIRIS",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CASCADA",
+      "row": 7,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "GLACIAR",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "HIELO",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "HOJA",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "ISLA",
+      "row": 9,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "MONTANA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PLAYA",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "PRADERA",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

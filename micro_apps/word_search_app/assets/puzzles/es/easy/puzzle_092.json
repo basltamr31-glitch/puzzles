@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_092",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 91,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "VLBAQIRO",
+    "NGPMJGVT",
+    "ESTANTEC",
+    "JIYNOKNB",
+    "HLZTIJTC",
+    "SLRADTAR",
+    "TAZAUNNE",
+    "SQBMESAU"
+  ],
+  "words": [
+    {
+      "word": "ESTANTE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MANTA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MESA",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SILLA",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TAZA",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VENTANA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

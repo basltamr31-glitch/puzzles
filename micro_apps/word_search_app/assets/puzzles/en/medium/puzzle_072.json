@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_072",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 71,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "AJZDTVWOOI",
+    "EOOSJQKRVM",
+    "EAMSTADIUM",
+    "KUHAORACEN",
+    "DFHCTCVRBR",
+    "HNQMHHCQBA",
+    "THPLZELELT",
+    "NYJJIRSERI",
+    "EGGMGYMSTR",
+    "GUWIEYPJDE"
+  ],
+  "words": [
+    {
+      "word": "ARCHERY",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CHESS",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "GYM",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "RACE",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "RUN",
+      "row": 1,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "SOCCER",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "STADIUM",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

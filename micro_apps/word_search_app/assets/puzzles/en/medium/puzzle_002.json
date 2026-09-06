@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_002",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 1,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "SFLTATWTFH",
+    "ACEKWBDEBJ",
+    "NVMQCOXNLH",
+    "DKOLRWUPDP",
+    "WPNCTCALBJ",
+    "IBANANAZUK",
+    "CRICEDUMTQ",
+    "HJFQGNOVTL",
+    "VLDJGHONEY",
+    "CBHSCZKRRQ"
+  ],
+  "words": [
+    {
+      "word": "AVOCADO",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "BANANA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BUTTER",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "EGG",
+      "row": 6,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HONEY",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "LEMON",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "RICE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

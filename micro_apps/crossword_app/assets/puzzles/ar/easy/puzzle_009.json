@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_009",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 009",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "لبن",
+      "clue": "سائل أبيض يأتي من الأبقار",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "ملك",
+      "clue": "حاكم مملكة",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "جنوب",
+      "clue": "الجهة المقابلة للشمال",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "وزير",
+      "clue": "مسؤول رفيع في الحكومة",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "فم",
+      "clue": "فتحة تُستخدم للأكل والكلام",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "بقرة",
+      "clue": "حيوان أليف يُربى لحليبه",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "خروف",
+      "clue": "حيوان صوفي أليف",
+      "category": "animal"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_073",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 72,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "ZVDMJQBRKTKF",
+    "DQEPHABAUVSH",
+    "PAKEBDOTJVBN",
+    "DKOLIRDOCOCF",
+    "KYDELFINMCHS",
+    "VPAFARIJBAAP",
+    "HFAARTKNVBYG",
+    "ZPINGUINOELQ",
+    "UYITTZGQKKMR",
+    "JMFEVEZHEGZL",
+    "OOVEJARBACZV",
+    "MXNLMBEAZDZV"
+  ],
+  "words": [
+    {
+      "word": "CABRA",
+      "row": 10,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "COCODRILO",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "DELFIN",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "LEON",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "OVEJA",
+      "row": 10,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PANTERA",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RATON",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

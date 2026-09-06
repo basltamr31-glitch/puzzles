@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_066",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 65,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "PYCAVSQFWGUBTL",
+    "RJPCAZMKDUXSIM",
+    "OIXQAOSCOEVGUA",
+    "VMQVSFWHWCQJGA",
+    "CQIHLIEYIQJWSD",
+    "YRQXCYLEEAAAJF",
+    "CNRNAIPSTPNTTZ",
+    "VRBGRSPSNDAERB",
+    "EHOBBMAUWVNRFJ",
+    "FCRJRPNIOIAMGS",
+    "VEIKOOCCYSBEFA",
+    "WWUMUHAXAIWLSW",
+    "BMYXADKNZJTOBM",
+    "BEFVORETTUBNHV"
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "row": 8,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "AVOCADO",
+      "row": 7,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "BANANA",
+      "row": 10,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "BREAD",
+      "row": 7,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "BUTTER",
+      "row": 13,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "COOKIE",
+      "row": 10,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "GRAPE",
+      "row": 9,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 7,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PASTA",
+      "row": 9,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 4,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "SOUP",
+      "row": 10,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "WATERMELON",
+      "row": 4,
+      "col": 11,
+      "dir": "S"
+    }
+  ]
+}

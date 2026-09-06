@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_052",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 51,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "KTJBRECUTR",
+    "VAAAVNHVAT",
+    "KSYPRPEPBP",
+    "USUIIDMMLT",
+    "ZECUISINEH",
+    "COUSSINNNY",
+    "ICANAPEOEP",
+    "ITSOCNEQRB",
+    "MOACIEOVJV",
+    "RNYRDEAJBD"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHEMINEE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CUISINE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "JARDIN",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TABLE",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "TAPIS",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "TASSE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

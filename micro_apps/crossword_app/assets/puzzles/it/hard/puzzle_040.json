@@ -1,0 +1,80 @@
+{
+  "id": "it_hard_040",
+  "language": "it",
+  "difficulty": "hard",
+  "title": "Cruciverba 040",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "CULTURA",
+      "clue": "Le usanze e le credenze di una società"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "TASSA",
+      "clue": "Denaro dovuto al governo"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "LETTERATURA",
+      "clue": "Opere scritte apprezzate per il loro valore artistico"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "PASSEGGERO",
+      "clue": "Una persona che viaggia in un veicolo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "answer": "TASTIERA",
+      "clue": "Insieme di tasti usati per digitare"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "TEMPERATURA",
+      "clue": "Una misura di quanto sia caldo o freddo qualcosa"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 10,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "SCOPERTA",
+      "clue": "L'atto di trovare qualcosa di nuovo"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 1,
+      "answer": "AGRICOLTURA",
+      "clue": "La pratica della coltivazione della terra"
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "answer": "UNITA",
+      "clue": "Una singola misura o pezzo standard"
+    }
+  ]
+}

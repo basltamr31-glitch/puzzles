@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_045",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 44,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "LDDNOKIQ",
+    "VIQNAUEB",
+    "NIDGGHTR",
+    "NFRONTEA",
+    "PGAMBADC",
+    "FODITOVC",
+    "CCSTTDLI",
+    "USTOMACO"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "DITO",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FRONTE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GAMBA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GOMITO",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "STOMACO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

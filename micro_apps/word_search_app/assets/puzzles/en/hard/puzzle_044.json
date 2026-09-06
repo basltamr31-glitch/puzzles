@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_044",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 43,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "RXFKBVWXHEHB",
+    "EHMIPOYWFZTT",
+    "HBEDROOMBEYX",
+    "WAOSFEDBDAZF",
+    "KMRKHAPOWTCV",
+    "RIAHCEILINGW",
+    "KRTMUNLAAYWW",
+    "GRBCOAVFJCPT",
+    "TORCHZDZIMEI",
+    "YRVRNEDRAGEA",
+    "UAPQDONLVPEE",
+    "ACUJVSJBKZIR"
+  ],
+  "words": [
+    {
+      "word": "BEDROOM",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CEILING",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CHAIR",
+      "row": 5,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "FIREPLACE",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "GARDEN",
+      "row": 9,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "LAMP",
+      "row": 10,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "MIRROR",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SHELF",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

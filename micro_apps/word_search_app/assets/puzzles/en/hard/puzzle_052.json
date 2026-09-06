@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_052",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 51,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "NNEGZGCKQYJX",
+    "FMKLZJHIIZSA",
+    "AYGJBLANKETK",
+    "LOXQMOORHTAB",
+    "UHLKDOWKATIE",
+    "IUQDCUPBOARD",
+    "BJJOCHCZJBCW",
+    "VZNBFYAWLLAH",
+    "BBVCIERIDESU",
+    "OWOLLIPRRMEA",
+    "JUFRFLEHSGXS",
+    "WHJECBTBGPEZ"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 3,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "BLANKET",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CARPET",
+      "row": 6,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CHAIR",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CUPBOARD",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PILLOW",
+      "row": 9,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "SHELF",
+      "row": 10,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "STAIRCASE",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

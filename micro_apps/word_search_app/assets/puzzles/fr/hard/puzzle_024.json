@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_024",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 23,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "YYEKCOHXYUYO",
+    "IHTQNTENNISV",
+    "AVHEUCOURSEK",
+    "NALFRISJNBND",
+    "HGGPTAPGCOXE",
+    "XDPALLOEYXTP",
+    "ERTIBRAOCERB",
+    "BASKETBALLNE",
+    "NUKSTVRHIDKJ",
+    "IYUSHLTGSCKH",
+    "SBXRJARRMMRM",
+    "AMNQETZLEGJP"
+  ],
+  "words": [
+    {
+      "word": "ARBITRE",
+      "row": 6,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 10,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "BASKETBALL",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BOXE",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "COURSE",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CYCLISME",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "EQUIPE",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 0,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "NATATION",
+      "row": 8,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "TENNIS",
+      "row": 1,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

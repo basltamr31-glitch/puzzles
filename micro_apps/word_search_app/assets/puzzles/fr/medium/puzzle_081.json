@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_081",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 80,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "ZVTTGQIXIP",
+    "TKENNICXZM",
+    "EDNSOURISF",
+    "LXACMNOAMA",
+    "EERUFSCSFT",
+    "PLIDPCOHEE",
+    "HEAMAHDEAF",
+    "AQYPUIIIQT",
+    "NUXZIELNGG",
+    "TTAILNENQK"
+  ],
+  "words": [
+    {
+      "word": "CHAT",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "CHIEN",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DAUPHIN",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "LAPIN",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SOURIS",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

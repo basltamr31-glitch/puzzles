@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_017",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 16,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "VNLXGLSNZN",
+    "PGPBCACXIO",
+    "ZIAMRPNUAX",
+    "XRNKOICISC",
+    "XATGCNCHAT",
+    "GFHXOHSBUU",
+    "QEEJDUEUOG",
+    "SQRJIZIVUE",
+    "HBELLUYNRI",
+    "LNNVEIHJSE"
+  ],
+  "words": [
+    {
+      "word": "CHAT",
+      "row": 4,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "CHEVRE",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "LAPIN",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "OURS",
+      "row": 6,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHERE",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PINGOUIN",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

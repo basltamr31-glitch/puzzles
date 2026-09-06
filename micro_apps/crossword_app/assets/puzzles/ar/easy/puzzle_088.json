@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_088",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 088",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "أرنب",
+      "clue": "حيوان له أذنان طويلتان يقفز",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "نهر",
+      "clue": "مجرى مائي طبيعي كبير",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "شهر",
+      "clue": "مدة تقارب ثلاثين يوماً",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "طالب",
+      "clue": "شخص يدرس في مدرسة أو جامعة",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "طفل",
+      "clue": "إنسان صغير السن",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "دفتر",
+      "clue": "أوراق مربوطة تُستخدم للكتابة",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "كلب",
+      "clue": "حيوان أليف يُعرف بالوفاء",
+      "category": "animal"
+    }
+  ]
+}

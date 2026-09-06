@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_020",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 19,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "RDECKEWGDE",
+    "BSIVIGKZIP",
+    "LEPYSRBBEA",
+    "UVTISCHNJP",
+    "ZVWTEPPICH",
+    "EWLKNGRDZP",
+    "ASGARTENOP",
+    "RIGMFTMLBO",
+    "XPZIWDHPLD",
+    "LIINVULGIO"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "DECKE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GARTEN",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KAMIN",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TISCH",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

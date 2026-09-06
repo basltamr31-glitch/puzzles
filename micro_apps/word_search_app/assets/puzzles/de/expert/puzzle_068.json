@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_068",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 67,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "KOFJBAPSPNSKCW",
+    "AURBKKFDHBIBPW",
+    "OREMMIZEDABMBG",
+    "YBGCXSRCNRBNAC",
+    "BSEGHSAKJSRRWK",
+    "RJTBBEPEDSTUHL",
+    "FXAAKNSPIEGELP",
+    "WHRNGSNMNPVMRF",
+    "RYPFAEWANUKAJN",
+    "SVRTEKNLDTCMGW",
+    "SFWKIEMVSCCPLA",
+    "XHWUNSWTUZHLZK",
+    "LXFSBLCHCEMXZW",
+    "EOIIGAMHTJMEEV"
+  ],
+  "words": [
+    {
+      "word": "BADEZIMMER",
+      "row": 2,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "DECKE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "FENSTER",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "GARTEN",
+      "row": 2,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "KAMIN",
+      "row": 4,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "KISSEN",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "KUECHE",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "LAMPE",
+      "row": 9,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 6,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "STUHL",
+      "row": 5,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "TASSE",
+      "row": 9,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "TISCH",
+      "row": 9,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

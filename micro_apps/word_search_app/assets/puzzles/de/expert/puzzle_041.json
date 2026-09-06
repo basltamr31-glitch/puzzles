@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_041",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 40,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "NYUSJUTGCYJUAE",
+    "BGBYLLTNSFSPGE",
+    "PANTHERALCECBI",
+    "HULIDOKORKBHMC",
+    "MPZJUWWMMTAVOH",
+    "NDCTFGUTMYSTUH",
+    "ZMELEONCBYSNZO",
+    "CZWLJAPIZIDDIE",
+    "BLEKFEZRPSECER",
+    "PAOELIKXZJSNGN",
+    "AALECJNCWOJMEC",
+    "UEAEJFFZTUKFHH",
+    "ITTREEGVMEXDVE",
+    "FYYCWANFJOSIRN"
+  ],
+  "words": [
+    {
+      "word": "BIENE",
+      "row": 6,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "DELFIN",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "EICHHOERNCHEN",
+      "row": 1,
+      "col": 13,
+      "dir": "S"
+    },
+    {
+      "word": "ELEFANT",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "HUND",
+      "row": 4,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "KATZE",
+      "row": 3,
+      "col": 9,
+      "dir": "SE"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 3,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "LOEWE",
+      "row": 10,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "PANTHER",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 8,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "WOLF",
+      "row": 4,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "ZIEGE",
+      "row": 6,
+      "col": 12,
+      "dir": "S"
+    }
+  ]
+}

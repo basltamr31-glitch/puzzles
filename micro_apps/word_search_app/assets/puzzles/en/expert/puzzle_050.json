@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_050",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 49,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "BFQHTSAAZTSCZE",
+    "IKCYSNQSDONRLD",
+    "TSTRAWBERRYPDZ",
+    "NGYNNKHBARPRNZ",
+    "QUAIDELWDAERBL",
+    "IBLIWMKYTCATFZ",
+    "IMVPIZZAIHTMPD",
+    "TFBJCRPRHAJGZP",
+    "TLYTHGRMPLMPRI",
+    "MRHDECRMUMONRY",
+    "LUFYENOHIKTMXG",
+    "RKOASKPLDZQKDB",
+    "EFUHEIKOOCVBJQ",
+    "STCLQCZNFXGVTR"
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "row": 4,
+      "col": 9,
+      "dir": "NE"
+    },
+    {
+      "word": "BANANA",
+      "row": 5,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "BREAD",
+      "row": 4,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "CARROT",
+      "row": 5,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "CHEESE",
+      "row": 7,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "COOKIE",
+      "row": 12,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "HONEY",
+      "row": 10,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "MILK",
+      "row": 9,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "PIZZA",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "RICE",
+      "row": 7,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "STRAWBERRY",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

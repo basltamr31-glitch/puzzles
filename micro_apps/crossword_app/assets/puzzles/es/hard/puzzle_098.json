@@ -1,0 +1,101 @@
+{
+  "id": "es_hard_098",
+  "language": "es",
+  "difficulty": "hard",
+  "title": "Crucigrama 098",
+  "rows": 13,
+  "cols": 13,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "MUSCULO",
+      "clue": "Tejido que produce movimiento en el cuerpo"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "TELESCOPIO",
+      "clue": "Instrumento usado para observar objetos lejanos"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "answer": "FOTOGRAFIA",
+      "clue": "El arte de tomar imágenes"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "SONIDO",
+      "clue": "Algo que se oye"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "answer": "GOBIERNO",
+      "clue": "El grupo que dirige oficialmente un país"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "answer": "DICCIONARIO",
+      "clue": "Un libro que enumera palabras y sus significados"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "answer": "PAISAJE",
+      "clue": "El escenario visible de una región"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "DESTINO",
+      "clue": "El lugar hacia el que alguien viaja"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "answer": "LEY",
+      "clue": "Una regla impuesta por un gobierno"
+    },
+    {
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "answer": "COSECHA",
+      "clue": "La recolección de cultivos maduros"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "UNIVERSO",
+      "clue": "Todo el espacio y todo lo que contiene"
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "col": 7,
+      "answer": "TASA",
+      "clue": "Una medida de la rapidez con la que ocurre algo"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    }
+  ]
+}

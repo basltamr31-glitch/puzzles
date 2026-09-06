@@ -1,0 +1,58 @@
+{
+  "id": "es_easy_040",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 040",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "AGUA",
+      "clue": "Líquido claro esencial para la vida",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "LLUVIA",
+      "clue": "Agua que cae de las nubes",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "PATO",
+      "clue": "Ave acuática que hace cuac",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "LUNA",
+      "clue": "Satélite natural de la Tierra",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "SAL",
+      "clue": "Condimento blanco que sazona la comida",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "MAR",
+      "clue": "Gran extensión de agua salada",
+      "category": "place"
+    }
+  ]
+}

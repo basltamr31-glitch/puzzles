@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_075",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 74,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "ESMBERZROU",
+    "WKWWHFXAZN",
+    "LIKUINSELV",
+    "SJEEMFIEWA",
+    "HBZSMWAIUP",
+    "MROTENGZPM",
+    "NEBELVNFCC",
+    "HGIYCXUXNN",
+    "DEHSTRANDU",
+    "HNSXTMIPZL"
+  ],
+  "words": [
+    {
+      "word": "EIS",
+      "row": 6,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "HIMMEL",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "INSEL",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "NEBEL",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "REGEN",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "STRAND",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "WIESE",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "WUESTE",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

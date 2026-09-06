@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_067",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 66,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "UBFDSDQLBNZT",
+    "CRECNICBQPYG",
+    "MONTAGNENRNF",
+    "AUYBBSOOLACC",
+    "BIHQTVCGEIZJ",
+    "ELLIUEFAZRGB",
+    "FLNNUNFKDIPG",
+    "LAFBJTSOLEIL",
+    "CRQPPLJZRGEA",
+    "ADTYEBYHLEIC",
+    "EBBPXYVGOJTE",
+    "ORHMOFXMERXX"
+  ],
+  "words": [
+    {
+      "word": "BROUILLARD",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CASCADE",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CIEL",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 5,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "FORET",
+      "row": 6,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "GLACE",
+      "row": 6,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "MONTAGNE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PRAIRIE",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "VENT",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

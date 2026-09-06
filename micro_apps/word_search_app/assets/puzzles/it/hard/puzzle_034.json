@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_034",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 33,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "MOVHILPIBVDB",
+    "IIIFNNKOAQXG",
+    "ECNFPYMPDARK",
+    "LKZEROAOESCK",
+    "EHBPSIMTRRKV",
+    "BISCOTTORTAZ",
+    "QIAOXARTDKRK",
+    "YYBRLRXAEOVS",
+    "SZXEUXBGMLRS",
+    "FKMBCTZFGLLO",
+    "GXUSVBTGTTGA",
+    "TCHSIXPRAXHQ"
+  ],
+  "words": [
+    {
+      "word": "BISCOTTO",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BURRO",
+      "row": 9,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "FRITTELLA",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "LATTE",
+      "row": 7,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "MELA",
+      "row": 9,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "MIELE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PERA",
+      "row": 2,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "POMODORO",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TORTA",
+      "row": 5,
+      "col": 6,
+      "dir": "E"
+    }
+  ]
+}

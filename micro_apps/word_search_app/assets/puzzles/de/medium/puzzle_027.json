@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_027",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 26,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "DDBLBAGAKK",
+    "AJARDVARUM",
+    "CTUEWUESTE",
+    "HIMMELKBFE",
+    "NINSPKMWPR",
+    "OPOSOATOSR",
+    "ERWHENRLNR",
+    "ENHNWLNKST",
+    "AIZOLDFEZM",
+    "BTMNKTIFKN"
+  ],
+  "words": [
+    {
+      "word": "BAUM",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HIMMEL",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "INSEL",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MEER",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SONNE",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "VULKAN",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "WOLKE",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "WUESTE",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

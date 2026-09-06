@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_043",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 42,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "FDVSCPKU",
+    "BCEVLSNF",
+    "YUNPLAGE",
+    "GXTEUCSU",
+    "XMOTFIOI",
+    "JLSOLEIL",
+    "EXKSMLBL",
+    "ECMARBRE"
+  ],
+  "words": [
+    {
+      "word": "ARBRE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CIEL",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PLAGE",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VENT",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

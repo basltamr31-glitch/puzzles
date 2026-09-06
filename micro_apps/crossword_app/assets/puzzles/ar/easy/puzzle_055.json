@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_055",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 055",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "ذئب",
+      "clue": "حيوان بري قريب من الكلب",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "بلد",
+      "clue": "دولة أو وطن",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "مدرسة",
+      "clue": "مكان يتعلم فيه الأطفال",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "زهرة",
+      "clue": "جزء ملون وجميل من النبات",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "نهر",
+      "clue": "مجرى مائي طبيعي كبير",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "مطر",
+      "clue": "ماء يتساقط من السحاب",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "كرسي",
+      "clue": "مقعد يجلس عليه الإنسان",
+      "category": "home"
+    }
+  ]
+}

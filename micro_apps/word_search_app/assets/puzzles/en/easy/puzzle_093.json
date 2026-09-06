@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_093",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 92,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "XJIOAQHS",
+    "ARMZUVLE",
+    "YFUMRCEY",
+    "YDLZSHGE",
+    "KHKCRIQB",
+    "JUUHANDR",
+    "EUDUSYHO",
+    "OENELBOW"
+  ],
+  "words": [
+    {
+      "word": "ARM",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CHIN",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ELBOW",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "EYEBROW",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LEG",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

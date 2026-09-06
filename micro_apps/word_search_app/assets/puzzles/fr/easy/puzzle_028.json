@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_028",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 27,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "CCYZPMGI",
+    "LITAPISO",
+    "DHMPERVD",
+    "YETOMOQR",
+    "FJARDIND",
+    "PYBTORNL",
+    "PULEYECY",
+    "MQEAVUQH"
+  ],
+  "words": [
+    {
+      "word": "JARDIN",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LIT",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MIROIR",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PORTE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TAPIS",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

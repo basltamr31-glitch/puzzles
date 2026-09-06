@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_054",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 53,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "CPDXXVXT",
+    "ORYJMKYV",
+    "LECHARPE",
+    "LVGANTIS",
+    "ILOQTYNT",
+    "EGNRELCE",
+    "ROBEAKIU",
+    "JNZTUBNF"
+  ],
+  "words": [
+    {
+      "word": "COLLIER",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "ECHARPE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GANT",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ROBE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VESTE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

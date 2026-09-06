@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_079",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 78,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "FTXDSAVCJBFX",
+    "ZXRKZNBVTMIP",
+    "CXBYOHHTYTLW",
+    "LYOYZFELSSGW",
+    "AOFBIAFSIMDO",
+    "LUJAESIERAIB",
+    "XRTVATIKRDJM",
+    "CLIOMSSRMDZT",
+    "MACGBAHNHOFM",
+    "IUKKCASKCURV",
+    "LBEFFIHCSJRS",
+    "LHTHAFENWAGI"
+  ],
+  "words": [
+    {
+      "word": "AUTOBAHN",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "BAHNHOF",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "FAHRRAD",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "HAFEN",
+      "row": 11,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "KOFFER",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "REISE",
+      "row": 5,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "RUCKSACK",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 10,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "TICKET",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "URLAUB",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

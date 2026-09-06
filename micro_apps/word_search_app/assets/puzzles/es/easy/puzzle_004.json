@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_004",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 3,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "ESTANTER",
+    "XPDCOIVF",
+    "IHJGPYEM",
+    "SIUBKGNA",
+    "TAZAXUTN",
+    "HEENOIAT",
+    "HPCOCINA",
+    "FHYRBZAA"
+  ],
+  "words": [
+    {
+      "word": "BANO",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "COCINA",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MANTA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TAZA",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VENTANA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

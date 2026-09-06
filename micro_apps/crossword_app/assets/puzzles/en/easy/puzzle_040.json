@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_040",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 040",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "PEN",
+      "clue": "Writing tool that uses ink",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "WATER",
+      "clue": "Clear liquid essential for life",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "GRAPE",
+      "clue": "Small round fruit that grows in bunches",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "CAKE",
+      "clue": "Sweet baked dessert, often for birthdays",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "HAND",
+      "clue": "Body part at the end of the arm",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "DUCK",
+      "clue": "Water bird that quacks",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "FROG",
+      "clue": "Green amphibian that hops and croaks",
+      "category": "animal"
+    }
+  ]
+}

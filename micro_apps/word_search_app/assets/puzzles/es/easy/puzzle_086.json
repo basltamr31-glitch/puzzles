@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_086",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 85,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "XMCVQCGN",
+    "VBOETOUM",
+    "PULSERAN",
+    "BFLTEBNY",
+    "TAAIKATV",
+    "QNRDJTEA",
+    "XDMOEARH",
+    "KAPLGSQB"
+  ],
+  "words": [
+    {
+      "word": "BUFANDA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "COLLAR",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CORBATA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GUANTE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PULSERA",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

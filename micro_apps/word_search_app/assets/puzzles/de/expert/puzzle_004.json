@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_004",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 3,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "AFOSNXLYIOBVND",
+    "XEWHNSTKRULEEZ",
+    "VNPJHYPNYTPHTX",
+    "DSCHLAFZIMMERT",
+    "STUHLTDSAEPMAL",
+    "REUTUDCFEPZMGZ",
+    "PRHXEHKPIOBRJI",
+    "JNCCZPVCXLLGVC",
+    "PYKXEIHSLDVTHV",
+    "VEXAOUXYSDEYRC",
+    "TKBNGXKLVVAYSR",
+    "YHVDSJANPGPWWO",
+    "DLPTPHCNANCHBY",
+    "EDPYHXRCAAZVYX"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 0,
+      "col": 10,
+      "dir": "SE"
+    },
+    {
+      "word": "DECKE",
+      "row": 5,
+      "col": 5,
+      "dir": "SW"
+    },
+    {
+      "word": "FENSTER",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GARTEN",
+      "row": 5,
+      "col": 12,
+      "dir": "N"
+    },
+    {
+      "word": "KUECHE",
+      "row": 10,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "LAMPE",
+      "row": 4,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "SCHLAFZIMMER",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 0,
+      "col": 3,
+      "dir": "W"
+    },
+    {
+      "word": "STUHL",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 2,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "TISCH",
+      "row": 2,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "TUER",
+      "row": 5,
+      "col": 3,
+      "dir": "W"
+    }
+  ]
+}

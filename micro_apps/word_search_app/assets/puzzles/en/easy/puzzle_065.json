@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_065",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 64,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "GZEBRAGC",
+    "PENGUINE",
+    "GBWHORSE",
+    "SCRABBIT",
+    "HATPQOVS",
+    "EMTFWJKF",
+    "EELODLHT",
+    "PLZEUTIL"
+  ],
+  "words": [
+    {
+      "word": "CAMEL",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HORSE",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PENGUIN",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RABBIT",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SHEEP",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

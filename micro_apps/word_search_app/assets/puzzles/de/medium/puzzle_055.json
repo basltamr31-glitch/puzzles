@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_055",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 54,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "UGCKACGAVC",
+    "RWBBHVWJUC",
+    "LMCTAAFEDD",
+    "ATMIFHFEWN",
+    "UUECEKNLSK",
+    "BAIKNBAHHO",
+    "OUUESMRROF",
+    "IRETRERSTF",
+    "INSYOREISE",
+    "VFTBMPPZER"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "BAHNHOF",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "HAFEN",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "KARTE",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "KOFFER",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "REISE",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TICKET",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "URLAUB",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

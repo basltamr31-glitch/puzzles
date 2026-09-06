@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_053",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 053",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "ARAIGNEE",
+      "clue": "Créature à huit pattes qui tisse des toiles"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "BOUSSOLE",
+      "clue": "Outil qui indique la direction du nord"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "JARDIN",
+      "clue": "Terrain où l'on cultive des fleurs ou légumes"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "DRAGON",
+      "clue": "Créature mythique cracheuse de feu"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "VILLAGE",
+      "clue": "Petite communauté, plus petite qu'une ville"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "QUESTION",
+      "clue": "Une phrase posée pour obtenir une information"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "BUT",
+      "clue": "L'objectif vers lequel quelqu'un travaille"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "SCENE",
+      "clue": "Une plate-forme surélevée, ou une phase d'un processus"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 9,
+      "answer": "ETE",
+      "clue": "Saison la plus chaude de l'année"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "PRINTEMPS",
+      "clue": "Saison où les fleurs éclosent"
+    }
+  ]
+}

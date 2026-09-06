@@ -1,0 +1,73 @@
+{
+  "id": "it_medium_050",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 050",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "BOTTONE",
+      "clue": "Una piccola chiusura sui vestiti"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "CUCINA",
+      "clue": "Stanza dove si preparano i pasti"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "MUSEO",
+      "clue": "Edificio che espone oggetti storici"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "STUDENTE",
+      "clue": "Persona che studia in una scuola"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "CASTELLO",
+      "clue": "Grande edificio fortificato, dimora della nobiltà"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "answer": "CLIMA",
+      "clue": "Stato dell'atmosfera, caldo, freddo, piovoso"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "COSTO",
+      "clue": "La somma pagata per qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "answer": "TESORO",
+      "clue": "Un prezioso tesoro nascosto"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "answer": "PINGUINO",
+      "clue": "Uccello che non vola, vive in climi freddi"
+    }
+  ]
+}

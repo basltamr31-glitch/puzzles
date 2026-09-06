@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_085",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 84,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "HNMCNPRO",
+    "TPKJLIPD",
+    "FINGERLN",
+    "EYEBROWJ",
+    "PHCDUSCO",
+    "WEKIKJZA",
+    "HANDWSSS",
+    "LDISTVDG"
+  ],
+  "words": [
+    {
+      "word": "EYEBROW",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FINGER",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HAND",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HEAD",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "LIP",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "NECK",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

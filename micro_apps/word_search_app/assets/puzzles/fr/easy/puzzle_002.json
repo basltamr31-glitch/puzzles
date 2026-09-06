@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_002",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 1,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "RRDASFEQ",
+    "TFGLLEQZ",
+    "RRPHVSDT",
+    "SOUPECJG",
+    "HMIELRSC",
+    "PAINLEGI",
+    "UGUCEPRS",
+    "BEURREFN"
+  ],
+  "words": [
+    {
+      "word": "BEURRE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CREPE",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "MIEL",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PAIN",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOUPE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

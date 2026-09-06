@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_076",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 75,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "NXIUOEEDODDFKE",
+    "SODXGLRVLPCDZH",
+    "ONIDRAIGOKOUDV",
+    "KGZMOFDRVCAFLP",
+    "QAFLIFTXANICUC",
+    "FBUQHAKRTSZSQV",
+    "SSOXCCTFBDPGIF",
+    "OCNVCSERLOQNTX",
+    "DCAMERAYEBVQMF",
+    "HIVNPCPAHPCNXA",
+    "ONICSUCFXYOGMM",
+    "XFDBPGBBOBUCUU",
+    "LDMZFBBGIVKSFN",
+    "RGTEXAONVQPZTE"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 5,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "CAMERA",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COPERTA",
+      "row": 11,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "CUCINA",
+      "row": 4,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 10,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "DIVANO",
+      "row": 11,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 2,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "PORTA",
+      "row": 1,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 7,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 10,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 5,
+      "col": 8,
+      "dir": "N"
+    }
+  ]
+}

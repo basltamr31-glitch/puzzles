@@ -1,0 +1,80 @@
+{
+  "id": "es_medium_081",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 081",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "MAPA",
+      "clue": "Un dibujo que muestra dónde están los lugares"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "MENSAJE",
+      "clue": "Información enviada de una persona a otra"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CABALLERO",
+      "clue": "Guerrero medieval acorazado a caballo"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "VEHICULO",
+      "clue": "Cualquier máquina para transportar personas"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "BOTON",
+      "clue": "Un pequeño cierre en la ropa"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "AVION",
+      "clue": "Aeronave de alas fijas"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "ARAÑA",
+      "clue": "Criatura de ocho patas que teje telas"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "IDEA",
+      "clue": "Un pensamiento o plan"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "CLIMA",
+      "clue": "Estado de la atmósfera, cálido, frío, lluvioso"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "ALUMNO",
+      "clue": "Persona que estudia en una escuela"
+    }
+  ]
+}

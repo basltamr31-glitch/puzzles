@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_061",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 60,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "HETEOYKSRQACBD",
+    "UDFDVZGHVESLIB",
+    "ISRERAREDCSSMC",
+    "FHOIQROSEVNCPQ",
+    "BENPTHIBSKTCMD",
+    "QLTMREHGAMBAKQ",
+    "DKEBRACCIODVSL",
+    "NAITSECOLLONUM",
+    "NGOLPTOCGKZVCO",
+    "UXQPAGOMITOUCI",
+    "MDEBCDIMVGIRMH",
+    "ULCYCVONAMLBIA",
+    "ECZDFORECCHIOP",
+    "CFKYXCIODTONOX"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CAVIGLIA",
+      "row": 12,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "COLLO",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "FRONTE",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "GAMBA",
+      "row": 5,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "GOMITO",
+      "row": 9,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "MANO",
+      "row": 11,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 8,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 12,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDE",
+      "row": 4,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "SOPRACCIGLIO",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "STOMACO",
+      "row": 7,
+      "col": 4,
+      "dir": "SE"
+    }
+  ]
+}

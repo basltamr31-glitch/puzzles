@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_011",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 10,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "KADSYBCINY",
+    "VGLACIERSW",
+    "SYONVHWAXJ",
+    "UKFQQCKICL",
+    "NTYNEWYNNH",
+    "SXCHSTRGRD",
+    "ETLVFAQPXB",
+    "TPOIVUTNMQ",
+    "NNUNFFOGOX",
+    "CWDYERCXVV"
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "CLOUD",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "GLACIER",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SKY",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "STONE",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SUNSET",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "WIND",
+      "row": 2,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

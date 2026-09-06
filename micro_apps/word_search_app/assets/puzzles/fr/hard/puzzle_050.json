@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_050",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 49,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "FANVEOSANLMM",
+    "EUCAFEGOTEES",
+    "BEURREREDGCU",
+    "ZOOBATCFAAHT",
+    "YNYKIGHMVTPI",
+    "FXYCSSOZSECL",
+    "ZRQLERCMMABV",
+    "HKEQFPOUOUGV",
+    "FSMUJQLVILSF",
+    "GPCBANANETFH",
+    "AOHPASTEQUEK",
+    "YZJYFDYRJURL"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "BEURRE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CAFE",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CITRON",
+      "row": 5,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "FRAISE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 7,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "GATEAU",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PASTEQUE",
+      "row": 10,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

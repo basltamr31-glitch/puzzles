@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_067",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 66,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "THRBERGA",
+    "LWGYNERZ",
+    "NTJUDGEW",
+    "GYBSTEIN",
+    "WWADSNSE",
+    "XIUYFOHB",
+    "HAMPIUME",
+    "TWAVXWVL"
+  ],
+  "words": [
+    {
+      "word": "BAUM",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BERG",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "EIS",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "NEBEL",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "REGEN",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "STEIN",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

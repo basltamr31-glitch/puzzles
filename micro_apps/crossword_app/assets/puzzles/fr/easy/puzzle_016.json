@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_016",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 016",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "GATEAU",
+      "clue": "Dessert sucré cuit au four",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "LAIT",
+      "clue": "Liquide blanc provenant des vaches",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "CHEVAL",
+      "clue": "Grand animal que l'on monte",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "ILE",
+      "clue": "Terre entièrement entourée d'eau",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "PLUIE",
+      "clue": "Eau qui tombe des nuages",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "MOT",
+      "clue": "Une unité de langage avec un sens",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "AMI",
+      "clue": "Une personne que l'on aime et en qui on a confiance",
+      "category": "people"
+    }
+  ]
+}

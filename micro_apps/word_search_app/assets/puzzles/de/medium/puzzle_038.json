@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_038",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 37,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "NJKGLFCPAP",
+    "VCCUTBMAGU",
+    "GWSEURPYXL",
+    "NTARMBANDL",
+    "OFNTNAXHNO",
+    "VIDESCNUBV",
+    "UHALSKETTE",
+    "XILSSOCKER",
+    "PPEJMRCSOL",
+    "WJNMTCIIRO"
+  ],
+  "words": [
+    {
+      "word": "ARMBAND",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GUERTEL",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "HALSKETTE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HUT",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MANTEL",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PULLOVER",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALEN",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SOCKE",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

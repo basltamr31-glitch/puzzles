@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_096",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 95,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "WJSSWAEZHY",
+    "UKCRTENNIS",
+    "REHPCAASIB",
+    "XLWNWSDWGO",
+    "PHITOCGIVX",
+    "VVMETHRZOE",
+    "YIMARATHON",
+    "XCEMICVODZ",
+    "WPNKOHBMPF",
+    "FCWSHOCKEY"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MARATHON",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCHACH",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SCHWIMMEN",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "STADION",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "TEAM",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

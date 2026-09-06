@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_045",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 44,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "LXPIOKXQMFRTHI",
+    "QANHLBYOEMZQHL",
+    "GDTBOQPTNSQUMF",
+    "AILGIVACTASRZK",
+    "ZEQBLIPOOIMYLK",
+    "FSROGOMITOOCKU",
+    "CTFHIAHUCQQAVN",
+    "KORECCHIORXKCA",
+    "OLLOCCCNPDRSYY",
+    "YOZOATLABVNMNF",
+    "ETNORFZARBVHVT",
+    "CIRRPUFXUBNLVM",
+    "GDIHOPTYHZOBDE",
+    "CEOYSQIRTDEGHQ"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 11,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "CAVIGLIA",
+      "row": 3,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "COLLO",
+      "row": 8,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "DITO",
+      "row": 12,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "FRONTE",
+      "row": 10,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "GINOCCHIO",
+      "row": 12,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "GOMITO",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MANO",
+      "row": 4,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "MENTO",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOPRACCIGLIO",
+      "row": 13,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "STOMACO",
+      "row": 2,
+      "col": 9,
+      "dir": "SW"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_089",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 089",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "HONEY",
+      "clue": "Sweet substance made by bees",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "LION",
+      "clue": "Big cat known as the king of the jungle",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "SISTER",
+      "clue": "Female sibling",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "FOREST",
+      "clue": "Large area covered with trees",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "FROG",
+      "clue": "Green amphibian that hops and croaks",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "SEA",
+      "clue": "A large body of salt water",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "DAY",
+      "clue": "A 24-hour period, from sunrise to sunrise",
+      "category": "time"
+    }
+  ]
+}

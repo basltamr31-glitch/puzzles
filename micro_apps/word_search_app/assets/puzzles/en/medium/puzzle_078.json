@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_078",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 77,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "HGEGLWXTGI",
+    "UTSVLDWCXQ",
+    "NSSXTOFSQE",
+    "HKPLLNVWSE",
+    "VBAWIHFEKO",
+    "DCJRCPZAVJ",
+    "RKAQOBPTZC",
+    "EEMCQTCESF",
+    "SCARFIIRRS",
+    "SRSNEAKERS"
+  ],
+  "words": [
+    {
+      "word": "DRESS",
+      "row": 5,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "GLOVE",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PAJAMAS",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SCARF",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SLIPPERS",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SNEAKERS",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SWEATER",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TIE",
+      "row": 7,
+      "col": 5,
+      "dir": "SE"
+    }
+  ]
+}

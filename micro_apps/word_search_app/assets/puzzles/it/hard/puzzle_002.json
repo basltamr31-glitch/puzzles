@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_002",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 1,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "IVFPATATAOIQ",
+    "RBMOMDLTFUYG",
+    "IVYMXHICFYAF",
+    "INLOTUMMELAY",
+    "UFEDOOOPANEU",
+    "FZCORHNDASAN",
+    "VRARTSENIMVN",
+    "SPUOACAQETGK",
+    "BBMLYBQTIKOF",
+    "NXVSYLMCPSGD",
+    "NOYRGQBNYTBG",
+    "MFALLETTIRFV"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 8,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "BURRO",
+      "row": 8,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "FRITTELLA",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "LIMONE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MELA",
+      "row": 3,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 6,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "PANE",
+      "row": 4,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "POMODORO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TORTA",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

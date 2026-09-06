@@ -1,0 +1,58 @@
+{
+  "id": "ar_easy_015",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 015",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "أسبوع",
+      "clue": "مدة سبعة أيام",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "يوم",
+      "clue": "مدة أربع وعشرين ساعة",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "كرسي",
+      "clue": "مقعد يجلس عليه الإنسان",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "ملك",
+      "clue": "حاكم مملكة",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "نجم",
+      "clue": "جرم سماوي مضيء يُرى ليلاً",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "نار",
+      "clue": "ألسنة لهب حارة ومضيئة",
+      "category": "nature"
+    }
+  ]
+}

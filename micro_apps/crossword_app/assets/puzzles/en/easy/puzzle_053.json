@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_053",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 053",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "STONE",
+      "clue": "A small piece of rock",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "DEER",
+      "clue": "Graceful animal with antlers",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "HORSE",
+      "clue": "Large animal people ride",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "SOUP",
+      "clue": "Warm liquid dish, often with vegetables",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "DOG",
+      "clue": "Loyal pet known for barking",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "PAGE",
+      "clue": "One sheet in a book",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "SLEEP",
+      "clue": "Rest with your eyes closed at night",
+      "category": "action"
+    }
+  ]
+}

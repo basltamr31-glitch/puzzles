@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_079",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 78,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "MOHACRARDTRILX",
+    "SMIAVJDSMOGKVC",
+    "IERUTIOVZXQTPG",
+    "RTCTCDOANPJOMM",
+    "EURNIYVNXSHYZQ",
+    "MORDAJKVTNVPRL",
+    "PRXGZCPRSAYVVS",
+    "MOEDPHAMPDXBVA",
+    "XTELLIBVUQSIVJ",
+    "GUPUNDATDDOEHO",
+    "GAREOUTRCUUFRE",
+    "EFNYUAEQVZDELD",
+    "SIVDAGAADXACVZ",
+    "DHJHGHUEENFJSB"
+  ],
+  "words": [
+    {
+      "word": "AUTOROUTE",
+      "row": 10,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "AVION",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "BATEAU",
+      "row": 8,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BILLET",
+      "row": 8,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "CARTE",
+      "row": 0,
+      "col": 4,
+      "dir": "SW"
+    },
+    {
+      "word": "GARE",
+      "row": 10,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PORT",
+      "row": 6,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "TAXI",
+      "row": 5,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "TRAIN",
+      "row": 5,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "VACANCES",
+      "row": 8,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "VOITURE",
+      "row": 2,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 2,
+      "col": 7,
+      "dir": "SW"
+    }
+  ]
+}

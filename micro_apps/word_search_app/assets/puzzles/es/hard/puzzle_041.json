@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_041",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 40,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "LKZZNIADUGSA",
+    "ULPDXZNSQOJK",
+    "JZARMITAJEVO",
+    "ETNAFELEBUKM",
+    "MBTLLINAHTYA",
+    "PPEYUOBSDEMS",
+    "CDRGCUBFLMQE",
+    "RJARBACOMERS",
+    "RIZTPAFYJGUU",
+    "AQUHUKURIPJB",
+    "EPLPTTHTNBSN",
+    "QABPPERATOTN"
+  ],
+  "words": [
+    {
+      "word": "ABEJA",
+      "row": 4,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "AGUILA",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "CABRA",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "CONEJO",
+      "row": 6,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "DELFIN",
+      "row": 6,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 3,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "LOBO",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "OVEJA",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PANTERA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 10,
+      "col": 7,
+      "dir": "NE"
+    }
+  ]
+}

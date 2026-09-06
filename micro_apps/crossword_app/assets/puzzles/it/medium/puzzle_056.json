@@ -1,0 +1,80 @@
+{
+  "id": "it_medium_056",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 056",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "DOMANDA",
+      "clue": "Una frase posta per ottenere informazioni"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "SCALA",
+      "clue": "La dimensione di qualcosa rispetto a un'altra"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "TESORO",
+      "clue": "Un prezioso tesoro nascosto"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "PIANO",
+      "clue": "Una proposta dettagliata per fare qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "DRAGO",
+      "clue": "Creatura mitica che sputa fuoco"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "answer": "PORTO",
+      "clue": "Un luogo riparato dove attraccano le navi"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "ZONA",
+      "clue": "Una regione o parte particolare di qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "FATTO",
+      "clue": "Qualcosa che si sa essere vero"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "CLIMA",
+      "clue": "Stato dell'atmosfera, caldo, freddo, piovoso"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "CUSCINO",
+      "clue": "Cuscino morbido per riposare la testa"
+    }
+  ]
+}

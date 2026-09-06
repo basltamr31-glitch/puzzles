@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_094",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 93,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "LGLYCFNLODUX",
+    "ORUOPEGIACCA",
+    "YSCANIOSZGPX",
+    "SUTLNRTPDRSZ",
+    "DVQATTAVARCR",
+    "AUHCENOILGAM",
+    "LRSINTCHPHRX",
+    "SQTNISUCRRPQ",
+    "UUATSBUERBEC",
+    "ZESUMEABDETG",
+    "YEFRCAPPOTTO",
+    "VUPANTOFOLES"
+  ],
+  "words": [
+    {
+      "word": "CAPPOTTO",
+      "row": 10,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CINTURA",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CRAVATTA",
+      "row": 4,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "GIACCA",
+      "row": 1,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "GUANTO",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MAGLIONE",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PANTOFOLE",
+      "row": 11,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCARPETTE",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "SCIARPA",
+      "row": 7,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "VESTITO",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

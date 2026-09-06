@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_045",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 44,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "CNEXMYISFJYK",
+    "HVZOHSWSZNCN",
+    "SKXKAYNXDNPO",
+    "XUIKNEGOBLLE",
+    "TAMUDIDTBYGC",
+    "LFYINIEBAUCH",
+    "MEYNUGRHALSE",
+    "DRUKYSNCZSPL",
+    "XEGCCVFAUPVY",
+    "APKLKOPFBSCV",
+    "KARKVCKHDYHW",
+    "SGCFWKHXLISC"
+  ],
+  "words": [
+    {
+      "word": "AUGE",
+      "row": 6,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "BAUCH",
+      "row": 5,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "BEIN",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "ELLBOGEN",
+      "row": 3,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "FUSS",
+      "row": 9,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "HALS",
+      "row": 6,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "HAND",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "KNIE",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "KNOECHEL",
+      "row": 0,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "KOPF",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

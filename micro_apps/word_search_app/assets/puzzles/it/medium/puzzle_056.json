@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_056",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 55,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "PCIALKIOGE",
+    "AOETHSYITN",
+    "LRSSNQRMYT",
+    "LSBTCUKBIX",
+    "AAOIGAOYMH",
+    "VFXTTDCTIY",
+    "OOEKKRGCOK",
+    "LYSNPAOKHC",
+    "OKQYZQLCAI",
+    "PLXTLZZEIF"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "BOXE",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CORSA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GOL",
+      "row": 6,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "NUOTO",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PALLAVOLO",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SQUADRA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

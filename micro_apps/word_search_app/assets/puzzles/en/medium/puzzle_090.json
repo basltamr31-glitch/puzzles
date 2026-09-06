@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_090",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 89,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "KTWCHOGDFW",
+    "PZXMYFVGKI",
+    "MCTXSOUPWQ",
+    "GCHEESEIDM",
+    "LWGCASQZLK",
+    "ILEMONMZXP",
+    "YRRGPOTATO",
+    "UPTYGWKINO",
+    "SFMNLCEILM",
+    "ONFNJFTHEZ"
+  ],
+  "words": [
+    {
+      "word": "CHEESE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COOKIE",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "EGG",
+      "row": 5,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "LEMON",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PIZZA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SOUP",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

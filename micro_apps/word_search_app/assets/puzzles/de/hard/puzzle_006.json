@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_006",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 5,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "LBOEZJWUGTCA",
+    "KHZAATIUCVEM",
+    "LKUFPGJLKPBG",
+    "XPJNELADNASC",
+    "LVUHUHCSDNAH",
+    "OEGLCUKEHTVS",
+    "IBUSLJEDAOJL",
+    "BDEKCOSMEFSM",
+    "EIRLWEVDCFVE",
+    "LETNAMNEGERB",
+    "CCESMCNURLCR",
+    "GCLFVPATGNLO"
+  ],
+  "words": [
+    {
+      "word": "GUERTEL",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HANDSCHUH",
+      "row": 4,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "HOSE",
+      "row": 5,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "JACKE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PANTOFFELN",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PULLOVER",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "REGENMANTEL",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SANDALEN",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SCHAL",
+      "row": 6,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "SOCKE",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_046",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 45,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "BJVKPKQN",
+    "MVDRESSZ",
+    "LQXRRWRV",
+    "IGLOVETP",
+    "PAJAMASK",
+    "XMKCXTOA",
+    "LZOTIECL",
+    "KFCYJRKV"
+  ],
+  "words": [
+    {
+      "word": "DRESS",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GLOVE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PAJAMAS",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOCK",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SWEATER",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TIE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

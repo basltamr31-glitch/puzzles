@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_079",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 78,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "QMPLNAVE",
+    "QUXXLUZG",
+    "DLMPTTQO",
+    "OZAINOTZ",
+    "GGPGSVAR",
+    "COPHCDXU",
+    "DVALIGIA",
+    "PKLCDERX"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MAPPA",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "NAVE",
+      "row": 0,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "VALIGIA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ZAINO",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

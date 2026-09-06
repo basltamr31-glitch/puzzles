@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_068",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 67,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "PTQHGFBZRN",
+    "CCANAPEHFT",
+    "FUOBCKPPRU",
+    "AIQULAMPED",
+    "KSBMSENXZR",
+    "LITPGSQJJG",
+    "ENYAOAIAQE",
+    "FENETRENXU",
+    "GPNEPTTULB",
+    "FCJGXROEYF"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CUISINE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FENETRE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "LIT",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PORTE",
+      "row": 5,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "TABLE",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

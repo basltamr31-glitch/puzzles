@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_097",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 96,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "QGBQKHNU",
+    "TCBCHIEN",
+    "QVCHEVAL",
+    "RENARDRA",
+    "QTMMKISP",
+    "DIQEOUGI",
+    "CCHATCSN",
+    "DKOUDGUT"
+  ],
+  "words": [
+    {
+      "word": "CHAMEAU",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CHAT",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CHIEN",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LAPIN",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "RENARD",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

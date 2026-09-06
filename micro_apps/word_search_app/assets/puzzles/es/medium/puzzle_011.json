@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_011",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 10,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "OSEHXGABTI",
+    "CPJYFOFFEI",
+    "CLSDUKMETU",
+    "EAJGDVXGVC",
+    "QYSBVJBREQ",
+    "MARCOIRIST",
+    "PISLASESOK",
+    "IGICHDQNLH",
+    "SHDQIDAUTJ",
+    "QLFQKZFCEO"
+  ],
+  "words": [
+    {
+      "word": "ARCOIRIS",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BOSQUE",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CASCADA",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "ISLA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MAR",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PLAYA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SOL",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "VIENTO",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    }
+  ]
+}

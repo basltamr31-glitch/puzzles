@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_065",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 64,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "VXDOLATYBQERTS",
+    "IZLZAZLLQEUIMN",
+    "QTVDGHAHLPGMVO",
+    "VFFRUQXLKRTKFL",
+    "VQUQKIHOELQBBL",
+    "NRIZAQUILACVFI",
+    "DMQPPOLLEMMACR",
+    "KAFFARIGFPUFTD",
+    "VNYFSCOIATTOLO",
+    "CSPTBITNNIZOQC",
+    "OLRGATTOTUNEPC",
+    "XRFVVECCEDYKRO",
+    "MPFIRTNFLRHEOC",
+    "OLLAVACCZEAPSC"
+  ],
+  "words": [
+    {
+      "word": "AQUILA",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CAMMELLO",
+      "row": 6,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "CAVALLO",
+      "row": 13,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "COCCODRILLO",
+      "row": 12,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "CONIGLIO",
+      "row": 11,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "GATTO",
+      "row": 10,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFA",
+      "row": 7,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "PANTERA",
+      "row": 7,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "SCOIATTOLO",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TIGRE",
+      "row": 0,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "TOPO",
+      "row": 8,
+      "col": 10,
+      "dir": "SE"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_040",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 040",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "SOLDAT",
+      "clue": "Membre d'une armée"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "VESTE",
+      "clue": "Un court manteau"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "CHATEAU",
+      "clue": "Grand bâtiment fortifié, demeure de la noblesse"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "PARAPLUIE",
+      "clue": "Objet qui protège de la pluie"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "IMAGE",
+      "clue": "Une photo ou un dessin"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "CIEL",
+      "clue": "L'espace au-dessus de la terre"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "REGLE",
+      "clue": "Une instruction officielle sur la façon de se comporter"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "answer": "GUITARE",
+      "clue": "Instrument à cordes que l'on gratte"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "ARMOIRE",
+      "clue": "Meuble pour ranger les vêtements"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "FORME",
+      "clue": "Le contour ou l'aspect de quelque chose"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_039",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 039",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "PESCE",
+      "clue": "Animale acquatico che respira con le branchie",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "APE",
+      "clue": "Insetto che ronza e produce miele",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "UCCELLO",
+      "clue": "Animale con le piume che può volare",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "BLU",
+      "clue": "Colore di un cielo sereno",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "OCCHIO",
+      "clue": "Organo usato per vedere",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "LAGO",
+      "clue": "Grande distesa d'acqua circondata da terra",
+      "category": "place"
+    }
+  ]
+}

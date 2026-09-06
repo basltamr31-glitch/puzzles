@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_004",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 3,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "QCOPERTA",
+    "YUKCLDAD",
+    "DCYUACPV",
+    "IISSMHPG",
+    "VNKCPLES",
+    "AAMIAMTT",
+    "NQUNDBOK",
+    "OGHOACBG"
+  ],
+  "words": [
+    {
+      "word": "COPERTA",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CUCINA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "DIVANO",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

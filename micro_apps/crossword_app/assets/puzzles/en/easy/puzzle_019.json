@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_019",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 019",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "HEAD",
+      "clue": "Top part of the body, containing the brain",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "BEAR",
+      "clue": "Large furry animal that lives in the woods",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "TIGER",
+      "clue": "Large striped wild cat",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "LION",
+      "clue": "Big cat known as the king of the jungle",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "DAY",
+      "clue": "A 24-hour period, from sunrise to sunrise",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "NIGHT",
+      "clue": "The dark part of the day",
+      "category": "time"
+    }
+  ]
+}

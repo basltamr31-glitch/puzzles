@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_029",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 28,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "TOJFORUARURD",
+    "JMITKXKKNKXU",
+    "MPEROHDRTQFT",
+    "OIKLVENTREGH",
+    "TYICTYIJLDTZ",
+    "SGJAMBELUAPE",
+    "BKFNQNIAMNDC",
+    "ELLIVEHCSUFG",
+    "HRNBRYKCOCRN",
+    "TGIODVYCUNTZ",
+    "PPGKTSECGCBC",
+    "KKQDJRKHVPKG"
+  ],
+  "words": [
+    {
+      "word": "CHEVILLE",
+      "row": 7,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "COUDE",
+      "row": 9,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "DOIGT",
+      "row": 9,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "EPAULE",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "JAMBE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MAIN",
+      "row": 6,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "OEIL",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "OREILLE",
+      "row": 9,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "TETE",
+      "row": 2,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "VENTRE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

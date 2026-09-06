@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_089",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 88,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "LAYQGZELIQZAUG",
+    "VXIHAILDYPFITZ",
+    "GEDTNBRDIZLKZD",
+    "SORKMTCAJPEFNY",
+    "CUVBYHLUFMUEVR",
+    "DADEEDVPGENYNM",
+    "NIPVRZEHLSSUTF",
+    "MGAAVNBIDTUJXR",
+    "SLNAEFDNFBCMPD",
+    "IETIHOYZFFYQOA",
+    "RDHLCULQKSPIFY",
+    "UCEOZXFZCNTNDP",
+    "OYRUAXUBSVDRYV",
+    "SCEPAUJGYBCZIG"
+  ],
+  "words": [
+    {
+      "word": "AIGLE",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 3,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "CHEVRE",
+      "row": 10,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "CHIEN",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 13,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "DAUPHIN",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "LOUP",
+      "row": 10,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHERE",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "RENARD",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "SOURIS",
+      "row": 13,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 6,
+      "col": 5,
+      "dir": "NW"
+    }
+  ]
+}

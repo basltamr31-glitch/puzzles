@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_073",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 72,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "IZYDRXBBDRBVCR",
+    "PNVDCOTEYAQUHC",
+    "OXYSSYCOCECDNM",
+    "IOMYCAVALLOBIB",
+    "RATOPOMSAUIVFQ",
+    "TCORSMINXEPFXI",
+    "PCARETNAPVPOFT",
+    "PBELEFANTEUNKK",
+    "TXLNNXBILTAIDA",
+    "COCCODRILLOFHQ",
+    "CZBDEQUCIFFLPP",
+    "ASOBLORURROEOG",
+    "BSLFEFQQBSDDKC",
+    "TQVRFASMZXNXNV"
+  ],
+  "words": [
+    {
+      "word": "AQUILA",
+      "row": 13,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "CAMMELLO",
+      "row": 2,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "CAPRA",
+      "row": 2,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "CAVALLO",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "COCCODRILLO",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DELFINO",
+      "row": 12,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LEONE",
+      "row": 11,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "LUPO",
+      "row": 3,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTERA",
+      "row": 6,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "SCOIATTOLO",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "TOPO",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

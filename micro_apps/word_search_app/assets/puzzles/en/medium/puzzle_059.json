@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_059",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 58,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "OKTLWGPXLX",
+    "QYDECKUERV",
+    "DOBEACHLWC",
+    "HVDMSEAPVH",
+    "ECUTREELOB",
+    "XBEINJRFLJ",
+    "ERRKFHITCQ",
+    "NSUNSWVJAK",
+    "WPYPNZEONH",
+    "IYXKCWRFOG"
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "DESERT",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "FOG",
+      "row": 9,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "RIVER",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SEA",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TREE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

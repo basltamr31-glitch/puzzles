@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_011",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 10,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "AGSLPFGV",
+    "DLNAWOOO",
+    "AAIMGRVL",
+    "DCVTNECC",
+    "ZIMQNSEA",
+    "DESERTTN",
+    "PRLMSSMO",
+    "IZRBEACH"
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "DESERT",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FOREST",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GLACIER",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SEA",
+      "row": 4,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

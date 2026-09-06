@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_047",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 047",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "CHANTEUR",
+      "clue": "Personne qui fait de la musique avec sa voix"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "CHEVALIER",
+      "clue": "Guerrier médiéval en armure à cheval"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "ANIMAL",
+      "clue": "Tout être vivant qui n'est pas une plante"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "LECON",
+      "clue": "Une période d'apprentissage sur un sujet"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "VELO",
+      "clue": "Véhicule à deux roues propulsé par pédalage"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "ELEVE",
+      "clue": "Personne qui étudie dans une école"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "DRAGON",
+      "clue": "Créature mythique cracheuse de feu"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "ETE",
+      "clue": "Saison la plus chaude de l'année"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "answer": "CIEL",
+      "clue": "L'espace au-dessus de la terre"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "answer": "AGE",
+      "clue": "Le nombre d'années qu'une personne a vécu"
+    }
+  ]
+}

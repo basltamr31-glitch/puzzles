@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_062",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 61,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "PRSXMYOKQG",
+    "BRACELETRT",
+    "EGNIEKQFJF",
+    "LWDRNOXSAN",
+    "TGADFCKUCC",
+    "VCLWHXOKKI",
+    "MVSOCKKAEW",
+    "EQYTVHUJTT",
+    "JPHDRESSZE",
+    "WDEQYXQVTG"
+  ],
+  "words": [
+    {
+      "word": "BELT",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BRACELET",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DRESS",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GLOVE",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "JACKET",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "RAINCOAT",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SANDALS",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SOCK",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_072",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 71,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "QTBSMRRYPB",
+    "RDSCMETHZF",
+    "HFZRAOBOXE",
+    "KKZCRTDCKF",
+    "IVNNALLKXT",
+    "XTGUTLZEXK",
+    "ZTGSOFCYTB",
+    "PSOMNTHIBA",
+    "PALLAVOLOH",
+    "UYUPXBVKBH"
+  ],
+  "words": [
+    {
+      "word": "ATLETA",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "BOXE",
+      "row": 2,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "CALCIO",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "GOL",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MARATONA",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "NUOTO",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PALLAVOLO",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

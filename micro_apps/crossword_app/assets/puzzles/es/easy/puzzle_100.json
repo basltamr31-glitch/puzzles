@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_100",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 100",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "SOPA",
+      "clue": "Plato líquido caliente, a menudo con verduras",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "PIEDRA",
+      "clue": "Un pequeño trozo de roca",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "PADRE",
+      "clue": "Progenitor masculino",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "PAGINA",
+      "clue": "Una hoja de un libro",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "REINA",
+      "clue": "Gobernante femenina de un reino",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "MAR",
+      "clue": "Gran extensión de agua salada",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "OSO",
+      "clue": "Animal grande y peludo que vive en el bosque",
+      "category": "animal"
+    }
+  ]
+}

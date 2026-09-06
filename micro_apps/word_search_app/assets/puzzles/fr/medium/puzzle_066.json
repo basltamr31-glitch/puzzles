@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_066",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 65,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "KXCKYVXECJ",
+    "HACAFEARTB",
+    "RIJYTRQCTA",
+    "FUBLHOADBN",
+    "XYDIQGZIIA",
+    "ZIASTSMKSN",
+    "UMSNTEKKCE",
+    "GICITBXHUJ",
+    "DEQSOUPEIF",
+    "TLAITOMATE"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CAFE",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FRAISE",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "LAIT",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MIEL",
+      "row": 6,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SOUPE",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_001",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 0,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "VTTOFQGLXKND",
+    "YSBXYHGDUPOH",
+    "DCQVUOLMLPHV",
+    "COCCODRILLOH",
+    "AIXADLAPLOKT",
+    "MAYPRCPEQAKT",
+    "MTXRDLYERGIT",
+    "ETNAFELEVAPU",
+    "LORZQOTFVOPT",
+    "LLBGSNXVREIK",
+    "OOUNAEEIYZRH",
+    "HMPPKDXFBLHE"
+  ],
+  "words": [
+    {
+      "word": "CAMMELLO",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CAPRA",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "COCCODRILLO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 7,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "LEONE",
+      "row": 6,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LUPO",
+      "row": 0,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTERA",
+      "row": 11,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "SCOIATTOLO",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 6,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "VOLPE",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

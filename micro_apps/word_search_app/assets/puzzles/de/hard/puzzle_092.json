@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_092",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 91,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "RHCZBRBHCLRS",
+    "VTBFEOLHFJOI",
+    "YGARTENGAEMM",
+    "AXDSTEAWTNLS",
+    "ZFENSTERRBMP",
+    "SVZSWEMJVSNK",
+    "SPIEGELCIMMK",
+    "AKMTMEBZTHCC",
+    "RAMBUXPRPIFY",
+    "JMEKCEDBWZLZ",
+    "FIRPDCRLPCJJ",
+    "MNNLKOVHBTZY"
+  ],
+  "words": [
+    {
+      "word": "BADEZIMMER",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BETT",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "DECKE",
+      "row": 9,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "FENSTER",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GARTEN",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KAMIN",
+      "row": 7,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TASSE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "TUER",
+      "row": 7,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

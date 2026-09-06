@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_017",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 16,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "FOEJCCMJ",
+    "DVENAMHX",
+    "LPANTHER",
+    "VDGOATLC",
+    "WOLFDDCS",
+    "UGEQHYOM",
+    "UWQQISQN",
+    "NEJDPHFY"
+  ],
+  "words": [
+    {
+      "word": "CAT",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "DOG",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "EAGLE",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "GOAT",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANTHER",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "WOLF",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

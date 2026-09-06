@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_066",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 066",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "شهر",
+      "clue": "مدة تقارب ثلاثين يوماً",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "شمال",
+      "clue": "الجهة المقابلة للجنوب",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "فيل",
+      "clue": "حيوان ضخم له خرطوم طويل",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "قمر",
+      "clue": "الجرم السماوي الذي يضيء الليل",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "قطة",
+      "clue": "حيوان أليف يموء",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "يوم",
+      "clue": "مدة أربع وعشرين ساعة",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "answer": "فم",
+      "clue": "فتحة تُستخدم للأكل والكلام",
+      "category": "body"
+    }
+  ]
+}

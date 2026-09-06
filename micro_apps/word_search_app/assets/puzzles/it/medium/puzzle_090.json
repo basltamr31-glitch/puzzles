@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_090",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 89,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "TAPCAFFEPB",
+    "QHQMSOVFXI",
+    "PTOIXRNRAK",
+    "OOENGMQIBL",
+    "MGMEAAITUI",
+    "OMFSOGBTRM",
+    "DEXTXGUERO",
+    "OMMRUIZLON",
+    "RCCANOZLDE",
+    "OZHEPATATA"
+  ],
+  "words": [
+    {
+      "word": "BURRO",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CAFFE",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FRITTELLA",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LIMONE",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "POMODORO",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

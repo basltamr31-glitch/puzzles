@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_080",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 79,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "LETIEPKR",
+    "LDHAULGE",
+    "TELQFRNF",
+    "GYGGAATE",
+    "UISOCCER",
+    "WBWAPEAE",
+    "CHILWEME",
+    "TTMJDZAP"
+  ],
+  "words": [
+    {
+      "word": "GOAL",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "RACE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "REFEREE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SOCCER",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SWIM",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TEAM",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_045",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 44,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "MECZIGTHIL",
+    "ZCVLIUUKUC",
+    "ASTDTMVCRG",
+    "BPIEDELEIR",
+    "RAFESNSGFR",
+    "ALRTUTRIIY",
+    "CLOPCOADTD",
+    "CANIZOCISU",
+    "INTGBDNTMB",
+    "ORECCHIOIX"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "DITO",
+      "row": 6,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "FRONTE",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MENTO",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SPALLA",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TESTA",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

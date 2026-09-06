@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_011",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 011",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "MONTAÑA",
+      "clue": "Relieve natural muy elevado",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "OVEJA",
+      "clue": "Animal lanudo que bala",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "ARBOL",
+      "clue": "Planta grande con tronco y ramas",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "OSO",
+      "clue": "Animal grande y peludo que vive en el bosque",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "SOL",
+      "clue": "Estrella en el centro de nuestro sistema solar",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "SAL",
+      "clue": "Condimento blanco que sazona la comida",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "DIA",
+      "clue": "Un período de 24 horas",
+      "category": "time"
+    }
+  ]
+}

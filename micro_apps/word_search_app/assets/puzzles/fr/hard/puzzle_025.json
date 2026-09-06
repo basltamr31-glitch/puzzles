@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_025",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 24,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "VQHBTHDXQKCM",
+    "OARLLMMVGKLA",
+    "VFTEMABOYIDC",
+    "GFSKNBBMUJMH",
+    "PMIIGAFEJTPI",
+    "KEPCSTRDIHOE",
+    "TAHCJUDDYLBN",
+    "LVBMCCHEVALU",
+    "YYZEBREZFIYE",
+    "MLQYGCQHXGMB",
+    "KZSBDFOZALQC",
+    "FXHSFOGGKEAN"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "AIGLE",
+      "row": 7,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CHAT",
+      "row": 6,
+      "col": 3,
+      "dir": "W"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CHIEN",
+      "row": 2,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "ECUREUIL",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "LAPIN",
+      "row": 7,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "MOUTON",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "RENARD",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_051",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 051",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "SONNE",
+      "clue": "Stern im Zentrum unseres Sonnensystems",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "WIND",
+      "clue": "Bewegte Luft",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "EISEN",
+      "clue": "Starkes graues Metall, in Stahl verwendet",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "ELCH",
+      "clue": "Großes geweihtragendes Waldtier",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "OHR",
+      "clue": "Körperteil zum Hören",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "WOLKE",
+      "clue": "Weiße oder graue Masse am Himmel",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "ZEIT",
+      "clue": "Was Uhren messen",
+      "category": "time"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_030",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 29,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "QMMCVZJT",
+    "CHAPEAUF",
+    "GANTSRHE",
+    "QOTMTOEE",
+    "HBENEBUS",
+    "PBASKETS",
+    "LDUOZFYK",
+    "EPJMBHVN"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHAPEAU",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GANT",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ROBE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "VESTE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

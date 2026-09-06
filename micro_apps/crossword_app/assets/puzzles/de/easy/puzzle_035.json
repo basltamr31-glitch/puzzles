@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_035",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 035",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "EBENE",
+      "clue": "Flaches, weites Land ohne große Erhebungen",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "FELD",
+      "clue": "Offenes Land für Ackerbau",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "ENTE",
+      "clue": "Wasservogel, der schnattert",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "ZEIT",
+      "clue": "Was Uhren messen",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "SEE",
+      "clue": "Großes Gewässer, von Land umgeben",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "WAL",
+      "clue": "Riesiges Meeressäugetier",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "WOLF",
+      "clue": "Wildtier, verwandt mit dem Hund",
+      "category": "animal"
+    }
+  ]
+}

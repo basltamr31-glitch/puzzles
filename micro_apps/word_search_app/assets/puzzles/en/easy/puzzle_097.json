@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_097",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 96,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "WTNTQYLP",
+    "JXSPTHHW",
+    "SXBCDATO",
+    "CCRAURQL",
+    "PANTHERF",
+    "HMKZKLXL",
+    "BEECXCBY",
+    "ILINJIKS"
+  ],
+  "words": [
+    {
+      "word": "BEE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CAMEL",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CAT",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "HARE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHER",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WOLF",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_071",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 70,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "VLHBYKLION",
+    "NHOICOKHRM",
+    "NCYCBOLETO",
+    "VYQIJUCNLC",
+    "CKDCEHMHIH",
+    "RYQLRRZAEI",
+    "GTRENNBNPL",
+    "JAUTOPISTA",
+    "ESTACIONYM",
+    "RMYKXHJFCF"
+  ],
+  "words": [
+    {
+      "word": "AUTOPISTA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BICICLETA",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BOLETO",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "COCHE",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "ESTACION",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MAPA",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TREN",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_098",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 97,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "DDMTSASE",
+    "PLATANOX",
+    "LIMONTPK",
+    "EOTSDIAI",
+    "CDDNIFNZ",
+    "HIYEAVOO",
+    "EPVVQDQY",
+    "UHJPQPGQ"
+  ],
+  "words": [
+    {
+      "word": "LECHE",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "LIMON",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PAN",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PLATANO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SANDIA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SOPA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

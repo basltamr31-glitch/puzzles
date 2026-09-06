@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_038",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 37,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "KYWHATLZ",
+    "UABWWIMV",
+    "SWEATERV",
+    "DPLHNBCZ",
+    "RNTYPGHP",
+    "ETBFGLLR",
+    "SBQGXCYS",
+    "SANDALSQ"
+  ],
+  "words": [
+    {
+      "word": "BELT",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "DRESS",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "HAT",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALS",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SWEATER",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TIE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

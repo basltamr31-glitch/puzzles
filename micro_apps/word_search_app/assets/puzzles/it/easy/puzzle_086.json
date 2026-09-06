@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_086",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 85,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "ZRQVZUPX",
+    "KCINTURA",
+    "CALZINOG",
+    "LVESTITO",
+    "GUANTOLY",
+    "GCOVXNLB",
+    "HSANDALI",
+    "TCOLLANA"
+  ],
+  "words": [
+    {
+      "word": "CALZINO",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CINTURA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COLLANA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GUANTO",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALI",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VESTITO",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

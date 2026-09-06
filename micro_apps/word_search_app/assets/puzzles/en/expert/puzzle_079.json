@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_079",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 78,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "IPCFKFHTAHFAJN",
+    "AZTGREPXEPYLZO",
+    "TNONKLOGSFTAXI",
+    "NOITACAVWABZAT",
+    "LIJNMYAQADTPRA",
+    "JTEGOCUPWCLVHN",
+    "SAZVJIAAKPIHSI",
+    "KTXDGBFSUCABUT",
+    "GSPYSLDSTRAINS",
+    "VBGWSUYPBDZBIE",
+    "XBPUJBMOBSLDGD",
+    "CYESQNRRULOGBH",
+    "ODXXRVOTWJJQFY",
+    "HXWFSCHUZSGXJK"
+  ],
+  "words": [
+    {
+      "word": "BACKPACK",
+      "row": 9,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "BICYCLE",
+      "row": 7,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "DESTINATION",
+      "row": 10,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "HARBOR",
+      "row": 6,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PLANE",
+      "row": 1,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "SHIP",
+      "row": 6,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "STATION",
+      "row": 8,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "TAXI",
+      "row": 2,
+      "col": 10,
+      "dir": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 8,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "VACATION",
+      "row": 3,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 6,
+      "col": 3,
+      "dir": "NE"
+    }
+  ]
+}

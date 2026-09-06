@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_089",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 88,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "UOKBDSKMENTWAJ",
+    "RFHLTFFMPUYAEH",
+    "GTGPXIVHZRMOER",
+    "ICNNMXGARHSUUE",
+    "XALJBITFUGVAZG",
+    "DWWGNJIKWBXNUW",
+    "AOLBRXGCAXEYCZ",
+    "KGBIENEEFVYBWE",
+    "PZGXDZRCJWOLFL",
+    "NNWFTOAXFVOPOE",
+    "WNBAROKUBEFSPF",
+    "KDKHPVCOWEAWLA",
+    "MEICHHOERNCHEN",
+    "FOISSIGDNKNILT"
+  ],
+  "words": [
+    {
+      "word": "BAER",
+      "row": 5,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "BIENE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "EICHHOERNCHEN",
+      "row": 12,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ELEFANT",
+      "row": 7,
+      "col": 13,
+      "dir": "S"
+    },
+    {
+      "word": "FUCHS",
+      "row": 9,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "KATZE",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 13,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "LOEWE",
+      "row": 8,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "PFERD",
+      "row": 9,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "SCHAF",
+      "row": 13,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "TIGER",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "WOLF",
+      "row": 8,
+      "col": 9,
+      "dir": "E"
+    }
+  ]
+}

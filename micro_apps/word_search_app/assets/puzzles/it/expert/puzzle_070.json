@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_070",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 69,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "HZNHRKFMTOPBZB",
+    "OOTTELAICCARBC",
+    "YQCOFAOMAVNDLN",
+    "PNSSCARPETTELY",
+    "OOYCAPPELLONHF",
+    "BOAKRXSRTVFOPT",
+    "AITYDAKMDPOIBM",
+    "GKCNVFVELALLLF",
+    "MYILADNASREGSY",
+    "KTDAXUPBTUNAHV",
+    "VYRMUDGIOTDMNR",
+    "UFDOCOLLANASTP",
+    "XLDNOUHELIGTBQ",
+    "TBNDVDSTBCGVZV"
+  ],
+  "words": [
+    {
+      "word": "BRACCIALETTO",
+      "row": 1,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "CAPPELLO",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CINTURA",
+      "row": 13,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "COLLANA",
+      "row": 11,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CRAVATTA",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "GIACCA",
+      "row": 7,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "GUANTO",
+      "row": 10,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "IMPERMEABILE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MAGLIONE",
+      "row": 10,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "PANTOFOLE",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALI",
+      "row": 8,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "SCARPETTE",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

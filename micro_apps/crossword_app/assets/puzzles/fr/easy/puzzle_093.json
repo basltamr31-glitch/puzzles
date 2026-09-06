@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_093",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 093",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "CANARD",
+      "clue": "Oiseau aquatique qui fait coin-coin",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "MUR",
+      "clue": "Structure verticale qui divise une pièce",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "PLAGE",
+      "clue": "Zone sablonneuse au bord de la mer",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "CHEVEUX",
+      "clue": "Ce qui pousse sur la tête",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "EAU",
+      "clue": "Liquide clair essentiel à la vie",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "OURS",
+      "clue": "Grand animal poilu qui vit dans les bois",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "AMI",
+      "clue": "Une personne que l'on aime et en qui on a confiance",
+      "category": "people"
+    }
+  ]
+}

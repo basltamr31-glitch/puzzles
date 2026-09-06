@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_041",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 40,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "CUARTDTAHCHJ",
+    "DNTIGREBSRPT",
+    "RABEILLEOOEV",
+    "EHULIUERUCEY",
+    "ICTPZHPAROSL",
+    "ORDFHVHHIDZF",
+    "PSKVDIAYSIIU",
+    "REREHTNAPLXF",
+    "RPTMOUTONESU",
+    "KVFSFADJFCLA",
+    "SOBRVBIKIDTI",
+    "PGXKKCRNJOZR"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHAT",
+      "row": 0,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "DAUPHIN",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "ECUREUIL",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MOUTON",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PANTHERE",
+      "row": 7,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "SOURIS",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

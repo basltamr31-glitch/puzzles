@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_080",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 79,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "APLSDATQTGXS",
+    "FFVGRJLFAENG",
+    "RBKNSPMVOHAG",
+    "GOTIAXDOVSTK",
+    "SXNFRCVLEFLX",
+    "XEEVBAJEDREZ",
+    "TOMSILCICETB",
+    "RFGKTIGBEOAC",
+    "NXMARATONTTM",
+    "BQKIOCDLYUPO",
+    "PNLZSOAIUHJP",
+    "PUIZYEKCOHNP"
+  ],
+  "words": [
+    {
+      "word": "AJEDREZ",
+      "row": 5,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "ARBITRO",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ATLETA",
+      "row": 2,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "BOXEO",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CICLISMO",
+      "row": 6,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "ESTADIO",
+      "row": 5,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 11,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "MARATON",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TENIS",
+      "row": 6,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "VOLEIBOL",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

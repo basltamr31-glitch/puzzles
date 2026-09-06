@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_088",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 87,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "CNXAMFGNBL",
+    "GPRRHTDHSF",
+    "URHCHESSTT",
+    "YFRHVAEEAI",
+    "BZVELMQHDT",
+    "XXMRFAVOIN",
+    "KVGYUEFCUO",
+    "EEHEINRKMX",
+    "IKJSOCCERJ",
+    "KDCAISPYED"
+  ],
+  "words": [
+    {
+      "word": "ARCHERY",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CHESS",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "REFEREE",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "RUN",
+      "row": 5,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SOCCER",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "STADIUM",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "TEAM",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

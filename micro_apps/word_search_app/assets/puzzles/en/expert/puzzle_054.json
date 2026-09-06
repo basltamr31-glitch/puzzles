@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_054",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 53,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "CSPRBTXECSOANI",
+    "VSRNJRBAJYQNXU",
+    "AATEWRRRIMZXCW",
+    "ANECKLACELTZFD",
+    "LDHOOACIVTSRAV",
+    "MARKSLERNRAUPE",
+    "NLUEMXLNSCNEHK",
+    "ZSLIPPERSOOAWS",
+    "UAKXXTTXEWOAYS",
+    "SMCDERGWRDHZTO",
+    "FAOKWVCCDSHQRT",
+    "AJCPQSOSMTNKMI",
+    "QAVFXXQLFCQUOR",
+    "JPOPJBBGGTYNFB"
+  ],
+  "words": [
+    {
+      "word": "BRACELET",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DRESS",
+      "row": 10,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "GLOVE",
+      "row": 13,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "JACKET",
+      "row": 13,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "NECKLACE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PAJAMAS",
+      "row": 13,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "RAINCOAT",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "SANDALS",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SCARF",
+      "row": 7,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "SLIPPERS",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SNEAKERS",
+      "row": 7,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "SWEATER",
+      "row": 8,
+      "col": 13,
+      "dir": "NW"
+    }
+  ]
+}

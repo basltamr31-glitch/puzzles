@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_083",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 82,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "SEAQQJNCKD",
+    "PTMXSQPDNB",
+    "OROFGZXHKK",
+    "QEUNAAYMJK",
+    "QENBELRXAX",
+    "WATERFALLN",
+    "GBAASWIVEK",
+    "RBICASNNAL",
+    "MANHQJIFFR",
+    "IFZGRBNBNB"
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "RAIN",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SEA",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "TREE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "WATERFALL",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

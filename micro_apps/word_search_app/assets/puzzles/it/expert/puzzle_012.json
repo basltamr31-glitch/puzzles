@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_012",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 11,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "XNMERLESBLHTRP",
+    "FQXLAOHHEQYIXV",
+    "XTXQCTBLCRLYOF",
+    "AZHEVURTMOCSZX",
+    "LKPEOKSEDIAXBF",
+    "LGBCTKECPFXRPP",
+    "VLSPECCHIOSTBU",
+    "BNCOPUCXSNCLLU",
+    "ILAMPADATROPXV",
+    "PXFOANICUCLNNL",
+    "YAFFTAZZASOVXZ",
+    "TIAPTDQXCMVHGB",
+    "MBLSECAMERAEZY",
+    "GAEEISGYSVTVCC"
+  ],
+  "words": [
+    {
+      "word": "CAMERA",
+      "row": 12,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "COPERTA",
+      "row": 7,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "CUCINA",
+      "row": 9,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PORTA",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SEDIA",
+      "row": 4,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 10,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 13,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "TAZZA",
+      "row": 10,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

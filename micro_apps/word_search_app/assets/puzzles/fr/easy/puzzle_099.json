@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_099",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 98,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "NIZCKCNB",
+    "XNUAGENA",
+    "RHGSMBQG",
+    "QBCCPUYR",
+    "XSIALOUI",
+    "TZEDUCZI",
+    "SOLEILYE",
+    "ARBREIYP"
+  ],
+  "words": [
+    {
+      "word": "ARBRE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CASCADE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CIEL",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "NUAGE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PLUIE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

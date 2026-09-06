@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_092",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 91,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "PGYAEMTEUELVQH",
+    "ZMKDIXSDYORCTI",
+    "NAXMAXDIWIALGT",
+    "SDPOLHCIARCGRO",
+    "LKIPMGBHPXWVQT",
+    "AFLEKSCEILINGL",
+    "PFLWUITSDQNFQQ",
+    "RMOORHTABRDCPB",
+    "OCWSMWOCBFOLOM",
+    "WQIBXGZRHLWOVU",
+    "EMYLEAXILEEPMA",
+    "UXQTEKNALBNLWU",
+    "ECKQHBNTYGRNQF",
+    "XMMPFCBSVTYSBM"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 7,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "BEDROOM",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "BLANKET",
+      "row": 11,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CARPET",
+      "row": 1,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "CEILING",
+      "row": 5,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "CHAIR",
+      "row": 5,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PILLOW",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 8,
+      "col": 3,
+      "dir": "NW"
+    },
+    {
+      "word": "STAIRCASE",
+      "row": 13,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "TABLE",
+      "row": 6,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "WINDOW",
+      "row": 4,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

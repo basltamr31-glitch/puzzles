@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_060",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 59,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "XNOFCUUTZB",
+    "PJDHMLSEZT",
+    "RACHEMINEE",
+    "FENETREKUX",
+    "OCANAPEPTH",
+    "RGPGGMPDAB",
+    "RNJTEEPNPG",
+    "TGMIROIRIN",
+    "TABLETASSE",
+    "OCNLPTBNAC"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHEMINEE",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FENETRE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MIROIR",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAPIS",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "TASSE",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

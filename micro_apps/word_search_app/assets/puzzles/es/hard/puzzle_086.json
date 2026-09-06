@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_086",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 85,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "BSNOLATNAPZQ",
+    "ISALLITAPAZE",
+    "ECOFQMTNYNNL",
+    "MPLMCPSUETER",
+    "GNMNBEAKRUBG",
+    "YQYQURPCMFUM",
+    "IXCGEMEOULFP",
+    "YBOSUEURCABU",
+    "DFLVCAJBOSHZ",
+    "JULQVBNABUGE",
+    "PHANOLXTEVKS",
+    "ZURLVEAAENHK"
+  ],
+  "words": [
+    {
+      "word": "COLLAR",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CORBATA",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GUANTE",
+      "row": 6,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "IMPERMEABLE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PANTALON",
+      "row": 0,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "PANTUFLAS",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PULSERA",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "SOMBRERO",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SUETER",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "ZAPATILLAS",
+      "row": 1,
+      "col": 10,
+      "dir": "W"
+    }
+  ]
+}

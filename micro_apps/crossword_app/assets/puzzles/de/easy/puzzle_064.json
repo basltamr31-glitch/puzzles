@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_064",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 064",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "EBENE",
+      "clue": "Flaches, weites Land ohne große Erhebungen",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ONKEL",
+      "clue": "Bruder von Mutter oder Vater",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "TAL",
+      "clue": "Niedriges Land zwischen Bergen",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "FELD",
+      "clue": "Offenes Land für Ackerbau",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "WAL",
+      "clue": "Riesiges Meeressäugetier",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "WOLF",
+      "clue": "Wildtier, verwandt mit dem Hund",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "TAG",
+      "clue": "Ein 24-Stunden-Zeitraum",
+      "category": "time"
+    }
+  ]
+}

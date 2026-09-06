@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_078",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 77,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "KVBABUHP",
+    "TDGBUOVU",
+    "XJURFLEL",
+    "FUAIAXSS",
+    "ZMNGNBTE",
+    "LBTODRIR",
+    "IYENAZDA",
+    "SUETEROO"
+  ],
+  "words": [
+    {
+      "word": "ABRIGO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BUFANDA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "GUANTE",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PULSERA",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SUETER",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

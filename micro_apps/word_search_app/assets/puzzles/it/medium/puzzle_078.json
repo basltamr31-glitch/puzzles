@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_078",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 77,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "NXEOYPKNOX",
+    "VAZHVVQVIX",
+    "ESCINTURAQ",
+    "SCARPETTEM",
+    "TIPNGBUTQN",
+    "IAPEDTFVKC",
+    "TROGUANTOR",
+    "OPTLQQLQLV",
+    "ZATAFECINZ",
+    "CCOLLANAEF"
+  ],
+  "words": [
+    {
+      "word": "CAPPOTTO",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CINTURA",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "COLLANA",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GUANTO",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALI",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SCARPETTE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCIARPA",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VESTITO",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_034",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 33,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "OISYKWCH",
+    "JROBASSU",
+    "IPKRFAUR",
+    "YNOOFVPW",
+    "BUTTERPZ",
+    "HPKAESEG",
+    "ANCJBTGU",
+    "HONIGVEP"
+  ],
+  "words": [
+    {
+      "word": "BROT",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BUTTER",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HONIG",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KAESE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SUPPE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

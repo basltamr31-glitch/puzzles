@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_040",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 39,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "SURSHQIIDM",
+    "GVTSZNKRAN",
+    "HSTECRCXLU",
+    "OSFQAAISKO",
+    "CQYBPTCRTT",
+    "KUEHCALCIO",
+    "EASLKHIEHZ",
+    "YDFDHQSSTI",
+    "CRFSTSMUYA",
+    "PALLAVOLOH"
+  ],
+  "words": [
+    {
+      "word": "ATLETA",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CALCIO",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CICLISMO",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "NUOTO",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PALLAVOLO",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SQUADRA",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

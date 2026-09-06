@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_005",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 4,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "TEUBRASU",
+    "TPIEDHEX",
+    "MAINNSXD",
+    "SUCGAGGP",
+    "NLOQRKVX",
+    "MENTONTQ",
+    "HEKZJCQZ",
+    "COUDEABN"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "COUDE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "EPAULE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "MAIN",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MENTON",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PIED",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "fr_easy_014",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 014",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "MOUTON",
+      "clue": "Animal laineux qui bêle",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "SERPENT",
+      "clue": "Reptile sans pattes qui rampe",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "PLUIE",
+      "clue": "Eau qui tombe des nuages",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "TETE",
+      "clue": "Partie supérieure du corps, avec le cerveau",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "AMI",
+      "clue": "Une personne que l'on aime et en qui on a confiance",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "ILE",
+      "clue": "Terre entièrement entourée d'eau",
+      "category": "place"
+    }
+  ]
+}

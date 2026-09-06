@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_050",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 49,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "ZQTERNELIQ",
+    "AAVMOPSLHP",
+    "MLPIABEFPF",
+    "ZIPERAUKLR",
+    "CINLVIMRUA",
+    "KIPEIGKQRG",
+    "SQBISCOTTO",
+    "RGXLATTEAL",
+    "ALANGURIAA",
+    "FRCXCZTAIZ"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BURRO",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "LATTE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MIELE",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PERA",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

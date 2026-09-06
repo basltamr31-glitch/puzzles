@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_098",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 97,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "ZOAACVHEHX",
+    "LGJAMBONJF",
+    "TKGVKENXGK",
+    "BQCOFFEEOM",
+    "AQPCANYZCO",
+    "BKCARROTUJ",
+    "HREDSXIZYY",
+    "IJWOXTBCFK",
+    "JBYUDCAKEX",
+    "GKURZRAZBR"
+  ],
+  "words": [
+    {
+      "word": "AVOCADO",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CAKE",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CARROT",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "COFFEE",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HONEY",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "JAM",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PASTA",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "RICE",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    }
+  ]
+}

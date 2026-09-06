@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_032",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 31,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "CHESSKJROQIOTI",
+    "OYSBTENEVCRXQN",
+    "MPCSALVFJTKSLD",
+    "RSYLDSAERUOSYC",
+    "WDWTIEKRMCJWLM",
+    "ONPIUNTECARQEP",
+    "RATSMGGETNEXZR",
+    "ERQPHNRSLBWTBF",
+    "RVLZIIMPCHAEUV",
+    "ZBAXXXYKBNTLOY",
+    "RQVLVOLLEYBALL",
+    "ZYPXSBHRPYZIKQ",
+    "WPOKOYXMZLUZLO",
+    "SJADEESAAWORMW"
+  ],
+  "words": [
+    {
+      "word": "ATHLETE",
+      "row": 10,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "BASKETBALL",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "BOXING",
+      "row": 11,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "CHESS",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CYCLING",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "RACE",
+      "row": 5,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "REFEREE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SOCCER",
+      "row": 2,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "STADIUM",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SWIM",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "TEAM",
+      "row": 7,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "VOLLEYBALL",
+      "row": 10,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

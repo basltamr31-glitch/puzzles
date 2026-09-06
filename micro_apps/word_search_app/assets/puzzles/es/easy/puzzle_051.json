@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_051",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 50,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "ILPKFRGR",
+    "MXBRMNVQ",
+    "OHCIELOC",
+    "AOTOGMLQ",
+    "LJATXMCK",
+    "CASCADAI",
+    "HIGRZXNL",
+    "PRADERAR"
+  ],
+  "words": [
+    {
+      "word": "CASCADA",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CIELO",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HOJA",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PRADERA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RIO",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

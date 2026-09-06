@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_010",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 9,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "JKSCLLTF",
+    "QPOEUDOR",
+    "GAPCNCME",
+    "MSANDIAS",
+    "OTPATATA",
+    "SEPDOFEA",
+    "HLPJXIAA",
+    "TYPOGAOC"
+  ],
+  "words": [
+    {
+      "word": "FRESA",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PASTEL",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SANDIA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOPA",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

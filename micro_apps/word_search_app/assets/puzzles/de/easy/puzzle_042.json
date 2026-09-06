@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_042",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 41,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "KDMFBROT",
+    "EONGHHKD",
+    "NNPBCCUJ",
+    "KAFFEECB",
+    "GPMSXUHI",
+    "NFBUTTER",
+    "KEEOTINN",
+    "JLZECDKE"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "BIRNE",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BROT",
+      "row": 0,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BUTTER",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

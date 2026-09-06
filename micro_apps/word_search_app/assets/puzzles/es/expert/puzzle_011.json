@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_011",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 10,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "PGIADXMPQYFVIK",
+    "GQXPHQNMAIOFRF",
+    "JGFQIMFBNDZLTV",
+    "EVNOEPXTVNITQL",
+    "DBODCIAPBJJRNL",
+    "XHNFENQRKQKUJH",
+    "ZNICASCADABUXZ",
+    "MRXTZGIDTEHSBP",
+    "OTNEIVEEFOIKCN",
+    "LOGOUILRRKEPJV",
+    "MVSLASOAZTLKIN",
+    "XMLRPAZDJAOXIS",
+    "TYUMZNJVYOPXMU",
+    "TCHCRMVARJHXRM"
+  ],
+  "words": [
+    {
+      "word": "CASCADA",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CIELO",
+      "row": 6,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DESIERTO",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "HIELO",
+      "row": 7,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "HOJA",
+      "row": 13,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "LLUVIA",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "MONTANA",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "NUBE",
+      "row": 4,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 9,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "PLAYA",
+      "row": 9,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "PRADERA",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "VIENTO",
+      "row": 8,
+      "col": 5,
+      "dir": "W"
+    }
+  ]
+}

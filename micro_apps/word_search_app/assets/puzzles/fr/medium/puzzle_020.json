@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_020",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 19,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "GFLCRSCIHZ",
+    "IETAGEREUZ",
+    "ANJNMOUDFU",
+    "SESALPTKEN",
+    "ITEPRREAQM",
+    "KRHERDQMYI",
+    "PEOTAPISIR",
+    "MFOATSFNHO",
+    "OAZYMCJYUI",
+    "OOHPORTERR"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FENETRE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "JARDIN",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "LAMPE",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "MIROIR",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PORTE",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TAPIS",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

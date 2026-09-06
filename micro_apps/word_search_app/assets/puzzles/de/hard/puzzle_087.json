@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_087",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 86,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "GDIWVTAXIPWS",
+    "BJNSESIERMLG",
+    "WUKCASKCURAU",
+    "RMAHUWUPKEPF",
+    "LSHITSTHJECL",
+    "VGLFOISJODTU",
+    "XNKFFLUGZEUG",
+    "MSBFWOFAXKRH",
+    "DFHKZINJBGLA",
+    "GGNTGDARRHAF",
+    "AEZPUSZZKPUE",
+    "MXBPJMHGGGBN"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FAHRRAD",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "FLUGHAFEN",
+      "row": 3,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "FLUGZEUG",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "REISE",
+      "row": 1,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "RUCKSACK",
+      "row": 2,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 0,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TICKET",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "URLAUB",
+      "row": 6,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

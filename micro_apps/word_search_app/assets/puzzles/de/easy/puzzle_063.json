@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_063",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 62,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "KUIFMOVV",
+    "JKAKZBAP",
+    "CTSJUKOL",
+    "KACWGKID",
+    "FAHRRADT",
+    "REISERLA",
+    "EJFYUTLX",
+    "XUFCXEMI"
+  ],
+  "words": [
+    {
+      "word": "FAHRRAD",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KARTE",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "REISE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ZUG",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

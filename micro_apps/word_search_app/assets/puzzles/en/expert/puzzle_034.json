@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_034",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 33,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "SQSWMEZHLMAVNO",
+    "QFTGRYOVFJUUFD",
+    "VMNABLJOIALTBE",
+    "VEXSUGSEBEBVMC",
+    "UNMVCYUDGBNJZE",
+    "EEHCIWDNASRUEC",
+    "JOSHNVAWGEFNWC",
+    "DQUORRSNCAREMW",
+    "KJMCOOKIEVBBTM",
+    "HEAOESRZACUTON",
+    "LKTLLLQYITIZBS",
+    "EOSAWEPSTHCLXK",
+    "OWATERMELONPEM",
+    "OLPEPARGNLWVII"
+  ],
+  "words": [
+    {
+      "word": "BREAD",
+      "row": 8,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "BUTTER",
+      "row": 8,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "CAKE",
+      "row": 8,
+      "col": 3,
+      "dir": "SW"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "COOKIE",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GRAPE",
+      "row": 13,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "LEMON",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "ORANGE",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "PASTA",
+      "row": 13,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "RICE",
+      "row": 9,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 5,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "WATERMELON",
+      "row": 12,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

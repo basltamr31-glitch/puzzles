@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_081",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 80,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "CAMELIDOCORC",
+    "NYTLJNRKHSUD",
+    "QPEEHSVPVUZT",
+    "NIHPLODMDDNW",
+    "UPYHIZRUCENX",
+    "THEAORFSUUAR",
+    "CBTNNMAZEBRA",
+    "HBZTGOPUOTXS",
+    "KJEYLUUYFZNO",
+    "ZVJSESIYERBB",
+    "QBBZPEYNCORR",
+    "NORRHIFWARHF"
+  ],
+  "words": [
+    {
+      "word": "CAMEL",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 0,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "DOLPHIN",
+      "row": 3,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "HORSE",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "LION",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MOUSE",
+      "row": 6,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PENGUIN",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SHEEP",
+      "row": 2,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 6,
+      "col": 7,
+      "dir": "E"
+    }
+  ]
+}

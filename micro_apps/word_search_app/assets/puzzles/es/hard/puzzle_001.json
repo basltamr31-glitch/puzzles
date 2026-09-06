@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_001",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 0,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "ULOVVDLHVKGX",
+    "JUVRXNYTJNKM",
+    "LMEUMNXAIRBB",
+    "JCJUOLDSKJDJ",
+    "LIARBECBXYGK",
+    "DBRMROZAEAOA",
+    "TODAENHSBUER",
+    "ZNIQFLMLBRZP",
+    "VBLZMALIUGAY",
+    "GFLOJENOCKZS",
+    "UTASQYBQMZRF",
+    "LJGBJHZMZFIT"
+  ],
+  "words": [
+    {
+      "word": "AGUILA",
+      "row": 8,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "ARDILLA",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CABRA",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "CAMELLO",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CEBRA",
+      "row": 4,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "CONEJO",
+      "row": 9,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "LEON",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "OVEJA",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ZORRO",
+      "row": 7,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

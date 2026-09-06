@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_049",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 48,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "LXXZOJGNUOFKYC",
+    "QJTTAEIHUVNQFK",
+    "RCHQHDXRLVQMFR",
+    "MQKGMEZPACBLKL",
+    "OOTJPLPGUFLAGQ",
+    "IZBFFFUSUBABQI",
+    "CTBOOIPTSXNRFS",
+    "YAAPLNBEHSMORA",
+    "KPKALLIDRAQYLR",
+    "TIGREDAUHRTEDD",
+    "ZMEBMVJBGHOEVS",
+    "TEMAACAGANAXNA",
+    "LEACCEACGCISDZ",
+    "TECFFISSBZPPRV"
+  ],
+  "words": [
+    {
+      "word": "AGUILA",
+      "row": 3,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "ARDILLA",
+      "row": 8,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CABALLO",
+      "row": 12,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "CABRA",
+      "row": 12,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "CAMELLO",
+      "row": 12,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "DELFIN",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "LEON",
+      "row": 8,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "LOBO",
+      "row": 7,
+      "col": 4,
+      "dir": "NW"
+    },
+    {
+      "word": "PERRO",
+      "row": 6,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 13,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "TIGRE",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

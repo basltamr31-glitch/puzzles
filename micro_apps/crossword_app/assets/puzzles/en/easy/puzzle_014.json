@@ -1,0 +1,50 @@
+{
+  "id": "en_easy_014",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 014",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "PAPER",
+      "clue": "Thin material used for writing or printing",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "EARTH",
+      "clue": "The planet we live on",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "BABY",
+      "clue": "Very young child",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "HILL",
+      "clue": "A raised area of land, smaller than a mountain",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "FAMILY",
+      "clue": "Parents, children, and relatives together",
+      "category": "people"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_025",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 24,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "LUXHZADHXM",
+    "HPUDFDVJFK",
+    "GAIWOLFGRC",
+    "TDSNZZYOVY",
+    "RLNEGARVVN",
+    "CELZAUNWFH",
+    "KROKODILNS",
+    "CSELEFANTW",
+    "TVWSCHAFWO",
+    "JFEHTVYKBW"
+  ],
+  "words": [
+    {
+      "word": "ADLER",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ELEFANT",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HASE",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LOEWE",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SCHAF",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "WOLF",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

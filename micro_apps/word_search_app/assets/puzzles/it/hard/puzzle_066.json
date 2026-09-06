@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_066",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 65,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "AHLVHXBVHOOX",
+    "AMOGGPRZTNIQ",
+    "YBXALOGARFFH",
+    "NZIUKMLQLDDI",
+    "XVLSIOLQQQDZ",
+    "CKBSCDGATROT",
+    "NLYCAOISCCAA",
+    "XSODARTSENIM",
+    "LIBRUOATATAP",
+    "CPIGCAENOMIL",
+    "PANZQTAKBHQB",
+    "LAFNFBNPSYBY"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "BANANA",
+      "row": 11,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CIOCCOLATO",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 2,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "LIMONE",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PATATA",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "POMODORO",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TORTA",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

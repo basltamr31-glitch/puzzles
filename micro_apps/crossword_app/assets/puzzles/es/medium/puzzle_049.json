@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_049",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 049",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "CHAQUETA",
+      "clue": "Un abrigo corto"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "COCINA",
+      "clue": "Habitación donde se preparan las comidas"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "PREGUNTA",
+      "clue": "Una frase formulada para obtener información"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "RANGO",
+      "clue": "La extensión entre dos límites"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "TAMAÑO",
+      "clue": "Cuán grande o pequeño es algo"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "CAMARA",
+      "clue": "Aparato usado para tomar fotografías"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "answer": "VERANO",
+      "clue": "Estación más calurosa del año"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 6,
+      "answer": "DATO",
+      "clue": "Algo que se sabe que es verdadero"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "TIPO",
+      "clue": "Una categoría o clase de algo"
+    }
+  ]
+}

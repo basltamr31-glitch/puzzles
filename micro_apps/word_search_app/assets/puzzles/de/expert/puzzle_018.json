@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_018",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 17,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "FEADKBZRUEGHOH",
+    "LJPDSEDHONIWYK",
+    "DERGKAESELNPUZ",
+    "IRFHAWNCCKOCYD",
+    "NDUPECRHJKHFMX",
+    "CBBKANIOEENBNA",
+    "DEBTORBKNKMBXM",
+    "EEFWYCSOTXRUDE",
+    "NRCEEERLAHYMWU",
+    "LEFFOTRAKWUYBI",
+    "TTIOIARDHJJOCE",
+    "BTWZMBLEWUDBAT",
+    "PUXRVXCLZZDLBT",
+    "WBIGFSLZWVRUEB"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 5,
+      "col": 4,
+      "dir": "NW"
+    },
+    {
+      "word": "BIRNE",
+      "row": 6,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "BROT",
+      "row": 6,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "BUTTER",
+      "row": 13,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HONIG",
+      "row": 4,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "KAESE",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 9,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "KEKSE",
+      "row": 4,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 1,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "SCHOKOLADE",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 11,
+      "col": 3,
+      "dir": "NE"
+    }
+  ]
+}

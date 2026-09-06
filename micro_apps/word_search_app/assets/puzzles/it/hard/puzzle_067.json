@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_067",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 66,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "YKOIAICCAIHG",
+    "CGRDMLYVROHP",
+    "XZBXUONACLUV",
+    "KUFGVENTOCMT",
+    "XZPSAAMTBCON",
+    "NEFCMAREALGN",
+    "BFIUMEAILGOF",
+    "YKTPSURMEXNG",
+    "QNYEEABENIHA",
+    "YZDKGUPBOSCO",
+    "EDOIVEHQYPXL",
+    "CZCBDVFZZILD"
+  ],
+  "words": [
+    {
+      "word": "ARCOBALENO",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "BOSCO",
+      "row": 9,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "DESERTO",
+      "row": 9,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "FIUME",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 6,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "GHIACCIAIO",
+      "row": 0,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "MARE",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MONTAGNA",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "VENTO",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VULCANO",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "it_medium_089",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 089",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "PALAZZO",
+      "clue": "Grande residenza di un re o una regina"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "VIAGGIO",
+      "clue": "Uno spostamento da un luogo a un altro"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "COSTO",
+      "clue": "La somma pagata per qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "GALLERIA",
+      "clue": "Un passaggio sotterraneo"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "CUCINA",
+      "clue": "Stanza dove si preparano i pasti"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "RAGNO",
+      "clue": "Creatura a otto zampe che tesse ragnatele"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "SCIENZA",
+      "clue": "Studio del mondo naturale tramite esperimenti"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "IDEA",
+      "clue": "Un pensiero o un piano"
+    }
+  ]
+}

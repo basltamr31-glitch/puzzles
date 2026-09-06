@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_071",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 70,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "ZNEFYIFB",
+    "FTUKRCIK",
+    "KARTEUNO",
+    "AXLUIFZM",
+    "WIAUSWKB",
+    "LZULEMEZ",
+    "WRBUSZCY",
+    "RFAHRRAD"
+  ],
+  "words": [
+    {
+      "word": "BUS",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FAHRRAD",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KARTE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "REISE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "URLAUB",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_049",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 48,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "JPXMCMOQDH",
+    "VAVBOAIGLE",
+    "HNZDBUTMAQ",
+    "KTPUDDTSPS",
+    "CHEVALVOII",
+    "HEALORHUNB",
+    "XRVDUOZRNF",
+    "XECUREUILJ",
+    "IXXTSQHSLF",
+    "YXDQLJYYOL"
+  ],
+  "words": [
+    {
+      "word": "AIGLE",
+      "row": 1,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ECUREUIL",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LAPIN",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "MOUTON",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "OURS",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHERE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SOURIS",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_041",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 041",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "نافذة",
+      "clue": "فتحة في الجدار للضوء والهواء",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "نور",
+      "clue": "ضياء يساعد على الرؤية",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "بقرة",
+      "clue": "حيوان أليف يُربى لحليبه",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "مكتب",
+      "clue": "مكان يُستخدم للعمل",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "قطة",
+      "clue": "حيوان أليف يموء",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "غرفة",
+      "clue": "مساحة مغلقة داخل منزل",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "قلم",
+      "clue": "أداة تُستخدم للكتابة",
+      "category": "object"
+    }
+  ]
+}

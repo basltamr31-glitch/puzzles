@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_073",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 72,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "PQKAQLAM",
+    "EGHUEIJF",
+    "SZORRODC",
+    "UCAMELLO",
+    "MBSRATON",
+    "PANTERAE",
+    "BIDKZMRJ",
+    "IOLPERRO"
+  ],
+  "words": [
+    {
+      "word": "CAMELLO",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CONEJO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PANTERA",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PERRO",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "RATON",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ZORRO",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

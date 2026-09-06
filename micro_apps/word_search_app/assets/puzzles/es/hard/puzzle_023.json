@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_023",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 22,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "ILDYXJRIBINV",
+    "CMAPASAPORTE",
+    "PDTXULYGVTXH",
+    "FUBCTEUOBQRI",
+    "BEHCOCRMTAQQ",
+    "HOQTPJGTIVUD",
+    "HJLRIEPPOIGN",
+    "EBIESTACIONC",
+    "VMDNTXMAYNYN",
+    "TZYXAOUOGREC",
+    "IGZXXSLIDALJ",
+    "RFXRIXRHIXBT"
+  ],
+  "words": [
+    {
+      "word": "AUTOPISTA",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "AVION",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "BOLETO",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "COCHE",
+      "row": 4,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "ESTACION",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MAPA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PASAPORTE",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PUERTO",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "TAXI",
+      "row": 8,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TREN",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

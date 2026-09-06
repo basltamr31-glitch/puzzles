@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_024",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 23,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "DWACALDXWVKTGI",
+    "LIYHAPZZDAGIHX",
+    "BTBASKETBALLCU",
+    "SWIMARATHONYRE",
+    "ZENPRBHYEKCOHR",
+    "IGPICUCEHLAOGF",
+    "HNZOHHRCIAHOKR",
+    "SINNETSNKFXTDS",
+    "VXASRIGZZQRSAV",
+    "WOSHYZDQGBBGHS",
+    "YBUINKDWYITBUA",
+    "UVZPYBNECCKDZK",
+    "YDOINJDIHYFYEV",
+    "RSMTSHYFWGQGAC"
+  ],
+  "words": [
+    {
+      "word": "ARCHERY",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 8,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "BASKETBALL",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BOXING",
+      "row": 10,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "CHAMPIONSHIP",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CHESS",
+      "row": 5,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "CYCLING",
+      "row": 2,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "GOAL",
+      "row": 5,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 4,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "MARATHON",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SWIM",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 7,
+      "col": 5,
+      "dir": "W"
+    }
+  ]
+}

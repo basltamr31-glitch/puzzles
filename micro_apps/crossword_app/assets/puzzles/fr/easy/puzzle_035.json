@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_035",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 035",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "SOMMEIL",
+      "clue": "Repos les yeux fermés",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "CHAISE",
+      "clue": "Meuble sur lequel on s'assoit",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ETOILE",
+      "clue": "Point lumineux visible dans le ciel nocturne",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "OURS",
+      "clue": "Grand animal poilu qui vit dans les bois",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "LAC",
+      "clue": "Grande étendue d'eau entourée de terre",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "MAIN",
+      "clue": "Partie du corps au bout du bras",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    }
+  ]
+}

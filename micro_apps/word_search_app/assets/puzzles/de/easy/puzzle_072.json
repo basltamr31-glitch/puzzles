@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_072",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 71,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "STEAMEZV",
+    "COSRCCWM",
+    "BRTENNIS",
+    "EXANGMOB",
+    "ISDNGMRO",
+    "NPIEIMRX",
+    "KTONTUCE",
+    "OMNXORYN"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "RENNEN",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "STADION",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TEAM",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TOR",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

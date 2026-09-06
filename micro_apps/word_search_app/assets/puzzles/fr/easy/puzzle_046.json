@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_046",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 45,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "AKKOVYLK",
+    "LCCAROBE",
+    "NHHVPVJC",
+    "XAVPBGSH",
+    "PPULLCRA",
+    "SEYBEZNR",
+    "MANTEAUP",
+    "DURVESTE"
+  ],
+  "words": [
+    {
+      "word": "CHAPEAU",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ECHARPE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PULL",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ROBE",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VESTE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

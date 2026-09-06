@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_032",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 31,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "SGZOZDQZTVMKZD",
+    "CICLISMOEQDPIG",
+    "ASROCDLMNSIEYA",
+    "CMUVRMANNKMOOT",
+    "CGUAUTXTITIEIQ",
+    "HLELEXITSCMURG",
+    "IXHLHSIBLHBNFL",
+    "RSTANOTARAMDEY",
+    "LAKPLBCTXAZAUG",
+    "XCMXLVDKRTUFCX",
+    "SCXUDFVZENPBDZ",
+    "BAMAQUUSXYKQNA",
+    "HTIRHQNLOIBZRF",
+    "EYUNSUIGBEPFGT"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 8,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "ATLETA",
+      "row": 8,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "BOXE",
+      "row": 13,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "CALCIO",
+      "row": 8,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "CICLISMO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CORSA",
+      "row": 2,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 6,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "MARATONA",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "PALLAVOLO",
+      "row": 8,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "STADIO",
+      "row": 5,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "TENNIS",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

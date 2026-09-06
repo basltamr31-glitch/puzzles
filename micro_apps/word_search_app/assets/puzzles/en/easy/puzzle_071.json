@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_071",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 70,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "XTHARBOR",
+    "BICYCLEX",
+    "DCXMYVGK",
+    "OKBUKTVT",
+    "HEHJXRZB",
+    "YTVOYAGE",
+    "LELSHIPU",
+    "ZDOSINJO"
+  ],
+  "words": [
+    {
+      "word": "BICYCLE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HARBOR",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SHIP",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TICKET",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TRAIN",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

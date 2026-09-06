@@ -1,0 +1,50 @@
+{
+  "id": "it_easy_077",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 077",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "FOGLIA",
+      "clue": "Parte verde e piatta di una pianta",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "CAPELLI",
+      "clue": "Ciò che cresce sulla testa",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "LAGO",
+      "clue": "Grande distesa d'acqua circondata da terra",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "LEGNO",
+      "clue": "Materiale di cui sono fatti gli alberi",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "BLU",
+      "clue": "Colore di un cielo sereno",
+      "category": "color"
+    }
+  ]
+}

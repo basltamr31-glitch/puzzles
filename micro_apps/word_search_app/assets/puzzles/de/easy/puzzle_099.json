@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_099",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 98,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "LWSJXKPN",
+    "BAUMKFBC",
+    "LLRFSBKW",
+    "ADJOAWBI",
+    "TSYJNTEE",
+    "TWUHHYRS",
+    "VULKANGE",
+    "PJEUNWYL"
+  ],
+  "words": [
+    {
+      "word": "BAUM",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BERG",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BLATT",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VULKAN",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WALD",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "WIESE",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

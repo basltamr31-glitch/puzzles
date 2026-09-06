@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_028",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 27,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "JHIPCANAPE",
+    "TAXFHJBOCG",
+    "CLRUEJRIYS",
+    "LKPDMNIZFT",
+    "VCHAISEDQA",
+    "ROCMNNZTHB",
+    "LXJCEXFARL",
+    "VOILEQLPHE",
+    "ERUKXCBIRM",
+    "XFDCLVPSTV"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 0,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CHAISE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHEMINEE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FENETRE",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "JARDIN",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "LIT",
+      "row": 7,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "TABLE",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TAPIS",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

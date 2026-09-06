@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_042",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 41,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "MAYELTXMSGHC",
+    "HVPLINCPBZHY",
+    "HTTALOCOHCIH",
+    "OPLLSCAMBMKB",
+    "VPFIHTFMISMA",
+    "LBEURREESDDE",
+    "FBHFYPGQCTEK",
+    "SCOVBVQAURFN",
+    "OHPGRGCMIELP",
+    "YXBETAMOTFGV",
+    "DFQHVUPUTSDI",
+    "GYCTHFPOZRXG"
+  ],
+  "words": [
+    {
+      "word": "BEURRE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CAFE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 2,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "LAIT",
+      "row": 3,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "MIEL",
+      "row": 8,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "PASTEQUE",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "POIRE",
+      "row": 10,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "POMME",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 9,
+      "col": 8,
+      "dir": "W"
+    }
+  ]
+}

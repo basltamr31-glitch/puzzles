@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_026",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 026",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "FORCE",
+      "clue": "La puissance exercée sur quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "MEDECIN",
+      "clue": "Professionnel médical qui soigne les patients"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "BOUTEILLE",
+      "clue": "Un récipient au col étroit pour les liquides"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "VIOLON",
+      "clue": "Instrument à cordes joué avec un archet"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "USINE",
+      "clue": "Bâtiment où l'on fabrique des produits"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "LECON",
+      "clue": "Une période d'apprentissage sur un sujet"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "ORAGE",
+      "clue": "Tempête avec tonnerre et éclairs"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "PORT",
+      "clue": "Un lieu abrité où les navires accostent"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "SON",
+      "clue": "Quelque chose que l'on entend"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "TYPE",
+      "clue": "Une catégorie ou sorte de quelque chose"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_026",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 25,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "FLZCATNIPYNU",
+    "GGXVMZJHEMBX",
+    "USHCTENORTIZ",
+    "ZCRZOXTNDCRI",
+    "YHXNMALIBLNL",
+    "KOXDAAXGEDEV",
+    "UKARTOFFELIP",
+    "ROEDEOPPRBWZ",
+    "JLVWDAPFESJW",
+    "MAKYIUBHIWYW",
+    "PDRNSROVVNIR",
+    "NEHCUKNNAFPO"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 8,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "BIRNE",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "HONIG",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PFANNKUCHEN",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SCHOKOLADE",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SUPPE",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "TOMATE",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

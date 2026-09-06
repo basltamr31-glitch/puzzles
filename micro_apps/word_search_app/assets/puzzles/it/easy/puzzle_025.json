@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_025",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 24,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "CAVALLOL",
+    "EEDVOUGC",
+    "SAQUILAE",
+    "PANTERAM",
+    "AAEVOLPE",
+    "CZEBRAGN",
+    "HMHHUHPC",
+    "MDELFINO"
+  ],
+  "words": [
+    {
+      "word": "AQUILA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CAVALLO",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DELFINO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PANTERA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VOLPE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

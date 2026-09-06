@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_054",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 53,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "HAYZCJWG",
+    "ASANDALS",
+    "IULGTCCW",
+    "YLYLEKQE",
+    "FGLOVEGA",
+    "EQOHATWT",
+    "BYPTTIDE",
+    "OJWGNEER"
+  ],
+  "words": [
+    {
+      "word": "GLOVE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "JACKET",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALS",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SWEATER",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TIE",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_079",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 78,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "XVSDCOIXIY",
+    "VACANCESJT",
+    "SXUVCIGAAA",
+    "XBATEAUVQL",
+    "UETCOTDIIV",
+    "UJLAJRAOIO",
+    "ZVYLXAONSY",
+    "VLDDXICUDA",
+    "QPNZANLMTG",
+    "OAUCMSZVYE"
+  ],
+  "words": [
+    {
+      "word": "AUTOROUTE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "AVION",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BATEAU",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SACADOS",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TRAIN",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "VACANCES",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_082",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 81,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "TIHBJCAWCKHI",
+    "JGGRLUPXNMOF",
+    "ELNCYIPHTMRW",
+    "BNHRHPLLOIAA",
+    "JURROHEGMRNT",
+    "UJQINSLZAQGE",
+    "JHACEIBUTTER",
+    "BKFEYYATOBLM",
+    "ZOHMKINEKOOE",
+    "HCJBEXAKLWUL",
+    "HNBPPLNXVXHO",
+    "HUWHECAZZIPN"
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BANANA",
+      "row": 6,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BUTTER",
+      "row": 6,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "CHEESE",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "HONEY",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ORANGE",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "PIZZA",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "RICE",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATO",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "WATERMELON",
+      "row": 2,
+      "col": 11,
+      "dir": "S"
+    }
+  ]
+}

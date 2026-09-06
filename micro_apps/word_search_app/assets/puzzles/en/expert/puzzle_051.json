@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_051",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 50,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "MKUFWOGRXHTNTP",
+    "KUGJOJGYDPBTWW",
+    "IYKLDFGYQVOCQS",
+    "JTRGARWBHWNIPW",
+    "VMOHECUBAJHPGL",
+    "GMGVMJITTCHUAX",
+    "UGILTOCEANLDWO",
+    "BRTHUNDERSTORM",
+    "XTYNYGBRGSBTUQ",
+    "KYPKMLHTTNERTD",
+    "KDTHYDZOIEYBNS",
+    "XDCANONACLOVWU",
+    "OKNANERIKCTGKP",
+    "JOWRFBKKWTZDEU"
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "row": 8,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "CLOUD",
+      "row": 5,
+      "col": 9,
+      "dir": "SE"
+    },
+    {
+      "word": "GLACIER",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "MEADOW",
+      "row": 5,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "OCEAN",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "RAINBOW",
+      "row": 12,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "RIVER",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "STONE",
+      "row": 8,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "THUNDERSTORM",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TREE",
+      "row": 9,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 11,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "WIND",
+      "row": 13,
+      "col": 8,
+      "dir": "NW"
+    }
+  ]
+}

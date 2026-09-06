@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_069",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 68,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "SPGETRFV",
+    "JAMBECLA",
+    "VVENTRED",
+    "GENOUUCF",
+    "NQTLSVOM",
+    "NDOIGTUJ",
+    "EENJDUVB",
+    "YMCBHNGV"
+  ],
+  "words": [
+    {
+      "word": "COU",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DOIGT",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GENOU",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "JAMBE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MENTON",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "VENTRE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

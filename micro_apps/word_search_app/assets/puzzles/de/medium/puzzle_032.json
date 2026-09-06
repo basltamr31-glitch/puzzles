@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_032",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 31,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "FUSSBALLYR",
+    "VSSSMIPAIR",
+    "YCSZAXEUNZ",
+    "BHCTROEFZV",
+    "RADFAHRENB",
+    "MCMTTDOURK",
+    "LHMLHNITHG",
+    "IBLOONZOOZ",
+    "VTENNISRNM",
+    "SPLGWWSZWC"
+  ],
+  "words": [
+    {
+      "word": "FUSSBALL",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LAUF",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MARATHON",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "RADFAHREN",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCHACH",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "STADION",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TENNIS",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TOR",
+      "row": 6,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

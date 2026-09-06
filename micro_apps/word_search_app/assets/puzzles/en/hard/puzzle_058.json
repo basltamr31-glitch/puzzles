@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_058",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 57,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "BJCPFYYZYWLY",
+    "PASTANSULBFC",
+    "IQNOMELDWJRX",
+    "ZQRAARWACVSG",
+    "ZPOVNSSZUICW",
+    "ADPOTATOOWJO",
+    "FKORANGEUPNW",
+    "PJCFYDOWIPCT",
+    "IMFFGWJDGYAB",
+    "HSZCSICJJKKW",
+    "SYCHOCOLATEQ",
+    "PUEUNHXBHZCN"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CAKE",
+      "row": 7,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 10,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LEMON",
+      "row": 2,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "ORANGE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PASTA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PIZZA",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SOUP",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

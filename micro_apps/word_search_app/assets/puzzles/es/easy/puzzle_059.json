@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_059",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 58,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "RQOUCQIE",
+    "PXHPKIPA",
+    "LOFBTXRZ",
+    "MONTANAR",
+    "AMEUIVDD",
+    "RIEPSFED",
+    "UJSOLRRT",
+    "CASCADAE"
+  ],
+  "words": [
+    {
+      "word": "CASCADA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ISLA",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MAR",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "MONTANA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PRADERA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SOL",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

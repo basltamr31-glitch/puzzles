@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_038",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 038",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "FOREST",
+      "clue": "Large area covered with trees",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "FISH",
+      "clue": "Aquatic animal that breathes through gills",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "HAND",
+      "clue": "Body part at the end of the arm",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "HONEY",
+      "clue": "Sweet substance made by bees",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "BONE",
+      "clue": "Hard part of the skeleton",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "TIME",
+      "clue": "What clocks measure",
+      "category": "time"
+    }
+  ]
+}

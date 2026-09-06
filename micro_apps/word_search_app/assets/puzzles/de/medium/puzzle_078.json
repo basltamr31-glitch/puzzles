@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_078",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 77,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "ZHYZANWHNG",
+    "PHANDSCHUH",
+    "TJRWSROAWT",
+    "KEMANTELDL",
+    "ROBDNHOSEL",
+    "DRAJPJEKEO",
+    "WKNBAJZERD",
+    "UADGOCOTLT",
+    "GDXXKFKTBH",
+    "PLNSOCKEJK"
+  ],
+  "words": [
+    {
+      "word": "ARMBAND",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HALSKETTE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "HANDSCHUH",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HOSE",
+      "row": 4,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "HUT",
+      "row": 0,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "JACKE",
+      "row": 5,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "MANTEL",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOCKE",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

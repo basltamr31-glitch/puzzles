@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_023",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 023",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "LLUVIA",
+      "clue": "Agua que cae de las nubes",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "REINA",
+      "clue": "Gobernante femenina de un reino",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "NUBE",
+      "clue": "Masa blanca o gris que flota en el cielo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "AÑO",
+      "clue": "Un período de doce meses",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "ARBOL",
+      "clue": "Planta grande con tronco y ramas",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "AGUA",
+      "clue": "Líquido claro esencial para la vida",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "ORO",
+      "clue": "Metal precioso de color amarillo",
+      "category": "nature"
+    }
+  ]
+}

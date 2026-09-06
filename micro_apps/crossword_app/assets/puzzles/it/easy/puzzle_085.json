@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_085",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 085",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "LUPO",
+      "clue": "Animale selvatico imparentato con il cane",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "OCCHIO",
+      "clue": "Organo usato per vedere",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "TETTO",
+      "clue": "Copertura sopra un edificio",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "SOLE",
+      "clue": "Stella al centro del nostro sistema solare",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "NASO",
+      "clue": "Organo usato per annusare",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "MURO",
+      "clue": "Struttura verticale che divide una stanza",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "LEONE",
+      "clue": "Grande felino, re della savana",
+      "category": "animal"
+    }
+  ]
+}

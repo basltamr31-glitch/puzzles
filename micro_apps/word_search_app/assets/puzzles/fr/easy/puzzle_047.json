@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_047",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 46,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "ZBJGZBBH",
+    "VALISENY",
+    "OTRAINVY",
+    "YEZLGDUZ",
+    "AAVIONUK",
+    "GUYTAXIA",
+    "EGAHFHEG",
+    "FPUPYCVX"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BATEAU",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VALISE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

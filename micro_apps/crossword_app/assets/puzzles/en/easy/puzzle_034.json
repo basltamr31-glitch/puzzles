@@ -1,0 +1,50 @@
+{
+  "id": "en_easy_034",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 034",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "IRON",
+      "clue": "Strong gray metal used in tools and steel",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "NOSE",
+      "clue": "Body part used for smelling",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "FRIEND",
+      "clue": "Someone you like and trust",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "LION",
+      "clue": "Big cat known as the king of the jungle",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "FIELD",
+      "clue": "Open land used for crops or grazing",
+      "category": "place"
+    }
+  ]
+}

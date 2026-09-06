@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_042",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 41,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "DRQJGTMZJWOYCY",
+    "IVFGULSQJXKHMF",
+    "EZNDPBEFMLOCCQ",
+    "YUJTWWDMLCMQID",
+    "HOAVOCADOHJOPN",
+    "WATERMELONCJQG",
+    "QCSJCBANANATIV",
+    "CPAZHTETKPYQRD",
+    "KZPKEYTTOOFOAM",
+    "CJIVEOTMKRDEPR",
+    "KVTBSNNVFDRWMR",
+    "DYWJEKIZCBXACV",
+    "IXDFHGJYCOBBCL",
+    "HUPWTOWJEEUKMI"
+  ],
+  "words": [
+    {
+      "word": "AVOCADO",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BANANA",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "BREAD",
+      "row": 11,
+      "col": 9,
+      "dir": "NE"
+    },
+    {
+      "word": "CAKE",
+      "row": 6,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CARROT",
+      "row": 12,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "CHEESE",
+      "row": 6,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 0,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "HONEY",
+      "row": 4,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "LEMON",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "PASTA",
+      "row": 8,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "TOMATO",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "WATERMELON",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

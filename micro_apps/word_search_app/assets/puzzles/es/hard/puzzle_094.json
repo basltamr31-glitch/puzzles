@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_094",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 93,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "ELBAEMREPMIH",
+    "GCHAQUETADCD",
+    "MBIZLSVHNGNZ",
+    "MTXAPBVVTFDI",
+    "CVJPMAFEUJMU",
+    "VCZAADNAFUBZ",
+    "ODITSEVTLGZM",
+    "GSAILADNASIM",
+    "ICOLLARKSLHJ",
+    "EGELDSSBFSOO",
+    "JUOALNRLIKFN",
+    "ETPSOMBREROF"
+  ],
+  "words": [
+    {
+      "word": "BUFANDA",
+      "row": 5,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CHAQUETA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COLLAR",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "IMPERMEABLE",
+      "row": 0,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "PANTALON",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTUFLAS",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALIAS",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SOMBRERO",
+      "row": 11,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 6,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "ZAPATILLAS",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

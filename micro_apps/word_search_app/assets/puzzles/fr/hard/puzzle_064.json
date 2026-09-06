@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_064",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 63,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "CSDMUSNIYDKS",
+    "ELZLUQPODKYV",
+    "ANFBEHQRCCCR",
+    "CIODAATNYGTX",
+    "PTAGJURGCUNJ",
+    "DTCCEXOBLOYS",
+    "SCEHCEQUIPEG",
+    "UOCKOIITSTOU",
+    "RUYVXCAVMLRQ",
+    "ARFUGTKOEEIE",
+    "XSLLABTEKSAB",
+    "IEPNTLGQYYBH"
+  ],
+  "words": [
+    {
+      "word": "ARBITRE",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "BASKETBALL",
+      "row": 10,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "BOXE",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "COURSE",
+      "row": 6,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CYCLISME",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "ECHECS",
+      "row": 6,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "EQUIPE",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 6,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "NATATION",
+      "row": 11,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "STADE",
+      "row": 6,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

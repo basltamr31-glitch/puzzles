@@ -1,0 +1,73 @@
+{
+  "id": "es_medium_065",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 065",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "CANTANTE",
+      "clue": "Persona que hace música con su voz"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "BICICLETA",
+      "clue": "Vehículo de dos ruedas movido a pedales"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "ANIMAL",
+      "clue": "Todo ser vivo que no sea una planta"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "INVIERNO",
+      "clue": "Estación más fría del año"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "ALMOHADA",
+      "clue": "Cojín suave para descansar la cabeza"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "TERMINO",
+      "clue": "Un período fijo, o una palabra específica"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "ARDILLA",
+      "clue": "Pequeño animal de cola tupida que junta nueces"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "answer": "TORMENTA",
+      "clue": "Tempestad con truenos y relámpagos"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "META",
+      "clue": "El objetivo hacia el que alguien trabaja"
+    }
+  ]
+}

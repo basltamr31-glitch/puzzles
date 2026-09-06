@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_035",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 035",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "SNOW",
+      "clue": "Frozen white flakes that fall in winter",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "SEED",
+      "clue": "What a plant grows from",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "HEAD",
+      "clue": "Top part of the body, containing the brain",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "IRON",
+      "clue": "Strong gray metal used in tools and steel",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "SISTER",
+      "clue": "Female sibling",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "RICE",
+      "clue": "Small white grain, a staple food",
+      "category": "food"
+    }
+  ]
+}

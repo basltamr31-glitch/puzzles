@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_052",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 51,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "GYQHZFHDQI",
+    "JGHTBJKTNM",
+    "OVSXLPCUWO",
+    "NPFBAHHBEN",
+    "SCCKNMDEOA",
+    "WHUZKMGDGW",
+    "CARPETJRUG",
+    "DIBATHROOM",
+    "VREPILLOWR",
+    "HDPEMZKMJI"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BEDROOM",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BLANKET",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CARPET",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CHAIR",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CUP",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PILLOW",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "RUG",
+      "row": 6,
+      "col": 7,
+      "dir": "E"
+    }
+  ]
+}

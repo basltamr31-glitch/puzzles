@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_084",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 83,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "CKTWZLABGE",
+    "GFUGTETLAX",
+    "TAEEMIALWX",
+    "ANRACASRRI",
+    "LHLTTHSCTC",
+    "KSPIEGELHR",
+    "SAXSGNUGFU",
+    "ZFMTFSKAIZ",
+    "JZUIUYBFCR",
+    "PUFENSTERF"
+  ],
+  "words": [
+    {
+      "word": "FENSTER",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GARTEN",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "KAMIN",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "KUECHE",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TASSE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TISCH",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TUER",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

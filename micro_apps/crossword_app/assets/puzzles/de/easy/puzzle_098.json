@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_098",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 098",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "WASSER",
+      "clue": "Klare Flüssigkeit, lebensnotwendig",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "WALD",
+      "clue": "Große mit Bäumen bedeckte Fläche",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "ARM",
+      "clue": "Gliedmaße zwischen Schulter und Hand",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "HAUS",
+      "clue": "Gebäude, in dem man wohnt",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ELCH",
+      "clue": "Großes geweihtragendes Waldtier",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "SCHAF",
+      "clue": "Wolliges Weidetier, das blökt",
+      "category": "animal"
+    }
+  ]
+}

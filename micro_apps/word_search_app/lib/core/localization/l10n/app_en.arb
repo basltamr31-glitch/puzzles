@@ -1,0 +1,160 @@
+{
+  "@@locale": "en",
+  "appName": "Word Search",
+  "onboardingTitle": "Word Search",
+  "onboardingSubtitle": "Bite-sized word search puzzles you can play anywhere, anytime — no account, no internet required.",
+  "continueButton": "Continue",
+  "chooseGameLanguageTitle": "Choose your puzzle language",
+  "chooseGameLanguageSubtitle": "This is the language of the word list. You can change it later in Settings.",
+  "chooseDifficultyTitle": "Choose a difficulty",
+  "chooseDifficultySubtitle": "You can play any difficulty at any time.",
+  "difficultyEasy": "Easy",
+  "difficultyMedium": "Medium",
+  "difficultyHard": "Hard",
+  "difficultyExpert": "Expert",
+  "puzzleListTitle": "{difficulty} Puzzles",
+  "@puzzleListTitle": {
+    "placeholders": {
+      "difficulty": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleStatusCompleted": "Completed",
+  "puzzleStatusInProgress": "In progress",
+  "puzzleStatusNotStarted": "Not started",
+  "puzzleStatusLocked": "Locked",
+  "puzzlesSolvedLabel": "{solved} of {total} solved",
+  "@puzzlesSolvedLabel": {
+    "placeholders": {
+      "solved": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "puzzleLockedMessage": "Solve the previous puzzle to unlock this one.",
+  "puzzleNumberLabel": "Puzzle {number}",
+  "@puzzleNumberLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleWordsLabel": "{count} words",
+  "@puzzleWordsLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "wordsFoundLabel": "{found} of {total} found",
+  "@wordsFoundLabel": {
+    "placeholders": {
+      "found": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "noPuzzlesTitle": "No puzzles yet",
+  "noPuzzlesMessage": "New puzzles for this difficulty are on the way.",
+  "hintButton": "Hint",
+  "hintConfirmTitle": "Use a hint?",
+  "hintConfirmMessage": "This will find one word for you.",
+  "watchAdForHint": "Watch a short video to get one hint",
+  "restartPuzzleButton": "Restart",
+  "zoomInButton": "Zoom in",
+  "zoomOutButton": "Zoom out",
+  "restartConfirmTitle": "Restart this puzzle?",
+  "restartConfirmMessage": "Your progress on this puzzle will be cleared.",
+  "exitPuzzleConfirmTitle": "Leave puzzle?",
+  "exitPuzzleConfirmMessage": "Your progress is saved automatically.",
+  "puzzleCompletedTitle": "Puzzle complete!",
+  "puzzleCompletedMessage": "Nicely done. Ready for the next one?",
+  "nextPuzzleButton": "Next puzzle",
+  "backToPuzzlesButton": "Back to puzzles",
+  "settingsTitle": "Settings",
+  "settingsUiLanguage": "App language",
+  "settingsGameLanguage": "Puzzle language",
+  "settingsAppearance": "Appearance",
+  "themeModeSystem": "System",
+  "themeModeLight": "Light",
+  "themeModeDark": "Dark",
+  "settingsSound": "Sound effects",
+  "settingsVibration": "Vibration",
+  "settingsMusic": "Background music",
+  "musicTrackOff": "Off",
+  "musicTrackCalm": "Calm",
+  "musicTrackGentle": "Gentle",
+  "musicTrackUplifting": "Uplifting",
+  "musicTrackFocus": "Focus",
+  "musicTrackBright": "Bright",
+  "musicTrackNight": "Night",
+  "settingsReminders": "Play reminders",
+  "remindersPermissionDenied": "Notifications are turned off for this app. You can enable them in your device settings.",
+  "reminderTitle": "A puzzle is waiting",
+  "reminderBody": "Take a break and solve one — it only takes a few minutes.",
+  "settingsTestSound": "Test sound",
+  "soundTestOk": "Sound played.",
+  "soundTestFailed": "Sound failed: {error}",
+  "@soundTestFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsRemoveAds": "Remove ads",
+  "settingsRestorePurchases": "Restore purchases",
+  "settingsAdPrivacyOptions": "Ad privacy options",
+  "settingsPrivacy": "Privacy policy",
+  "privacyPolicyViewOnline": "View online",
+  "settingsAbout": "About",
+  "settingsVersion": "Version {version}",
+  "@settingsVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "removeAdsTitle": "Remove Ads",
+  "removeAdsDescription": "Enjoy every puzzle with no banner or interstitial ads — forever, with one purchase.",
+  "removeAdsPrice": "$1.00",
+  "removeAdsPurchaseButton": "Purchase — $1.00",
+  "removeAdsPurchaseButtonWithPrice": "Purchase — {price}",
+  "@removeAdsPurchaseButtonWithPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "musicToggleOn": "Turn music on",
+  "musicToggleOff": "Turn music off",
+  "settingsDeveloper": "Developer",
+  "settingsDeveloperName": "BT developer",
+  "settingsCopyright": "© BaLa Dream",
+  "removeAdsAlreadyOwned": "You already own Remove Ads. Thank you for your support!",
+  "purchasePending": "Your purchase is being processed…",
+  "purchaseError": "The purchase couldn't be completed. Please try again.",
+  "purchaseStoreUnavailable": "The store isn't available right now. Check that you're signed in and try again.",
+  "purchaseProductUnavailable": "This purchase isn't available right now. Please try again later.",
+  "purchaseCancelled": "Purchase cancelled.",
+  "restoreSuccess": "Your purchases have been restored.",
+  "restoreNothingFound": "No previous purchases were found.",
+  "errorGeneric": "Something went wrong. Please try again.",
+  "errorNoInternet": "You're offline. This feature needs an internet connection.",
+  "errorAdUnavailable": "No ad is available right now. Please try again later.",
+  "errorPuzzleMissing": "This puzzle couldn't be loaded.",
+  "cancelButton": "Cancel",
+  "okButton": "OK",
+  "confirmButton": "Confirm"
+}

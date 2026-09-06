@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_015",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 14,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "VACANZABDMUG",
+    "VRMBODUITXBC",
+    "SAHIZPTGKUHU",
+    "IULCBAOLNPUY",
+    "NKRIPTSISNAT",
+    "DFZCGOTEXCNS",
+    "ISALKIRTQNIF",
+    "ERIEIRATRQAK",
+    "XUNTRPDOOVNC",
+    "FLOTPEAPRQLD",
+    "CSTAZIONECPF",
+    "HKMUBRRLCCTR"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 6,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "AUTOSTRADA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BICICLETTA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BIGLIETTO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MAPPA",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "PORTO",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "STAZIONE",
+      "row": 10,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VACANZA",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VALIGIA",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "ZAINO",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

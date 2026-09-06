@@ -1,0 +1,80 @@
+{
+  "id": "es_medium_026",
+  "language": "es",
+  "difficulty": "medium",
+  "title": "Crucigrama 026",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "MENSAJE",
+      "clue": "Información enviada de una persona a otra"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "LOGICA",
+      "clue": "Un razonamiento llevado según reglas estrictas"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "DELFIN",
+      "clue": "Inteligente mamífero marino"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "answer": "VERANO",
+      "clue": "Estación más calurosa del año"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "TUNEL",
+      "clue": "Un pasaje subterráneo"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "NUMERO",
+      "clue": "Un valor matemático, como uno o dos"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 9,
+      "answer": "VELA",
+      "clue": "Una barra de cera con una mecha, quemada por luz"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "IMAGEN",
+      "clue": "Una foto o un dibujo"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "answer": "LUZ",
+      "clue": "El brillo que permite ver"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "META",
+      "clue": "El objetivo hacia el que alguien trabaja"
+    }
+  ]
+}

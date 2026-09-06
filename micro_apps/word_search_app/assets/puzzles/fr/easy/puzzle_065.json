@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_065",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 64,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "DALXFJNT",
+    "ASOVEGJK",
+    "UOURSGCF",
+    "PUPJQICZ",
+    "HRHLARDM",
+    "IILBSAYB",
+    "NSMFBFYA",
+    "VZEBREEX"
+  ],
+  "words": [
+    {
+      "word": "DAUPHIN",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LOUP",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "OURS",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOURIS",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

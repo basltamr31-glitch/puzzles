@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_008",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 7,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "TKNNCEHG",
+    "GXRSPTZD",
+    "ARBITROY",
+    "TAJEDREZ",
+    "LOZOAFXG",
+    "ETRBOXEO",
+    "TENISBBL",
+    "APDTGCZN"
+  ],
+  "words": [
+    {
+      "word": "AJEDREZ",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ARBITRO",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ATLETA",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BOXEO",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GOL",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TENIS",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

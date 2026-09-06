@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_021",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 20,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "EYEHUTDE",
+    "NVCCECEY",
+    "BHAPCBDF",
+    "TOBILLOC",
+    "NMEEJIGV",
+    "ABZDETSF",
+    "BRAZOPZU",
+    "HONEAKVE"
+  ],
+  "words": [
+    {
+      "word": "BRAZO",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CABEZA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "DEDO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HOMBRO",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PIE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TOBILLO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

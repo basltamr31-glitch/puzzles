@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_033",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 32,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "JPFZLTSEIZ",
+    "GFPINGOUIN",
+    "CYIESOURSC",
+    "HHRENARDIB",
+    "APASAEIATH",
+    "MAXTIDSRRJ",
+    "EUILDNRPTL",
+    "ABEILLEGCO",
+    "UGFJANROXU",
+    "BTBEMXXVCP"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CHAMEAU",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CHAT",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "LOUP",
+      "row": 6,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "OURS",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PINGOUIN",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RENARD",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOURIS",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

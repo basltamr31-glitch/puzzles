@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_020",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 19,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "TPAWNETOSFIE",
+    "GVFASKULTEDG",
+    "FHCIPPETBUFL",
+    "KZWHDGRIOHZL",
+    "GVLKEADSOFAT",
+    "IXYIERRCROPH",
+    "OEPSSTUHLHAG",
+    "ASSSTEETLSMB",
+    "WAEEKNLAELHV",
+    "TVBNTAHVNZAV",
+    "WWXSPGDBGVHP",
+    "PLVJPLEZKPJK"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 9,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "GARTEN",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 4,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "STUHL",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TASSE",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 2,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "TISCH",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TUER",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_088",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 87,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "IENAWNRP",
+    "WNWRCIWC",
+    "HQGCOPLH",
+    "PATHLETE",
+    "DNTENNIS",
+    "XRIRKYGS",
+    "WWZYEKZT",
+    "BOXINGYM"
+  ],
+  "words": [
+    {
+      "word": "ARCHERY",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BOXING",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CHESS",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GYM",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

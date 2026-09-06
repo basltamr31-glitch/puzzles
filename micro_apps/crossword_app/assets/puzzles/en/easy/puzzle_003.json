@@ -1,0 +1,50 @@
+{
+  "id": "en_easy_003",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 003",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "DESK",
+      "clue": "Table used for writing or study",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "SILVER",
+      "clue": "Shiny precious gray-white metal",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "GREEN",
+      "clue": "Color of grass and leaves",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "CLASS",
+      "clue": "Group of students taught together",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "SUN",
+      "clue": "Star at the center of our solar system",
+      "category": "nature"
+    }
+  ]
+}

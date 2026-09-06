@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_062",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 61,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "CORBATAEYY",
+    "JIEODXZPSB",
+    "GHNZHVRQYG",
+    "VESTIDODTU",
+    "NYPBUFANDA",
+    "ESOMBRERON",
+    "PEZHJSOEET",
+    "CALCETINZE",
+    "BXLZXIITDM",
+    "SOTSUETERA"
+  ],
+  "words": [
+    {
+      "word": "BUFANDA",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CALCETIN",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CINTURON",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CORBATA",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GUANTE",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SOMBRERO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SUETER",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

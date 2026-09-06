@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_001",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 0,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "HXUKGHXMNP",
+    "FFVLDVOLPE",
+    "CTGIRAFFAT",
+    "FAPINGUINO",
+    "FAMEEVCZTY",
+    "KKRMCGRAEB",
+    "YBCHEOOURF",
+    "SVAMBLRLAD",
+    "SDNFZYLAGX",
+    "HDELFINOVA"
+  ],
+  "words": [
+    {
+      "word": "CAMMELLO",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CANE",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "DELFINO",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFA",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANTERA",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "PECORA",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VOLPE",
+      "row": 1,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

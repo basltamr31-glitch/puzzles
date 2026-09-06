@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_095",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 095",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "MUND",
+      "clue": "Öffnung zum Essen und Sprechen",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "TRAUM",
+      "clue": "Bilder und Gedanken beim Schlafen",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "ZEIT",
+      "clue": "Was Uhren messen",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "WIND",
+      "clue": "Bewegte Luft",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "BIENE",
+      "clue": "Summendes Insekt, das Honig macht",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "BEIN",
+      "clue": "Gliedmaße zum Gehen",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SEE",
+      "clue": "Großes Gewässer, von Land umgeben",
+      "category": "place"
+    }
+  ]
+}

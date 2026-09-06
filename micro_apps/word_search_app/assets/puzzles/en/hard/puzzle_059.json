@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_059",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 58,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "KLLYIFYEIQVI",
+    "MTEIVROFNQFW",
+    "WODAEMCRERGY",
+    "PUUVFOIEERTT",
+    "SWINDCPIASOI",
+    "CRRYTECEPWTR",
+    "FSEABAGACQZK",
+    "YYHXLNIARETF",
+    "QEEGPKONGUWS",
+    "HBXBWQUXDQGW",
+    "ARKNVWYEWZMP",
+    "SHACHCZAEQTT"
+  ],
+  "words": [
+    {
+      "word": "FOREST",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "GLACIER",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "LEAF",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MEADOW",
+      "row": 2,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "OCEAN",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "RAIN",
+      "row": 7,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "RIVER",
+      "row": 5,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "TREE",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "WIND",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

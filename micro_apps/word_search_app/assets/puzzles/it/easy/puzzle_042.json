@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_042",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 41,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "GNRYUUQH",
+    "FSFDXMAM",
+    "OZTMTOPM",
+    "EHEMPCAI",
+    "SVKTEVTE",
+    "ANGURIAL",
+    "FXYLATTE",
+    "CCAFFEAL"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CAFFE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LATTE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MIELE",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

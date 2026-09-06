@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_061",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 60,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "IMCQCTMI",
+    "ICEJAMDS",
+    "CDTVBASM",
+    "MUFRENTE",
+    "GNCQZOIN",
+    "GYIHAAZT",
+    "RTOBILLO",
+    "RFFKVJON"
+  ],
+  "words": [
+    {
+      "word": "CABEZA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CEJA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FRENTE",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MANO",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MENTON",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TOBILLO",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

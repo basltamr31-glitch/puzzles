@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_096",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 096",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "FARMER",
+      "clue": "Person who grows crops or raises animals"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "HELICOPTER",
+      "clue": "Aircraft with spinning overhead blades"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "CANDLE",
+      "clue": "A wax stick with a wick, burned for light"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "COMPASS",
+      "clue": "Tool that shows which direction is north"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "HIGHWAY",
+      "clue": "A main road for fast travel"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "answer": "DANCER",
+      "clue": "Person who performs dance"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "answer": "SOUND",
+      "clue": "Something you hear"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "answer": "LAW",
+      "clue": "A rule enforced by a government"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "SHAPE",
+      "clue": "The form or outline of something"
+    }
+  ]
+}

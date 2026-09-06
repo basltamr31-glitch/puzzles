@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_058",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 57,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "IPJBTMNQ",
+    "LECHENNE",
+    "IRCFKKPU",
+    "MAPPBCAC",
+    "OMANZANA",
+    "NFLVBFCY",
+    "EVKUKERN",
+    "TYQSONUT"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LECHE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LIMON",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "MANZANA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PAN",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

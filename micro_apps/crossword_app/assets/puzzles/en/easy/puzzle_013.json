@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_013",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 013",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "MOUTH",
+      "clue": "Opening used for eating and speaking",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "WOMAN",
+      "clue": "Adult female person",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "DANCE",
+      "clue": "To move rhythmically to music",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "PATH",
+      "clue": "A narrow track for walking",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "HAND",
+      "clue": "Body part at the end of the arm",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "DESERT",
+      "clue": "Dry, sandy area with little rain",
+      "category": "place"
+    }
+  ]
+}

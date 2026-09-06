@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_028",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 27,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "BMVKYGAIRHNO",
+    "FHDPZKUECHEA",
+    "BTYUXATIHCPN",
+    "HNAFOSPIEGEL",
+    "WPWENPDXSTPS",
+    "ERAEEHKIRCHA",
+    "HZFTREGALTHR",
+    "PMDAKDGPMUUJ",
+    "FWPCALUBHIBN",
+    "HAEIMJCJOYNL",
+    "BDDJMWBVMVDS",
+    "XXZZOJCBONKO"
+  ],
+  "words": [
+    {
+      "word": "DECKE",
+      "row": 10,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "FENSTER",
+      "row": 6,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "GARTEN",
+      "row": 7,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "KAMIN",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "KUECHE",
+      "row": 1,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "REGAL",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 3,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 6,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "TISCH",
+      "row": 2,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

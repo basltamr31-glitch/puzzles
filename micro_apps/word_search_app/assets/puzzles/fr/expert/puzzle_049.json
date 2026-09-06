@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_049",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 48,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "MBKAMYAVJCUNIO",
+    "HIGHCGYYRGMTKV",
+    "MLRONBJUVCTAYR",
+    "NXTXDUMNHANXKU",
+    "PHFOLPLAICATPV",
+    "CKOCOYMEQHHFNK",
+    "FEREREHTNAPPOB",
+    "GSJCALIONTEULX",
+    "IKUUGGHEMGLMAM",
+    "STVRRIFVGREOKD",
+    "GCHEVALYQJOYSP",
+    "BYOURSXCSSCZZH",
+    "CSTIOZGTRNSAVE",
+    "GKGLSPMLKZINED"
+  ],
+  "words": [
+    {
+      "word": "AIGLE",
+      "row": 10,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "CHAMEAU",
+      "row": 2,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "CHAT",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 10,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DAUPHIN",
+      "row": 9,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "ECUREUIL",
+      "row": 6,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 9,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 13,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "LION",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "OURS",
+      "row": 11,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANTHERE",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "TIGRE",
+      "row": 6,
+      "col": 7,
+      "dir": "SW"
+    }
+  ]
+}

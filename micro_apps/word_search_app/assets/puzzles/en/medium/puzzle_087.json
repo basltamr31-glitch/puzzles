@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_087",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 86,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "NNTZKCIBVJ",
+    "RTIALUFYYB",
+    "BJQGXAUQRJ",
+    "YLNMYIZAFN",
+    "NRCCARIDKO",
+    "BUSHIPDDAK",
+    "JFAMVOYAGE",
+    "GVGAMRQSSZ",
+    "HVACATIONY",
+    "WNXBYOQZZA"
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CAR",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SHIP",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "VACATION",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

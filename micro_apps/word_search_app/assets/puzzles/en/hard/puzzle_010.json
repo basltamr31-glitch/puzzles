@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_010",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 9,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "ZMXLIAIYZYAK",
+    "KIUQYYNQJWYZ",
+    "NLPYKSPLGRWN",
+    "EKACNAPKRVKP",
+    "GQORANGEAEUU",
+    "FJLNIDBBOYNS",
+    "ANBJAWEZEQFC",
+    "BZTEAIRNUOTY",
+    "PHRRKCOFFEEL",
+    "ZBTOYHBAQUHV",
+    "ISOUPRCODZRH",
+    "UCTEBDUDDCKN"
+  ],
+  "words": [
+    {
+      "word": "BREAD",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "COFFEE",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "COOKIE",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "HONEY",
+      "row": 9,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "MILK",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ORANGE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 3,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SOUP",
+      "row": 10,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "STRAWBERRY",
+      "row": 10,
+      "col": 1,
+      "dir": "NE"
+    }
+  ]
+}

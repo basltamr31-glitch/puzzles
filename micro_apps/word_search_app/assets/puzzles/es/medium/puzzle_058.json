@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_058",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 57,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "AVAJIMJQGL",
+    "MQSPDMIUAV",
+    "FSOPASTELN",
+    "COSLQTGSLF",
+    "ONMALRAOEN",
+    "JSLTVCMTTN",
+    "YDIAFRESAJ",
+    "CAKNPVBHUS",
+    "LCGOMYCKYV",
+    "PINIZILFZX"
+  ],
+  "words": [
+    {
+      "word": "FRESA",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "GALLETA",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "MIEL",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "PASTEL",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PLATANO",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "QUESO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SOPA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

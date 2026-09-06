@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_056",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 55,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "UHDCVQDI",
+    "BOXEABDA",
+    "OCVCRNRI",
+    "QKOOBUTB",
+    "PEQUIPED",
+    "KYZRTEDO",
+    "YXOSRXUG",
+    "VQIEEHDP"
+  ],
+  "words": [
+    {
+      "word": "ARBITRE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BOXE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BUT",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "COURSE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "EQUIPE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

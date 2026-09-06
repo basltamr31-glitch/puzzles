@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_085",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 84,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "HTPDOIGT",
+    "GFDCRBEL",
+    "COUDEINY",
+    "GMMAINOH",
+    "LPZXLCUV",
+    "GJOSLRYG",
+    "JAMBEKNT",
+    "KYVTFMRP"
+  ],
+  "words": [
+    {
+      "word": "COUDE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DOIGT",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GENOU",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "JAMBE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MAIN",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "OREILLE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_095",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 94,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "VAUFGSCW",
+    "BZNBUSUR",
+    "YRHAFENT",
+    "CDCHCKTP",
+    "GDVNFATV",
+    "RFAHRRAD",
+    "AUTOHTTK",
+    "MUDFREWC"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BAHNHOF",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FAHRRAD",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HAFEN",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KARTE",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

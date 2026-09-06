@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_002",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 1,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "MONKTYSN",
+    "HJFTAMHW",
+    "SJLBALCZ",
+    "IXEYSJAM",
+    "QXMSOCKY",
+    "ACOOKIEV",
+    "MVNUWMGF",
+    "TGBPIFGX"
+  ],
+  "words": [
+    {
+      "word": "CAKE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "COOKIE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "JAM",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "LEMON",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SOUP",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

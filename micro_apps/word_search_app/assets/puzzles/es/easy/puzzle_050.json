@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_050",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 49,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "YMIPEBGJ",
+    "JAAATSAB",
+    "PNNTOASD",
+    "FZUAMNOH",
+    "RAATADPX",
+    "ENZATIAK",
+    "SAGZEAHH",
+    "APSOCHVA"
+  ],
+  "words": [
+    {
+      "word": "FRESA",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "MANZANA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SANDIA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SOPA",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

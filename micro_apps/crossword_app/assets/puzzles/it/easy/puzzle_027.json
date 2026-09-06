@@ -1,0 +1,58 @@
+{
+  "id": "it_easy_027",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 027",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "SORRISO",
+      "clue": "Espressione felice del viso",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "PIETRA",
+      "clue": "Un piccolo pezzo di roccia",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "COLORE",
+      "clue": "Rosso, blu, verde o un'altra tonalità",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "PANE",
+      "clue": "Alimento cotto a base di farina e acqua",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "ORO",
+      "clue": "Metallo prezioso di colore giallo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

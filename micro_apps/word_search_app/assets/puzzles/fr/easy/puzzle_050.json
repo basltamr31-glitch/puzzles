@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_050",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 49,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "ZZKKRGFC",
+    "CTYFVAVZ",
+    "IPNRBTIL",
+    "TOMATEHT",
+    "RIOILAIT",
+    "ORHSJUJP",
+    "NEEEIBDK",
+    "ASGXKZBG"
+  ],
+  "words": [
+    {
+      "word": "CITRON",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "FRAISE",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "GATEAU",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LAIT",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "POIRE",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

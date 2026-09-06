@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_015",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 14,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "MESHNAVE",
+    "AEIZOYAA",
+    "ZURRYRCU",
+    "HLMXMTAT",
+    "DZNZAINO",
+    "TFUQPDZB",
+    "FFMEPUAK",
+    "SURTAXIS"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MAPPA",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "NAVE",
+      "row": 0,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VACANZA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ZAINO",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

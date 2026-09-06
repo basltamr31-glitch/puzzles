@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_033",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 32,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "ABDPVQNF",
+    "RKOWLYFT",
+    "AYLVIMIO",
+    "BMPHGCST",
+    "BYHJOFHX",
+    "IGIRAFFE",
+    "TXNTTNDJ",
+    "ZTGYDEWF"
+  ],
+  "words": [
+    {
+      "word": "DOLPHIN",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "FISH",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GOAT",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "OWL",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RABBIT",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_023",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 023",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "SEA",
+      "clue": "A large body of salt water",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "TIGER",
+      "clue": "Large striped wild cat",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "RICE",
+      "clue": "Small white grain, a staple food",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "RED",
+      "clue": "Color of blood or a ripe tomato",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "DOG",
+      "clue": "Loyal pet known for barking",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "LEG",
+      "clue": "Limb used for walking",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "OCEAN",
+      "clue": "One of Earth's five huge bodies of salt water",
+      "category": "place"
+    }
+  ]
+}

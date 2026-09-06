@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_028",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 27,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "CBATHROOMM",
+    "FDPMHMTROB",
+    "IEFVOMIVZF",
+    "RSDVWGXBRW",
+    "EKTBHATLXX",
+    "PHSGERUEAA",
+    "LLDQDDOORL",
+    "ACARPETGCM",
+    "CEILINGKRH",
+    "EEGILNBMTO"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BED",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CARPET",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CEILING",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DESK",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "DOOR",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "FIREPLACE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

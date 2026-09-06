@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_044",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 044",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "SMILE",
+      "clue": "Happy expression made with the mouth",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "FIELD",
+      "clue": "Open land used for crops or grazing",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "HONEY",
+      "clue": "Sweet substance made by bees",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "SISTER",
+      "clue": "Female sibling",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "PATH",
+      "clue": "A narrow track for walking",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "DANCE",
+      "clue": "To move rhythmically to music",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "MOUSE",
+      "clue": "Small rodent with a long tail",
+      "category": "animal"
+    }
+  ]
+}

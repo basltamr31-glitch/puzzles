@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_085",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 84,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "TSGKHVZVNF",
+    "NVAAEHTCEF",
+    "BGKTYVRCIP",
+    "BMSRCMVAAR",
+    "MMORUEKBBO",
+    "YCFRENTEYD",
+    "QXONLTOZJI",
+    "EXODLOXAYL",
+    "BRAZONJQRL",
+    "SBZFUBNOYA"
+  ],
+  "words": [
+    {
+      "word": "BRAZO",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CABEZA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CODO",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CUELLO",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FRENTE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MENTON",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "OJO",
+      "row": 7,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "RODILLA",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

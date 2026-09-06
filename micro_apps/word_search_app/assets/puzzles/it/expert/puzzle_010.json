@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_010",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 9,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "OVONBIXRBZNOAQ",
+    "MUMMIOFUGMKIOL",
+    "AFEESXRZYXNGUA",
+    "NLLUCRAOSZOGEL",
+    "AMLVOKGVDENAPC",
+    "NOCETHOEFORMKF",
+    "AMSMTFLFKHMRQO",
+    "BPOFOTALOCCOIC",
+    "LZDGDCIRRBYFPS",
+    "RRRELXTREDGZNS",
+    "SVPKVXDAFPXIKL",
+    "VXFLBKXTKATAGQ",
+    "AKBUREAIOXEVYK",
+    "APISSGCKFUTEPC"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 7,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BURRO",
+      "row": 0,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "CAFFE",
+      "row": 8,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "CIOCCOLATO",
+      "row": 7,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 8,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "FRITTELLA",
+      "row": 10,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "MELA",
+      "row": 1,
+      "col": 3,
+      "dir": "SW"
+    },
+    {
+      "word": "PANE",
+      "row": 4,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "PERA",
+      "row": 10,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "POMODORO",
+      "row": 8,
+      "col": 12,
+      "dir": "NW"
+    }
+  ]
+}

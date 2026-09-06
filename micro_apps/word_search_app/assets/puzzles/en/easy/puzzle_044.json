@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_044",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 43,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "UDZCUPBI",
+    "XTABLELN",
+    "XSHELFAH",
+    "MEMDXDNN",
+    "MIRRORKJ",
+    "GHXOCSED",
+    "BDDORUTR",
+    "FQIMVSGP"
+  ],
+  "words": [
+    {
+      "word": "BEDROOM",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BLANKET",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CUP",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MIRROR",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SHELF",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

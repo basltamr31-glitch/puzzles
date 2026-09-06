@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_060",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 59,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "LPRZDVNNALENKS",
+    "EHEDUZIFTCZDAZ",
+    "TVUBBMOYKNHSOO",
+    "BETTASSEZBVHUX",
+    "ZHIKSDDPXEYCKK",
+    "RTCURCEKIRGIOA",
+    "EYKENPFZZEPPWK",
+    "MKTCIMEDIZGPBR",
+    "CSCHLAFZIMMERZ",
+    "OADEYJYJKFMTLU",
+    "ZEPUDHHZXUBECI",
+    "MHGVHVWGJLKIRH",
+    "UEHOEOXIVAXUHA",
+    "EMYASTDUNVLAZJ"
+  ],
+  "words": [
+    {
+      "word": "BADEZIMMER",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "BETT",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DECKE",
+      "row": 10,
+      "col": 4,
+      "dir": "NW"
+    },
+    {
+      "word": "KAMIN",
+      "row": 4,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "KUECHE",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SCHLAFZIMMER",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 3,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "STUHL",
+      "row": 4,
+      "col": 4,
+      "dir": "NW"
+    },
+    {
+      "word": "TASSE",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 9,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "TUER",
+      "row": 3,
+      "col": 2,
+      "dir": "N"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_081",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 80,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "QCCICPYU",
+    "JIRAFATV",
+    "DRDBGNIJ",
+    "BDMEITVQ",
+    "TOSJXEBI",
+    "HYCABRAO",
+    "RMLSEAGS",
+    "PCABALLO"
+  ],
+  "words": [
+    {
+      "word": "ABEJA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CABALLO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CABRA",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "OSO",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PANTERA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

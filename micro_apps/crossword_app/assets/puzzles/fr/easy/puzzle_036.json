@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_036",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 036",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "SERPENT",
+      "clue": "Reptile sans pattes qui rampe",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "PAGE",
+      "clue": "Une feuille dans un livre",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "BALEINE",
+      "clue": "Immense mammifère marin",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "LION",
+      "clue": "Grand félin, roi de la savane",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "REINE",
+      "clue": "Souveraine féminine d'un royaume",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "VENT",
+      "clue": "Air en mouvement",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "ILE",
+      "clue": "Terre entièrement entourée d'eau",
+      "category": "place"
+    }
+  ]
+}

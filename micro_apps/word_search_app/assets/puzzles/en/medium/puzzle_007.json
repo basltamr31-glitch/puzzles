@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_007",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 6,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "UILJYAOVJB",
+    "USSUITCASE",
+    "AFTEFXRCXB",
+    "IKBACKPACK",
+    "WCNITDDTIF",
+    "QVEROIDIAN",
+    "VSDPJHOODA",
+    "IEQOPLANEQ",
+    "YDMRAHRJNI",
+    "YKZTICKETY"
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BACKPACK",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PLANE",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "STATION",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SUITCASE",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TICKET",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "VACATION",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

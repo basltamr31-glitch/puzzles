@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_035",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 34,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "NVIENTOF",
+    "FZIHIELO",
+    "NIPIEDRA",
+    "SAETBIYJ",
+    "UDLRLQMX",
+    "HISLACAH",
+    "OQSFYRRD",
+    "FUGEXDYT"
+  ],
+  "words": [
+    {
+      "word": "HIELO",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ISLA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MAR",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "NIEBLA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VIENTO",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

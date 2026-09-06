@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_027",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 26,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "GEYDZBIKONYS",
+    "USCKGLACEMKY",
+    "GFTUSAXITOMN",
+    "ATQHYIUEONND",
+    "SFMCVLILFTYG",
+    "DOUYPTUTOAFA",
+    "OQLERREIPGIL",
+    "RDJEAGRRCNCO",
+    "HFSRIVIEREFI",
+    "EEBHRLTIEOFY",
+    "DFEUILLETHDQ",
+    "OGMMETDDUYDC"
+  ],
+  "words": [
+    {
+      "word": "CIEL",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "DESERT",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 10,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GLACE",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MONTAGNE",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PIERRE",
+      "row": 6,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "PLUIE",
+      "row": 5,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "PRAIRIE",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "RIVIERE",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

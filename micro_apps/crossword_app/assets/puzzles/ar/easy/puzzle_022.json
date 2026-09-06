@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_022",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 022",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "أرنب",
+      "clue": "حيوان له أذنان طويلتان يقفز",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "غرب",
+      "clue": "جهة غروب الشمس",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "كوب",
+      "clue": "إناء صغير يُستخدم لشرب الماء",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "كرسي",
+      "clue": "مقعد يجلس عليه الإنسان",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "ريح",
+      "clue": "هواء متحرك",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "نور",
+      "clue": "ضياء يساعد على الرؤية",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "سنة",
+      "clue": "مدة اثني عشر شهراً",
+      "category": "time"
+    }
+  ]
+}

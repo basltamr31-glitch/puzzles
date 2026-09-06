@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_071",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 70,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "ZBATEAULIS",
+    "IFUTXIAQLE",
+    "AJTXRSUFQM",
+    "AEOCLAVION",
+    "GHREICIEIL",
+    "EKOOMAJNLR",
+    "MZUKPDRAEO",
+    "OKTCRONLBM",
+    "AZEMDSRSOC",
+    "HYBQCARTEN"
+  ],
+  "words": [
+    {
+      "word": "AEROPORT",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "AUTOROUTE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "AVION",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "BATEAU",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CARTE",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SACADOS",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TRAIN",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "VELO",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

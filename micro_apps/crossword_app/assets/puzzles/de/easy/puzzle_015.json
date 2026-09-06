@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_015",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 015",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "WOLKE",
+      "clue": "Weiße oder graue Masse am Himmel",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "MEER",
+      "clue": "Große Fläche mit Salzwasser",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "SCHLAF",
+      "clue": "Ruhe mit geschlossenen Augen",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "SALZ",
+      "clue": "Weißes Gewürz, macht Speisen herzhaft",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "FARBE",
+      "clue": "Rot, Blau, Grün oder eine andere Nuance",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "ONKEL",
+      "clue": "Bruder von Mutter oder Vater",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "WALD",
+      "clue": "Große mit Bäumen bedeckte Fläche",
+      "category": "place"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_024",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 23,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "DASBUNUODX",
+    "VLRUOVKVVZ",
+    "SEFBSXOTSL",
+    "TEQUIPEVGU",
+    "IAFOOTBALL",
+    "ITLCOURSEQ",
+    "STADECHECS",
+    "IOHUIDSUBN",
+    "ZMARATHONQ",
+    "GXHBKFUNTU"
+  ],
+  "words": [
+    {
+      "word": "ARBITRE",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "BOXE",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "COURSE",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ECHECS",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "EQUIPE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FOOTBALL",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MARATHON",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "STADE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

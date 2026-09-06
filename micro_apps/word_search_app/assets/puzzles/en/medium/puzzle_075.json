@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_075",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 74,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "FVHJVWRVQX",
+    "LTAJYVFOGU",
+    "LRUUWSDLMO",
+    "LSXIUNECDB",
+    "XGJZOCEANI",
+    "KBDORAINQC",
+    "ZXMZASTONE",
+    "FIYCZXUJRO",
+    "WTHVXWQNYN",
+    "XGUFYNPZVJ"
+  ],
+  "words": [
+    {
+      "word": "FOG",
+      "row": 1,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "ICE",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "OCEAN",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SEA",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "STONE",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

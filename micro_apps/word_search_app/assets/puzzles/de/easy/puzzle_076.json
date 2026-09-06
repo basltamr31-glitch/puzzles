@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_076",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 75,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "TAJEIKBS",
+    "EAKNGIBS",
+    "PTNYASMP",
+    "PEKGRSBI",
+    "ISAHTEEE",
+    "CTMNENTG",
+    "HEIFNTTE",
+    "XPNODBVL"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GARTEN",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "KAMIN",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

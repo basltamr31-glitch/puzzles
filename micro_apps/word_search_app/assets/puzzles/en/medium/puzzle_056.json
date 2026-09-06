@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_056",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 55,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "JRTATBYEXQ",
+    "XYCXTENNIS",
+    "MARATHONMA",
+    "FOIEKGLZPG",
+    "EBAWFIBEXC",
+    "MPOYMEVRTH",
+    "PQTXDJRACE",
+    "UHMAIQQEMS",
+    "ARBJFNIQES",
+    "CYCLINGUTZ"
+  ],
+  "words": [
+    {
+      "word": "ATHLETE",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "BOXING",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CHESS",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CYCLING",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MARATHON",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RACE",
+      "row": 6,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "REFEREE",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TENNIS",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

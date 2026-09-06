@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_043",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 42,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "MSYNGSDT",
+    "RPFHKEGD",
+    "HXOAANKL",
+    "DLGLAAPC",
+    "ONLBHMRO",
+    "KPIETRAT",
+    "QMAREITD",
+    "VQBOSCOA"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BOSCO",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MARE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PIETRA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PRATO",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

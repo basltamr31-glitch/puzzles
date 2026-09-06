@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_100",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 99,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "KCUCINAG",
+    "LDZOSRUL",
+    "UAUPKBVU",
+    "CAMERAZZ",
+    "PGFRVGME",
+    "LETTONOR",
+    "DIVANOCS",
+    "ALFRTPBR"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CAMERA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COPERTA",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CUCINA",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DIVANO",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LETTO",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

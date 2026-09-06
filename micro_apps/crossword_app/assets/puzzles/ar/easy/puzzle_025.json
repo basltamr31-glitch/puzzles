@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_025",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 025",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "رجل",
+      "clue": "إنسان بالغ من الذكور",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "لون",
+      "clue": "صفة بصرية مثل الأحمر أو الأزرق",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "عين",
+      "clue": "عضو الإبصار في الجسم",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "سرير",
+      "clue": "أثاث يُستخدم للنوم",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "شجرة",
+      "clue": "نبات كبير له جذع وأغصان",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "شمس",
+      "clue": "النجم الذي يضيء نهارنا",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "ولد",
+      "clue": "طفل ذكر",
+      "category": "people"
+    }
+  ]
+}

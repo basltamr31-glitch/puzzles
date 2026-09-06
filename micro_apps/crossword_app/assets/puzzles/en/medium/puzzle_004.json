@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_004",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 004",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "KETTLE",
+      "clue": "A container used to boil water"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "LESSON",
+      "clue": "A period of learning about one subject"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "PICTURE",
+      "clue": "An image, drawing, or photograph"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "DOCTOR",
+      "clue": "Medical professional who treats patients"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "VILLAGE",
+      "clue": "Small community smaller than a town"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "answer": "NUMBER",
+      "clue": "A mathematical value, like one or two"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "answer": "JOB",
+      "clue": "Paid work someone does regularly"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "RULE",
+      "clue": "An official instruction on how to behave"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "LOSS",
+      "clue": "The state of no longer having something"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_043",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 42,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "KZHSBITUSMTTZZ",
+    "GGTFDKOAKLCGGP",
+    "CHYNYGMPRFROOP",
+    "BHIGXEGDBONPBV",
+    "URGATACSACXMLV",
+    "BPFRCAMRICOSTF",
+    "FZICLCPCNNTGGN",
+    "IFQOLEICTPRNEH",
+    "CSVBGARAVOEVHN",
+    "KUOAIGGAIPSUPO",
+    "NGXLDNIOMOEHAF",
+    "CVGEAUXAYGDVFX",
+    "COHNPNGGBQLKCM",
+    "FOFOIGGQMEAQKP"
+  ],
+  "words": [
+    {
+      "word": "ARCOBALENO",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CASCATA",
+      "row": 4,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CIELO",
+      "row": 7,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "DESERTO",
+      "row": 11,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 13,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "GHIACCIAIO",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "ISOLA",
+      "row": 7,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "MARE",
+      "row": 10,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "MONTAGNA",
+      "row": 4,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SPIAGGIA",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_004",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 004",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "ECOLE",
+      "clue": "Lieu où les enfants apprennent",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "LAMPE",
+      "clue": "Objet qui donne de la lumière",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "ABEILLE",
+      "clue": "Insecte qui bourdonne et fait du miel",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "MOT",
+      "clue": "Une unité de langage avec un sens",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "REINE",
+      "clue": "Souveraine féminine d'un royaume",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "FAMILLE",
+      "clue": "Parents, enfants et proches réunis",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "ILE",
+      "clue": "Terre entièrement entourée d'eau",
+      "category": "place"
+    }
+  ]
+}

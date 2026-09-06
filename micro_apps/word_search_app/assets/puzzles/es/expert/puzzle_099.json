@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_099",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 98,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "LJZCQVPDFTFRAN",
+    "GAFUNDUMTIAZXC",
+    "UXSAHUAYVGJGIF",
+    "LXTZRGRXYPLVUT",
+    "IFJTMCBVAAJOHF",
+    "AYALPTODCUXMDD",
+    "FQBZMRLIAZPEUK",
+    "ILLUVIAKRISUDC",
+    "LSARZRXDDIIQDZ",
+    "DRNMBUQJEVSSAM",
+    "YGPUJLXRIRLORK",
+    "DPVIENTOPMABDM",
+    "FUYLVOAILOIQTU",
+    "MSZTFFSNJPJVAG"
+  ],
+  "words": [
+    {
+      "word": "ARBOL",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ARCOIRIS",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "BOSQUE",
+      "row": 11,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "DESIERTO",
+      "row": 5,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "GLACIAR",
+      "row": 2,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "HOJA",
+      "row": 4,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "ISLA",
+      "row": 8,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "LLUVIA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 11,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "PLAYA",
+      "row": 5,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "PRADERA",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "VIENTO",
+      "row": 11,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

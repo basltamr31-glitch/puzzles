@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_027",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 26,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "DPLLEDOIXBAZDH",
+    "OUUUSPRYQSVECB",
+    "NGSAVMIGZTUMVE",
+    "VFHBIPMHSUFUAT",
+    "VSPIAGGIAHXIVY",
+    "UPXYAUQARBGFZV",
+    "ATFCNCKCCGYMOL",
+    "QMHVNUCCOGANTP",
+    "UVLIRCVIBTATNX",
+    "QVMPHFPOACAQEM",
+    "LCCYXBXCLILRVR",
+    "ZAOTERSUEAOEPR",
+    "EHCVQAVSNBSQVF",
+    "RYAGCRMXOSISZY"
+  ],
+  "words": [
+    {
+      "word": "ARCOBALENO",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CASCATA",
+      "row": 13,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "FIUME",
+      "row": 5,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "GHIACCIAIO",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "GHIACCIO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ISOLA",
+      "row": 13,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 6,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 9,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "PRATO",
+      "row": 11,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "SPIAGGIA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VENTO",
+      "row": 10,
+      "col": 12,
+      "dir": "N"
+    },
+    {
+      "word": "VULCANO",
+      "row": 12,
+      "col": 6,
+      "dir": "NE"
+    }
+  ]
+}

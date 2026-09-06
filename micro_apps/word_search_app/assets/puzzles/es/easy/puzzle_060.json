@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_060",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 59,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "PFESPEJO",
+    "MRCSUMLL",
+    "CQMGEPJQ",
+    "VHJARDIN",
+    "ZCPJTSES",
+    "MANTAZAA",
+    "DMAUEAXB",
+    "DAYBZGFA"
+  ],
+  "words": [
+    {
+      "word": "CAMA",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "JARDIN",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MANTA",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PUERTA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TAZA",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

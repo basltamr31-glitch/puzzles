@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_024",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 23,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "LLABYELLOVFC",
+    "AJSTXVRZZMOO",
+    "HRGWHRAVCYNI",
+    "JZGNILCYCKHK",
+    "ZSIQCMEORVJR",
+    "AYOQZKOTRRJS",
+    "ZBKRCYBFEVLH",
+    "XWAOHFKCFAEJ",
+    "ZLHNEVCWECMI",
+    "LVVHSOEURAAI",
+    "QRIQSOBAEVUB",
+    "FIAWYACNEUWL"
+  ],
+  "words": [
+    {
+      "word": "ATHLETE",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CHESS",
+      "row": 6,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CYCLING",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 8,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "RACE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "REFEREE",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "SOCCER",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "SWIM",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TEAM",
+      "row": 5,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "VOLLEYBALL",
+      "row": 0,
+      "col": 9,
+      "dir": "W"
+    }
+  ]
+}

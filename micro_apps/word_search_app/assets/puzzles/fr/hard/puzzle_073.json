@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_073",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 72,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "NUAEMAHCSCXZ",
+    "DFAQUFERBEZL",
+    "BFFNOTUOMSSS",
+    "GDVUHONCKKOO",
+    "OBLBYTJOLKTZ",
+    "JYRLYOPDKBGA",
+    "YNIUOGNIPCLC",
+    "UCOKCUTLAHYN",
+    "TVTNAHPELEEH",
+    "BBBYGAIIXVNJ",
+    "JJPYSFREZAHN",
+    "UTDPUIEENLLG"
+  ],
+  "words": [
+    {
+      "word": "CHAMEAU",
+      "row": 0,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 6,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CHIEN",
+      "row": 7,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 8,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "LOUP",
+      "row": 5,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "MOUTON",
+      "row": 2,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "OURS",
+      "row": 3,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "PINGOUIN",
+      "row": 6,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 1,
+      "col": 10,
+      "dir": "W"
+    }
+  ]
+}

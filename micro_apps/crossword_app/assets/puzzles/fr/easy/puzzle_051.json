@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_051",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 051",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "TETE",
+      "clue": "Partie supérieure du corps, avec le cerveau",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "ARBRE",
+      "clue": "Grande plante avec un tronc et des branches",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "ROI",
+      "clue": "Souverain masculin d'un royaume",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "AMI",
+      "clue": "Une personne que l'on aime et en qui on a confiance",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "LAIT",
+      "clue": "Liquide blanc provenant des vaches",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "TOIT",
+      "clue": "Couverture au sommet d'un bâtiment",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "NEZ",
+      "clue": "Organe utilisé pour sentir",
+      "category": "body"
+    }
+  ]
+}

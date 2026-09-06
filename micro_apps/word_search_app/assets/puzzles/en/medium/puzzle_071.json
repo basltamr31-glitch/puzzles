@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_071",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 70,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "KSENAVXIVX",
+    "UPYSOSVSPA",
+    "BWLPCYHUNH",
+    "VGVACATION",
+    "OBUSNUGTPK",
+    "ZVQSIERCIT",
+    "AIRPORTAXI",
+    "PEDOQIYSHG",
+    "VJIRSDJESY",
+    "LFBTAIQTDB"
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PLANE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SHIP",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "SUITCASE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 6,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "VACATION",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

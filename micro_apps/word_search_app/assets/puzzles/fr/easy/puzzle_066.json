@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_066",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 65,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "ALZOHPNI",
+    "EAJKIOEF",
+    "BISCUITD",
+    "ATFACREK",
+    "NUXFNEEM",
+    "AUPETAYC",
+    "NATMBVRD",
+    "EPFRAISE"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CAFE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "FRAISE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LAIT",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "POIRE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

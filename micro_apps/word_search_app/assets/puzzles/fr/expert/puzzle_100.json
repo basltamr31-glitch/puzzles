@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_100",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 99,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "VSALLEDEBAINHZ",
+    "ILHFNRAEPBEGRD",
+    "ZKALYUPKYADFMJ",
+    "XUGMETXCHXNNOP",
+    "SZFCPRHMHNIADB",
+    "QKUBEEENISIUCZ",
+    "PLEKMVLGSRXHMB",
+    "OZSIMUIUARONYQ",
+    "RBNLLOONPTVIQK",
+    "TECMJCHAISEDRG",
+    "ECIIVFAKQTXRVU",
+    "EOBYYGXILPEALG",
+    "VIIMJIPVGDSJXS",
+    "FTKTGRQENCHKIA"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 5,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "CHAISE",
+      "row": 9,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CHEMINEE",
+      "row": 3,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 9,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "COUVERTURE",
+      "row": 9,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "CUISINE",
+      "row": 5,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 9,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "JARDIN",
+      "row": 12,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "LAMPE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MIROIR",
+      "row": 4,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "PORTE",
+      "row": 6,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SALLEDEBAIN",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

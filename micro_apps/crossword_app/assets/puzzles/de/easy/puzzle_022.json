@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_022",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 022",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "TIGER",
+      "clue": "Große gestreifte Raubkatze",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "STERN",
+      "clue": "Leuchtender Punkt am Nachthimmel",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "VATER",
+      "clue": "Männlicher Elternteil",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "FRAU",
+      "clue": "Erwachsene weibliche Person",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "WIND",
+      "clue": "Bewegte Luft",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SEE",
+      "clue": "Großes Gewässer, von Land umgeben",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "FUSS",
+      "clue": "Körperteil am Ende des Beins",
+      "category": "body"
+    }
+  ]
+}

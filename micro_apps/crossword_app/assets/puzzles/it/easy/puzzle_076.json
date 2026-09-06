@@ -1,0 +1,58 @@
+{
+  "id": "it_easy_076",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 076",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "ACQUA",
+      "clue": "Liquido chiaro essenziale per la vita",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "TORTA",
+      "clue": "Dolce da forno",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "NUVOLA",
+      "clue": "Massa bianca o grigia che fluttua nel cielo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "SORRISO",
+      "clue": "Espressione felice del viso",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "PESCE",
+      "clue": "Animale acquatico che respira con le branchie",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "BLU",
+      "clue": "Colore di un cielo sereno",
+      "category": "color"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_013",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 12,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "VWIKHNCK",
+    "ZFFUSSBS",
+    "BEINITXU",
+    "WANKAHHV",
+    "GNGORFAU",
+    "KBEPGRLI",
+    "VKRFIWSU",
+    "KARMSLWJ"
+  ],
+  "words": [
+    {
+      "word": "ARM",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BEIN",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FINGER",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "FUSS",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HALS",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "KOPF",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

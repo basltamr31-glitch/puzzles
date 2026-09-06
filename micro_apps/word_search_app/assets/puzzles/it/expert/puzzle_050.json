@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_050",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 49,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "ZYXHAETVAZDNMG",
+    "NPRBIPRXOVFAXP",
+    "ZCRBAMXIXFOCGX",
+    "VMRTIOGLSURXIX",
+    "TDAORSVIIVMLPU",
+    "KTKRUHCMDBACOP",
+    "AAUTGSCOETGHVR",
+    "HBPANELNTUGUMD",
+    "LRCFALLETTIRFL",
+    "CZSOHNFLYTOKTX",
+    "CGNIMFCELHUIAD",
+    "YCFBAFOIAMOHFX",
+    "DNBCTBIMNPGXEG",
+    "UVUBABOPEHKVAT"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 8,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "BURRO",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "CAFFE",
+      "row": 12,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "FRITTELLA",
+      "row": 8,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "LATTE",
+      "row": 4,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "LIMONE",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MIELE",
+      "row": 12,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "PANE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 1,
+      "col": 5,
+      "dir": "SW"
+    },
+    {
+      "word": "TORTA",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

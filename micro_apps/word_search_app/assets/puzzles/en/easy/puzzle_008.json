@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_008",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 7,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "WKWEJNBY",
+    "YZDQSDEB",
+    "TWFTXMGO",
+    "ECGSCMVX",
+    "NHOCKEYI",
+    "NEAJZRUN",
+    "ISLKLDIG",
+    "SSVNWYRW"
+  ],
+  "words": [
+    {
+      "word": "BOXING",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CHESS",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GOAL",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RUN",
+      "row": 5,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

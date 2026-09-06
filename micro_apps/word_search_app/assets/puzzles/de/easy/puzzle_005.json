@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_005",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 4,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "KMYLKPWL",
+    "ODHALSCP",
+    "PGKKPADL",
+    "FINGERLB",
+    "SAIHUMLA",
+    "COELVFKU",
+    "IDMXUWRC",
+    "TXDDVNPH"
+  ],
+  "words": [
+    {
+      "word": "ARM",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BAUCH",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "FINGER",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HALS",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KNIE",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "KOPF",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_046",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 45,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "KUZKFCSKALPOQQ",
+    "SOTTELAICCARBF",
+    "CMAXHDLMYQNPOK",
+    "IGGCCAPPOTTOCY",
+    "AQBIDHCETCOBRN",
+    "RNCNAXDRAFFMAI",
+    "PLAIRCOMZOOIVZ",
+    "ASLLGZCEBXLDAD",
+    "HCZCLSCARPETTE",
+    "EFIQHOEBAQLVTS",
+    "NKNCPZCINTURAR",
+    "GYOBMMRLEQCVDB",
+    "MYLSYYGENNQDIY",
+    "CLZAVVLYOLKMSS"
+  ],
+  "words": [
+    {
+      "word": "BRACCIALETTO",
+      "row": 1,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "CALZINO",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CAPPOTTO",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CINTURA",
+      "row": 10,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "COLLANA",
+      "row": 10,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "CRAVATTA",
+      "row": 3,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "GIACCA",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "IMPERMEABILE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PANTOFOLE",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALI",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "SCARPETTE",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SCIARPA",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

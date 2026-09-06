@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_041",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 40,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "GJPVMALH",
+    "IGTELNAD",
+    "RABBITRO",
+    "AEKWOLFL",
+    "FGPHAAZP",
+    "FISHKNQH",
+    "ELVQVIRI",
+    "WOQNYPJN"
+  ],
+  "words": [
+    {
+      "word": "ANT",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "DOLPHIN",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "FISH",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "RABBIT",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WOLF",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

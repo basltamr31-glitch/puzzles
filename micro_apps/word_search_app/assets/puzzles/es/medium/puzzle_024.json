@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_024",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 23,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "BNJHOCKEYS",
+    "QOMARATONS",
+    "KNXJSVLMZV",
+    "VOLEIBOLBL",
+    "TEFDOAFVVO",
+    "SCARRERATK",
+    "ZEVEQUIPOV",
+    "VZDZKJNRSG",
+    "ILOXHOSZUE",
+    "ROTENISSVU"
+  ],
+  "words": [
+    {
+      "word": "AJEDREZ",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BOXEO",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CARRERA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "EQUIPO",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MARATON",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TENIS",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VOLEIBOL",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

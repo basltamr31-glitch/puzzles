@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_045",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 045",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "ARBRE",
+      "clue": "Grande plante avec un tronc et des branches",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "MAIN",
+      "clue": "Partie du corps au bout du bras",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "SOURIS",
+      "clue": "Petit rongeur à longue queue",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "VENT",
+      "clue": "Air en mouvement",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "LION",
+      "clue": "Grand félin, roi de la savane",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "SEL",
+      "clue": "Assaisonnement blanc qui relève les plats",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "REVE",
+      "clue": "Images et pensées pendant le sommeil",
+      "category": "action"
+    }
+  ]
+}

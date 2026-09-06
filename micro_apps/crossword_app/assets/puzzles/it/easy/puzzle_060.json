@@ -1,0 +1,58 @@
+{
+  "id": "it_easy_060",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 060",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "AMICO",
+      "clue": "Qualcuno che ti piace e in cui hai fiducia",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "GATTO",
+      "clue": "Felino domestico che miagola",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "VETRO",
+      "clue": "Materiale duro e trasparente",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SONNO",
+      "clue": "Riposo con gli occhi chiusi",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "NUVOLA",
+      "clue": "Massa bianca o grigia che fluttua nel cielo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "ANATRA",
+      "clue": "Uccello acquatico che fa qua qua",
+      "category": "animal"
+    }
+  ]
+}

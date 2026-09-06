@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_050",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 49,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "CFXPYNUTXENALV",
+    "IXTZKUCHENANAB",
+    "LSPEISBICOXKUY",
+    "IKLRBTBNVLALHB",
+    "PXEEZPRCHEIVCK",
+    "VILEFPAOSMDMSO",
+    "GTZBLFNENRIBKZ",
+    "JIBDGIOYVEFLZB",
+    "TRXRGLBTSSFNSO",
+    "KTEEPLRERSSGJR",
+    "LNBTYANUGARAHT",
+    "RSJTHEOHCWKYYK",
+    "GFTUYNOULZUYXR",
+    "GNMBDBWSDAOVAB"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 5,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "BANANE",
+      "row": 1,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "BIRNE",
+      "row": 6,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "BUTTER",
+      "row": 13,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 9,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "HONIG",
+      "row": 4,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "KAESE",
+      "row": 2,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 11,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MILCH",
+      "row": 5,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "WASSERMELONE",
+      "row": 11,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

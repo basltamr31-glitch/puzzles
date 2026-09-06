@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_094",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 93,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "VYIKALZT",
+    "RQDRESSG",
+    "TCRZQWSW",
+    "SOCKLEGD",
+    "PAJAMASO",
+    "JTHQXTHV",
+    "SJACKETD",
+    "HOQQURQT"
+  ],
+  "words": [
+    {
+      "word": "COAT",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "DRESS",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "JACKET",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PAJAMAS",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOCK",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SWEATER",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

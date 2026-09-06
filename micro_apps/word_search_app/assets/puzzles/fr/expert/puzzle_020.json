@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_020",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 19,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "IDSCPSEJETAQXG",
+    "NECBGOOOAVUDYN",
+    "XCOUVERTUREDHQ",
+    "IHUSEPATBRDRDU",
+    "HASXISVFEZOIMP",
+    "GMSIUPIGTYEONO",
+    "VBIJEPAAPXURTO",
+    "JRNMYTBTHADINL",
+    "KEVIEPANACPMQH",
+    "XIEIPKHSTBQYBH",
+    "TGRHTQCZSTLVBK",
+    "AEGHGOZIIEREVF",
+    "TVCHDEAJNPAOYF",
+    "KJYLJHCNRCELFI"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 8,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CHAISE",
+      "row": 8,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "CHAMBRE",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "COUVERTURE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "JARDIN",
+      "row": 0,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "MIROIR",
+      "row": 8,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "PORTE",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TABLE",
+      "row": 7,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "TAPIS",
+      "row": 7,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "TASSE",
+      "row": 7,
+      "col": 5,
+      "dir": "SE"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_078",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 078",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "REINA",
+      "clue": "Gobernante femenina de un reino",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "NUBE",
+      "clue": "Masa blanca o gris que flota en el cielo",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "RELOJ",
+      "clue": "Aparato que indica la hora",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "BEBE",
+      "clue": "Niño muy pequeño",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "VERDE",
+      "clue": "Color de la hierba y las hojas",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "OJO",
+      "clue": "Órgano usado para ver",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "PIE",
+      "clue": "Parte del cuerpo al final de la pierna",
+      "category": "body"
+    }
+  ]
+}

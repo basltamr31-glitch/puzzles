@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_083",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 82,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "SZYQGDLD",
+    "CJHLEMHE",
+    "TNCIELOB",
+    "ISLACLQP",
+    "NFYRNUBE",
+    "HUNBAVRU",
+    "ZHKONINM",
+    "MVOLCANO"
+  ],
+  "words": [
+    {
+      "word": "ARBOL",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CIELO",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ISLA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LLUVIA",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "NUBE",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_031",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 30,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "GBKCSLGB",
+    "AIRPORTH",
+    "OCARVLAI",
+    "XYHTTTXG",
+    "VCGLSKIH",
+    "FLVTJYRW",
+    "MEKPDRDA",
+    "AJOURNEY"
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BICYCLE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CAR",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_026",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 25,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "CLGRDWZI",
+    "PIZZAZFU",
+    "BVJLVUPT",
+    "NWCSOUPT",
+    "SLMLCQUE",
+    "EZEPASTA",
+    "COGUDPVB",
+    "XHLHONEY"
+  ],
+  "words": [
+    {
+      "word": "AVOCADO",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HONEY",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PASTA",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PIZZA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOUP",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

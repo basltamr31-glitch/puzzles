@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_071",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 071",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "MUTTER",
+      "clue": "Weiblicher Elternteil",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "NASE",
+      "clue": "Körperteil zum Riechen",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "STEIN",
+      "clue": "Ein hartes Stück Fels",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "STERN",
+      "clue": "Leuchtender Punkt am Nachthimmel",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "ROT",
+      "clue": "Farbe von Blut oder einer reifen Tomate",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "WORT",
+      "clue": "Eine sprachliche Einheit mit Bedeutung",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "ARM",
+      "clue": "Gliedmaße zwischen Schulter und Hand",
+      "category": "body"
+    }
+  ]
+}

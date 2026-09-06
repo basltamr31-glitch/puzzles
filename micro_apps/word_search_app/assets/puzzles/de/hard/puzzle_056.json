@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_056",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 55,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "OZBPIHKHRJEH",
+    "KXINDZOENYCK",
+    "CJHKUIEITBWF",
+    "BASKETBALLIT",
+    "HFPCOHCAHCSF",
+    "POOHHOCKEYTY",
+    "NYRCXWNPCAAN",
+    "EUTOLFIJWJDM",
+    "UXLVTEAMLMIZ",
+    "LRENNENUMFOG",
+    "WHRADFAHRENL",
+    "ZFUMARATHONN"
+  ],
+  "words": [
+    {
+      "word": "BASKETBALL",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MARATHON",
+      "row": 11,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "RADFAHREN",
+      "row": 10,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RENNEN",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SCHACH",
+      "row": 4,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SCHWIMMEN",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SPORTLER",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "STADION",
+      "row": 4,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "TEAM",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

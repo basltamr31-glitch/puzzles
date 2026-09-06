@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_025",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 24,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "BACKECZGZCSFBP",
+    "YNOOPSKEPKMVNL",
+    "ASENUTQCAPCCNU",
+    "SVBPDAASZIHAFX",
+    "ZODQAEXHGGVBGH",
+    "QQABACRVCZEMBO",
+    "BBNCNXHBHSSHSX",
+    "VGBONSIEECPEMU",
+    "ECIUIZLRVZDIBE",
+    "GKHRPLOGARYLLR",
+    "KEUSABEILLEOHB",
+    "COJZLFGTJYYAQB",
+    "SGQLGLEZKLLAMU",
+    "YUYSEDDYKMFRJT"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 10,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "AIGLE",
+      "row": 9,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "CHAT",
+      "row": 5,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CHEVRE",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 7,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "LAPIN",
+      "row": 11,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "LION",
+      "row": 9,
+      "col": 5,
+      "dir": "NW"
+    },
+    {
+      "word": "OURS",
+      "row": 7,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SOURIS",
+      "row": 12,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "TIGRE",
+      "row": 11,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 8,
+      "col": 9,
+      "dir": "NW"
+    }
+  ]
+}

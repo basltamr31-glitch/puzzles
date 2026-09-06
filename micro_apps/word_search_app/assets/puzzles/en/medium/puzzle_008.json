@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_008",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 7,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "CVGIHJHIUS",
+    "VLOWEXQGIY",
+    "CUASECCXXF",
+    "MSLTOYHCQX",
+    "TTOTHCWENJ",
+    "DAFUOLCKSC",
+    "RDAYCIEEAS",
+    "GIQMKNFTRC",
+    "SUPWEGEREG",
+    "LMEGYMSSDS"
+  ],
+  "words": [
+    {
+      "word": "ATHLETE",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CHESS",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "CYCLING",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GOAL",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "GYM",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SOCCER",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "STADIUM",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_003",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 2,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "CSYBVRPRJBDDFO",
+    "ZTWDHBSBERGWYT",
+    "PEHITWOLKEHVXJ",
+    "ZINSELNLBWMRTG",
+    "DNARTSNTEZSOVV",
+    "UBKDASEWPOGDIC",
+    "KBLYJUOUSAYAOY",
+    "GAUAALDHRNYKTP",
+    "WHVJTFCCSGOOGX",
+    "VYTKNTBRUFTMKC",
+    "NVSMAPLCTRLIZO",
+    "NGBLVLHELIXVSV",
+    "USSLDRWSENEJNV",
+    "FCAEZDIWDGIVEV"
+  ],
+  "words": [
+    {
+      "word": "BERG",
+      "row": 1,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "BLATT",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "FLUSS",
+      "row": 8,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "INSEL",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MEER",
+      "row": 3,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "SONNE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "STEIN",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "STRAND",
+      "row": 4,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "VULKAN",
+      "row": 8,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "WALD",
+      "row": 8,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "WIESE",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "WOLKE",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

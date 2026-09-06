@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_087",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 86,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "ATFMBLHGXP",
+    "NJCVAGCDRG",
+    "GGGSFINZDZ",
+    "UAJVALISEP",
+    "GYKBBCXGVJ",
+    "NATAXIABYN",
+    "PORTXSLDAH",
+    "QOTEIFHLOD",
+    "QIVACANCES",
+    "IQMUQPFQBT"
+  ],
+  "words": [
+    {
+      "word": "BATEAU",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BILLET",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "GARE",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PORT",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SACADOS",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "TAXI",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VACANCES",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VALISE",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

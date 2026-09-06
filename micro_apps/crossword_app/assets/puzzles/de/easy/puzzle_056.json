@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_056",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 056",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "BAUM",
+      "clue": "Große Pflanze mit Stamm und Ästen",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "WASSER",
+      "clue": "Klare Flüssigkeit, lebensnotwendig",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SEITE",
+      "clue": "Ein Blatt in einem Buch",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "TAL",
+      "clue": "Niedriges Land zwischen Bergen",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "BLAU",
+      "clue": "Farbe eines klaren Himmels",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "SEE",
+      "clue": "Großes Gewässer, von Land umgeben",
+      "category": "place"
+    }
+  ]
+}

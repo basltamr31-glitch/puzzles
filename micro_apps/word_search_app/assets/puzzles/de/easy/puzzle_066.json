@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_066",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 65,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "PHMESHMZ",
+    "XKICSWBH",
+    "BALRBIIB",
+    "RFCTSZRA",
+    "OFHYOSNN",
+    "TENTSSEA",
+    "AEEWVRNN",
+    "AOTOMATE"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BIRNE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BROT",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "MILCH",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

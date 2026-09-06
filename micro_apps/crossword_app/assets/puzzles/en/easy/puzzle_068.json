@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_068",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 068",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "ANT",
+      "clue": "Small hardworking insect that lives in colonies",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "FAMILY",
+      "clue": "Parents, children, and relatives together",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "STAR",
+      "clue": "A glowing point of light in the night sky",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "SNOW",
+      "clue": "Frozen white flakes that fall in winter",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "ROAD",
+      "clue": "A route cars and people travel on",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "DAY",
+      "clue": "A 24-hour period, from sunrise to sunrise",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "BABY",
+      "clue": "Very young child",
+      "category": "people"
+    }
+  ]
+}

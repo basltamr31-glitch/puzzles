@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_022",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 21,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "UQKJKDSGSTCUAZ",
+    "YEILILXNQXEVJV",
+    "ZGFQMLLQDPEZDK",
+    "XLLUPLVZRFMPAF",
+    "MANTEAUAEPAHCI",
+    "HGCBRHHUJNURVF",
+    "SDCRMCOVTNAGAU",
+    "TMNAEHIOMVBBAJ",
+    "SVVCAAUCABOUBJ",
+    "AVZEBFLTJXRMGY",
+    "NCOLLIERPVQESR",
+    "NIAEEXDQZLJLTN",
+    "VESTEKSABTFOMO",
+    "APMGPIBHKCCTPO"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 12,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "BRACELET",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CHAPEAU",
+      "row": 4,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "COLLIER",
+      "row": 10,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CRAVATE",
+      "row": 4,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "ECHARPE",
+      "row": 7,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "GANT",
+      "row": 6,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "IMPERMEABLE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PANTOUFLES",
+      "row": 3,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "PULL",
+      "row": 3,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "VESTE",
+      "row": 12,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

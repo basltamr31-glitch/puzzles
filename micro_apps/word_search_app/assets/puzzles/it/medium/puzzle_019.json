@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_019",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 18,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "CFPQGMGOFR",
+    "UABITMQBPH",
+    "FISOLAXORV",
+    "IHPCSENDCU",
+    "UGHIACCIOQ",
+    "MAREQTOZBC",
+    "EGRLPRATOF",
+    "BTGOPOTYRM",
+    "FQHQTONRSN",
+    "BTFQOUQUSX"
+  ],
+  "words": [
+    {
+      "word": "BOSCO",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CASCATA",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CIELO",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "FIUME",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "GHIACCIO",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ISOLA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MARE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PRATO",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

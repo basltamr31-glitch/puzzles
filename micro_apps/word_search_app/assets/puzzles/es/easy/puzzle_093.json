@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_093",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 92,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "CABEZAIQ",
+    "ODNJRKNF",
+    "MENTONUB",
+    "ABCLDCMS",
+    "NKXSIOPU",
+    "OEAYLDLX",
+    "CUELLOQI",
+    "TZENAOEN"
+  ],
+  "words": [
+    {
+      "word": "CABEZA",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CODO",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CUELLO",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MANO",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "MENTON",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RODILLA",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

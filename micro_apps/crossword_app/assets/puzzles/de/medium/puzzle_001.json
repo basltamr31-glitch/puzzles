@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_001",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 001",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "KERZE",
+      "clue": "Ein Wachsstab mit Docht, brennt für Licht"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "MUSEUM",
+      "clue": "Gebäude, das historische Objekte zeigt"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "BAUER",
+      "clue": "Person, die Feldfrüchte anbaut"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "FALL",
+      "clue": "Ein Beispiel für etwas, oder ein Behälter"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "FLUGHAFEN",
+      "clue": "Ort, an dem Flugzeuge starten und landen"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "answer": "WETTER",
+      "clue": "Zustand der Atmosphäre, heiß, kalt, regnerisch"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "answer": "RAUM",
+      "clue": "Ein leerer Bereich, oder das Universum"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "FORM",
+      "clue": "Die Gestalt oder der Umriss von etwas"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "answer": "ZIEL",
+      "clue": "Das Ergebnis, auf das jemand hinarbeitet"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 6,
+      "answer": "FAKT",
+      "clue": "Etwas, das als wahr bekannt ist"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_090",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 89,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "FGKJOCWTXU",
+    "NEPVBBPDYM",
+    "YOBKIARGUY",
+    "ZEUARYPKDE",
+    "NVTENCXUBX",
+    "GBTSEAMCCK",
+    "JDEEOPNHWY",
+    "KARTOFFELP",
+    "BSUPPEENWT",
+    "JCNIMLMVHV"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BANANE",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "BIRNE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BUTTER",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "KAESE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SUPPE",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

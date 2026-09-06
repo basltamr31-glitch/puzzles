@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_098",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 098",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "DOLPHIN",
+      "clue": "Intelligent sea mammal known for jumping"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "SOLDIER",
+      "clue": "A member of an army"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "SUNRISE",
+      "clue": "When the sun comes up in the morning"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "answer": "FARMER",
+      "clue": "Person who grows crops or raises animals"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "TYPE",
+      "clue": "A category or kind of something"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "DRIVER",
+      "clue": "Person who operates a vehicle"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "KEY",
+      "clue": "Metal tool used to open a lock"
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "answer": "SPRING",
+      "clue": "Season when flowers bloom"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "answer": "SIZE",
+      "clue": "How big or small something is"
+    }
+  ]
+}

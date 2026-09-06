@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_087",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 86,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "OETTTDHPNORU",
+    "VVVDAFCMPQSS",
+    "AIASLKUBATBS",
+    "CEAUTOZISPXD",
+    "AIRGRAZGSFPO",
+    "NKFOGTZLAAEA",
+    "ZQPMPIQIPLIL",
+    "ACQPSOOEOKHB",
+    "DYFFADRTRNBV",
+    "BICICLETTAEA",
+    "IYOMEHMOOVBY",
+    "PACAFTZFZEII"
+  ],
+  "words": [
+    {
+      "word": "AEROPORTO",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "AUTO",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BICICLETTA",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BIGLIETTO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MAPPA",
+      "row": 1,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "NAVE",
+      "row": 8,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PASSAPORTO",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "STAZIONE",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "VACANZA",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VIAGGIO",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

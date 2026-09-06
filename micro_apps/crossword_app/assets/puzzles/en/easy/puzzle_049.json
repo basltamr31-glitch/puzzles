@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_049",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 049",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "RIVER",
+      "clue": "A large natural stream of flowing water",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "SNAKE",
+      "clue": "Legless reptile that slithers",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "DEER",
+      "clue": "Graceful animal with antlers",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "ANT",
+      "clue": "Small hardworking insect that lives in colonies",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "RUN",
+      "clue": "To move quickly on foot",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "BEE",
+      "clue": "Buzzing insect that makes honey",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "KING",
+      "clue": "Male ruler of a kingdom",
+      "category": "people"
+    }
+  ]
+}

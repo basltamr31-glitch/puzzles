@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_029",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 28,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "GSZHEFTN",
+    "EOYFRLES",
+    "NUEOXYTN",
+    "OREILLED",
+    "UCOUDEFG",
+    "EILPJLPM",
+    "TLNFQNHV",
+    "JAMBEQJP"
+  ],
+  "words": [
+    {
+      "word": "COUDE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GENOU",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "JAMBE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "OREILLE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOURCIL",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TETE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

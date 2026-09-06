@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_018",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 17,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "FYCMDMFZZQ",
+    "PPBLYPEVIB",
+    "HOFQKLDLBQ",
+    "GMZPUIHLAC",
+    "VONATMGINI",
+    "NDRTTORTAS",
+    "SOBAYNGZNG",
+    "FRITTELLAL",
+    "SOCAFFEXGC",
+    "RVPFLXSZBA"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CAFFE",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FRITTELLA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LIMONE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MELA",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "PATATA",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "POMODORO",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TORTA",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

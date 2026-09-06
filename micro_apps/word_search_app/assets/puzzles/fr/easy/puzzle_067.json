@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_067",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 66,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "GQYGLACE",
+    "ORPNXNAG",
+    "UILVUZSL",
+    "YVALMSCR",
+    "MIVOLCAN",
+    "MERDXBDU",
+    "PRAIRIEA",
+    "GEQOCQBG"
+  ],
+  "words": [
+    {
+      "word": "CASCADE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GLACE",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MER",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PRAIRIE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RIVIERE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

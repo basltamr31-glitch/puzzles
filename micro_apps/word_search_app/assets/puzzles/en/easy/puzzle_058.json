@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_058",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 57,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "LTHPYIOX",
+    "STPTNRMG",
+    "SBANANAN",
+    "ZBNSPOTL",
+    "DACOFFEE",
+    "IYAUVJAM",
+    "UGKPNYNO",
+    "AFEMFMCN"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COFFEE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LEMON",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SOUP",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

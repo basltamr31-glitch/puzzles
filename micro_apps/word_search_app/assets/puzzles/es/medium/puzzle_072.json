@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_072",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 71,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "GCARRERASK",
+    "GTJLHZPRBC",
+    "YJVOLEIBOL",
+    "HTESTADIOR",
+    "NUQQJCFTFJ",
+    "EFHBGHURSR",
+    "APMARATONB",
+    "NBFEIGBCXY",
+    "ASHGYBOXEO",
+    "BBRKBQLLPP"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BOXEO",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CARRERA",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ESTADIO",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FUTBOL",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GOL",
+      "row": 7,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "MARATON",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VOLEIBOL",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

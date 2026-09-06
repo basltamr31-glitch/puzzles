@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_085",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 84,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "CPBDKZSYBC",
+    "NIORTVPOHN",
+    "TESTAYKCBU",
+    "NDUFKCPAYS",
+    "PEGRUKCVYH",
+    "DITOCCHIOG",
+    "CXCNBQQGOK",
+    "MENTOEYLKC",
+    "AECEOHIISE",
+    "MVGVAPXACV"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CAVIGLIA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "DITO",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FRONTE",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MENTO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TESTA",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

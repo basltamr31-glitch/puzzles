@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_010",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 010",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "ARBOL",
+      "clue": "Planta grande con tronco y ramas",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "AGUA",
+      "clue": "Líquido claro esencial para la vida",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "HORMIGA",
+      "clue": "Pequeño insecto trabajador que vive en colonias",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "OVEJA",
+      "clue": "Animal lanudo que bala",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "PAN",
+      "clue": "Alimento horneado hecho de harina y agua",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "MAR",
+      "clue": "Gran extensión de agua salada",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "BRAZO",
+      "clue": "Extremidad entre el hombro y la mano",
+      "category": "body"
+    }
+  ]
+}

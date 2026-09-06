@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_034",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 33,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "DMHMAICK",
+    "YOPBDCCJ",
+    "IDOIAVHN",
+    "EDMSLZCL",
+    "YCMCHNRV",
+    "TBEURREU",
+    "VREIISPT",
+    "LAITMIEL"
+  ],
+  "words": [
+    {
+      "word": "BEURRE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CREPE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LAIT",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MIEL",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "POMME",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

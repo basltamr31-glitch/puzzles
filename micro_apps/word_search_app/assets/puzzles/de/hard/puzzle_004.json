@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_004",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 3,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "ELKRHYCHREYM",
+    "RVUAFXCSBOAP",
+    "PREMMIZEDABC",
+    "UGCIPIMJVCEG",
+    "LAHPJRNLLNNA",
+    "NREKCEDHDJTM",
+    "RTBFSYUDDNFK",
+    "PESSATBNLZBM",
+    "DNGASRUHRAXE",
+    "HUHAHOVESZDG",
+    "NBSBLLANRLJS",
+    "OGXEXOYWCYTR"
+  ],
+  "words": [
+    {
+      "word": "BADEZIMMER",
+      "row": 2,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "DECKE",
+      "row": 5,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "GARTEN",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "KAMIN",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "KUECHE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "REGAL",
+      "row": 6,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "STUHL",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "TASSE",
+      "row": 7,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 6,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "TUER",
+      "row": 7,
+      "col": 5,
+      "dir": "SE"
+    }
+  ]
+}

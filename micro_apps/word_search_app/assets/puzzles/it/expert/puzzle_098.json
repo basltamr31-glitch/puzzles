@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_098",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 97,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "LFUFXDNUVOFEXG",
+    "HMOINQUDHDDTEA",
+    "HUARTSENIMAUPL",
+    "NGLLMNLPPNVZYL",
+    "HCIBOAGLAXAIKM",
+    "IYQMKGGNDNLUPG",
+    "YIILNTAGYBEOHG",
+    "CLKEKBVRIFMZKR",
+    "CGIGMYPSFOALGP",
+    "IGAERYCADRCKPU",
+    "CBURROCOMOHULO",
+    "XBZTTORTAIZXAI",
+    "BUPTPOCKXXAEUR",
+    "KROTMQVNFVKNUK"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 7,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 6,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "BURRO",
+      "row": 10,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CAFFE",
+      "row": 10,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 8,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "LIMONE",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "MELA",
+      "row": 7,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 2,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "PANE",
+      "row": 3,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "POMODORO",
+      "row": 5,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "TORTA",
+      "row": 11,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

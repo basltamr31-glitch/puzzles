@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_082",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 082",
+  "rows": 5,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "ذئب",
+      "clue": "حيوان بري قريب من الكلب",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "لبن",
+      "clue": "سائل أبيض يأتي من الأبقار",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "نافذة",
+      "clue": "فتحة في الجدار للضوء والهواء",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "حذاء",
+      "clue": "ما يُلبس في القدمين",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "حصان",
+      "clue": "حيوان كبير يُركب",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "ليل",
+      "clue": "الجزء المظلم من اليوم",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "ملح",
+      "clue": "مادة بيضاء تُستخدم لتمليح الطعام",
+      "category": "food"
+    }
+  ]
+}

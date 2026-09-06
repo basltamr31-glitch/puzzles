@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_075",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 74,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "XEUFUWIF",
+    "LTYDOZSS",
+    "RSXGJMTN",
+    "MWKENHRE",
+    "JOCIVIAB",
+    "JLXSONNE",
+    "FKSFIMDL",
+    "BERGCLWM"
+  ],
+  "words": [
+    {
+      "word": "BERG",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "EIS",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "NEBEL",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SONNE",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "STRAND",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "WOLKE",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

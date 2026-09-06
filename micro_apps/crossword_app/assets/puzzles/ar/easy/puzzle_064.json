@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_064",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 064",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "زهرة",
+      "clue": "جزء ملون وجميل من النبات",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "غرب",
+      "clue": "جهة غروب الشمس",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "وزير",
+      "clue": "مسؤول رفيع في الحكومة",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "نمر",
+      "clue": "قط كبير مخطط",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "عين",
+      "clue": "عضو الإبصار في الجسم",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "ملح",
+      "clue": "مادة بيضاء تُستخدم لتمليح الطعام",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "حصان",
+      "clue": "حيوان كبير يُركب",
+      "category": "animal"
+    }
+  ]
+}

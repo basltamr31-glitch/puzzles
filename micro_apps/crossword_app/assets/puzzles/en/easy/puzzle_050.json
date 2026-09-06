@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_050",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 050",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "GLASS",
+      "clue": "Hard, clear material used for windows",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "STAR",
+      "clue": "A glowing point of light in the night sky",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "MILK",
+      "clue": "White liquid from cows, often drunk",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "ROAD",
+      "clue": "A route cars and people travel on",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "WIND",
+      "clue": "Moving air",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "MOTHER",
+      "clue": "Female parent",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "PEN",
+      "clue": "Writing tool that uses ink",
+      "category": "object"
+    }
+  ]
+}

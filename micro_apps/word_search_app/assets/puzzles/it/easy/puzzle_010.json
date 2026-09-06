@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_010",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 9,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "FNMIELEO",
+    "VRSDPYQV",
+    "KGVUAETB",
+    "UNYBTGPU",
+    "CBANANAR",
+    "AQCATTNR",
+    "APERAEEO",
+    "ZXYIBTKR"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BURRO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MIELE",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

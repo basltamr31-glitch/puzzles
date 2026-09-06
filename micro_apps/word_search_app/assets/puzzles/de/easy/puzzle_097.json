@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_097",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 96,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "YKAUXPBK",
+    "ZGTWEAHY",
+    "ZIEGENNN",
+    "GRIUVTEI",
+    "HAIVXHOM",
+    "UFADLERN",
+    "NFARGRKM",
+    "DELFINLV"
+  ],
+  "words": [
+    {
+      "word": "ADLER",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "DELFIN",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HUND",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHER",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ZIEGE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

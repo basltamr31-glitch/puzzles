@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_091",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 091",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "SKIN",
+      "clue": "Outer covering of the body",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "FIRE",
+      "clue": "Hot glowing flames",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "TREE",
+      "clue": "Tall plant with a trunk, branches, and leaves",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "ROCK",
+      "clue": "Hard mineral material, or a large stone",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "BEACH",
+      "clue": "Sandy area along the edge of the sea",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "RED",
+      "clue": "Color of blood or a ripe tomato",
+      "category": "color"
+    }
+  ]
+}

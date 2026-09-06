@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_018",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 17,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "UCJXSELHUEGD",
+    "CASVFSQVLMIH",
+    "JQOTATOPFYTT",
+    "QGHCRLPUOKPH",
+    "WIRJTAGXPFLQ",
+    "SEWAXRWIMGSK",
+    "LVNVPYCBORWX",
+    "AFNOLEMRETAW",
+    "EKACPASTARTT",
+    "HVCAFQTRFTRG",
+    "QRXDSURXISOY",
+    "WKLOBQNKOAFQ"
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "row": 4,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "AVOCADO",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BUTTER",
+      "row": 11,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "CAKE",
+      "row": 8,
+      "col": 3,
+      "dir": "W"
+    },
+    {
+      "word": "GRAPE",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PASTA",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "POTATO",
+      "row": 2,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "SOUP",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "STRAWBERRY",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "WATERMELON",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    }
+  ]
+}

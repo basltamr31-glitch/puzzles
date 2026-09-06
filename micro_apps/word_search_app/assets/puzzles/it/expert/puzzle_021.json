@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_021",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 20,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "LPNOEKBSEEOXLC",
+    "USECCFMKQARVMP",
+    "SOPRACCIGLIORI",
+    "HOLAIBHIPXQTVA",
+    "KUPOLOTIDHCNQB",
+    "AADNGLFRONTEQA",
+    "PQBAILARDRCMVG",
+    "RNPMVOELRBFXLL",
+    "STOMACOCULDMNM",
+    "QRANCGIIBXRHKR",
+    "LMGHDMMMNYNCSH",
+    "UCIALVELFPBFYX",
+    "MOAHPYGPNDHVHF",
+    "LTFEMLMDLBGTII"
+  ],
+  "words": [
+    {
+      "word": "CAVIGLIA",
+      "row": 9,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "COLLO",
+      "row": 8,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "DITO",
+      "row": 4,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "FRONTE",
+      "row": 5,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "GAMBA",
+      "row": 9,
+      "col": 5,
+      "dir": "NW"
+    },
+    {
+      "word": "MANO",
+      "row": 7,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "MENTO",
+      "row": 6,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 5,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "SOPRACCIGLIO",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SPALLA",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "STOMACO",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

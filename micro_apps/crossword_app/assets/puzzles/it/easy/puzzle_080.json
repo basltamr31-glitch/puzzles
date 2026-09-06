@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_080",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 080",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "TERRA",
+      "clue": "Il pianeta in cui viviamo",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "LUNA",
+      "clue": "Satellite naturale della Terra",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "FERRO",
+      "clue": "Metallo grigio resistente, usato nell'acciaio",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "GATTO",
+      "clue": "Felino domestico che miagola",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "ORO",
+      "clue": "Metallo prezioso di colore giallo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "CANE",
+      "clue": "Animale domestico fedele che abbaia",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "LEONE",
+      "clue": "Grande felino, re della savana",
+      "category": "animal"
+    }
+  ]
+}

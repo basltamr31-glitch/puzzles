@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_028",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 27,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "VGXIUSRLSNLT",
+    "AQBANICOCXVK",
+    "TXJMKBHLUPQN",
+    "NEBZMLIIBUCT",
+    "KSILLAMPARAV",
+    "JJLHSTEKNGMB",
+    "EGFEPHNSOIAI",
+    "SJMDVZEEPIBE",
+    "TZHYAZATREUP",
+    "MQKFCJOOOAJN",
+    "CLDRTNKGDVCO",
+    "CKQIXBOJVAEF"
+  ],
+  "words": [
+    {
+      "word": "BANO",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CAMA",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "COCINA",
+      "row": 1,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MESA",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "PUERTA",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SILLA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAZA",
+      "row": 8,
+      "col": 7,
+      "dir": "W"
+    }
+  ]
+}

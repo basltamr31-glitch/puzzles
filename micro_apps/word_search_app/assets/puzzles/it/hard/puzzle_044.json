@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_044",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 43,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "LPISVDIVANOQ",
+    "RDPARTSENIFP",
+    "DFCGCLRNHRDV",
+    "IIZPCUSCINOS",
+    "VVFCEDCGYMRK",
+    "TRCOZEAISEYY",
+    "LKRPPRFANMTQ",
+    "OGBSEGFRUAAB",
+    "BHQMLQADKQZO",
+    "FUAKQPLITVZS",
+    "UCHOTTENIMAC",
+    "FKIBDTMODKKL"
+  ],
+  "words": [
+    {
+      "word": "CAMERA",
+      "row": 10,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "CAMINETTO",
+      "row": 10,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CUCINA",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "DIVANO",
+      "row": 0,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 1,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 7,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "TAZZA",
+      "row": 6,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

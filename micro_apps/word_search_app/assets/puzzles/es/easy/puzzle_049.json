@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_049",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 48,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "XPPSFOLT",
+    "TVCMZVIJ",
+    "IXAJMELN",
+    "PLBIZJEC",
+    "GFARMAYA",
+    "HRLAHPSB",
+    "DELFINRR",
+    "QKOABEJA"
+  ],
+  "words": [
+    {
+      "word": "ABEJA",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CABALLO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CABRA",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "DELFIN",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "OVEJA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

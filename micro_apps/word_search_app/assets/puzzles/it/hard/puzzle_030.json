@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_030",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 29,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "RQEQZKVGGBRB",
+    "VHDMPNVULFCI",
+    "ZCOLLANAEECU",
+    "GRHINGKNIAAZ",
+    "DAELOFOTNAPL",
+    "MVMAGLIONEPL",
+    "IAPRAICSCQEA",
+    "OTITSEVNVNLH",
+    "CTNTZXMDTOLQ",
+    "CAPPOTTOIAOX",
+    "PRPSLFYENBFO",
+    "HRTBYOKTGMNP"
+  ],
+  "words": [
+    {
+      "word": "CAPPELLO",
+      "row": 2,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "CAPPOTTO",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COLLANA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CRAVATTA",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GUANTO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MAGLIONE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANTALONE",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "PANTOFOLE",
+      "row": 4,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SCIARPA",
+      "row": 6,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "VESTITO",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    }
+  ]
+}

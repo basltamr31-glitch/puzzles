@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_003",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 2,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "UWFVXFOLCKGV",
+    "NAKLUVRIYFPT",
+    "YSBDLAWDCWSS",
+    "JSFTEDWUKIHM",
+    "REGENBOGENAV",
+    "ZRLIVFLHSSJR",
+    "EFWNBEKAPETM",
+    "NADRBNEGTLYE",
+    "VLLELCRFPTHS",
+    "PLNUYLEASYAG",
+    "TEUWXDPBZMML",
+    "EFMMSPUJLUZP"
+  ],
+  "words": [
+    {
+      "word": "BLATT",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "INSEL",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "NEBEL",
+      "row": 9,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "REGENBOGEN",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VULKAN",
+      "row": 1,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "WALD",
+      "row": 2,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "WASSERFALL",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "WIND",
+      "row": 6,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "WOLKE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "WUESTE",
+      "row": 2,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

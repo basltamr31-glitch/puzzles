@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_092",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 91,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "OVITHLUV",
+    "OSTUHLNK",
+    "TPKEGTLE",
+    "NIAROABU",
+    "FEMLVSKJ",
+    "HGICXSTG",
+    "FENSTERI",
+    "BLDBKISP"
+  ],
+  "words": [
+    {
+      "word": "FENSTER",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KAMIN",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "STUHL",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TASSE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TUER",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

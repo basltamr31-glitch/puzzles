@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_004",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 3,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "RHDWCLINWBYLJD",
+    "DTCRPODFETRKQZ",
+    "HSMUQXGEAHQHVB",
+    "VTYSPTFBSUCVZV",
+    "HSKNJBLANKETZH",
+    "SQENEEOFXNEXII",
+    "RUFUEDSAGPOQAK",
+    "SIEMIRRORZJFDA",
+    "EJWUZOIAFDMWKB",
+    "SYYOOOCAGAXPTL",
+    "SUZDNMCPHOYRDA",
+    "DOEJDTMZPCSVME",
+    "TRFVAZTNXLHMAX",
+    "WQRSHYZZZRNPRF"
+  ],
+  "words": [
+    {
+      "word": "BEDROOM",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BLANKET",
+      "row": 4,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CARPET",
+      "row": 9,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "CHAIR",
+      "row": 11,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "CUPBOARD",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "DESK",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "DOOR",
+      "row": 10,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "GARDEN",
+      "row": 9,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 6,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "MIRROR",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 6,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "TABLE",
+      "row": 1,
+      "col": 9,
+      "dir": "SW"
+    }
+  ]
+}

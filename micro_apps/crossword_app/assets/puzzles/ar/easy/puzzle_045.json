@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_045",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 045",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "شمال",
+      "clue": "الجهة المقابلة للجنوب",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "ثلج",
+      "clue": "ماء متجمد أبيض يتساقط في الشتاء",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "مكتب",
+      "clue": "مكان يُستخدم للعمل",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "باب",
+      "clue": "فتحة تُستخدم للدخول والخروج",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "ثوب",
+      "clue": "قطعة قماش تُلبس",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ذئب",
+      "clue": "حيوان بري قريب من الكلب",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "جبل",
+      "clue": "مرتفع طبيعي كبير من الأرض",
+      "category": "place"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_095",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 095",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "PADRE",
+      "clue": "Genitore maschile",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "BOCCA",
+      "clue": "Apertura usata per mangiare e parlare",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "ALBERO",
+      "clue": "Grande pianta con tronco e rami",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "NASO",
+      "clue": "Organo usato per annusare",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "CANE",
+      "clue": "Animale domestico fedele che abbaia",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "SOLE",
+      "clue": "Stella al centro del nostro sistema solare",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

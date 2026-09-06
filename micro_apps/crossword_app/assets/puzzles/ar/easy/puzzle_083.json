@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_083",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 083",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "شرق",
+      "clue": "جهة شروق الشمس",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "نور",
+      "clue": "ضياء يساعد على الرؤية",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "شمال",
+      "clue": "الجهة المقابلة للجنوب",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "بلد",
+      "clue": "دولة أو وطن",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "قطة",
+      "clue": "حيوان أليف يموء",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "نافذة",
+      "clue": "فتحة في الجدار للضوء والهواء",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "طير",
+      "clue": "حيوان له أجنحة ويستطيع الطيران",
+      "category": "animal"
+    }
+  ]
+}

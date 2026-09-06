@@ -1,0 +1,50 @@
+{
+  "id": "de_easy_072",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 072",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "WOCHE",
+      "clue": "Ein Zeitraum von sieben Tagen",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "FREUND",
+      "clue": "Jemand, den man mag und dem man vertraut",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "MONAT",
+      "clue": "Einer von zwölf Teilen eines Jahres",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "HAAR",
+      "clue": "Strähnen, die aus der Haut wachsen",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "UHR",
+      "clue": "Gerät, das die Zeit anzeigt",
+      "category": "time"
+    }
+  ]
+}

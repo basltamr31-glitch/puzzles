@@ -1,0 +1,146 @@
+{
+  "@@locale": "es",
+  "appName": "Crucigrama",
+  "onboardingTitle": "Crucigrama",
+  "onboardingSubtitle": "Crucigramas cortos que puedes jugar en cualquier lugar y momento — sin cuenta, sin necesidad de internet.",
+  "continueButton": "Continuar",
+  "chooseGameLanguageTitle": "Elige el idioma de tus crucigramas",
+  "chooseGameLanguageSubtitle": "Este es el idioma de las pistas y respuestas. Puedes cambiarlo más tarde en Ajustes.",
+  "chooseDifficultyTitle": "Elige una dificultad",
+  "chooseDifficultySubtitle": "Puedes jugar cualquier dificultad en cualquier momento.",
+  "difficultyEasy": "Fácil",
+  "difficultyMedium": "Medio",
+  "difficultyHard": "Difícil",
+  "difficultyExpert": "Experto",
+  "puzzleListTitle": "Crucigramas de nivel {difficulty}",
+  "@puzzleListTitle": {
+    "placeholders": {
+      "difficulty": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleStatusCompleted": "Completado",
+  "puzzleStatusInProgress": "En curso",
+  "puzzleStatusNotStarted": "Sin empezar",
+  "puzzleStatusLocked": "Bloqueado",
+  "puzzlesSolvedLabel": "{solved} de {total} resueltos",
+  "@puzzlesSolvedLabel": {
+    "placeholders": {
+      "solved": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "puzzleLockedMessage": "Resuelve el crucigrama anterior para desbloquear este.",
+  "puzzleNumberLabel": "Crucigrama {number}",
+  "@puzzleNumberLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "noPuzzlesTitle": "Todavía no hay crucigramas",
+  "noPuzzlesMessage": "Nuevos crucigramas para este nivel están en camino.",
+  "acrossLabel": "Horizontal",
+  "downLabel": "Vertical",
+  "previousClueTooltip": "Pista anterior",
+  "nextClueTooltip": "Siguiente pista",
+  "hintButton": "Pista",
+  "hintConfirmTitle": "¿Usar una pista?",
+  "hintConfirmMessage": "Esto revelará la letra en la casilla seleccionada.",
+  "watchAdForHint": "Mira un video corto para obtener una pista",
+  "checkButton": "Comprobar",
+  "restartPuzzleButton": "Reiniciar",
+  "zoomInButton": "Acercar",
+  "zoomOutButton": "Alejar",
+  "restartConfirmTitle": "¿Reiniciar este crucigrama?",
+  "restartConfirmMessage": "Se borrará tu progreso en este crucigrama.",
+  "exitPuzzleConfirmTitle": "¿Salir del crucigrama?",
+  "exitPuzzleConfirmMessage": "Tu progreso se guarda automáticamente.",
+  "puzzleCompletedTitle": "¡Crucigrama completado!",
+  "puzzleCompletedMessage": "Bien hecho. ¿Listo para el siguiente?",
+  "nextPuzzleButton": "Siguiente crucigrama",
+  "backToPuzzlesButton": "Volver a los crucigramas",
+  "settingsTitle": "Ajustes",
+  "settingsUiLanguage": "Idioma de la app",
+  "settingsGameLanguage": "Idioma de los crucigramas",
+  "settingsAppearance": "Apariencia",
+  "themeModeSystem": "Sistema",
+  "themeModeLight": "Claro",
+  "themeModeDark": "Oscuro",
+  "settingsSound": "Efectos de sonido",
+  "settingsVibration": "Vibración",
+  "settingsMusic": "Música de fondo",
+  "musicTrackOff": "Desactivada",
+  "musicTrackCalm": "Tranquila",
+  "musicTrackGentle": "Suave",
+  "musicTrackUplifting": "Animada",
+  "musicTrackFocus": "Concentración",
+  "musicTrackBright": "Luminosa",
+  "musicTrackNight": "Noche",
+  "settingsReminders": "Recordatorios de juego",
+  "remindersPermissionDenied": "Las notificaciones están desactivadas para esta aplicación. Puedes activarlas en los ajustes de tu dispositivo.",
+  "reminderTitle": "Un crucigrama te espera",
+  "reminderBody": "Tómate un descanso y resuelve uno — solo lleva unos minutos.",
+  "settingsTestSound": "Probar sonido",
+  "soundTestOk": "Sonido reproducido.",
+  "soundTestFailed": "Error de sonido: {error}",
+  "@soundTestFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsRemoveAds": "Quitar anuncios",
+  "settingsRestorePurchases": "Restaurar compras",
+  "settingsAdPrivacyOptions": "Opciones de privacidad de anuncios",
+  "settingsPrivacy": "Política de privacidad",
+  "privacyPolicyViewOnline": "Ver en línea",
+  "settingsAbout": "Acerca de",
+  "settingsVersion": "Versión {version}",
+  "@settingsVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "removeAdsTitle": "Quitar anuncios",
+  "removeAdsDescription": "Disfruta de cada crucigrama sin anuncios de banner ni de pantalla completa — para siempre, con una sola compra.",
+  "removeAdsPrice": "1,00 $",
+  "removeAdsPurchaseButton": "Comprar — 1,00 $",
+  "removeAdsPurchaseButtonWithPrice": "Comprar — {price}",
+  "@removeAdsPurchaseButtonWithPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "musicToggleOn": "Activar la música",
+  "musicToggleOff": "Desactivar la música",
+  "settingsDeveloper": "Desarrollador",
+  "settingsDeveloperName": "BT developer",
+  "settingsCopyright": "© BaLa Dream",
+  "removeAdsAlreadyOwned": "Ya tienes la opción Quitar anuncios. ¡Gracias por tu apoyo!",
+  "purchasePending": "Tu compra se está procesando…",
+  "purchaseError": "No se pudo completar la compra. Inténtalo de nuevo.",
+  "purchaseStoreUnavailable": "La tienda no está disponible en este momento. Comprueba que has iniciado sesión e inténtalo de nuevo.",
+  "purchaseProductUnavailable": "Esta compra no está disponible en este momento. Inténtalo de nuevo más tarde.",
+  "purchaseCancelled": "Compra cancelada.",
+  "restoreSuccess": "Tus compras se han restaurado.",
+  "restoreNothingFound": "No se encontraron compras anteriores.",
+  "errorGeneric": "Algo salió mal. Inténtalo de nuevo.",
+  "errorNoInternet": "Estás sin conexión. Esta función necesita conexión a internet.",
+  "errorAdUnavailable": "No hay ningún anuncio disponible en este momento. Inténtalo más tarde.",
+  "errorPuzzleMissing": "No se pudo cargar este crucigrama.",
+  "cancelButton": "Cancelar",
+  "okButton": "Aceptar",
+  "confirmButton": "Confirmar"
+}

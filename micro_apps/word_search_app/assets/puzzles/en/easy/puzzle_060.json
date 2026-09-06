@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_060",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 59,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "NPMIGVAQ",
+    "MNTSACHI",
+    "MSFYRUGA",
+    "GOZSDPRB",
+    "QFHLERRI",
+    "SMWINDOW",
+    "KKITCHEN",
+    "HALLWAYO"
+  ],
+  "words": [
+    {
+      "word": "CUP",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RUG",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "WINDOW",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

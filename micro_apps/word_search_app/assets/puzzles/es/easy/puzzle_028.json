@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_028",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 27,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "BYPICCCN",
+    "CKUVAVCR",
+    "PBEOMEXD",
+    "FESTANTE",
+    "PZPOJTOL",
+    "AJENBANO",
+    "ZKJONNCQ",
+    "HIOXTAZA"
+  ],
+  "words": [
+    {
+      "word": "BANO",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CAMA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAZA",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VENTANA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

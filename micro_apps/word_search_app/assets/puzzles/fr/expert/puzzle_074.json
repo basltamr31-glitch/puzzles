@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_074",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 73,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "HTZIMTCICECYJM",
+    "YCMYZVJOIAXJVE",
+    "TXAXIBMVLOZAKE",
+    "KISVUCGZZRGPTZ",
+    "ZMSGDNIAPJAMSG",
+    "XJOBTGZTFXPASN",
+    "PHUDAABCRSOXJJ",
+    "UNPTLNRCAOTSDV",
+    "CBEQOPAPIGNFDE",
+    "UAHFCMHNSMOZDE",
+    "UNFROMAGEZMHOG",
+    "ZIEEHIVTGYEQNF",
+    "NPZLCEHVEPZEFE",
+    "EZIAPLSYXXOGHY"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 5,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CAFE",
+      "row": 8,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 12,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "CITRON",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "CREPE",
+      "row": 9,
+      "col": 4,
+      "dir": "SW"
+    },
+    {
+      "word": "FRAISE",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 10,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GATEAU",
+      "row": 5,
+      "col": 5,
+      "dir": "SW"
+    },
+    {
+      "word": "MIEL",
+      "row": 10,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PAIN",
+      "row": 4,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "SOUPE",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 7,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

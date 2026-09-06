@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_012",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 012",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "DUCK",
+      "clue": "Water bird that quacks",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "SKIN",
+      "clue": "Outer covering of the body",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "WORD",
+      "clue": "A unit of language with meaning",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ISLAND",
+      "clue": "Land completely surrounded by water",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "ROCK",
+      "clue": "Hard mineral material, or a large stone",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "SEA",
+      "clue": "A large body of salt water",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "CHAIR",
+      "clue": "Piece of furniture you sit on, with a back",
+      "category": "home"
+    }
+  ]
+}

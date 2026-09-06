@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_002",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 1,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "PKMIELDN",
+    "TPASTELC",
+    "EQNZFKYS",
+    "LRZKRKZT",
+    "MSAGEVRL",
+    "YONISUNU",
+    "NPATATAK",
+    "CACBSDOR"
+  ],
+  "words": [
+    {
+      "word": "FRESA",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MANZANA",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MIEL",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PASTEL",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOPA",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

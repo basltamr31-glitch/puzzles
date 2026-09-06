@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_051",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 50,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "ONMBTGIFBB",
+    "LIROZIFWTY",
+    "WVPWMSORRA",
+    "VUDYMTTDGB",
+    "HYKBERGCEU",
+    "EISAEABXRN",
+    "YNMURNEBEL",
+    "YXGMADBWGJ",
+    "TJHBECWTEL",
+    "KKMIILJJNA"
+  ],
+  "words": [
+    {
+      "word": "BAUM",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BERG",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "EIS",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HIMMEL",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "MEER",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "NEBEL",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "REGEN",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "STRAND",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

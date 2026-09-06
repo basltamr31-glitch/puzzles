@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_090",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 89,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "VKTBJUOAATPQ",
+    "VZMOOGYEXOBL",
+    "TJPRMVPURDNS",
+    "BANANAAZQBWE",
+    "UAPNRZTPYSHZ",
+    "XYTGPVCOMRBI",
+    "BELEIKOOCKQA",
+    "SZXLZYFTVDIV",
+    "EOLDZMFXMVCP",
+    "OUUMAIECUMNX",
+    "ZPAPPLEECLFW",
+    "LNMQZKTYIPPU"
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "row": 10,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BANANA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "COFFEE",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "COOKIE",
+      "row": 6,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "GRAPE",
+      "row": 5,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "MILK",
+      "row": 8,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ORANGE",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PIZZA",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SOUP",
+      "row": 7,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "TOMATO",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

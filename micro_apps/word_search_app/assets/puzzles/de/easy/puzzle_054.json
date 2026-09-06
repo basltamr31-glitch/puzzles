@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_054",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 53,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "LVXLUXPE",
+    "YSWBRLTT",
+    "KOABFJHA",
+    "UNASRAOM",
+    "KLEIDCSI",
+    "ZHSOCKEW",
+    "GUERTELX",
+    "MTDEVFLN"
+  ],
+  "words": [
+    {
+      "word": "GUERTEL",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HOSE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HUT",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "JACKE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "KLEID",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOCKE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

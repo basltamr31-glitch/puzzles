@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_043",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 42,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "XPNLGDFCAHIR",
+    "XHKFITXDKSSO",
+    "LQBIBFTNGHOP",
+    "ZXVNEHBULGSE",
+    "VUOYTITFZKZS",
+    "GRLFCEBUNAAG",
+    "LLCUYLTNJEVK",
+    "ANATNOMVFMIK",
+    "QPNCSBCIBTSH",
+    "OTREISEDVRLR",
+    "ZPLAYADACSAC",
+    "ZIAFHARDEIPC"
+  ],
+  "words": [
+    {
+      "word": "CASCADA",
+      "row": 10,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "DESIERTO",
+      "row": 9,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "GLACIAR",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "HIELO",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ISLA",
+      "row": 7,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "MONTANA",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "NUBE",
+      "row": 5,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "PLAYA",
+      "row": 10,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

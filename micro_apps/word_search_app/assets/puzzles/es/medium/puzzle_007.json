@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_007",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 6,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "BICICLETAQ",
+    "AGTMXCAZVS",
+    "FNIAQBUSIX",
+    "RQNPXCTEOT",
+    "ESTACIONNJ",
+    "OFIRYFPMCM",
+    "YRGYEVIQLC",
+    "TNGURNSFRN",
+    "MZALMGTGLA",
+    "UUPKQRACPV"
+  ],
+  "words": [
+    {
+      "word": "AUTOPISTA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "AVION",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "BICICLETA",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "ESTACION",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MAPA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TREN",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

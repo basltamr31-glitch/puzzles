@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_028",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 27,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "ECJRYDPJPLBJXS",
+    "UOJBDMHMKFLEHS",
+    "DBAZEYBCARPETH",
+    "NXVIXUHALLWAYJ",
+    "XPRGHWSZQSIKAP",
+    "XKARDBEDQRNHWH",
+    "UMQAGQLRCMKOUY",
+    "UUGUZYBAOELBAT",
+    "HJGIBLSONLXNKB",
+    "PVHYJERBIKDHMG",
+    "OZYCBDOPLVEWCA",
+    "LITWEAWUVUSTST",
+    "VXLBNEHCTIKHAG",
+    "HVGKKJUQPSJTYC"
+  ],
+  "words": [
+    {
+      "word": "BEDROOM",
+      "row": 12,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "BLANKET",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "CARPET",
+      "row": 2,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "CUPBOARD",
+      "row": 12,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "DESK",
+      "row": 9,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 12,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "LAMP",
+      "row": 3,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "PILLOW",
+      "row": 10,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "SHELF",
+      "row": 1,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "STAIRCASE",
+      "row": 1,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "TABLE",
+      "row": 7,
+      "col": 13,
+      "dir": "W"
+    }
+  ]
+}

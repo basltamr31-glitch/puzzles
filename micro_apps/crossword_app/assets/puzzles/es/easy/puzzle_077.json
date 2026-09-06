@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_077",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 077",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "RANA",
+      "clue": "Anfibio verde que salta y croa",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "ISLA",
+      "clue": "Tierra completamente rodeada de agua",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "PADRE",
+      "clue": "Progenitor masculino",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "REINA",
+      "clue": "Gobernante femenina de un reino",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "PAN",
+      "clue": "Alimento horneado hecho de harina y agua",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "MESA",
+      "clue": "Mueble con una superficie plana y patas",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "MANO",
+      "clue": "Parte del cuerpo al final del brazo",
+      "category": "body"
+    }
+  ]
+}

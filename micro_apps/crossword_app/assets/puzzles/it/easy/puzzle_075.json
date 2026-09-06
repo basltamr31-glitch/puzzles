@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_075",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 075",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "PADRE",
+      "clue": "Genitore maschile",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "NUVOLA",
+      "clue": "Massa bianca o grigia che fluttua nel cielo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "BLU",
+      "clue": "Colore di un cielo sereno",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "MESE",
+      "clue": "Una delle dodici divisioni di un anno",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "ALBERO",
+      "clue": "Grande pianta con tronco e rami",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "NOTTE",
+      "clue": "La parte buia della giornata",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

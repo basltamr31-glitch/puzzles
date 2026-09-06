@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_033",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 033",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "VALLEY",
+      "clue": "Low land between hills or mountains",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ISLAND",
+      "clue": "Land completely surrounded by water",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "SEED",
+      "clue": "What a plant grows from",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "MOON",
+      "clue": "Earth's only natural satellite",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "HAIR",
+      "clue": "Strands that grow from the skin, especially the head",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "CHAIR",
+      "clue": "Piece of furniture you sit on, with a back",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are",
+      "category": "place"
+    }
+  ]
+}

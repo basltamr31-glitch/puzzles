@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_058",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 058",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "SORELLA",
+      "clue": "Parente femminile della stessa generazione",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "AMICO",
+      "clue": "Qualcuno che ti piace e in cui hai fiducia",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "VETRO",
+      "clue": "Materiale duro e trasparente",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "DESERTO",
+      "clue": "Zona secca e sabbiosa con poca pioggia",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "PORTA",
+      "clue": "Pannello che si apre per entrare in una stanza",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "VALLE",
+      "clue": "Terra bassa tra le montagne",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "APE",
+      "clue": "Insetto che ronza e produce miele",
+      "category": "animal"
+    }
+  ]
+}

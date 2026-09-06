@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_032",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 31,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "IZZLGDDE",
+    "BCRACENK",
+    "MHYVYTPG",
+    "TEAMCUIP",
+    "KSLALOYG",
+    "MSSWIMHK",
+    "ZRFTNBIG",
+    "IJFXGOAL"
+  ],
+  "words": [
+    {
+      "word": "CHESS",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CYCLING",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "GOAL",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "RACE",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SWIM",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

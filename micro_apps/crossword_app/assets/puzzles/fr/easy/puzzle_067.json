@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_067",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 067",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "MER",
+      "clue": "Grande étendue d'eau salée",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "SOUPE",
+      "clue": "Plat liquide chaud, souvent avec des légumes",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "PEAU",
+      "clue": "Enveloppe extérieure du corps",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "PAPIER",
+      "clue": "Matériau fin utilisé pour écrire",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "MUR",
+      "clue": "Structure verticale qui divise une pièce",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "FER",
+      "clue": "Métal gris résistant, utilisé dans l'acier",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "BRAS",
+      "clue": "Membre entre l'épaule et la main",
+      "category": "body"
+    }
+  ]
+}

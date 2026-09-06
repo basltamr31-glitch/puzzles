@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_100",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 99,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "MFUKQTCETNZQTG",
+    "GTNLAMPSPUJWSM",
+    "HLNFDJOHAEEHGD",
+    "LUUYRFUOVPIAFD",
+    "KRGBAMIRRORXOT",
+    "GOWSKOLRNDEMAL",
+    "UXMIJYKSEDEOHA",
+    "VYWTNHSNUPMBHB",
+    "HNNUSDVIPILLOW",
+    "QYRDVMOORHTABD",
+    "XPHNSLWWTAJNCJ",
+    "MACRPRSYBJCKUE",
+    "KSYIRUDLMXTECN",
+    "XUMYXVEJITWTYO"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 9,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "BEDROOM",
+      "row": 7,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "BLANKET",
+      "row": 7,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 6,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "FIREPLACE",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "GARDEN",
+      "row": 2,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "LAMP",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MIRROR",
+      "row": 4,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PILLOW",
+      "row": 8,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 1,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "TABLE",
+      "row": 9,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "WINDOW",
+      "row": 5,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

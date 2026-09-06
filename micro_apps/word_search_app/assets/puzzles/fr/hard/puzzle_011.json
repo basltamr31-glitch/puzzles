@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_011",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 10,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "YAZKZEPGLEZL",
+    "MBBGTVZLGBBQ",
+    "LXRZCVMAUUME",
+    "KKODPQUCYINV",
+    "SQUCVNPEGGEB",
+    "ZOINAAIIAZAJ",
+    "GJLCTRDTESVV",
+    "ENLEICNECRAI",
+    "OOAAIOFGVMRC",
+    "VGRVMLOVIKHE",
+    "APDAOVCZCQBE",
+    "NYBRFMHLLZVC"
+  ],
+  "words": [
+    {
+      "word": "ARCENCIEL",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "BROUILLARD",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "GLACE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MONTAGNE",
+      "row": 9,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "NUAGE",
+      "row": 4,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "PIERRE",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "PLUIE",
+      "row": 0,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "PRAIRIE",
+      "row": 10,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

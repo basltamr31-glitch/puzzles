@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_005",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 4,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "DZHDRARDNMTL",
+    "CNDFCPAOTNEM",
+    "TSPDXAIVHASA",
+    "LBUMOHBELLTN",
+    "TOSHCUZHDYAO",
+    "LRTCOAVZZESZ",
+    "BCOLLOPTOHIU",
+    "ZNMLIZQUSRFS",
+    "QGAMBACULCUZ",
+    "RPCREAXHXVNY",
+    "SXOTIDGHIGXF",
+    "KITNKSVXULZS"
+  ],
+  "words": [
+    {
+      "word": "COLLO",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DITO",
+      "row": 10,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "GAMBA",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MANO",
+      "row": 1,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "MENTO",
+      "row": 1,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 6,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "PIEDE",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "SPALLA",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "STOMACO",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TESTA",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

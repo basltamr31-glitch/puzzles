@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_071",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 70,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "KMHRTZARXMPP",
+    "COREISEPASSG",
+    "ZSFOCWUWTRUG",
+    "OEEFKZTDCBFG",
+    "USCNEFAHGULF",
+    "GCUSTRXTKYUA",
+    "HHRKRRIETIGK",
+    "MILHOBXDJPZN",
+    "EFATLBUWRYEN",
+    "UFUZXXZDGMUS",
+    "WABOWOVFRMGE",
+    "PWBOIXPSOWSA"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 10,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "FAHRRAD",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "FLUGHAFEN",
+      "row": 4,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "FLUGZEUG",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "KOFFER",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "REISEPASS",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "URLAUB",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

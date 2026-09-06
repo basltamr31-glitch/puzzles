@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_023",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 22,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "KARTEKKK",
+    "SCHIFFUM",
+    "TDMCAVBE",
+    "OFTKHEPG",
+    "PFVERHWM",
+    "CAITRZFL",
+    "VURLAUBO",
+    "XMUFDGVR"
+  ],
+  "words": [
+    {
+      "word": "FAHRRAD",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "KARTE",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TICKET",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "URLAUB",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ZUG",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

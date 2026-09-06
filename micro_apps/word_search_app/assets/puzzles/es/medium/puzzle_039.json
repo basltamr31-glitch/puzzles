@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_039",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 38,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "FDDAZKRRYV",
+    "TCVIAJEASD",
+    "IYCEUEPOMV",
+    "BIDZTEUEZK",
+    "MUQBOLETOP",
+    "PASAPORTEB",
+    "IVLQISTPEC",
+    "LIPESROCCT",
+    "AOYOTIXAPJ",
+    "SNMNAAEBCH"
+  ],
+  "words": [
+    {
+      "word": "AUTOPISTA",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "AVION",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "BOLETO",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "MALETA",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PASAPORTE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PUERTO",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "VIAJE",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

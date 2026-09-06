@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_014",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 13,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "AJPJYYKTFCXL",
+    "XIIUUCSASOXN",
+    "BGMXJUIOCJBS",
+    "AVPPCOLLIERY",
+    "SZAGEDRBCNAO",
+    "KTNEIRPNROBE",
+    "EFTDNGMVAEPU",
+    "TXACTUAEVREU",
+    "SELFUOTNAPZB",
+    "RXOYRZTHTBNQ",
+    "DUNSEUCVEPLR",
+    "YNVESEFUOUQE"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CEINTURE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "COLLIER",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CRAVATE",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "ECHARPE",
+      "row": 11,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "GANT",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "IMPERMEABLE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTALON",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PANTOUFLES",
+      "row": 8,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "ROBE",
+      "row": 5,
+      "col": 8,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_069",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 68,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "TOEXZNBDHI",
+    "MFRONTEKTE",
+    "CGFDCXKMOD",
+    "STOMACORXQ",
+    "UPLMVAHRVE",
+    "FKAMIVZIRB",
+    "VUVLGTGEOE",
+    "NFCOLLOYMK",
+    "GRVUIAAFFF",
+    "GAMBAHVOVC"
+  ],
+  "words": [
+    {
+      "word": "CAVIGLIA",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "COLLO",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FRONTE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GAMBA",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GOMITO",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SPALLA",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "STOMACO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

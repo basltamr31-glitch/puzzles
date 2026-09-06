@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_100",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 99,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "NMZBZCYYUTBIGF",
+    "GNVIAZATEYGAOE",
+    "HZXJDNLYMGLVEJ",
+    "YDHJAOOJCFOCRF",
+    "HHCJHRRFOJEPSE",
+    "CENOONDMCQVOAK",
+    "PITVMABIIRISEV",
+    "AIHNLRNMNTHNNX",
+    "VICDAANPAFOSER",
+    "CXAYCTXCHUARMO",
+    "BLDQNRSAFHUZIR",
+    "KAAIKEKEOHQRHO",
+    "QMFKLUHFRBEXCY",
+    "KMIRQPOHLYFASR"
+  ],
+  "words": [
+    {
+      "word": "ALFOMBRA",
+      "row": 1,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "ALMOHADA",
+      "row": 8,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "BANO",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 12,
+      "col": 12,
+      "dir": "N"
+    },
+    {
+      "word": "COCINA",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "DORMITORIO",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 4,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 11,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "JARDIN",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PUERTA",
+      "row": 13,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "SOFA",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "TAZA",
+      "row": 1,
+      "col": 7,
+      "dir": "W"
+    }
+  ]
+}

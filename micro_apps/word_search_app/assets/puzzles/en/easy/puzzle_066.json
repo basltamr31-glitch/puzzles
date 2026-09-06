@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_066",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 65,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "MXPOTATO",
+    "TEADORCA",
+    "NESHMPOG",
+    "WSTCAKEU",
+    "JDAPTGGM",
+    "XLEMONNQ",
+    "YWPNMVDG",
+    "PJTETSKI"
+  ],
+  "words": [
+    {
+      "word": "CAKE",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LEMON",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PASTA",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATO",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

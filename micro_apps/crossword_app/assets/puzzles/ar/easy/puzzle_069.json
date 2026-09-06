@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_069",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 069",
+  "rows": 7,
+  "cols": 4,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "عين",
+      "clue": "عضو الإبصار في الجسم",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "لبن",
+      "clue": "سائل أبيض يأتي من الأبقار",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "يوم",
+      "clue": "مدة أربع وعشرين ساعة",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "ثلج",
+      "clue": "ماء متجمد أبيض يتساقط في الشتاء",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "شمال",
+      "clue": "الجهة المقابلة للجنوب",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "ولد",
+      "clue": "طفل ذكر",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "شمس",
+      "clue": "النجم الذي يضيء نهارنا",
+      "category": "nature"
+    }
+  ]
+}

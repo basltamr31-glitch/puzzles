@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_049",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 48,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "RNMMBRFA",
+    "USSYKDHB",
+    "GRGIRAFE",
+    "PENZBMLI",
+    "XNCHEVAL",
+    "YAIGLEPL",
+    "BRPMLLIE",
+    "KDYPSENA"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "AIGLE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LAPIN",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "RENARD",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

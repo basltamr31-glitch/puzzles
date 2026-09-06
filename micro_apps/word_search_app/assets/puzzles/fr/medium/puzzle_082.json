@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_082",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 81,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "VFENXZECHY",
+    "OYBCIHLZHB",
+    "CAFEGMPCJR",
+    "ZHTUUTADMB",
+    "LUOXTRVSNA",
+    "KJMCQPROSN",
+    "IEAPOIREZA",
+    "GJTDPLAITN",
+    "ELEDFRAISE",
+    "ZQTFYOKTJL"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "BEURRE",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CAFE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "FRAISE",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "LAIT",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "POIRE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

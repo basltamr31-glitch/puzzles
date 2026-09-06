@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_023",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 22,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "FBZCPTUV",
+    "TDNHEOFO",
+    "KBUSUTPY",
+    "KGMGAREA",
+    "RPYKSAKG",
+    "VIVALISE",
+    "SAVIONOT",
+    "LZIACHCQ"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GARE",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "VALISE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

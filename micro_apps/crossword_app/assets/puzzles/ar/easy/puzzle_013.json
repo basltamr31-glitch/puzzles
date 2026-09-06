@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_013",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 013",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "طفل",
+      "clue": "إنسان صغير السن",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "خروف",
+      "clue": "حيوان صوفي أليف",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "زهرة",
+      "clue": "جزء ملون وجميل من النبات",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "لبن",
+      "clue": "سائل أبيض يأتي من الأبقار",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "لون",
+      "clue": "صفة بصرية مثل الأحمر أو الأزرق",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "موز",
+      "clue": "فاكهة صفراء طويلة",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "بيت",
+      "clue": "مكان يسكن فيه الإنسان",
+      "category": "home"
+    }
+  ]
+}

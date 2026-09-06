@@ -1,0 +1,66 @@
+{
+  "id": "en_medium_071",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 071",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "WEATHER",
+      "clue": "The state of the atmosphere, hot, cold, rainy, etc."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "POCKET",
+      "clue": "A small pouch sewn into clothing"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "VIOLIN",
+      "clue": "Stringed instrument played with a bow"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "answer": "PROBLEM",
+      "clue": "A difficult matter that needs solving"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "answer": "ROLE",
+      "clue": "A part someone plays in a story or job"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "OIL",
+      "clue": "Slippery liquid used for cooking or fuel"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "NUMBER",
+      "clue": "A mathematical value, like one or two"
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "col": 9,
+      "answer": "RATE",
+      "clue": "A measure of how fast something happens"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "it_medium_082",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 082",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "MERCATO",
+      "clue": "Luogo dove si comprano e vendono merci"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "TEMPORALE",
+      "clue": "Tempesta con tuoni e fulmini"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "MACCHINA",
+      "clue": "Apparecchio usato per scattare fotografie, o un'auto"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "PIANO",
+      "clue": "Una proposta dettagliata per fare qualcosa"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "UNITA",
+      "clue": "Una singola misura o pezzo standard"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "answer": "RAGNO",
+      "clue": "Creatura a otto zampe che tesse ragnatele"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "answer": "UFFICIO",
+      "clue": "Stanza usata per il lavoro professionale"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "ETA",
+      "clue": "Quanti anni ha vissuto qualcuno"
+    }
+  ]
+}

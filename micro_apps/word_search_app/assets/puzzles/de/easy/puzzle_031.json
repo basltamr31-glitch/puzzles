@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_031",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 30,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "XSJACGDC",
+    "MCAUTOTY",
+    "UHAFENYP",
+    "TICKETKK",
+    "AFCREISE",
+    "XFDSKLVB",
+    "IJKFVXIF",
+    "UFFWCRGK"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HAFEN",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "REISE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

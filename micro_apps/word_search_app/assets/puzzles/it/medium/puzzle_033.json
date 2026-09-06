@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_033",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 32,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "MELEFANTEK",
+    "GIRAFFAEGI",
+    "ECAVALLOET",
+    "DAZYOEEYVI",
+    "GNLSRLZONG",
+    "IEHLSFPINR",
+    "HZPTORMEGE",
+    "SXICRTGOHV",
+    "UFQXLABCQG",
+    "FPKUHFDYET"
+  ],
+  "words": [
+    {
+      "word": "CANE",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CAVALLO",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LEONE",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "ORSO",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "VOLPE",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

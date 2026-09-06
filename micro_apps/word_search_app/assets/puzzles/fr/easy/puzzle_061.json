@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_061",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 60,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "RHUPBQBR",
+    "GRFMXURL",
+    "CMRMLVQI",
+    "KOOHTETE",
+    "MENTONMP",
+    "AITLNTTQ",
+    "ILCFURKK",
+    "NZMYAESP"
+  ],
+  "words": [
+    {
+      "word": "FRONT",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MAIN",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "MENTON",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "OEIL",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TETE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VENTRE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

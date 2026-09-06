@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_012",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 11,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "NNIABEDELLASLE",
+    "EIRACSRRHEHHDE",
+    "TSYXZBLETROPIG",
+    "CSSFMDBGAAIPOV",
+    "CUIASGTALACOZT",
+    "EOHPTLPTIMGUTE",
+    "NCHGAQXEDTQJIN",
+    "JQSFBTRPZVULYP",
+    "MRJVLTJATUDKNS",
+    "KCNQEULNXCAIVY",
+    "KECNIDRAJRPDLR",
+    "QJEINKRCMSCRCX",
+    "HFDTPERLPPDOLG",
+    "PSAIZEUMBEEVXQ"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 11,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "CHAMBRE",
+      "row": 6,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 6,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 6,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "FENETRE",
+      "row": 12,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "JARDIN",
+      "row": 10,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "LAMPE",
+      "row": 9,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "PORTE",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SALLEDEBAIN",
+      "row": 0,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "TABLE",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TAPIS",
+      "row": 7,
+      "col": 5,
+      "dir": "NW"
+    },
+    {
+      "word": "TASSE",
+      "row": 5,
+      "col": 4,
+      "dir": "NW"
+    }
+  ]
+}

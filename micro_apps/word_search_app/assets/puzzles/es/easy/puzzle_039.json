@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_039",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 38,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "RTSPBLYZ",
+    "BMBUSVDV",
+    "IMOCHILA",
+    "PALTGAXV",
+    "CPEKRJYI",
+    "RATQPENO",
+    "QDOSZBEN",
+    "LRQFTJII"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BOLETO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MAPA",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VIAJE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

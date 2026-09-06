@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_039",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 039",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "ملك",
+      "clue": "حاكم مملكة",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "موز",
+      "clue": "فاكهة صفراء طويلة",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "شمال",
+      "clue": "الجهة المقابلة للجنوب",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "قلم",
+      "clue": "أداة تُستخدم للكتابة",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "شاي",
+      "clue": "مشروب ساخن يُحضّر من أوراق نبات",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "كلب",
+      "clue": "حيوان أليف يُعرف بالوفاء",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "بلد",
+      "clue": "دولة أو وطن",
+      "category": "place"
+    }
+  ]
+}

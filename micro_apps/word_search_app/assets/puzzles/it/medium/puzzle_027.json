@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_027",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 26,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "NTYBSGPCCB",
+    "FDCAHHXSXY",
+    "FFEAPIETRA",
+    "LOOASAEUIL",
+    "XLNGCCPZSX",
+    "FQVULCANOX",
+    "AXTZVIVTLM",
+    "HSPSVOAYAD",
+    "HKCESOLEFB",
+    "KGAVLDYAEZ"
+  ],
+  "words": [
+    {
+      "word": "CASCATA",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "GHIACCIO",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ISOLA",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PIETRA",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SOLE",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VULCANO",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_011",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 10,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "JWDRKLELPMLY",
+    "GLACIERMLAER",
+    "FHTTRIHOIGDH",
+    "QGWTESNUSBMW",
+    "KAPPKRLNSHOI",
+    "BFSSDZFTCBMN",
+    "TTZMQRMANRED",
+    "BOSTONEILPWG",
+    "WRGLBBANTLQX",
+    "IQQKSRDGPFMR",
+    "YRPORLOXMVAD",
+    "COJXLCWKPTAW"
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "row": 8,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "GLACIER",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MEADOW",
+      "row": 6,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "RAINBOW",
+      "row": 9,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "STONE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SUNSET",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "TREE",
+      "row": 3,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "WATERFALL",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "WIND",
+      "row": 3,
+      "col": 11,
+      "dir": "S"
+    }
+  ]
+}

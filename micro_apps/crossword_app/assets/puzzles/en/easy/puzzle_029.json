@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_029",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 029",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "ANT",
+      "clue": "Small hardworking insect that lives in colonies",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "CHAIR",
+      "clue": "Piece of furniture you sit on, with a back",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "TABLE",
+      "clue": "Flat-topped furniture with legs",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "SEA",
+      "clue": "A large body of salt water",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "EAR",
+      "clue": "Body part used for hearing",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "RIVER",
+      "clue": "A large natural stream of flowing water",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "CAKE",
+      "clue": "Sweet baked dessert, often for birthdays",
+      "category": "food"
+    }
+  ]
+}

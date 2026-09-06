@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_083",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 083",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "TABLE",
+      "clue": "Flat-topped furniture with legs",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "LAMP",
+      "clue": "Device that gives off light in a room",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "MOON",
+      "clue": "Earth's only natural satellite",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "ISLAND",
+      "clue": "Land completely surrounded by water",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "CAT",
+      "clue": "Common household pet that meows",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "NOSE",
+      "clue": "Body part used for smelling",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "WOMAN",
+      "clue": "Adult female person",
+      "category": "people"
+    }
+  ]
+}

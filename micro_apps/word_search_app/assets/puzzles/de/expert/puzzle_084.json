@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_084",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 83,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "YLCUTNKGBIMPNS",
+    "MZLCDIFOUFYSFC",
+    "ITALEMLNJFSYSH",
+    "TPXIMNNXYRFKCL",
+    "TNONVLIYLUEIPA",
+    "HRZJUAMWLAPZDF",
+    "TNFSOFAFEPGPFZ",
+    "ASEFAPKUECHEEI",
+    "COFKHWATMNNNRM",
+    "UKNPCSTLESSATM",
+    "YNSWPEORGPVTCE",
+    "YKCVBADEZIMMER",
+    "TSCVICROWFIAIR",
+    "EEHJXDOCOLRXLG"
+  ],
+  "words": [
+    {
+      "word": "BADEZIMMER",
+      "row": 11,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BETT",
+      "row": 11,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "DECKE",
+      "row": 11,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "FENSTER",
+      "row": 6,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "KAMIN",
+      "row": 7,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "KUECHE",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPE",
+      "row": 13,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "REGAL",
+      "row": 8,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "SCHLAFZIMMER",
+      "row": 0,
+      "col": 13,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TASSE",
+      "row": 9,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 8,
+      "col": 7,
+      "dir": "NE"
+    }
+  ]
+}

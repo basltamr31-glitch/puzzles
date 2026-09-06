@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_051",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 50,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "MAPDRVSEGP",
+    "VEHGLACIAR",
+    "PXBIRRYORI",
+    "RKCAGCXNBP",
+    "RKZJSOLUOL",
+    "NXSSNIEBLA",
+    "IUCRVROELY",
+    "FOXJPIEDRA",
+    "HLYJTSTLFM",
+    "RFNXNMNVDY"
+  ],
+  "words": [
+    {
+      "word": "ARBOL",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "ARCOIRIS",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GLACIAR",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "NIEBLA",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "NUBE",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PLAYA",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SOL",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

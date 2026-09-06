@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_088",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 87,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "MDSPORTLERWM",
+    "NJXLLABSSUFI",
+    "LYSTADIONBNY",
+    "JEETUFTAUZTR",
+    "ARNTFAUVZJMF",
+    "SIFSCHACHSFK",
+    "MDKXORYBFSPO",
+    "DVOLLEYBALLF",
+    "YSPSKNUIGOME",
+    "IKJCBNNLUEFW",
+    "ZWOYTEAMHZDA",
+    "GHHHCNDHALCW"
+  ],
+  "words": [
+    {
+      "word": "FUSSBALL",
+      "row": 1,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "LAUF",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "RADFAHREN",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "RENNEN",
+      "row": 6,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SCHACH",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SPORTLER",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STADION",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 10,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VOLLEYBALL",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

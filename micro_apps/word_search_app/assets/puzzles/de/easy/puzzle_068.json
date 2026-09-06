@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_068",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 67,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "BXTXCXTK",
+    "SBETTMSA",
+    "CTKHANPM",
+    "PLYSSUII",
+    "TYKISSEN",
+    "LBIBEAGO",
+    "DIVCWEES",
+    "NTREGALJ"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KAMIN",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "REGAL",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TASSE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

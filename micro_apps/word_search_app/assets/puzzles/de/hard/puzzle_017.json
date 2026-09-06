@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_017",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 16,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "STYUBJHBPXAL",
+    "JCKROKODILWO",
+    "NSHMIPRKNEAE",
+    "CXKAMELAGFNW",
+    "AAIAFKIEUPHE",
+    "NHMPTBIUIAUP",
+    "LEAMAZFDNUHU",
+    "HKBYPPEZLNGE",
+    "NLSSRNFHMNJG",
+    "ZYHWUSRZHMXH",
+    "ZNJXHMUSHVAW",
+    "ZDZZJXRAKYYB"
+  ],
+  "words": [
+    {
+      "word": "BIENE",
+      "row": 0,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "HUND",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "KAMEL",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KATZE",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LOEWE",
+      "row": 0,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "PFERD",
+      "row": 5,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "SCHAF",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "ZIEGE",
+      "row": 6,
+      "col": 5,
+      "dir": "NE"
+    }
+  ]
+}

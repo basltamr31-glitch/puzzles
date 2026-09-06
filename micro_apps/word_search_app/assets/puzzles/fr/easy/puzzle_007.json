@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_007",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 6,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "KJTRAINO",
+    "DMRHPDPB",
+    "RVELOBCI",
+    "LYIFRBFL",
+    "RTKSTUSL",
+    "BARQRSQE",
+    "DXXLJTIT",
+    "XIYQXVPI"
+  ],
+  "words": [
+    {
+      "word": "BILLET",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PORT",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TRAIN",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VELO",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

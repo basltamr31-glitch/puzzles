@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_097",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 097",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "PADRE",
+      "clue": "Progenitor masculino",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "MADRE",
+      "clue": "Progenitor femenino",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "RIO",
+      "clue": "Gran corriente natural de agua",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "PIEL",
+      "clue": "Cubierta exterior del cuerpo",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "PEZ",
+      "clue": "Animal acuático que respira por branquias",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "OJO",
+      "clue": "Órgano usado para ver",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "HOJA",
+      "clue": "Parte verde y plana de una planta",
+      "category": "nature"
+    }
+  ]
+}

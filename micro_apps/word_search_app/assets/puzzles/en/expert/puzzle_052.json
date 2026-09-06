@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_052",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 51,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "BETHJRDWYYEDPY",
+    "RNXAAKCGLTXXWS",
+    "UUBDJQYCHKTDZT",
+    "YMOORHTABLECEL",
+    "PTEKNALBFNVVAF",
+    "CGPJQLOAGQHOUR",
+    "NZRDWSRBMWYLQG",
+    "SFHAYOJVPPDTAQ",
+    "FIYDRHLFNUYWPC",
+    "LIHRGNILIECFCN",
+    "DEIWODEEICDBGX",
+    "QMIZAOBHEPGRWF",
+    "SFLTYVDSSVESAD",
+    "YMYCICYABRJZRG"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "BLANKET",
+      "row": 4,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "CEILING",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CUPBOARD",
+      "row": 9,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "DOOR",
+      "row": 12,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "GARDEN",
+      "row": 13,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 2,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "LAMP",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "MIRROR",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "PILLOW",
+      "row": 11,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "SHELF",
+      "row": 12,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "TABLE",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    }
+  ]
+}

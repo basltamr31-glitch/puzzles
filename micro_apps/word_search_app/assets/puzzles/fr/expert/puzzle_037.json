@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_037",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 36,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "UHMMSOEYLIMXUX",
+    "NICMEGBPEAEYHJ",
+    "OREILLERIPKKHM",
+    "TFLYLHSNAQJTSA",
+    "NJOLICRUOSGOTL",
+    "EXVSVLLCSUHDVA",
+    "MXDZEEXAXUUSNY",
+    "NZLXHDNBFEBQPX",
+    "XNNKCUKILJSBDD",
+    "SGCFRONTETEHIU",
+    "SPSYMCBBTHJEGZ",
+    "QMHZCDBTOGBZAL",
+    "EHKTUSDZNSYUTB",
+    "SGXHDTZHYLTXKJ"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "CHEVILLE",
+      "row": 8,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "COUDE",
+      "row": 10,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "EPAULE",
+      "row": 1,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "FRONT",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GENOU",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "MAIN",
+      "row": 0,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "MENTON",
+      "row": 6,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "OEIL",
+      "row": 0,
+      "col": 5,
+      "dir": "SW"
+    },
+    {
+      "word": "OREILLE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOURCIL",
+      "row": 4,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "TETE",
+      "row": 9,
+      "col": 7,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_097",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 96,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "CHRCLQAQVHNM",
+    "HMCEARVPDYNC",
+    "HNVEBBFDROFJ",
+    "LNJABCAMELLO",
+    "COCODRILOQGK",
+    "QBABEJAKLOHD",
+    "BXOTXNRXUOHU",
+    "HMNHMRTIRMBO",
+    "OACDDEVRVBDO",
+    "PULNTYEDVXBI",
+    "XJXUTPMOZLKM",
+    "QHCGQABYYNUA"
+  ],
+  "words": [
+    {
+      "word": "ABEJA",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CABALLO",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CABRA",
+      "row": 4,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "CAMELLO",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CEBRA",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "COCODRILO",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LEON",
+      "row": 4,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "LOBO",
+      "row": 5,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTERA",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "PERRO",
+      "row": 10,
+      "col": 5,
+      "dir": "NE"
+    }
+  ]
+}

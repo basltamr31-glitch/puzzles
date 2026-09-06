@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_050",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 49,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "LPMDHSUNFJUE",
+    "PASTARRRBEGH",
+    "EATSMTGIXNCO",
+    "EANHSLBTAJKU",
+    "HMSCSCHRLYBB",
+    "YPOTATONEJNK",
+    "GQUINKNOKAUT",
+    "NSPZDLEZKLDT",
+    "LBRNWCYAXIHF",
+    "HFUEIFWXLXEA",
+    "IYPRCCWROHBD",
+    "POIYHKSYAEBA"
+  ],
+  "words": [
+    {
+      "word": "BREAD",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "COOKIE",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "HONEY",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ORANGE",
+      "row": 5,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PASTA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "POTATO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RICE",
+      "row": 10,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SOUP",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

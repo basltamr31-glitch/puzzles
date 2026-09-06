@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_013",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 12,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "KISVOVESAF",
+    "GGCXGSCBAP",
+    "RYLAEPMPAM",
+    "FOSRTJTORH",
+    "VIBAZHCPMI",
+    "WBNAUGEFYT",
+    "XOKGUUIZGB",
+    "DKNOECHELP",
+    "XJIOHRHALS",
+    "DYERGJIYVL"
+  ],
+  "words": [
+    {
+      "word": "ARM",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "AUGE",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "BAUCH",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "FINGER",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "HALS",
+      "row": 8,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "KNIE",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "KNOECHEL",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "OHR",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

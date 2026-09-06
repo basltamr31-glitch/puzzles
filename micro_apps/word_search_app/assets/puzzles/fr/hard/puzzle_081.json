@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_081",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 80,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "DNCSSLNLRODY",
+    "BVLOFASUAUEB",
+    "PCCHXPCDVRQY",
+    "DLHDCIOQESGT",
+    "RIMIHNIHPUAD",
+    "VLBYEQTRHTBP",
+    "PGDMVNTVMVES",
+    "DGIRAFEIDDIJ",
+    "FXSPLXORGRLT",
+    "NKRGTVQHURLI",
+    "KKQPLUBOIOEM",
+    "RCBZZPSIRAGC"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 4,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "CHEVAL",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CHIEN",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "DAUPHIN",
+      "row": 4,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LAPIN",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "OURS",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHERE",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "SOURIS",
+      "row": 11,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "TIGRE",
+      "row": 6,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

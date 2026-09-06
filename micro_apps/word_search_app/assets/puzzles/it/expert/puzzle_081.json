@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_081",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 80,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "CBCKFNKLLXKZPF",
+    "MUTHTUEGLTVLBX",
+    "ZMZAUTUOAQIPKS",
+    "GDMOEURCZTOEQY",
+    "DQNOOUPTAETCZB",
+    "BRAIRBIGIPBORV",
+    "RLUMSENOELRRQB",
+    "QSFZOYGSAOGAAS",
+    "OLGORNULTVQONY",
+    "FZHXFSITXUNXHO",
+    "ZXTQBHNFIYNVVG",
+    "SLZDKZOLLEMMAC",
+    "KBTNXPANTERAVT",
+    "QSPFFPXLLXDNIE"
+  ],
+  "words": [
+    {
+      "word": "AQUILA",
+      "row": 7,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "CAMMELLO",
+      "row": 11,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "CAPRA",
+      "row": 3,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "DELFINO",
+      "row": 13,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "GATTO",
+      "row": 1,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "LEONE",
+      "row": 6,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "ORSO",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PANTERA",
+      "row": 12,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PECORA",
+      "row": 2,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "VOLPE",
+      "row": 8,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 3,
+      "col": 8,
+      "dir": "SE"
+    }
+  ]
+}

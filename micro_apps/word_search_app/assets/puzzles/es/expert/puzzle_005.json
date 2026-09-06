@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_005",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 4,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "YOVNAAUCYOUMDQ",
+    "PLHEVPBGTCYZJG",
+    "MLROTHRATYCDUK",
+    "TESTOMAGOCMAGB",
+    "DUCABEZANREIPY",
+    "GCEBINODAJECIB",
+    "UIOHLTEVMOEJNN",
+    "GMEDLOXBGSEJAQ",
+    "RZNQONJMIICTLU",
+    "EBYDCIDUGOBNZZ",
+    "EIEDPYGFBPAJKD",
+    "MDRIXXVKCOYPDK",
+    "CNUZTEBVNNGUYC",
+    "AEQXJFAMITIKBI"
+  ],
+  "words": [
+    {
+      "word": "BRAZO",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CABEZA",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CEJA",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CODO",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CUELLO",
+      "row": 5,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "DEDO",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "ESTOMAGO",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MANO",
+      "row": 6,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "MENTON",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "OREJA",
+      "row": 3,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "PIERNA",
+      "row": 4,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "TOBILLO",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

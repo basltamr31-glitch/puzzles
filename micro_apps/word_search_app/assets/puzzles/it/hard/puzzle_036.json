@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_036",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 35,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "GOCLETTONGAB",
+    "VCIAILLIBCOK",
+    "SATMMOEMVPHO",
+    "MMMPVEOOIHZR",
+    "FITAGPRDVVTE",
+    "BNTDIIZABYFG",
+    "IELAFFACSIZZ",
+    "GTNCOPERTALO",
+    "XTSBHRENDGPK",
+    "UOALDXBCOINR",
+    "DGMXOCUSCINO",
+    "VCLELKMAQHOO"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 0,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CAMERA",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CAMINETTO",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "COPERTA",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 10,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "LETTO",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 6,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 5,
+      "col": 2,
+      "dir": "NE"
+    }
+  ]
+}

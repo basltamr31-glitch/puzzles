@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_006",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 5,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "JACKETBTRY",
+    "KUPIRRMKAH",
+    "YGUJSOCKMB",
+    "LWPSPUFWZJ",
+    "QZMNWSSBAN",
+    "BWXOFEHEIH",
+    "DDEBGRALLN",
+    "XIVVSSTTUO",
+    "UFPBGLOVEW",
+    "IPAJAMASWR"
+  ],
+  "words": [
+    {
+      "word": "BELT",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GLOVE",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "JACKET",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PAJAMAS",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOCK",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SWEATER",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "TROUSERS",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

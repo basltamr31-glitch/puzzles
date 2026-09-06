@@ -1,0 +1,66 @@
+{
+  "id": "en_medium_015",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 015",
+  "rows": 10,
+  "cols": 9,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "SHAPE",
+      "clue": "The form or outline of something"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "VILLAGE",
+      "clue": "Small community smaller than a town"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "BLANKET",
+      "clue": "Warm covering used on a bed"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "answer": "STAGE",
+      "clue": "A raised platform, or a phase of a process"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "answer": "VOYAGE",
+      "clue": "A long journey, especially by sea"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "UMBRELLA",
+      "clue": "Device that shields you from rain"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "OIL",
+      "clue": "Slippery liquid used for cooking or fuel"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "answer": "LEVEL",
+      "clue": "A particular standard or height"
+    }
+  ]
+}

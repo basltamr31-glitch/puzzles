@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_012",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 012",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "SEL",
+      "clue": "Assaisonnement blanc qui relève les plats",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "PAGE",
+      "clue": "Une feuille dans un livre",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "CHAT",
+      "clue": "Animal domestique qui miaule",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "LOUP",
+      "clue": "Animal sauvage apparenté au chien",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "PAIN",
+      "clue": "Aliment cuit à base de farine et d'eau",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "CHIEN",
+      "clue": "Animal domestique fidèle qui aboie",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_055",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 54,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "DBAVIONV",
+    "XUCYHCNV",
+    "BSJKCAPO",
+    "OGIGAREI",
+    "ZCYQTTET",
+    "JHBATEAU",
+    "AIIKKCDR",
+    "LAVOYAGE"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BATEAU",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CARTE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GARE",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VOITURE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

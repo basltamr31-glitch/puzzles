@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_006",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 5,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "IHBIFGAQJQAFEY",
+    "YVWAJATSQIRCSQ",
+    "JTSJQQRPKAALVK",
+    "VOACZEOMCLIMJG",
+    "VEOHKMUSKPNSGW",
+    "PAJAMASCPCCLAS",
+    "HJEDANEEFJOKOM",
+    "UNUIHNRRIVASBJ",
+    "SFDRESSWEATERY",
+    "HDWMOSDUOLLXRR",
+    "ZKXPVSHXGTBGIQ",
+    "QAPTEWEAMZPMQI",
+    "KRCSTVCTZNCUXT",
+    "FHDRIZBTBNPOXH"
+  ],
+  "words": [
+    {
+      "word": "BELT",
+      "row": 7,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "DRESS",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GLOVE",
+      "row": 4,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "NECKLACE",
+      "row": 7,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "PAJAMAS",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RAINCOAT",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "SCARF",
+      "row": 4,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "SLIPPERS",
+      "row": 1,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "SNEAKERS",
+      "row": 8,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "SOCK",
+      "row": 7,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "SWEATER",
+      "row": 8,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "TROUSERS",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

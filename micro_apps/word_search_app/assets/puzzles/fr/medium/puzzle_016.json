@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_016",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 15,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "LMARATHONP",
+    "GDNCTDOSOM",
+    "HOAYHXCFQF",
+    "JCTCLJKNVO",
+    "TTALEOEVNO",
+    "TMTITYYZST",
+    "TGISEMGRTB",
+    "KAOMHDIVAA",
+    "VXNERPFRDL",
+    "BCARBITREL"
+  ],
+  "words": [
+    {
+      "word": "ARBITRE",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CYCLISME",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "FOOTBALL",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MARATHON",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "NATATION",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "STADE",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

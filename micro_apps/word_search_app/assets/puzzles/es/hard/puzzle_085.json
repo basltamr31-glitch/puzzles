@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_085",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 84,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "MFNMEJQJGZAZ",
+    "KEBGSNVXXICK",
+    "OEGFQEZVHTME",
+    "FSTVAHFLKALN",
+    "RTZFHMGHDAOO",
+    "EOZARBMPEZMY",
+    "NMDJDTAJCKKK",
+    "TAPIERNAGAMV",
+    "EGCDLAOLAXNN",
+    "CODOOLLEUCLZ",
+    "OCABEZAJEROA",
+    "SCJDCMJTBDEK"
+  ],
+  "words": [
+    {
+      "word": "BRAZO",
+      "row": 5,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "CABEZA",
+      "row": 10,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CODO",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CUELLO",
+      "row": 9,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "ESTOMAGO",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FRENTE",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "MANO",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "OREJA",
+      "row": 10,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "PIERNA",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RODILLA",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

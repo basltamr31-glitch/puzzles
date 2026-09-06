@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_068",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 67,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "EYJJMPIALDDX",
+    "MNSTHZSAKEHF",
+    "AXRKYOLFPCDQ",
+    "CNNCJOUUUEHF",
+    "APOHSGHXRFOA",
+    "MZLIRIJDDPUH",
+    "ARBMOFLAKPCC",
+    "QXMESAULRHKY",
+    "TETNATSEADXY",
+    "ATREUPBKVOIZ",
+    "ZRMALMOHADAN",
+    "AXFQCPBLTRKA"
+  ],
+  "words": [
+    {
+      "word": "ALFOMBRA",
+      "row": 6,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "ALMOHADA",
+      "row": 10,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CAMA",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 8,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "JARDIN",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "MESA",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PUERTA",
+      "row": 9,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "SILLA",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TAZA",
+      "row": 8,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

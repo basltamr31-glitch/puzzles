@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_012",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 11,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "GIMKLQGPCR",
+    "CUISINETUL",
+    "CHAISEHAJQ",
+    "ATABLEPPBK",
+    "GNMMIROIRI",
+    "EUTSBRRSZE",
+    "LJOYHRTSDN",
+    "FENETREVYB",
+    "SVABDHUXLB",
+    "LIDEUCMEKU"
+  ],
+  "words": [
+    {
+      "word": "CHAISE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CHAMBRE",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CUISINE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FENETRE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MIROIR",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PORTE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAPIS",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

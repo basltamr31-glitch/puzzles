@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_013",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 12,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "DMFYILSRXCRK",
+    "PIERNAJECUUI",
+    "PDSNNCABUVGC",
+    "NTTSTZFOXCXO",
+    "YDOQEOQQAMAH",
+    "MTMBYONAMYJK",
+    "HCAQITVYPEIF",
+    "MCGOGLGMLZFJ",
+    "TRODILLAJERO",
+    "VBTQQVZOLTDV",
+    "NTSYUTCDPERI",
+    "UBQANJGLDNMO"
+  ],
+  "words": [
+    {
+      "word": "CABEZA",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "CEJA",
+      "row": 1,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "DEDO",
+      "row": 11,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "ESTOMAGO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MANO",
+      "row": 5,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "MENTON",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "OREJA",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PIERNA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "RODILLA",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TOBILLO",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

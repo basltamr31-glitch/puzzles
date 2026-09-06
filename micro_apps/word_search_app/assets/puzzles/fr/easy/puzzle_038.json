@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_038",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 37,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "UEGVESTE",
+    "GAFBCAUV",
+    "UHNAHPDJ",
+    "CRAVATEI",
+    "ZEMYROBE",
+    "CMRZPULL",
+    "CHAPEAUU",
+    "DVGDBIMG"
+  ],
+  "words": [
+    {
+      "word": "CHAPEAU",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CRAVATE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ECHARPE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PULL",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "ROBE",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VESTE",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

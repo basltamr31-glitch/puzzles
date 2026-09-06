@@ -1,0 +1,58 @@
+{
+  "id": "es_easy_057",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 057",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "MUJER",
+      "clue": "Persona adulta de sexo femenino",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "PEZ",
+      "clue": "Animal acuático que respira por branquias",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "NUBE",
+      "clue": "Masa blanca o gris que flota en el cielo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "PAPEL",
+      "clue": "Material fino usado para escribir",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "NARIZ",
+      "clue": "Órgano usado para oler",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "AZUL",
+      "clue": "Color de un cielo despejado",
+      "category": "color"
+    }
+  ]
+}

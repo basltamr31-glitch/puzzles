@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_057",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 56,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "MPENGUIN",
+    "XJYBEARE",
+    "RJSKSXTV",
+    "IQZBBUXJ",
+    "ZYQVYTMD",
+    "TVSECGKE",
+    "IWGMOUSE",
+    "OCATWNFR"
+  ],
+  "words": [
+    {
+      "word": "BEAR",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CAT",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COW",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "DEER",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MOUSE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PENGUIN",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

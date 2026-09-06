@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_076",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 75,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "NCCHDQJRLT",
+    "GYHHRKAAVY",
+    "ERLIXYRSER",
+    "BLLAMKDENX",
+    "QNSYMEIPTS",
+    "GMIGHPNUAP",
+    "NPLTQFAENV",
+    "FALFOMBRAZ",
+    "QSAXYDTTAU",
+    "ZCCOCINAGP"
+  ],
+  "words": [
+    {
+      "word": "ALFOMBRA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "COCINA",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "JARDIN",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PUERTA",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SILLA",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "VENTANA",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

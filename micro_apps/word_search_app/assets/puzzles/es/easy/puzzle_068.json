@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_068",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 67,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "YZMPHXOX",
+    "PRVOJYQR",
+    "RBEROLHS",
+    "MANTAZAI",
+    "HNTZPIRL",
+    "POAHHFNL",
+    "MHNLKPAA",
+    "GJARDINN"
+  ],
+  "words": [
+    {
+      "word": "BANO",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "JARDIN",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MANTA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SILLA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TAZA",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VENTANA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

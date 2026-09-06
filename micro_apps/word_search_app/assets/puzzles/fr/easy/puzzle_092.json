@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_092",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 91,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "LAMPEYDC",
+    "HHXDACHA",
+    "SCOUSSIN",
+    "RPJPQHBA",
+    "KOQNPQLP",
+    "YRCHAISE",
+    "TTABLEKP",
+    "UEFLEIMD"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CHAISE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPE",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PORTE",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_089",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 089",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "SOL",
+      "clue": "Estrella en el centro de nuestro sistema solar",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "SILLA",
+      "clue": "Mueble en el que uno se sienta",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "RELOJ",
+      "clue": "Aparato que indica la hora",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "PUERTA",
+      "clue": "Panel que se abre para entrar a una habitación",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "CABEZA",
+      "clue": "Parte superior del cuerpo, con el cerebro",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "ORO",
+      "clue": "Metal precioso de color amarillo",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "ARBOL",
+      "clue": "Planta grande con tronco y ramas",
+      "category": "nature"
+    }
+  ]
+}

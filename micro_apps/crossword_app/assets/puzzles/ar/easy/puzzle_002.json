@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_002",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 002",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "كتاب",
+      "clue": "مجموعة صفحات مطبوعة تُقرأ",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "أسبوع",
+      "clue": "مدة سبعة أيام",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "مكتب",
+      "clue": "مكان يُستخدم للعمل",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "غرب",
+      "clue": "جهة غروب الشمس",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "غد",
+      "clue": "اليوم الذي يلي اليوم الحالي",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "فم",
+      "clue": "فتحة تُستخدم للأكل والكلام",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "يد",
+      "clue": "عضو في نهاية الذراع",
+      "category": "body"
+    }
+  ]
+}

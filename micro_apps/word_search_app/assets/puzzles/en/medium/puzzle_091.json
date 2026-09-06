@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_091",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 90,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "ADUGPUPNRG",
+    "WBMCSHTTMB",
+    "RRXRIVERSC",
+    "DZUOSOLMAJ",
+    "SAAKBLZEDF",
+    "TXFPCCXAAH",
+    "DKISLANDHF",
+    "GKRAINBOWK",
+    "NMUOCOEWJD",
+    "STONEOTPOU"
+  ],
+  "words": [
+    {
+      "word": "ICE",
+      "row": 7,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ISLAND",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "MEADOW",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "RAINBOW",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RIVER",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_061",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 60,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "PCXSVKECSY",
+    "OPOCZSLARR",
+    "SYXHKKLWXS",
+    "CKSULKBMNR",
+    "KICLGSOWVS",
+    "KNYTEEGMSH",
+    "KNOECHELZH",
+    "STIRNANTLF",
+    "AUGEHNUYRN",
+    "JWERZDEKLS"
+  ],
+  "words": [
+    {
+      "word": "AUGE",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ELLBOGEN",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 6,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "KINN",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "KNIE",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "KNOECHEL",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCHULTER",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "STIRN",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

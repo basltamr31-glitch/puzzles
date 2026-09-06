@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_075",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 74,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "DDADACSACOZL",
+    "UUTYRXYGOMUE",
+    "YYCJCVOLCANH",
+    "EZSMONTANAOQ",
+    "EFPZIKFCIELO",
+    "QUUARDEIPHXB",
+    "TXISIVLARNAA",
+    "ESMJSZLRMATH",
+    "NOYQYBSBJRDL",
+    "CVSGEIGOJSEJ",
+    "HTPIOJHLKJBJ",
+    "EINFIYYYHRCD"
+  ],
+  "words": [
+    {
+      "word": "ARBOL",
+      "row": 6,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ARCOIRIS",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CASCADA",
+      "row": 0,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "CIELO",
+      "row": 4,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIAR",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "HOJA",
+      "row": 10,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "MONTANA",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "NIEBLA",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 5,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

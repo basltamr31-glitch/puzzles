@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_081",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 081",
+  "rows": 5,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "رجل",
+      "clue": "إنسان بالغ من الذكور",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "كرسي",
+      "clue": "مقعد يجلس عليه الإنسان",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "لبن",
+      "clue": "سائل أبيض يأتي من الأبقار",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "بلد",
+      "clue": "دولة أو وطن",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "يد",
+      "clue": "عضو في نهاية الذراع",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "يوم",
+      "clue": "مدة أربع وعشرين ساعة",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "نجم",
+      "clue": "جرم سماوي مضيء يُرى ليلاً",
+      "category": "nature"
+    }
+  ]
+}

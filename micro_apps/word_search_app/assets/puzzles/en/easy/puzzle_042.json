@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_042",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 41,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "PSTNPHFD",
+    "HWABEPHS",
+    "AZPRJAOO",
+    "AYPEVNRU",
+    "XILAJCAP",
+    "GFEDMANE",
+    "ABOJEKGM",
+    "JCOFFEEE"
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BREAD",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "COFFEE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ORANGE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SOUP",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

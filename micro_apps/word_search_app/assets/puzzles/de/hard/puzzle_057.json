@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_057",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 56,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "XVUDYYYCGGKY",
+    "UTLBMPAWPKUG",
+    "DDFZZIIMGRAS",
+    "KEUZPKYAPNGF",
+    "RALVCKHUNDUN",
+    "ODTFUCHSRDEU",
+    "NLJZIEGEMOVK",
+    "DENHENFLOWZT",
+    "YREABPJUCGKP",
+    "KHEYWXMNXMRH",
+    "SNRZGOLERACD",
+    "LSCTRSTOFWXX"
+  ],
+  "words": [
+    {
+      "word": "ADLER",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "BAER",
+      "row": 8,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "DELFIN",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "FUCHS",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "HUND",
+      "row": 4,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "KATZE",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "MAUS",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PFERD",
+      "row": 8,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "WOLF",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "ZIEGE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_025",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 24,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "VPRCHBZBUW",
+    "KRNTAALUTA",
+    "COWKRTRMXU",
+    "EAGLEBOIEO",
+    "MIMFERHYSR",
+    "ZPUEPDFBPZ",
+    "GELTLIONGP",
+    "XXQKFNXGXO",
+    "XEBLMKXQBF",
+    "ZINWBUGUBW"
+  ],
+  "words": [
+    {
+      "word": "CAMEL",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CAT",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "COW",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DOG",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "EAGLE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FOX",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HARE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "LION",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

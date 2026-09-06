@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_009",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 8,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "KFUPKKEU",
+    "ASTIGERI",
+    "TPANTHER",
+    "ZGRGFMVV",
+    "EUFUCHSR",
+    "LPPILLCM",
+    "BIENEBAP",
+    "DYKNYZHI"
+  ],
+  "words": [
+    {
+      "word": "BIENE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FUCHS",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KATZE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PANTHER",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TIGER",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

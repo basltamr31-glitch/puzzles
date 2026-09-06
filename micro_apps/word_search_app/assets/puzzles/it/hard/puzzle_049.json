@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_049",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 48,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "QDPNTGRZOHPN",
+    "SSOFOATPNLCS",
+    "PXRAATOSROAN",
+    "SCOIATTOLONZ",
+    "UZLUPONIFLED",
+    "YNYAFIRDGHCU",
+    "ORAXUVHAORZC",
+    "LQAGLTCSELEG",
+    "AVNSHOOHXLBF",
+    "MITESAQVYKRO",
+    "PFANFPCLRIAU",
+    "IDQFLQZALECZ"
+  ],
+  "words": [
+    {
+      "word": "CANE",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "DELFINO",
+      "row": 4,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "GATTO",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LUPO",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ORSO",
+      "row": 2,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "SCOIATTOLO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TIGRE",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "TOPO",
+      "row": 3,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 6,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+// ignore: unused_import
+import 'package:intl/intl.dart' as intl;
+import 'app_localizations.dart';
+
+// ignore_for_file: type=lint
+
+/// The translations for English (`en`).
+class AppLocalizationsEn extends AppLocalizations {
+  AppLocalizationsEn([String locale = 'en']) : super(locale);
+
+  @override
+  String get appName => 'Crossword';
+
+  @override
+  String get onboardingTitle => 'Crossword';
+
+  @override
+  String get onboardingSubtitle =>
+      'Bite-sized crossword puzzles you can play anywhere, anytime — no account, no internet required.';
+
+  @override
+  String get continueButton => 'Continue';
+
+  @override
+  String get chooseGameLanguageTitle => 'Choose your puzzle language';
+
+  @override
+  String get chooseGameLanguageSubtitle =>
+      'This is the language of the clues and answers. You can change it later in Settings.';
+
+  @override
+  String get chooseDifficultyTitle => 'Choose a difficulty';
+
+  @override
+  String get chooseDifficultySubtitle =>
+      'You can play any difficulty at any time.';
+
+  @override
+  String get difficultyEasy => 'Easy';
+
+  @override
+  String get difficultyMedium => 'Medium';
+
+  @override
+  String get difficultyHard => 'Hard';
+
+  @override
+  String get difficultyExpert => 'Expert';
+
+  @override
+  String puzzleListTitle(String difficulty) {
+    return '$difficulty Puzzles';
+  }
+
+  @override
+  String get puzzleStatusCompleted => 'Completed';
+
+  @override
+  String get puzzleStatusInProgress => 'In progress';
+
+  @override
+  String get puzzleStatusNotStarted => 'Not started';
+
+  @override
+  String get puzzleStatusLocked => 'Locked';
+
+  @override
+  String puzzlesSolvedLabel(int solved, int total) {
+    return '$solved of $total solved';
+  }
+
+  @override
+  String get puzzleLockedMessage =>
+      'Solve the previous puzzle to unlock this one.';
+
+  @override
+  String puzzleNumberLabel(String number) {
+    return 'Puzzle $number';
+  }
+
+  @override
+  String get noPuzzlesTitle => 'No puzzles yet';
+
+  @override
+  String get noPuzzlesMessage =>
+      'New puzzles for this difficulty are on the way.';
+
+  @override
+  String get acrossLabel => 'Across';
+
+  @override
+  String get downLabel => 'Down';
+
+  @override
+  String get previousClueTooltip => 'Previous clue';
+
+  @override
+  String get nextClueTooltip => 'Next clue';
+
+  @override
+  String get hintButton => 'Hint';
+
+  @override
+  String get hintConfirmTitle => 'Use a hint?';
+
+  @override
+  String get hintConfirmMessage =>
+      'This will reveal the letter in the selected cell.';
+
+  @override
+  String get watchAdForHint => 'Watch a short video to get one hint';
+
+  @override
+  String get checkButton => 'Check';
+
+  @override
+  String get restartPuzzleButton => 'Restart';
+
+  @override
+  String get zoomInButton => 'Zoom in';
+
+  @override
+  String get zoomOutButton => 'Zoom out';
+
+  @override
+  String get restartConfirmTitle => 'Restart this puzzle?';
+
+  @override
+  String get restartConfirmMessage =>
+      'Your progress on this puzzle will be cleared.';
+
+  @override
+  String get exitPuzzleConfirmTitle => 'Leave puzzle?';
+
+  @override
+  String get exitPuzzleConfirmMessage =>
+      'Your progress is saved automatically.';
+
+  @override
+  String get puzzleCompletedTitle => 'Puzzle complete!';
+
+  @override
+  String get puzzleCompletedMessage => 'Nicely done. Ready for the next one?';
+
+  @override
+  String get nextPuzzleButton => 'Next puzzle';
+
+  @override
+  String get backToPuzzlesButton => 'Back to puzzles';
+
+  @override
+  String get settingsTitle => 'Settings';
+
+  @override
+  String get settingsUiLanguage => 'App language';
+
+  @override
+  String get settingsGameLanguage => 'Puzzle language';
+
+  @override
+  String get settingsAppearance => 'Appearance';
+
+  @override
+  String get themeModeSystem => 'System';
+
+  @override
+  String get themeModeLight => 'Light';
+
+  @override
+  String get themeModeDark => 'Dark';
+
+  @override
+  String get settingsSound => 'Sound effects';
+
+  @override
+  String get settingsVibration => 'Vibration';
+
+  @override
+  String get settingsMusic => 'Background music';
+
+  @override
+  String get musicTrackOff => 'Off';
+
+  @override
+  String get musicTrackCalm => 'Calm';
+
+  @override
+  String get musicTrackGentle => 'Gentle';
+
+  @override
+  String get musicTrackUplifting => 'Uplifting';
+
+  @override
+  String get musicTrackFocus => 'Focus';
+
+  @override
+  String get musicTrackBright => 'Bright';
+
+  @override
+  String get musicTrackNight => 'Night';
+
+  @override
+  String get settingsReminders => 'Play reminders';
+
+  @override
+  String get remindersPermissionDenied =>
+      'Notifications are turned off for this app. You can enable them in your device settings.';
+
+  @override
+  String get reminderTitle => 'A puzzle is waiting';
+
+  @override
+  String get reminderBody =>
+      'Take a break and solve one — it only takes a few minutes.';
+
+  @override
+  String get settingsTestSound => 'Test sound';
+
+  @override
+  String get soundTestOk => 'Sound played.';
+
+  @override
+  String soundTestFailed(String error) {
+    return 'Sound failed: $error';
+  }
+
+  @override
+  String get settingsRemoveAds => 'Remove ads';
+
+  @override
+  String get settingsRestorePurchases => 'Restore purchases';
+
+  @override
+  String get settingsAdPrivacyOptions => 'Ad privacy options';
+
+  @override
+  String get settingsPrivacy => 'Privacy policy';
+
+  @override
+  String get privacyPolicyViewOnline => 'View online';
+
+  @override
+  String get settingsAbout => 'About';
+
+  @override
+  String settingsVersion(String version) {
+    return 'Version $version';
+  }
+
+  @override
+  String get removeAdsTitle => 'Remove Ads';
+
+  @override
+  String get removeAdsDescription =>
+      'Enjoy every puzzle with no banner or interstitial ads — forever, with one purchase.';
+
+  @override
+  String get removeAdsPrice => '\$1.00';
+
+  @override
+  String get removeAdsPurchaseButton => 'Purchase — \$1.00';
+
+  @override
+  String removeAdsPurchaseButtonWithPrice(String price) {
+    return 'Purchase — $price';
+  }
+
+  @override
+  String get musicToggleOn => 'Turn music on';
+
+  @override
+  String get musicToggleOff => 'Turn music off';
+
+  @override
+  String get settingsDeveloper => 'Developer';
+
+  @override
+  String get settingsDeveloperName => 'BT developer';
+
+  @override
+  String get settingsCopyright => '© BaLa Dream';
+
+  @override
+  String get removeAdsAlreadyOwned =>
+      'You already own Remove Ads. Thank you for your support!';
+
+  @override
+  String get purchasePending => 'Your purchase is being processed…';
+
+  @override
+  String get purchaseError =>
+      'The purchase couldn\'t be completed. Please try again.';
+
+  @override
+  String get purchaseStoreUnavailable =>
+      'The store isn\'t available right now. Check that you\'re signed in and try again.';
+
+  @override
+  String get purchaseProductUnavailable =>
+      'This purchase isn\'t available right now. Please try again later.';
+
+  @override
+  String get purchaseCancelled => 'Purchase cancelled.';
+
+  @override
+  String get restoreSuccess => 'Your purchases have been restored.';
+
+  @override
+  String get restoreNothingFound => 'No previous purchases were found.';
+
+  @override
+  String get errorGeneric => 'Something went wrong. Please try again.';
+
+  @override
+  String get errorNoInternet =>
+      'You\'re offline. This feature needs an internet connection.';
+
+  @override
+  String get errorAdUnavailable =>
+      'No ad is available right now. Please try again later.';
+
+  @override
+  String get errorPuzzleMissing => 'This puzzle couldn\'t be loaded.';
+
+  @override
+  String get cancelButton => 'Cancel';
+
+  @override
+  String get okButton => 'OK';
+
+  @override
+  String get confirmButton => 'Confirm';
+}

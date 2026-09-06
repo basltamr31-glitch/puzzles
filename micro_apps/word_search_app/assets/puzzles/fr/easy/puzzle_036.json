@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_036",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 35,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "DFUROHJM",
+    "AVVFEOAU",
+    "CCHAMBRE",
+    "CHAISEDV",
+    "OMMIROIR",
+    "GINTLTNY",
+    "COUSSINF",
+    "ICANAPED"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHAISE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CHAMBRE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "JARDIN",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MIROIR",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

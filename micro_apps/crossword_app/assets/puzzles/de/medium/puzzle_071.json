@@ -1,0 +1,73 @@
+{
+  "id": "de_medium_071",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 071",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "BEREICH",
+      "clue": "Die Spanne zwischen zwei Grenzen"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "answer": "MENGE",
+      "clue": "Wie viel von etwas vorhanden ist"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "GARTEN",
+      "clue": "Grundstück zum Anbau von Blumen oder Gemüse"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "KANZLEI",
+      "clue": "Büroräume, oft für Anwälte oder Behörden"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "REGENBOGEN",
+      "clue": "Farbenbogen nach dem Regen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "MARKT",
+      "clue": "Ort, an dem Waren gekauft und verkauft werden"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "answer": "REISE",
+      "clue": "Eine Fahrt von einem Ort zum anderen"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "DORF",
+      "clue": "Kleine Gemeinde, kleiner als eine Stadt"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "MUSIK",
+      "clue": "Organisierter Klang mit Melodie und Rhythmus"
+    }
+  ]
+}

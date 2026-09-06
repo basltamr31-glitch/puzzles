@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_070",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 69,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "CRJEMEFB",
+    "COLLIERA",
+    "HBLIYTBS",
+    "AEGCMSLK",
+    "PVFVESTE",
+    "ECZSGANT",
+    "ABQKFMAS",
+    "UQEDMMCP"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CHAPEAU",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "COLLIER",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GANT",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "ROBE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VESTE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

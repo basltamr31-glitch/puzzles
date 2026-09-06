@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_004",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 3,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "PAAPKNMFNX",
+    "PQNATMPIOQ",
+    "YSILLAUIVH",
+    "CHIMENEAQI",
+    "ALFOMBRAIC",
+    "MEXHJCTFZX",
+    "ANMANTAJRM",
+    "UTRDRQNGEM",
+    "SOFASSLGRN",
+    "VKYPQBQRPM"
+  ],
+  "words": [
+    {
+      "word": "ALFOMBRA",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ALMOHADA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CAMA",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MANTA",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PUERTA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SILLA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

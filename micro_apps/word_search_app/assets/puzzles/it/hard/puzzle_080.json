@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_080",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 79,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "KPCTBIZITZYQ",
+    "ZOLIGTPAVPTP",
+    "ASROCVBKQAOR",
+    "EKOQGLMEKLBV",
+    "SSNMEVIPXLTS",
+    "VDMEZYXSAAEQ",
+    "CPABLQCCMVNU",
+    "NKTGMARATONA",
+    "DUBPPMHCRLID",
+    "RBOXEQPCFOSR",
+    "YHPTSXMHCBKA",
+    "OENOORTIBRAE"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "BOXE",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CICLISMO",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CORSA",
+      "row": 2,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "MARATONA",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "NUOTO",
+      "row": 7,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PALLAVOLO",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SQUADRA",
+      "row": 4,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 4,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

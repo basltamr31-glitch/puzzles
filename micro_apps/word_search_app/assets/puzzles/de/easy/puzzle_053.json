@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_053",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 52,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "EYCHANDF",
+    "KNIERBOF",
+    "OHOCMBYO",
+    "PNDKOSHT",
+    "FEWKYZAR",
+    "ECACRMLU",
+    "HLEFUSSC",
+    "WONHRTAA"
+  ],
+  "words": [
+    {
+      "word": "ARM",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FUSS",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "HALS",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "KNIE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "KOPF",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

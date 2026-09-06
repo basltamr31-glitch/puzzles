@@ -1,0 +1,50 @@
+{
+  "id": "de_easy_003",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 003",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "SCHULE",
+      "clue": "Ort, an dem Kinder lernen",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "TIGER",
+      "clue": "Große gestreifte Raubkatze",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "HAND",
+      "clue": "Körperteil am Ende des Arms",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "WIND",
+      "clue": "Bewegte Luft",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "STIFT",
+      "clue": "Schreibwerkzeug",
+      "category": "object"
+    }
+  ]
+}

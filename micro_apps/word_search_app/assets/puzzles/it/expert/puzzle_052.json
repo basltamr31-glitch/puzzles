@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_052",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 51,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "RYFTMOOIFARUUC",
+    "PPOARHNLKGIECD",
+    "KONDXPAAAZZATS",
+    "TRGAQLRSVMMOQD",
+    "BTAPPETOXIEMKK",
+    "EABMMTBYNEDSDZ",
+    "KVCARTSENIFCMT",
+    "KOCLXOTKHQCONR",
+    "RLYFKTOHVQHSHO",
+    "XOKTOAEFBLUEUI",
+    "XRTBHHTSNRKBKC",
+    "IFENXYBZIGMROA",
+    "NVZLIALPRZAOUU",
+    "SUPKVCCDACYYOT"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 5,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "CAMERA",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "CAMINETTO",
+      "row": 1,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 10,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "DIVANO",
+      "row": 5,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 7,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "LETTO",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PORTA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TAZZA",
+      "row": 2,
+      "col": 12,
+      "dir": "W"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_099",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 98,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "XLQVAIPQ",
+    "XKNEBBIA",
+    "ISPRATOV",
+    "CUCSNRGM",
+    "FRYOOAGT",
+    "HHVLRKIC",
+    "RPIETRAF",
+    "DESERTOD"
+  ],
+  "words": [
+    {
+      "word": "DESERTO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PIETRA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PRATO",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOLE",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

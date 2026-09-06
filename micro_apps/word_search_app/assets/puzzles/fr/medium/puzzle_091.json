@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_091",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 90,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "THHGNVCTGU",
+    "GPKTETIAVP",
+    "BLPCEBAHSE",
+    "NAALSIMOHF",
+    "HDFCASCADE",
+    "SMDOIGCONU",
+    "XBRSREEIMI",
+    "FRCPIERREL",
+    "QPBUXTTKHL",
+    "XICEHNUAGE"
+  ],
+  "words": [
+    {
+      "word": "CASCADE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CIEL",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "FORET",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "GLACIER",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "NUAGE",
+      "row": 9,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PIERRE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PLAGE",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_033",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 32,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "UKVKXCCOOQAK",
+    "RTUBIXROVLBN",
+    "UIFZCLLULEEX",
+    "INKUXAYIALJH",
+    "VLKZAUDXDOAA",
+    "CXAFARIJJBYZ",
+    "ELEFANTEFZNM",
+    "BSJPEYNXIPFU",
+    "RZOYOOQTXERG",
+    "ARBACXEGZRZX",
+    "KRFYXCSFUREK",
+    "FCOCODRILOCZ"
+  ],
+  "words": [
+    {
+      "word": "ABEJA",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "ARDILLA",
+      "row": 6,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "CABRA",
+      "row": 9,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "CEBRA",
+      "row": 5,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "COCODRILO",
+      "row": 11,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CONEJO",
+      "row": 9,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "OVEJA",
+      "row": 0,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "PERRO",
+      "row": 7,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

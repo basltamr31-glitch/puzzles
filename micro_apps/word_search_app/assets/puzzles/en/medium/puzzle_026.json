@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_026",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 25,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "MTDIYWNTJN",
+    "GIGTRQMVOP",
+    "FESOUPRICX",
+    "XZDAOVHNZN",
+    "IVCVNWDKHU",
+    "AFAOPDEHER",
+    "IMKCFTWNPW",
+    "BREADFKINF",
+    "IYGDQJEYCS",
+    "YYGOHONEYH"
+  ],
+  "words": [
+    {
+      "word": "AVOCADO",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BREAD",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CAKE",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "COFFEE",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "EGG",
+      "row": 7,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HONEY",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SOUP",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

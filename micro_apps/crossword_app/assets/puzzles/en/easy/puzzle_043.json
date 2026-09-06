@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_043",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 043",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "LEMON",
+      "clue": "Sour yellow citrus fruit",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "BREAD",
+      "clue": "Baked food made from flour and water",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "DEER",
+      "clue": "Graceful animal with antlers",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "LION",
+      "clue": "Big cat known as the king of the jungle",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "BIRD",
+      "clue": "Feathered animal that can usually fly",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "RED",
+      "clue": "Color of blood or a ripe tomato",
+      "category": "color"
+    }
+  ]
+}

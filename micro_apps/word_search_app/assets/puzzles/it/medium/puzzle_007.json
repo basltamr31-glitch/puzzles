@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_007",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 6,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "REVTROBHXS",
+    "XAEREOGPBZ",
+    "MOEVALIGIA",
+    "BBGRPICVGF",
+    "ABHRODZCLI",
+    "GUNVFPIEIB",
+    "SSTAZIONEC",
+    "CQYQVMPRTZ",
+    "MTKLDEODTL",
+    "OPVIAGGIOO"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "AEROPORTO",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "BIGLIETTO",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "NAVE",
+      "row": 5,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "STAZIONE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VALIGIA",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VIAGGIO",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

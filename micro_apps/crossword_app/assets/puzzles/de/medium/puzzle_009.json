@@ -1,0 +1,80 @@
+{
+  "id": "de_medium_009",
+  "language": "de",
+  "difficulty": "medium",
+  "title": "Rätsel 009",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "PROBLEM",
+      "clue": "Eine schwierige Sache, die gelöst werden muss"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "KLIMA",
+      "clue": "Langfristiges Muster von Wetterbedingungen"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "SPINNE",
+      "clue": "Achtbeiniges Tier, das Netze spinnt"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "KANZLEI",
+      "clue": "Büroräume, oft für Anwälte oder Behörden"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "WETTER",
+      "clue": "Zustand der Atmosphäre, heiß, kalt, regnerisch"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "ZIEL",
+      "clue": "Das Ergebnis, auf das jemand hinarbeitet"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "TASCHE",
+      "clue": "Ein kleiner Beutel, in Kleidung eingenäht"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "KOSTEN",
+      "clue": "Der für etwas gezahlte Betrag"
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "BAHNHOF",
+      "clue": "Haltestelle für Züge"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "answer": "LUFT",
+      "clue": "Das Gas, das wir atmen"
+    }
+  ]
+}

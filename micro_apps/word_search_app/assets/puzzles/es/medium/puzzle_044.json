@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_044",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 43,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "BLAYPRNNHC",
+    "MUSEAUHADS",
+    "KOKCDEEYHI",
+    "RMMHZTSRVL",
+    "VKIISCTGTL",
+    "OALMOHADAA",
+    "UMAEFPNYZK",
+    "LDZNADTXAH",
+    "RUHESPEJOQ",
+    "YKHAPSKKGG"
+  ],
+  "words": [
+    {
+      "word": "ALMOHADA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PUERTA",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "SILLA",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TAZA",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_088",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 87,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "PWGSETXS",
+    "OLLAUFWH",
+    "VDUAVFRH",
+    "ULTEAMET",
+    "PTBOXENH",
+    "PNGDBZNI",
+    "HUHOCKEY",
+    "STADIONP"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LAUF",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RENNEN",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "STADION",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

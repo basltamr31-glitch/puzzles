@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_038",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 37,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "AFEKJIBUCQCJHU",
+    "ZQKRETAVARCCKS",
+    "QNBHJYSGUEDLXF",
+    "TIMOEIKAIJTLGD",
+    "FBECCGENMBLNBC",
+    "BXENHPTTPTKVAP",
+    "ZDCHAUSSETTEQM",
+    "AFGHRLELRGTYZY",
+    "COCEPLEHMSQCJV",
+    "DMBUECFEEXKIQR",
+    "QSYYAFMVAZLDDO",
+    "ZGZRYKCHBHNQUH",
+    "GFBLANUSLNTDQY",
+    "NRGOMRLUEYFUQS"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BRACELET",
+      "row": 12,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "CEINTURE",
+      "row": 1,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "CHAPEAU",
+      "row": 8,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "CHAUSSETTE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CRAVATE",
+      "row": 1,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "ECHARPE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "GANT",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "IMPERMEABLE",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 6,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "PULL",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "VESTE",
+      "row": 10,
+      "col": 7,
+      "dir": "NE"
+    }
+  ]
+}

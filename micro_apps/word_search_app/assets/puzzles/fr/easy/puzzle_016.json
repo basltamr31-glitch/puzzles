@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_016",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 15,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "PYZJVJCT",
+    "ARBITREQ",
+    "TRJKMJZF",
+    "HOCKEYBE",
+    "LKFCSJON",
+    "ENKBSKXI",
+    "TYSTADEU",
+    "EQUIPEDN"
+  ],
+  "words": [
+    {
+      "word": "ARBITRE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BOXE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "EQUIPE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STADE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

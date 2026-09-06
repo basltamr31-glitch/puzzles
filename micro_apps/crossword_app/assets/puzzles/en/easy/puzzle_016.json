@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_016",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 016",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "DOG",
+      "clue": "Loyal pet known for barking",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "PAGE",
+      "clue": "One sheet in a book",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "CHILD",
+      "clue": "Young human, not yet an adult",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "MOUTH",
+      "clue": "Opening used for eating and speaking",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "HILL",
+      "clue": "A raised area of land, smaller than a mountain",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "IRON",
+      "clue": "Strong gray metal used in tools and steel",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "HAND",
+      "clue": "Body part at the end of the arm",
+      "category": "body"
+    }
+  ]
+}

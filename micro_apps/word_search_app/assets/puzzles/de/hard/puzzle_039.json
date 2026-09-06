@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_039",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 38,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "DMUDARRHAFEN",
+    "HEFUGANJOLFE",
+    "JGDRAILHOUIO",
+    "MVELXLNKPGMZ",
+    "JEPABHPFFZLG",
+    "KOTUAKOFFERS",
+    "SAKBPLFCJUSS",
+    "OPRDZIGOTGWW",
+    "GSEEHDESEILR",
+    "VKICINFWTVTM",
+    "UYSEZDDKUUZG",
+    "JAEDBCJLKWFX"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 5,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "BAHNHOF",
+      "row": 6,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "FAHRRAD",
+      "row": 0,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "FLUGZEUG",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "HAFEN",
+      "row": 0,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "KOFFER",
+      "row": 5,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "REISE",
+      "row": 7,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 10,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "TAXI",
+      "row": 5,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "URLAUB",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

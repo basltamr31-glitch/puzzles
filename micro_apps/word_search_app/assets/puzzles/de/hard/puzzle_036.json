@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_036",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 35,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "IJSFXBYLNLIT",
+    "LPYPTASSEAMA",
+    "LJPIIDMCRARR",
+    "WKISSENKRFIB",
+    "UBTACZGNUUAU",
+    "PIGSHIIEJEPE",
+    "BCMRTMVPLDOD",
+    "VOABAMTUERIT",
+    "TKMKFENSTERN",
+    "TXVBHRKTAGEM",
+    "ZIUFKCEZTAOL",
+    "MUYRCBLKRLVS"
+  ],
+  "words": [
+    {
+      "word": "BADEZIMMER",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BETT",
+      "row": 11,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "FENSTER",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "KAMIN",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "KISSEN",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "REGAL",
+      "row": 7,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "TASSE",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TISCH",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TUER",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    }
+  ]
+}

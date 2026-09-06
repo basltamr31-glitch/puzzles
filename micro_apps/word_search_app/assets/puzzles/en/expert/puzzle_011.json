@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_011",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 10,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "TXCLZNMSXKEZZG",
+    "JEBSNTROKNBOLG",
+    "YRWNLYQLWGUHMM",
+    "YOYIQRPKDTGVVZ",
+    "WCYSKHRVUZRRUD",
+    "JOLTLRDNMDDERU",
+    "ZOBOXWVCOSVIEL",
+    "WCDNUOKGUOPTVT",
+    "QQXEIDKNNCABIC",
+    "UZQFSASQTLTSRP",
+    "WXWATERFALLMQP",
+    "CHNETMRNIAWDAZ",
+    "VINLFAPTNBYFRM",
+    "RVGXEJGDPFFQMC"
+  ],
+  "words": [
+    {
+      "word": "CLOUD",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "DESERT",
+      "row": 7,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "ISLAND",
+      "row": 8,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "LEAF",
+      "row": 12,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "MEADOW",
+      "row": 11,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "RAINBOW",
+      "row": 10,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "RIVER",
+      "row": 9,
+      "col": 12,
+      "dir": "N"
+    },
+    {
+      "word": "STONE",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SUNSET",
+      "row": 6,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "TREE",
+      "row": 3,
+      "col": 9,
+      "dir": "SE"
+    },
+    {
+      "word": "WATERFALL",
+      "row": 10,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

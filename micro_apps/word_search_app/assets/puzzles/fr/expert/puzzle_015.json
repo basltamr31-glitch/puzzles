@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_015",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 14,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "SYISDBYBILLETE",
+    "ZOKHEPHTFLQTSY",
+    "VHUQROYMPMKUVN",
+    "KRCPXLEKJQCOIC",
+    "HMVKQTJRFUIRXB",
+    "UZLOLAEYKTVOAF",
+    "TGYLRJHTURSTTA",
+    "URZRUVFRRGEUSC",
+    "RVALISECNACAVZ",
+    "PPFIAGJLUYCOOX",
+    "BKBINTEROATBUS",
+    "BHZCQJRQDQAZNR",
+    "VLPKYRBOHZMMXG",
+    "BVNHAQSSPMVTFK"
+  ],
+  "words": [
+    {
+      "word": "AUTOROUTE",
+      "row": 8,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "BATEAU",
+      "row": 4,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "BILLET",
+      "row": 0,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "CARTE",
+      "row": 9,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "PORT",
+      "row": 13,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "SACADOS",
+      "row": 7,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "TAXI",
+      "row": 6,
+      "col": 12,
+      "dir": "N"
+    },
+    {
+      "word": "TRAIN",
+      "row": 6,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "VACANCES",
+      "row": 8,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "VALISE",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VELO",
+      "row": 7,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "VOITURE",
+      "row": 2,
+      "col": 12,
+      "dir": "SW"
+    }
+  ]
+}

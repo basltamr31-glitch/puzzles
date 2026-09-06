@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_059",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 58,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "DKUOEHVL",
+    "VOLCANOZ",
+    "LTREEZLB",
+    "FGUALGCF",
+    "ZSUNLJVU",
+    "GSBICEBP",
+    "WKSGTSKT",
+    "TYPBXNCY"
+  ],
+  "words": [
+    {
+      "word": "ICE",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "OCEAN",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SKY",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SUN",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TREE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_047",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 46,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "COMWMTHCVH",
+    "IJQMXHIDVB",
+    "QWDJCAGWGA",
+    "XGACRRHCAC",
+    "WGBZVBWLPK",
+    "KOUGTOATNP",
+    "SCSNARYBKA",
+    "LZBYXTAAAC",
+    "VNBPIGRIGK",
+    "HVSXFPLANE"
+  ],
+  "words": [
+    {
+      "word": "BACKPACK",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HARBOR",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PLANE",
+      "row": 9,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TRAIN",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    }
+  ]
+}

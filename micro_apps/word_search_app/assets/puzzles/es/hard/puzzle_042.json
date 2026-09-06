@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_042",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 41,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "RQVXYNCMITXV",
+    "QUQIIKMYEOML",
+    "GERSQJESLMIK",
+    "YSMFPTUFVQNY",
+    "OOHXULFRRKPQ",
+    "PPVIEEXPNGVS",
+    "AACYSCRJXIZA",
+    "RVTPOHAZXRXO",
+    "XQTASERFYLOH",
+    "HSOHTHAREPDB",
+    "ANAZNAMIPXAQ",
+    "NTCITOMATENK"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "FRESA",
+      "row": 8,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "LECHE",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MANZANA",
+      "row": 10,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "MIEL",
+      "row": 11,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "PATATA",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PERA",
+      "row": 9,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "QUESO",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SOPA",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 11,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

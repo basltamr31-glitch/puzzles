@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_093",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 92,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "XUBNZXDURG",
+    "IDZGMXQIRI",
+    "PUPHABVBTN",
+    "ZMGBOMOSDO",
+    "GBPRMIBPUC",
+    "SOHATZVAHC",
+    "IFMOEYTLUH",
+    "RYAISVXLAI",
+    "LQNSTOMACO",
+    "YKOPAOONCX"
+  ],
+  "words": [
+    {
+      "word": "DITO",
+      "row": 0,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "GAMBA",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "GINOCCHIO",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "GOMITO",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "MANO",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SPALLA",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "STOMACO",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TESTA",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

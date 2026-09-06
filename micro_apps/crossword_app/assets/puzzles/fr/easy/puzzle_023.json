@@ -1,0 +1,58 @@
+{
+  "id": "fr_easy_023",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 023",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "BEBE",
+      "clue": "Très jeune enfant",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "PERE",
+      "clue": "Parent masculin",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CHEVEUX",
+      "clue": "Ce qui pousse sur la tête",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "NUAGE",
+      "clue": "Masse blanche ou grise flottant dans le ciel",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "PORTE",
+      "clue": "Panneau qui s'ouvre pour entrer dans une pièce",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    }
+  ]
+}

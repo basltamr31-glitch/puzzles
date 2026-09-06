@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_050",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 49,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "BVNHKOULKP",
+    "DKAESEFMUM",
+    "MILCHUKFCX",
+    "OBIEBOCSHW",
+    "TPXCVANBEG",
+    "BZIYNKBINM",
+    "HTPOXZHRGD",
+    "OOMJLWPNOG",
+    "IIJCAPFELT",
+    "DRTTZZGEZB"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BIRNE",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BROT",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "HONIG",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "KAESE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KEKSE",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "MILCH",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

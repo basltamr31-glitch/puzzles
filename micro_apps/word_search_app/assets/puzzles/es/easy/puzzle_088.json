@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_088",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 87,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "YHLGKIMR",
+    "GOLPGDAT",
+    "NCARRERA",
+    "HKTPEYBR",
+    "AELTENIS",
+    "CYEAQQTU",
+    "LUTGMNRF",
+    "RRAPNLOH"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ATLETA",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CARRERA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GOL",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TENIS",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

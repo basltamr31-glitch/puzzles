@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_070",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 070",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "BOCCA",
+      "clue": "Apertura usata per mangiare e parlare",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "NASO",
+      "clue": "Organo usato per annusare",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "CANE",
+      "clue": "Animale domestico fedele che abbaia",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "GAMBA",
+      "clue": "Arto usato per camminare",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "CAMPO",
+      "clue": "Terreno aperto per le coltivazioni",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "MADRE",
+      "clue": "Genitore femminile",
+      "category": "people"
+    }
+  ]
+}

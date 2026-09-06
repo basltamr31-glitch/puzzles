@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_019",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 18,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "BTECTFZK",
+    "ZSCCLOUD",
+    "JTPKHRLP",
+    "OOGIOEFO",
+    "BNRCXSUT",
+    "DESERTKU",
+    "BSKMXMYL",
+    "SAYUGOKR"
+  ],
+  "words": [
+    {
+      "word": "CLOUD",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "DESERT",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FOREST",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ICE",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SKY",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "STONE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

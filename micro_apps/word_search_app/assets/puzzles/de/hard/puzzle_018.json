@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_018",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 17,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "MFADJNLRUVXT",
+    "DXITCESKEKLB",
+    "YKDRFWXARBCU",
+    "AMUFZITRONEZ",
+    "RNXCREITTFFA",
+    "UZSCHOKOLADE",
+    "TOMATERFJPVO",
+    "DESBSBNFLOGM",
+    "EREEBDREXVXP",
+    "AAAYOHCLIMTJ",
+    "OKHPMZKVPEVV",
+    "SCCZXPHZKOOA"
+  ],
+  "words": [
+    {
+      "word": "BROT",
+      "row": 7,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 8,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "KAESE",
+      "row": 10,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KEKSE",
+      "row": 1,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MILCH",
+      "row": 9,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SCHOKOLADE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

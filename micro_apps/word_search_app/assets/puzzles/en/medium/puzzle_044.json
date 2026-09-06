@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_044",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 43,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "TTHOAJJDIG",
+    "TMAKPABDDQ",
+    "AWVDPPYXVH",
+    "WFYCWBFDLA",
+    "ARCMISCCAL",
+    "BUHINKQUML",
+    "SGARDENKPW",
+    "LVIROVXILA",
+    "DDROWMRQGY",
+    "EEHRHLAOLA"
+  ],
+  "words": [
+    {
+      "word": "CHAIR",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CUP",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "GARDEN",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "LAMP",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "MIRROR",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "RUG",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "WINDOW",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

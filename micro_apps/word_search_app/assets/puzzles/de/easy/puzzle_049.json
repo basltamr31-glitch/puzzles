@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_049",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 48,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "ZXNOCRFR",
+    "ZPAHUNDH",
+    "BAEREYEW",
+    "BNFUUPLG",
+    "XTIGERFI",
+    "FHOGLYIG",
+    "CELEFANT",
+    "XRRXTBYD"
+  ],
+  "words": [
+    {
+      "word": "BAER",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DELFIN",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ELEFANT",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HUND",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PANTHER",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TIGER",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

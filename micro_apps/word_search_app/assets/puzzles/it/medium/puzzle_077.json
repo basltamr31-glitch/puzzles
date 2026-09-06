@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_077",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 76,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "GDCGVPYEYP",
+    "FFLINGYPVM",
+    "OMRNTMPZTQ",
+    "IRTOVEVBSZ",
+    "FEECNNDRFO",
+    "QSSCLTQAFH",
+    "PBTHCOECUN",
+    "GRAIGHCCBB",
+    "MANOZIIIUA",
+    "YDLCOLLOXQ"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "COLLO",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FRONTE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "GINOCCHIO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MANO",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MENTO",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "TESTA",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

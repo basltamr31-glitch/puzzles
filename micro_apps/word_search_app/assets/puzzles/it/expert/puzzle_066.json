@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_066",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 65,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "DDXIQOTTOCSIBQ",
+    "EISQBCRXIKKXDC",
+    "XPZVNOTOOAPHVG",
+    "LZUXUAOBDLMFPL",
+    "TBYIBGRAZORRUB",
+    "ANIHTFXNRGMUSI",
+    "BCOACATATAPOGC",
+    "XIOLIMONERLYPU",
+    "THOGHERAPFUIXX",
+    "FMMELATTERFIMO",
+    "QMYCIYAZNLNAHM",
+    "FOQFOZIDAZEYCY",
+    "ZUFKCFVVPBPKXO",
+    "EOBUPSAXDZTAXX"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 0,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "BURRO",
+      "row": 4,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "CAFFE",
+      "row": 11,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 8,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "LATTE",
+      "row": 9,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "LIMONE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MELA",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANE",
+      "row": 12,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "PATATA",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "POMODORO",
+      "row": 7,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "TORTA",
+      "row": 6,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

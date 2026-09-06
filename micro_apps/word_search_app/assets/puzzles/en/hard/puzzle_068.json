@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_068",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 67,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "JRPQYOVAYUML",
+    "FYKIZMQQFGFD",
+    "PILLOWINDOWZ",
+    "ZYRCHAIRZPMP",
+    "JKLEVODVRCYC",
+    "GCARPETDGOCF",
+    "NZOHALLWAYRM",
+    "MOORHTABRXJQ",
+    "DYODFMKCDDJR",
+    "YRHZRBIQEBFK",
+    "IZKHCYCJNHMU",
+    "RLGQIRVHESLY"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 7,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "CARPET",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHAIR",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "DOOR",
+      "row": 8,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "FIREPLACE",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "GARDEN",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MIRROR",
+      "row": 1,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "PILLOW",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WINDOW",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

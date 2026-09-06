@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_018",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 17,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "BMILCHFEKS",
+    "DDKTDBBXOZ",
+    "NBANANEUHC",
+    "ABUTTERTOX",
+    "MUYXKODKNU",
+    "GCVHTVBYIO",
+    "JKAFFEERGY",
+    "WETEAOETOY",
+    "IMXUBIRNET",
+    "JWSHHLEMAU"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BIRNE",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BROT",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "BUTTER",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HONIG",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MILCH",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

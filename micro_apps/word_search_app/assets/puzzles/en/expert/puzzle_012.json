@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_012",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 11,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "ESACRIATSAADCN",
+    "CVJEEDYLZECLBE",
+    "ATOBXIOCTHWBMD",
+    "LWXBDBLEEEIPSQ",
+    "PFNEHCTIKANJHB",
+    "EOTDAAWHNBDOOR",
+    "RJHRXWXOAGOLDA",
+    "IUPOIBHALLWAYB",
+    "FESOFAYOBTCMWO",
+    "TMQMURFSAYDPRS",
+    "PIPEWLSULQJUAN",
+    "UCERUKVGFYUOID",
+    "QOGTZGSVTECSIY",
+    "YWUSSYWGWJIMCD"
+  ],
+  "words": [
+    {
+      "word": "BEDROOM",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BLANKET",
+      "row": 8,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "CARPET",
+      "row": 4,
+      "col": 5,
+      "dir": "SW"
+    },
+    {
+      "word": "CEILING",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "DOOR",
+      "row": 5,
+      "col": 10,
+      "dir": "E"
+    },
+    {
+      "word": "FIREPLACE",
+      "row": 8,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 4,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "LAMP",
+      "row": 6,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STAIRCASE",
+      "row": 0,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "WINDOW",
+      "row": 2,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

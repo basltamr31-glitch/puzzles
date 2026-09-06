@@ -1,0 +1,80 @@
+{
+  "id": "fr_medium_094",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 094",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "answer": "IDEE",
+      "clue": "Une pensée ou un plan"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "answer": "VALEUR",
+      "clue": "Combien vaut quelque chose"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "AVION",
+      "clue": "Aéronef à voilure fixe"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "answer": "JARDIN",
+      "clue": "Terrain où l'on cultive des fleurs ou légumes"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "CHATEAU",
+      "clue": "Grand bâtiment fortifié, demeure de la noblesse"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "answer": "FAIT",
+      "clue": "Quelque chose de connu comme vrai"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "INSECTE",
+      "clue": "Petite créature à six pattes comme une fourmi"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "MIROIR",
+      "clue": "Surface vitrée réfléchissante"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "POCHE",
+      "clue": "Une petite pochette cousue dans les vêtements"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "VELO",
+      "clue": "Véhicule à deux roues propulsé par pédalage"
+    }
+  ]
+}

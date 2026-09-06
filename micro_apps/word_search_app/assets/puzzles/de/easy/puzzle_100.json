@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_100",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 99,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "ZOTNZMKY",
+    "BKMAVSHC",
+    "ELHHUGNS",
+    "TUERDBIO",
+    "TASSEUSF",
+    "EAKCCSJA",
+    "ZPWLKFHC",
+    "KISSENPI"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "DECKE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TASSE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TUER",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

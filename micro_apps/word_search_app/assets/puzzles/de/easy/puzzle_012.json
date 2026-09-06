@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_012",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 11,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "CKISSENY",
+    "RATPTYYA",
+    "AMBIURVR",
+    "AIZEHNBP",
+    "TNNGLLYX",
+    "TKDECKEL",
+    "CCTLTDKL",
+    "YSOFAZRU"
+  ],
+  "words": [
+    {
+      "word": "DECKE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KAMIN",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "STUHL",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

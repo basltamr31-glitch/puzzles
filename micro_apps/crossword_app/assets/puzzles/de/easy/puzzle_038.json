@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_038",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 038",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "WAL",
+      "clue": "Riesiges Meeressäugetier",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "HAAR",
+      "clue": "Strähnen, die aus der Haut wachsen",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "FROSCH",
+      "clue": "Grüne Amphibie, die hüpft und quakt",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "answer": "SEE",
+      "clue": "Großes Gewässer, von Land umgeben",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "SILBER",
+      "clue": "Glänzendes wertvolles graues Metall",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "MILCH",
+      "clue": "Weiße Flüssigkeit von Kühen",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "BAUM",
+      "clue": "Große Pflanze mit Stamm und Ästen",
+      "category": "nature"
+    }
+  ]
+}

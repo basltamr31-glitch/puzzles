@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_090",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 89,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "XYASOPSTJYIEXV",
+    "KPXLGEGCJFPOKG",
+    "JXMZDMXVXDONKE",
+    "RFSCUEVJOPIORG",
+    "PTSJTCBPYLRRHQ",
+    "AGRNOTADSPETGC",
+    "FANGUINFOTPIGZ",
+    "IQARNGATEAUCMZ",
+    "OUCVARNDRLOJZV",
+    "BIUVBFEVROSZZP",
+    "QOLPGMTIUCSIBB",
+    "IKRPMJDFEOZLME",
+    "NKCONKOTBHCTJH",
+    "ANPJCBSHACCARV"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BEURRE",
+      "row": 12,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 10,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "CAFE",
+      "row": 4,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 13,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "CITRON",
+      "row": 7,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "GATEAU",
+      "row": 7,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "MIEL",
+      "row": 7,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "PAIN",
+      "row": 4,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "POIRE",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "POMMEDETERRE",
+      "row": 13,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "SOUPE",
+      "row": 9,
+      "col": 10,
+      "dir": "N"
+    }
+  ]
+}

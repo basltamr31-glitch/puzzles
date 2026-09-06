@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_068",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 67,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "ZJCMTZTYPBKE",
+    "ZQHHTOOJIJLO",
+    "EPANACIGSNUB",
+    "MYMPSTTJKKQN",
+    "UIBSSAKBZSIY",
+    "TFRZEPMALKJM",
+    "UPEOGIRANFOL",
+    "EYMNISSUOCKA",
+    "CXABERSMFTAQ",
+    "SXBRGTQGTZMK",
+    "VBERUTREVUOC",
+    "HDQGNEREGATE"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 2,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "CHAMBRE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "COUSSIN",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "COUVERTURE",
+      "row": 10,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "ETAGERE",
+      "row": 11,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "FENETRE",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "LAMPE",
+      "row": 5,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "MIROIR",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "TAPIS",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TASSE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

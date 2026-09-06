@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_085",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 84,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "KBHFRCNB",
+    "PYTTSULM",
+    "INKOIEBI",
+    "ELTBDLRM",
+    "RODILLAP",
+    "NOJLPOZX",
+    "ACOLXBOT",
+    "YNHOMBRO"
+  ],
+  "words": [
+    {
+      "word": "BRAZO",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CUELLO",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "HOMBRO",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PIERNA",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "RODILLA",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TOBILLO",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

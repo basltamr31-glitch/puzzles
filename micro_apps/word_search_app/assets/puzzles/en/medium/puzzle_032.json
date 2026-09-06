@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_032",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 31,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "MEMBJUFANM",
+    "AASOCCERSY",
+    "FYRTCXDAHH",
+    "LCMAASWIMT",
+    "HTYCTDHWTI",
+    "ZYSCHHIUEI",
+    "FYQWLEOUAP",
+    "MCFDEISNMX",
+    "BXZKTDNSRJ",
+    "MVZCEXMGVO"
+  ],
+  "words": [
+    {
+      "word": "ATHLETE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CHESS",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CYCLING",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MARATHON",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SOCCER",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STADIUM",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SWIM",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

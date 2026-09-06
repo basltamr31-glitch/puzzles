@@ -1,0 +1,66 @@
+{
+  "id": "it_medium_088",
+  "language": "it",
+  "difficulty": "medium",
+  "title": "Cruciverba 088",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "OBIETTIVO",
+      "clue": "Lo scopo verso cui qualcuno lavora"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "LUCE",
+      "clue": "La chiarezza che permette di vedere"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "RISPOSTA",
+      "clue": "Una replica a una domanda"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "UFFICIO",
+      "clue": "Stanza usata per il lavoro professionale"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "answer": "STAZIONE",
+      "clue": "Fermata per treni o autobus"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "answer": "INSETTO",
+      "clue": "Piccola creatura a sei zampe come una formica"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "DELFINO",
+      "clue": "Intelligente mammifero marino"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "answer": "MUSEO",
+      "clue": "Edificio che espone oggetti storici"
+    }
+  ]
+}

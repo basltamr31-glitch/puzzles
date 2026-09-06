@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_080",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 79,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "EQRSPVZR",
+    "BOXEOCPK",
+    "LAJEDREZ",
+    "RESTADIO",
+    "ZIFUTBOL",
+    "YCATLETA",
+    "CARRERAI",
+    "PRSKJGHJ"
+  ],
+  "words": [
+    {
+      "word": "AJEDREZ",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ATLETA",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BOXEO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CARRERA",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ESTADIO",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FUTBOL",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

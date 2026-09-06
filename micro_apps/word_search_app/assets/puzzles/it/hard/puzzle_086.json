@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_086",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 85,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "YHSZSIOCCKHI",
+    "OVBTYPUAGQAL",
+    "OGKKMAGLIONE",
+    "OCAFBNZZAHSQ",
+    "GLARUTNICCAK",
+    "ROVPRAPNCANF",
+    "HVMVPLOOANDU",
+    "DZRELOFOTNAP",
+    "YYSVINTRAXLC",
+    "SCARPETTEHIA",
+    "BFVESTITOURB",
+    "XMMCUYTDBNOD"
+  ],
+  "words": [
+    {
+      "word": "CALZINO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CAPPOTTO",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CINTURA",
+      "row": 4,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "GIACCA",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "MAGLIONE",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PANTALONE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PANTOFOLE",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "SANDALI",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "SCARPETTE",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VESTITO",
+      "row": 10,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

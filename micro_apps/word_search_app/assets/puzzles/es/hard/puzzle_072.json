@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_072",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 71,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "FYJDZRZXHZKE",
+    "BHYQOAFEXYTR",
+    "LOBTUFIASIRV",
+    "BCNAEEZVENNH",
+    "OKUALNPYCCGH",
+    "XEYMROIDATSE",
+    "EYFSPBNSRMGM",
+    "OMSILCICRGBV",
+    "KMUKBPLTEMCA",
+    "BQSXHIUJRSMU",
+    "EBUKJXMUAOTA",
+    "JOINLAZRJCRO"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "BALONCESTO",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "BOXEO",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CARRERA",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CICLISMO",
+      "row": 7,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "EQUIPO",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "ESTADIO",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "FUTBOL",
+      "row": 2,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TENIS",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

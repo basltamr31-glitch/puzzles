@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_014",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 13,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "MCTJRYIO",
+    "ARMBANDJ",
+    "NOVVENIK",
+    "TGUERTEL",
+    "EUTSOCKE",
+    "LVHOSEHI",
+    "IMXMIOJD",
+    "WBJBGOSO"
+  ],
+  "words": [
+    {
+      "word": "ARMBAND",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GUERTEL",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HOSE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KLEID",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MANTEL",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SOCKE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

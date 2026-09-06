@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_010",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 9,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "ZGAYGQBUBTMTLD",
+    "FAAGGLMQDOTHSV",
+    "SRYMISTFQJBCED",
+    "EGETALOCOHCLEQ",
+    "DNDSNNRPEPJDRA",
+    "MOVPASTELERTBV",
+    "YZETZNIEFRTOYZ",
+    "RMAXNMLNQAUDEP",
+    "HLHSAILFBUCMBA",
+    "PVHLMOAUULIMJT",
+    "SZPOSEUQFOULDA",
+    "PJNDKBKFUTGBLT",
+    "UTKYUCRFUKKQHA",
+    "CFJGZCMUGTBYDS"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 8,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "FRESA",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "LIMON",
+      "row": 7,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "MANTEQUILLA",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "MANZANA",
+      "row": 9,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "PASTEL",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 7,
+      "col": 13,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PLATANO",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "QUESO",
+      "row": 10,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "TORTILLA",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_001",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 0,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "JGZUICVFHF",
+    "TIGRECVVLJ",
+    "XARGSCXLFB",
+    "SQPATACJYJ",
+    "PCUUFBOFEK",
+    "HELEFANTEU",
+    "EBRINLEONV",
+    "MRORPLJKQQ",
+    "OAOMOOONCO",
+    "VACODPKTQV"
+  ],
+  "words": [
+    {
+      "word": "CABALLO",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CEBRA",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CONEJO",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "JIRAFA",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "LEON",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PERRO",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "TIGRE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

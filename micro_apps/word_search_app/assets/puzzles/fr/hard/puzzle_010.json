@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_010",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 9,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "SYVGLZEEITXE",
+    "DFVETYQAOBHY",
+    "XEAASFNGNMEV",
+    "SBNZYXIICANE",
+    "JXNFTIALNLMU",
+    "YCPVRPTVEFAC",
+    "ZPRIVOOIZIUF",
+    "EMZEZIMEQGAM",
+    "QUDCPRAAQYSS",
+    "YRSUAETAGHKS",
+    "NOPASTEQUEPY",
+    "RJFQOELQNTAG"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CREPE",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "GATEAU",
+      "row": 9,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "LAIT",
+      "row": 4,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "MIEL",
+      "row": 7,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "PAIN",
+      "row": 5,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "PASTEQUE",
+      "row": 10,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "POIRE",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

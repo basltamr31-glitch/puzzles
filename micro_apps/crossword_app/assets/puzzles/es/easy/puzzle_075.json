@@ -1,0 +1,58 @@
+{
+  "id": "es_easy_075",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 075",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "answer": "MAR",
+      "clue": "Gran extensión de agua salada",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "AZUL",
+      "clue": "Color de un cielo despejado",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "PELO",
+      "clue": "Lo que crece en la piel, especialmente la cabeza",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "PAN",
+      "clue": "Alimento horneado hecho de harina y agua",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "VIENTO",
+      "clue": "Aire en movimiento",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "answer": "PIE",
+      "clue": "Parte del cuerpo al final de la pierna",
+      "category": "body"
+    }
+  ]
+}

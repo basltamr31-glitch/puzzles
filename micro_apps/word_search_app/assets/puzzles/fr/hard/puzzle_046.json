@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_046",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 45,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "YBEHJXVGEZTA",
+    "NRZIAVADLVYA",
+    "SAIMTPXMCKUP",
+    "BCYPEPRAHCEE",
+    "AEGERUTNIECI",
+    "SLARQBYTHPPP",
+    "KENMDFPEIFKQ",
+    "ETTESSUAHCDE",
+    "TCHAPEAUMAIM",
+    "SZVBLJQVSPSP",
+    "GJMLTAIBVOAZ",
+    "SNTETSEVSNQK"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BRACELET",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CEINTURE",
+      "row": 4,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CHAPEAU",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHAUSSETTE",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "ECHARPE",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "GANT",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "IMPERMEABLE",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "VESTE",
+      "row": 11,
+      "col": 7,
+      "dir": "W"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_091",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 90,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "QMECGKELDEYCKD",
+    "TLIAPHVMAREVCY",
+    "VPFCKIIUUOCUOR",
+    "SCUSOLEALIKBAD",
+    "FFMTBLUTCCFYIE",
+    "AYTKZLTNRCAQGS",
+    "QRTILCOGZAINGE",
+    "IHICQGRGOINAOR",
+    "EUCGQEVGPHSLIT",
+    "BTYONINZPGVOPO",
+    "ITMGNSGPRNOVLT",
+    "REIELKBQULBUEA",
+    "EDSEKMPGPEFNKR",
+    "ZIETNNHVARBOIP"
+  ],
+  "words": [
+    {
+      "word": "DESERTO",
+      "row": 3,
+      "col": 13,
+      "dir": "S"
+    },
+    {
+      "word": "FIUME",
+      "row": 4,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "GHIACCIAIO",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "GHIACCIO",
+      "row": 9,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "ISOLA",
+      "row": 7,
+      "col": 9,
+      "dir": "SE"
+    },
+    {
+      "word": "MARE",
+      "row": 1,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 12,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "PIETRA",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 9,
+      "col": 12,
+      "dir": "N"
+    },
+    {
+      "word": "PRATO",
+      "row": 13,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "SOLE",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VULCANO",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

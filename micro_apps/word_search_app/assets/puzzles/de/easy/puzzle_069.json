@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_069",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 68,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "WWWDLTOS",
+    "VARMYADK",
+    "SUACKOPF",
+    "TGSCNOLU",
+    "IEGBITXS",
+    "RNJJENRS",
+    "NWRBZAZZ",
+    "FKHMBBTB"
+  ],
+  "words": [
+    {
+      "word": "ARM",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "AUGE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "FUSS",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KNIE",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "KOPF",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "STIRN",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

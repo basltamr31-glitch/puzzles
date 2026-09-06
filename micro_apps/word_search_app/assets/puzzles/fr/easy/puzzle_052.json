@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_052",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 51,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "FTABLELH",
+    "UALYIJCD",
+    "RYUCTAAR",
+    "YRDHJRNF",
+    "NQUAGDAU",
+    "DZFIIIPD",
+    "CUISINEC",
+    "ZABEGAAG"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CHAISE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CUISINE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "JARDIN",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LIT",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

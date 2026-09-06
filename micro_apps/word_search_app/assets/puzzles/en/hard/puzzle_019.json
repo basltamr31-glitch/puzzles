@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_019",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 18,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "DNWATERFALLG",
+    "YCARMEADOWDT",
+    "DIWYIEIRTADQ",
+    "KLFCLVNGSBRG",
+    "BFAOUDEPYOFR",
+    "ILMYRBGRPQDI",
+    "GZOHBEACHDAM",
+    "BTESNUSILEDR",
+    "WTFNOAGTMOJM",
+    "ZSMXAITBBBUL",
+    "JHYBHRWYUHGD",
+    "IUBKPITUURFJ"
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CLOUD",
+      "row": 6,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "FOREST",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "GLACIER",
+      "row": 6,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "LEAF",
+      "row": 3,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "MEADOW",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "RIVER",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SUNSET",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "WATERFALL",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

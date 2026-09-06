@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_038",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 37,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "VMANTELP",
+    "DJIWLOAE",
+    "EEHHLIRK",
+    "ZEUMJHME",
+    "GOTCADBL",
+    "ROUICLAD",
+    "CSOCKENM",
+    "FWKLEIDC"
+  ],
+  "words": [
+    {
+      "word": "ARMBAND",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HUT",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "JACKE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "KLEID",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MANTEL",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOCKE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

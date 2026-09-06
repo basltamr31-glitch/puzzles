@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_034",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 034",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "SONNO",
+      "clue": "Riposo con gli occhi chiusi",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "NEVE",
+      "clue": "Fiocchi bianchi e ghiacciati che cadono d'inverno",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "VERDE",
+      "clue": "Colore dell'erba e delle foglie",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "LAGO",
+      "clue": "Grande distesa d'acqua circondata da terra",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "SALE",
+      "clue": "Condimento bianco che rende saporito il cibo",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "answer": "APE",
+      "clue": "Insetto che ronza e produce miele",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

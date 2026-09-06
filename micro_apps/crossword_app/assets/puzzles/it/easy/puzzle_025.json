@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_025",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 025",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "STRADA",
+      "clue": "Percorso su cui circolano le auto",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "NASO",
+      "clue": "Organo usato per annusare",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "CARTA",
+      "clue": "Materiale sottile usato per scrivere",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "FERRO",
+      "clue": "Metallo grigio resistente, usato nell'acciaio",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "STELLA",
+      "clue": "Punto luminoso visibile nel cielo notturno",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "BAMBINO",
+      "clue": "Essere umano giovane, non ancora adulto",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

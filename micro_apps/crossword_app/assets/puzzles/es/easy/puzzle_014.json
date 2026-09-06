@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_014",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 014",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "BRAZO",
+      "clue": "Extremidad entre el hombro y la mano",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "SOPA",
+      "clue": "Plato líquido caliente, a menudo con verduras",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "CAMPO",
+      "clue": "Terreno abierto para cultivos",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "PIE",
+      "clue": "Parte del cuerpo al final de la pierna",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "MESA",
+      "clue": "Mueble con una superficie plana y patas",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "ORO",
+      "clue": "Metal precioso de color amarillo",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "HOJA",
+      "clue": "Parte verde y plana de una planta",
+      "category": "nature"
+    }
+  ]
+}

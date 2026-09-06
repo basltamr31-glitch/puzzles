@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_060",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 59,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "PCZGSDQTPC",
+    "DLOCBIEIMR",
+    "EUSHELFSXG",
+    "SOFADJKDKC",
+    "ACZIRMXNIA",
+    "OKYROIIBTR",
+    "BKFAOBMGCP",
+    "GXJCMCDTHE",
+    "MDXBLANKET",
+    "HGHQFHICNK"
+  ],
+  "words": [
+    {
+      "word": "BEDROOM",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BLANKET",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CARPET",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CHAIR",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "SHELF",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

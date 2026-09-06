@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_097",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 96,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "PRGISTILUV",
+    "LADQDYOYUO",
+    "EVNXSDXPZL",
+    "QZRTIQKIOP",
+    "MXELEFANTE",
+    "KMTIGREGOC",
+    "ZRPBSKAUKO",
+    "PFCEHADIKR",
+    "ZHXZFDUNDA",
+    "ICAVALLOIM"
+  ],
+  "words": [
+    {
+      "word": "CAVALLO",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANTERA",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PECORA",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TOPO",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "VOLPE",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

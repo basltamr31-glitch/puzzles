@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_077",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 76,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "BEINFDRF",
+    "ZXWNFNEC",
+    "YBGBOGDU",
+    "AJTSFCBB",
+    "HKJTROFX",
+    "AONIXTOU",
+    "NPFRXDHV",
+    "DFINGERD"
+  ],
+  "words": [
+    {
+      "word": "BEIN",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FINGER",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HAND",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "KOPF",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "OHR",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "STIRN",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_030",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 030",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "MONTAÑA",
+      "clue": "Relieve natural muy elevado",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "PARED",
+      "clue": "Estructura vertical que divide una habitación",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "MAR",
+      "clue": "Gran extensión de agua salada",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "NUBE",
+      "clue": "Masa blanca o gris que flota en el cielo",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "ROJO",
+      "clue": "Color de la sangre o un tomate maduro",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "CABALLO",
+      "clue": "Animal grande que se monta",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "SOPA",
+      "clue": "Plato líquido caliente, a menudo con verduras",
+      "category": "food"
+    }
+  ]
+}

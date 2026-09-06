@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_087",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 86,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "ZZMNITDI",
+    "DPCRAAMV",
+    "HABOLXAI",
+    "RMOCHILA",
+    "GPLSOHEJ",
+    "FOEYUPTE",
+    "CMTRENAT",
+    "BPOIGHOA"
+  ],
+  "words": [
+    {
+      "word": "BOLETO",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MALETA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TREN",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VIAJE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

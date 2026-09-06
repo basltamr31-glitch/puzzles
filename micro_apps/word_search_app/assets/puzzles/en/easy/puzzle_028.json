@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_028",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 27,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "LHDKOBCD",
+    "AAZIBQCE",
+    "MLXTLZUS",
+    "PLTCAPPK",
+    "ZWIHNTSJ",
+    "NAPEKYXR",
+    "EYQNEYWR",
+    "PPCATHKR"
+  ],
+  "words": [
+    {
+      "word": "BLANKET",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CUP",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "LAMP",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

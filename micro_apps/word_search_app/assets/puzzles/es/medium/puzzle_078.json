@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_078",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 77,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "SABRIGONNP",
+    "OYSHFPBNKG",
+    "MCBNPAFCLX",
+    "BAMZCNAYPY",
+    "RLPANTALON",
+    "ECINTURONK",
+    "RESCEFHFQT",
+    "OTRPULSERA",
+    "TIMSKAKSKN",
+    "ONBVESTIDO"
+  ],
+  "words": [
+    {
+      "word": "ABRIGO",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CALCETIN",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CINTURON",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PANTALON",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANTUFLAS",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PULSERA",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SOMBRERO",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

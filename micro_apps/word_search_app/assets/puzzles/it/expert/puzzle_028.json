@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_028",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 27,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "SRQHVDNKLVENQS",
+    "AGTLTCHPYEGQTV",
+    "NREPACMDXHTIAL",
+    "IXVYZMKMRLNTVP",
+    "CQDKZSPECCHIOD",
+    "UYELAFFACSMRLN",
+    "CODPGEMADATDOB",
+    "OONAVIDORAQOQS",
+    "ADPENRAMXPNNAK",
+    "ABXEQHKRFEMAEH",
+    "MGTURXPGDZMDBT",
+    "TTAPATXFBIUBKE",
+    "OXPKKPAOTDNZYH",
+    "ZSNOPYGEESXOSY"
+  ],
+  "words": [
+    {
+      "word": "CAMINETTO",
+      "row": 4,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "COPERTA",
+      "row": 6,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CUCINA",
+      "row": 6,
+      "col": 0,
+      "dir": "N"
+    },
+    {
+      "word": "DIVANO",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 6,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "LETTO",
+      "row": 0,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "PORTA",
+      "row": 3,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 5,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 4,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 1,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "TAZZA",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

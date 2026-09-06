@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_074",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 73,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "JPMDQTXBIH",
+    "MBQSKOMRYX",
+    "TLUEURMNQG",
+    "MIELITMHEH",
+    "JYSEHIGCCA",
+    "CHOCOLATEN",
+    "PDVHULIKZZ",
+    "CAFEVAPMFC",
+    "RHNUJYKTOH",
+    "SQKYKMZMKN"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LECHE",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "LIMON",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "MIEL",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PAN",
+      "row": 6,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "QUESO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TORTILLA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

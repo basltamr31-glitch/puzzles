@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_008",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 008",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "RAIN",
+      "clue": "Water falling from clouds",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "answer": "ROCK",
+      "clue": "Hard mineral material, or a large stone",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "FRUIT",
+      "clue": "Sweet part of a plant, like an apple",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "answer": "RED",
+      "clue": "Color of blood or a ripe tomato",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "LEAF",
+      "clue": "Flat green part of a plant",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "KING",
+      "clue": "Male ruler of a kingdom",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "LEG",
+      "clue": "Limb used for walking",
+      "category": "body"
+    }
+  ]
+}

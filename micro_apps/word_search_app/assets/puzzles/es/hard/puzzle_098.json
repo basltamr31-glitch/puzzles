@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_098",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 97,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "LKCTXOOSKAOJ",
+    "BMUGZOYOIXUZ",
+    "FOABJTNDSCOU",
+    "AMANZANAHSVL",
+    "SOPATATAEIST",
+    "TLJASERUKNBP",
+    "PKLKLYQLAILG",
+    "DPHLJGNUKSDD",
+    "XKAILJJCIRIR",
+    "UGJMVMPIALMA",
+    "JTCOEPASTELZ",
+    "RZDNHCQVNNJA"
+  ],
+  "words": [
+    {
+      "word": "GALLETA",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "LIMON",
+      "row": 7,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MANTEQUILLA",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MANZANA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PASTEL",
+      "row": 10,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PATATA",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PLATANO",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "QUESO",
+      "row": 6,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "SANDIA",
+      "row": 5,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "SOPA",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "de_easy_061",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 061",
+  "rows": 5,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "VATER",
+      "clue": "Männlicher Elternteil",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "FRAU",
+      "clue": "Erwachsene weibliche Person",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "TAG",
+      "clue": "Ein 24-Stunden-Zeitraum",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "UHR",
+      "clue": "Gerät, das die Zeit anzeigt",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "PFERD",
+      "clue": "Großes Tier, auf dem man reitet",
+      "category": "animal"
+    }
+  ]
+}

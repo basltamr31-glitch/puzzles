@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_039",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 039",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "HORSE",
+      "clue": "Large animal people ride",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "ROOF",
+      "clue": "Covering on top of a building",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "SEED",
+      "clue": "What a plant grows from",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "GOLD",
+      "clue": "Precious yellow metal",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "EAR",
+      "clue": "Body part used for hearing",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "ROAD",
+      "clue": "A route cars and people travel on",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "WIND",
+      "clue": "Moving air",
+      "category": "nature"
+    }
+  ]
+}

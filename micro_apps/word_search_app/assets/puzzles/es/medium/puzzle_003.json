@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_003",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 2,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "NIEBLABVGC",
+    "MUSYLBODLH",
+    "GHCSUPSCAE",
+    "PEOHVIQMCZ",
+    "BESJIEUAIC",
+    "OTPRADERAA",
+    "OLOEIRCNRG",
+    "MHOCRAKDOB",
+    "JCQGVLCABP",
+    "BXQDOVPQHX"
+  ],
+  "words": [
+    {
+      "word": "BOSQUE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GLACIAR",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "HOJA",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "LLUVIA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MAR",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "NIEBLA",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PRADERA",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

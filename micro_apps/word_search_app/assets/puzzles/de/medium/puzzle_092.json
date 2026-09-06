@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_092",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 91,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "EGNIRCWPBA",
+    "URMNCETZWD",
+    "FEHKAMINOZ",
+    "LGABUFYUDN",
+    "JACFBETTEW",
+    "TLMPTGCBCO",
+    "XCKPXIHHKV",
+    "MUJFENSTER",
+    "FNVRTFKCMF",
+    "WLOLZJDOHA"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "DECKE",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "FENSTER",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "KAMIN",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "KUECHE",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "LAMPE",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "REGAL",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TISCH",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    }
+  ]
+}

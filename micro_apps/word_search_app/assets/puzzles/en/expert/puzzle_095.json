@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_095",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 94,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "EOPLANSMGAESJU",
+    "PTICKETVOYAGEP",
+    "EGJJMCRAJFDXSC",
+    "BJWTROOCIEUVVU",
+    "WUOFAZPASSPORT",
+    "NEYUHXRTNMCBEJ",
+    "UEAEROIIQRGBNU",
+    "WHWVDNAOOTUSZI",
+    "QVHZARENALPJBZ",
+    "REGTTYZYPKDYJO",
+    "XBICYCLEJRINQA",
+    "KOHRAYJBZMABIH",
+    "NTWUWYZYBHMLHR",
+    "MMZBYGOCASXKZD"
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "row": 7,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "BICYCLE",
+      "row": 10,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DESTINATION",
+      "row": 2,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 11,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 4,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "PLANE",
+      "row": 8,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "TAXI",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "TICKET",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 9,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "VACATION",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 1,
+      "col": 7,
+      "dir": "E"
+    }
+  ]
+}

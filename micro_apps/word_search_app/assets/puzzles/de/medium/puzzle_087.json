@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_087",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 86,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "UMIMMKRWBX",
+    "VKOFFERVAU",
+    "VJAFMHUDHE",
+    "JFBRGACDND",
+    "VKWUTFKTHY",
+    "UREISESROX",
+    "LWWXCNAXFW",
+    "YKBJTICKET",
+    "GAYIBGKOUG",
+    "WDFRVUETAV"
+  ],
+  "words": [
+    {
+      "word": "BAHNHOF",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "HAFEN",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "KARTE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "KOFFER",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "REISE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RUCKSACK",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

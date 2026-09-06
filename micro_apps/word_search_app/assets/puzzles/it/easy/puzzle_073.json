@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_073",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 72,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "OZACPDCK",
+    "GIRAFFAN",
+    "HQHVKINE",
+    "FKYAKPEF",
+    "URNLEONE",
+    "LNDLIBFM",
+    "TOPORSOI",
+    "XASTCXAN"
+  ],
+  "words": [
+    {
+      "word": "CANE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CAVALLO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFFA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LEONE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ORSO",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TOPO",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

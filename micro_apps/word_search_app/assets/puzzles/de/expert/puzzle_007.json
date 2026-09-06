@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_007",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 6,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "KOPFYUXFYIHJSP",
+    "UTYHMDLAUFMSLZ",
+    "BUALRUCKSACKJN",
+    "JASNGFOHNHABAT",
+    "TURZIKPAIRHILY",
+    "IOECVFDFTRGYLY",
+    "LUITCZFECAIGJW",
+    "GDSNTHMNTDXNID",
+    "NTEKCITRZGDIJE",
+    "AYPMKCLBTZNEDD",
+    "OTAWXYBMDJGBWX",
+    "WZSGLUXFOGTBRY",
+    "APSXJDYGCJROPU",
+    "PSPVOIMFBUOJSM"
+  ],
+  "words": [
+    {
+      "word": "AUTO",
+      "row": 3,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "BAHNHOF",
+      "row": 3,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "FAHRRAD",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "FLUGZEUG",
+      "row": 0,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "HAFEN",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KARTE",
+      "row": 2,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "REISEPASS",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "RUCKSACK",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SCHIFF",
+      "row": 1,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "TAXI",
+      "row": 5,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "TICKET",
+      "row": 8,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "URLAUB",
+      "row": 2,
+      "col": 5,
+      "dir": "W"
+    }
+  ]
+}

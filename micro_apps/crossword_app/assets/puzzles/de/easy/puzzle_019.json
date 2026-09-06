@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_019",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 019",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "answer": "WALD",
+      "clue": "Große mit Bäumen bedeckte Fläche",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "SAND",
+      "clue": "Winzige lose Körner an Stränden",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "HUND",
+      "clue": "Treuer vierbeiniger Begleiter, der bellt",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "HAND",
+      "clue": "Körperteil am Ende des Arms",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "ELCH",
+      "clue": "Großes geweihtragendes Waldtier",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "WOCHE",
+      "clue": "Ein Zeitraum von sieben Tagen",
+      "category": "time"
+    }
+  ]
+}

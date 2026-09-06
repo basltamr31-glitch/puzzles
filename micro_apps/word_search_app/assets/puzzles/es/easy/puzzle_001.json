@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_001",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 0,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "UCMROFDL",
+    "YEVZVVEC",
+    "BBLPEZLK",
+    "SRKEJZFQ",
+    "CABRARIO",
+    "ITIRDGNR",
+    "GOFOEEHX",
+    "LNRYUPID"
+  ],
+  "words": [
+    {
+      "word": "CABRA",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CEBRA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "DELFIN",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "OVEJA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PERRO",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "RATON",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

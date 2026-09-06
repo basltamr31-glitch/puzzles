@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_006",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 5,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "CORBATAR",
+    "OICHLOVE",
+    "LGLGVREV",
+    "LBXDSGSD",
+    "AMGUANTE",
+    "RYXMXCIZ",
+    "XBUFANDA",
+    "HABRIGOI"
+  ],
+  "words": [
+    {
+      "word": "ABRIGO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BUFANDA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COLLAR",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CORBATA",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GUANTE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

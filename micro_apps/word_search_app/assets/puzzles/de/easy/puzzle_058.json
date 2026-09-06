@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_058",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 57,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "MMZINBSW",
+    "SUPPEANZ",
+    "KUCHENRV",
+    "AWXHOAOE",
+    "EHCHVNTW",
+    "SBUTTERV",
+    "EFNDIESL",
+    "MILCHRWM"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BUTTER",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KAESE",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MILCH",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SUPPE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

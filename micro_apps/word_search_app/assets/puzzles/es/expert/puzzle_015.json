@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_015",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 14,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "NMALETAKYAHDGS",
+    "CGSMNZUEMYMIZV",
+    "IUQEDMTKXALRSO",
+    "LOJONTOBVUCSMT",
+    "HUETROPASAPGAR",
+    "FMLEILIRVLOXSE",
+    "CGNLETSCZIJVZU",
+    "OTZOHLTOAHORNP",
+    "PBMBUYACACMNCO",
+    "ZCAOHQXHSOAGBR",
+    "HKHHZXIEXMYVBE",
+    "ZHZHOTLGRACBNA",
+    "KXAMYNVPONRRTI",
+    "FTYMOIXBSZFXSK"
+  ],
+  "words": [
+    {
+      "word": "AEROPUERTO",
+      "row": 11,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "AUTOPISTA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "AVION",
+      "row": 4,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "BARCO",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BOLETO",
+      "row": 8,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "COCHE",
+      "row": 6,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MALETA",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 10,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "PASAPORTE",
+      "row": 4,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "TAXI",
+      "row": 7,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TREN",
+      "row": 3,
+      "col": 5,
+      "dir": "SW"
+    },
+    {
+      "word": "VACACIONES",
+      "row": 10,
+      "col": 11,
+      "dir": "NW"
+    }
+  ]
+}

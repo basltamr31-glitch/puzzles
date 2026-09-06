@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_041",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 40,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "ECCPRNUOVOTO",
+    "UHGMXGOSNMCT",
+    "AKOEIBYIHQAB",
+    "TRZMJUNJUEMW",
+    "VZUTGIRAFFEK",
+    "CSUMHSBTVULP",
+    "WEEPSQUIRREL",
+    "WCLYFMJGREPR",
+    "MOUSECAEQDHM",
+    "DCLFIDIRHDAD",
+    "VJVFHRQCSING",
+    "EFHYZSRTDETO"
+  ],
+  "words": [
+    {
+      "word": "BIRD",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "CAMEL",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "DOLPHIN",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 4,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MOUSE",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SHEEP",
+      "row": 1,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "SQUIRREL",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TIGER",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "WOLF",
+      "row": 7,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

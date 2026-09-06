@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_059",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 58,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "VMSMSODS",
+    "YBLATTHO",
+    "LLKVRXXN",
+    "VULKANRN",
+    "REGENEFE",
+    "GWINDYSP",
+    "IOXURAYY",
+    "YHDNAPXF"
+  ],
+  "words": [
+    {
+      "word": "BLATT",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "REGEN",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SONNE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "STRAND",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "VULKAN",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

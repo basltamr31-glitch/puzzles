@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_079",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 78,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "AEDXMICVYQ",
+    "HBSPAMMBLP",
+    "NHITPUOOHU",
+    "EDDIABCLGE",
+    "BARCOCHEPR",
+    "EDBFVYITVT",
+    "OHFVKILOCO",
+    "DCHIFTAGNI",
+    "NUBMXBRJTE",
+    "TXRXPHCFEY"
+  ],
+  "words": [
+    {
+      "word": "BARCO",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BOLETO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "COCHE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ESTACION",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MAPA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PUERTO",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "VIAJE",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    }
+  ]
+}

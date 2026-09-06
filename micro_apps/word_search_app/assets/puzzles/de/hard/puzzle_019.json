@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_019",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 18,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "RPBERGLEEEWX",
+    "GVOLPYPWBJOI",
+    "XAGOASDABYGV",
+    "KIPALTLSPHTG",
+    "ZLVGLETSCHER",
+    "NFGHBILEDMMG",
+    "GMXEDNARTSBM",
+    "ZENNDJFFLFSY",
+    "CYBHIMGACSLM",
+    "LHIVNAKLUVME",
+    "UPHIMMELDSRV",
+    "LPYHUBFBLVXO"
+  ],
+  "words": [
+    {
+      "word": "BERG",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BLATT",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "FLUSS",
+      "row": 11,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "GLETSCHER",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "HIMMEL",
+      "row": 10,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "NEBEL",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "STEIN",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "STRAND",
+      "row": 6,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "VULKAN",
+      "row": 9,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "WASSERFALL",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

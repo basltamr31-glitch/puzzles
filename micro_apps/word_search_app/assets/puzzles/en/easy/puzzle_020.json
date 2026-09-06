@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_020",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 19,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "BPECHAIR",
+    "EWIEDQBD",
+    "DTIIHGIU",
+    "RAQLJAEQ",
+    "OBRIIRCW",
+    "OLZNDDUW",
+    "MEYGOEPK",
+    "EZMWNNUP"
+  ],
+  "words": [
+    {
+      "word": "BEDROOM",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CEILING",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CHAIR",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CUP",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

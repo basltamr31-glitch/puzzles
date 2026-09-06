@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_098",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 97,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "DEUMJSDZPIXF",
+    "KJCVSHEBCRUI",
+    "BGSOUPEJHAAR",
+    "HAVNEGAMORFB",
+    "DTNRHZSUCURE",
+    "CECACITRONCH",
+    "XAYJNGYTLXJO",
+    "DUEUQETSAPGQ",
+    "TZBISCUITXIX",
+    "QZLUUVJDTNCZ",
+    "KPQKXBZJYPCJ",
+    "KFOURFHYYLGA"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CAFE",
+      "row": 1,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CITRON",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CREPE",
+      "row": 5,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "GATEAU",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PASTEQUE",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SOUPE",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

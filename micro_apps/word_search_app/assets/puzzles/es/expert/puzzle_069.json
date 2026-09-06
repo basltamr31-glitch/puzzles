@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_069",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 68,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "RJQYQAEAHAPJIG",
+    "CSXPZQPACFTADU",
+    "OVIITVNCZVMTZS",
+    "OKQMPRTURZCOZI",
+    "LUFRENTEAEGBMH",
+    "MROIHNILIAIISR",
+    "VRPFXRTLMOXLYS",
+    "TTHOMBRODILLAC",
+    "NYEOAJTJNEJOZS",
+    "GNMPJSFYDADDVE",
+    "SZBMEKHYRTMOBO",
+    "NFSTRGZSHMNCOP",
+    "OOMIODBOKRJCFD",
+    "FREAFDKVDJCZIV"
+  ],
+  "words": [
+    {
+      "word": "CODO",
+      "row": 11,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "CUELLO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "DEDO",
+      "row": 7,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "ESTOMAGO",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "FRENTE",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HOMBRO",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MANO",
+      "row": 10,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "MENTON",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "OREJA",
+      "row": 12,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "PIERNA",
+      "row": 6,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "RODILLA",
+      "row": 7,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "TOBILLO",
+      "row": 2,
+      "col": 11,
+      "dir": "S"
+    }
+  ]
+}

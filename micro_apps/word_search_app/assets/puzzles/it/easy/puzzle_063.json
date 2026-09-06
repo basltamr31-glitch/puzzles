@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_063",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 62,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "VIAGGIOB",
+    "AEEVDPSC",
+    "CTRENODC",
+    "AREHBRUG",
+    "NKOAUTOI",
+    "ZRTICOSA",
+    "ATUMNVPC",
+    "NNBBEQEA"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "AUTO",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PORTO",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TRENO",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VACANZA",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VIAGGIO",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

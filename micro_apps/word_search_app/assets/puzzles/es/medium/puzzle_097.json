@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_097",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 96,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "ICUHTLMVCX",
+    "FHCOSQTOOI",
+    "LJCAFVFJCV",
+    "DHCABALLOY",
+    "QKSIMRJXDP",
+    "QOQPVEAARN",
+    "HSUYDELFIN",
+    "COVEJALLLB",
+    "OPINGUINOX",
+    "ZJKMVAZOCJ"
+  ],
+  "words": [
+    {
+      "word": "CABALLO",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CABRA",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CAMELLO",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "COCODRILO",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "DELFIN",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "OSO",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "OVEJA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

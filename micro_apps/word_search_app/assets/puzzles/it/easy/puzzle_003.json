@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_003",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 2,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "PDESERTO",
+    "IDCDRBVR",
+    "OPFIUMEX",
+    "GYOFMUHD",
+    "GFGUIFST",
+    "IZLLXZZZ",
+    "APIETRAZ",
+    "MPALBERO"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "DESERTO",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FIUME",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PIETRA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

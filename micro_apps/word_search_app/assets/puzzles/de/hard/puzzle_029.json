@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_029",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 28,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "YYDDFFPOKCNN",
+    "VHEWXIZSIIFL",
+    "TDOFLEHCEONK",
+    "DRTNHCZBSRON",
+    "AOEGUANSIVKI",
+    "HHAAPRLTEUXE",
+    "XGBUFUSSWUZZ",
+    "AJZGMWICEAUZ",
+    "JBYOIZSAZAAW",
+    "BKIDTGXSHWZP",
+    "MMDSRFHOYIZT",
+    "LRSOECHBHUSH"
+  ],
+  "words": [
+    {
+      "word": "AUGE",
+      "row": 4,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "BAUCH",
+      "row": 6,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "BEIN",
+      "row": 3,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "FUSS",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "HALS",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "KINN",
+      "row": 0,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "KNIE",
+      "row": 2,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "KNOECHEL",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "KOPF",
+      "row": 0,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "STIRN",
+      "row": 6,
+      "col": 6,
+      "dir": "NE"
+    }
+  ]
+}

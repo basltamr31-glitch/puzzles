@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_062",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 61,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "AJGTAIRU",
+    "EMGHOSEJ",
+    "KEUTMCJL",
+    "BUEWAHUT",
+    "KARBNAXS",
+    "MNTSTLTS",
+    "SJEJEJFX",
+    "XMLKLEID"
+  ],
+  "words": [
+    {
+      "word": "GUERTEL",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HOSE",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "HUT",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "KLEID",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MANTEL",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SCHAL",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

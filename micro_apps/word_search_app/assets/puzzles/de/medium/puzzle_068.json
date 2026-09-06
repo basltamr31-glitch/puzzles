@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_068",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 67,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "NMNJSKSOFA",
+    "FGFTFTTTCF",
+    "BKAMINUCIJ",
+    "SHUFWEHLZD",
+    "SPIEGELFGA",
+    "HKXNCPMYUO",
+    "RTISCHSCDX",
+    "JTTTWYELAV",
+    "BHDECKEMEV",
+    "HEARDYZZNP"
+  ],
+  "words": [
+    {
+      "word": "DECKE",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FENSTER",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KAMIN",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KUECHE",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SOFA",
+      "row": 0,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STUHL",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TISCH",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

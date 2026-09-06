@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_044",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 43,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "UPECMCSG",
+    "BESPEJOU",
+    "QSTKSEFD",
+    "HIAKAZAP",
+    "BLNCCJQR",
+    "ALTFQOFR",
+    "NAEKMKKS",
+    "OLLXQMGA"
+  ],
+  "words": [
+    {
+      "word": "BANO",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MESA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SILLA",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

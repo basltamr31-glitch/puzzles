@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_034",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 33,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "MMIDPIKNRQ",
+    "OBILVGJGFF",
+    "UEXRSQYEER",
+    "RTMPNTCOSO",
+    "DPBXACAFEM",
+    "IMIELICPTA",
+    "DVMIUTNOLG",
+    "PBQBFRAISE",
+    "JCASSORRXC",
+    "RNRAENXEUP"
+  ],
+  "words": [
+    {
+      "word": "BEURRE",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CAFE",
+      "row": 4,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "CITRON",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FRAISE",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "MIEL",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PAIN",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "POIRE",
+      "row": 5,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

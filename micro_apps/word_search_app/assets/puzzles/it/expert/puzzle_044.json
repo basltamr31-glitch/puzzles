@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_044",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 43,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "EZYQCLRPCTQUKT",
+    "PFKEUZOCLELOIU",
+    "SUSMMGMCALNZIA",
+    "BCTQNNDBNAUTKH",
+    "XNFYDXOOVFXORS",
+    "LVGPKZKISFXTHA",
+    "GBFOOVDNHAZZAT",
+    "OOTTENIMACLLTR",
+    "DMNEAPGCUSCINO",
+    "PCOPERTAKKEEQE",
+    "BIBPDXEUBGGDPL",
+    "ILBADAPMALUIIS",
+    "ILMTHFLTAMQRBA",
+    "UFXISSGZNCYTQF"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 10,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "CAMERA",
+      "row": 13,
+      "col": 9,
+      "dir": "NW"
+    },
+    {
+      "word": "CAMINETTO",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "COPERTA",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 8,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "DIVANO",
+      "row": 6,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 11,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 8,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "SEDIA",
+      "row": 8,
+      "col": 9,
+      "dir": "SE"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 11,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 12,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "TAZZA",
+      "row": 6,
+      "col": 13,
+      "dir": "W"
+    }
+  ]
+}

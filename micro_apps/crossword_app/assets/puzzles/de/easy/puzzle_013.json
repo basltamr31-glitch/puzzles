@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_013",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 013",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "FARBE",
+      "clue": "Rot, Blau, Grün oder eine andere Nuance",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "BLAU",
+      "clue": "Farbe eines klaren Himmels",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "ARM",
+      "clue": "Gliedmaße zwischen Schulter und Hand",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "UHR",
+      "clue": "Gerät, das die Zeit anzeigt",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "SEE",
+      "clue": "Großes Gewässer, von Land umgeben",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "WOLF",
+      "clue": "Wildtier, verwandt mit dem Hund",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "HOLZ",
+      "clue": "Material, aus dem Bäume bestehen",
+      "category": "nature"
+    }
+  ]
+}

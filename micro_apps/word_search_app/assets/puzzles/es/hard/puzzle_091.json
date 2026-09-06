@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_091",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 90,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "BNUBESOVMTXQ",
+    "DISLAYTOPVXP",
+    "PEQPIGDLMAFZ",
+    "IBSIRIOCRAXE",
+    "OLEICAYALPGP",
+    "JAKTEQDNKTLH",
+    "PSDFURREOBYH",
+    "PEVUZMTIRUDF",
+    "DJAOMMHOJAJD",
+    "ABQTLNYPRXSF",
+    "NFBUAQSJTJCG",
+    "AXFYRCQKRGXK"
+  ],
+  "words": [
+    {
+      "word": "ARCOIRIS",
+      "row": 3,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CIELO",
+      "row": 4,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "DESIERTO",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "HOJA",
+      "row": 8,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "ISLA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "NIEBLA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "NUBE",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PLAYA",
+      "row": 4,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "PRADERA",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

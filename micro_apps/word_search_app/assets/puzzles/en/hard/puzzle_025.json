@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_025",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 24,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "JRCWPVHORSEN",
+    "LXEORSHOLSLL",
+    "PLHLIAGJUPEV",
+    "AYSFEFTOHMPF",
+    "FTLUBLMPAIHA",
+    "GLUTSDSCRTAE",
+    "CSFYYBUZERNG",
+    "DEYRDRGRBCTC",
+    "TBPUROPEELDD",
+    "EAUPPCZIACTD",
+    "GZBZUNJERNQM",
+    "ZVEJCCIOLGAB"
+  ],
+  "words": [
+    {
+      "word": "BEAR",
+      "row": 7,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CAMEL",
+      "row": 5,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "FISH",
+      "row": 3,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "GOAT",
+      "row": 2,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "HARE",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "HORSE",
+      "row": 0,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "MOUSE",
+      "row": 4,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "WOLF",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 9,
+      "col": 6,
+      "dir": "NE"
+    }
+  ]
+}

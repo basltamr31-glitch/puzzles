@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_003",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 2,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "AVMNEVDMKN",
+    "ROARUHUCRM",
+    "CLYPRAIRIE",
+    "ECCLMPGSVV",
+    "NAGASOLEIL",
+    "CNUGBUPMER",
+    "IGTEJSPBRM",
+    "ECSUKVREEM",
+    "LSUSQFIDIH",
+    "XTDZONDKNM"
+  ],
+  "words": [
+    {
+      "word": "ARCENCIEL",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "MER",
+      "row": 5,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "NUAGE",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PLAGE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PRAIRIE",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "RIVIERE",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

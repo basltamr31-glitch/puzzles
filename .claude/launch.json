@@ -1,0 +1,35 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "crossword_app_web",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "cd /d C:\\Users\\baslt\\puzzels\\micro_apps\\crossword_app && flutter run -d web-server --web-port 8765 --web-hostname 127.0.0.1"
+      ],
+      "port": 8765,
+      "url": "http://127.0.0.1:8765"
+    },
+    {
+      "name": "sudoku_app_web",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "cd /d C:\\Users\\baslt\\puzzels\\micro_apps\\sudoku_app && flutter run -d web-server --web-port 8766 --web-hostname 127.0.0.1"
+      ],
+      "port": 8766,
+      "url": "http://127.0.0.1:8766"
+    },
+    {
+      "name": "word_search_app_web",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "cd /d C:\\Users\\baslt\\puzzels\\micro_apps\\word_search_app && flutter run -d web-server --web-port 8767 --web-hostname 127.0.0.1"
+      ],
+      "port": 8767,
+      "url": "http://127.0.0.1:8767"
+    }
+  ]
+}

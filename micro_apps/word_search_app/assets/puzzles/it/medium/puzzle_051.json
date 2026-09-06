@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_051",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 50,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "PAVENMLLXA",
+    "SPRKAMNHMU",
+    "ZEPGKCDAXT",
+    "SPIAGGIAVH",
+    "TYENAKDEUV",
+    "PMTVLLBVLZ",
+    "VRREBVCMCO",
+    "UNANEBBIAE",
+    "YDNTRZKDNP",
+    "SDKOOYZCOP"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CIELO",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PIETRA",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PRATO",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SPIAGGIA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VENTO",
+      "row": 5,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "VULCANO",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_053",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 52,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "YTTDEPBS",
+    "DQDHOYLM",
+    "NAMJAMBE",
+    "QPOBRASN",
+    "HZPDOIGT",
+    "TETERNGO",
+    "FFKNYAMN",
+    "AAZVAMOZ"
+  ],
+  "words": [
+    {
+      "word": "BRAS",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "DOIGT",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "JAMBE",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MAIN",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MENTON",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TETE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

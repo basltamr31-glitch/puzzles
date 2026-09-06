@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_043",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 42,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "OFVDBOGTSM",
+    "BSDKLMXVAG",
+    "FPVENTOTME",
+    "MIYHSGORDO",
+    "KAUUFECLRZ",
+    "MGRMPVRPRB",
+    "UGZEERHTHT",
+    "SIVULCANOO",
+    "AALBEROTQX",
+    "RMVDRVBDOR"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DESERTO",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "FIUME",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "MARE",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PRATO",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "SPIAGGIA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VENTO",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VULCANO",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

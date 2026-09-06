@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_051",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 051",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "MANO",
+      "clue": "Parte del cuerpo al final del brazo",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "PAGINA",
+      "clue": "Una hoja de un libro",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "PASTEL",
+      "clue": "Postre dulce horneado",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "TIBURON",
+      "clue": "Gran pez depredador de dientes afilados",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "SUEÑO",
+      "clue": "Descanso con los ojos cerrados",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "MES",
+      "clue": "Una de las doce divisiones de un año",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "MESA",
+      "clue": "Mueble con una superficie plana y patas",
+      "category": "home"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_083",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 82,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "PKFOGGDY",
+    "CCHMLCXV",
+    "YNLWALAM",
+    "ERVYCEFE",
+    "KQIXIYHA",
+    "STONEXLD",
+    "RIVERPUO",
+    "VRAINBOW"
+  ],
+  "words": [
+    {
+      "word": "FOG",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MEADOW",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "RAINBOW",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RIVER",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

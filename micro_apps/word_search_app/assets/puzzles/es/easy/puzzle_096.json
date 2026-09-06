@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_096",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 95,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "GGEAJOPX",
+    "HOCKEYXE",
+    "RLZQQQPS",
+    "CEMAURTT",
+    "KTENISOA",
+    "SREVPZED",
+    "YYCJOFFI",
+    "NARBITRO"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "EQUIPO",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ESTADIO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GOL",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TENIS",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

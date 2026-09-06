@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_017",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 16,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "MGZXGUYNIN",
+    "SVLOIAYFPG",
+    "YQUGRDTFYR",
+    "CAPRASFTLD",
+    "XPOKFNOLOU",
+    "FELEFANTEG",
+    "LACYAQUILA",
+    "FRECXCDIRB",
+    "DPOUBIEOIH",
+    "VVZNEKLMLX"
+  ],
+  "words": [
+    {
+      "word": "APE",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "AQUILA",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CAPRA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GATTO",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "GIRAFFA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "LUPO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ORSO",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

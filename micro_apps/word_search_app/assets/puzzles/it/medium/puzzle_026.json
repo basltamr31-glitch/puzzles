@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_026",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 25,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "XAUYUQIPFY",
+    "SKVSOBLARM",
+    "SXNYHVITIP",
+    "MHNCRCMATH",
+    "YDBISCOTTO",
+    "XALLEMNAEQ",
+    "MPLATTEKLP",
+    "TZARHBILLZ",
+    "HRANGURIAM",
+    "XTLREPTIXA"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FRITTELLA",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "LATTE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LIMONE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MELA",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "PANE",
+      "row": 6,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PATATA",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

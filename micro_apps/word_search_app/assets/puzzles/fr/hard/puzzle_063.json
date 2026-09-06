@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_063",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 62,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "BPYAKESZEFRG",
+    "RTXTQNETHBBZ",
+    "NVTROPLUMHTA",
+    "KDRINIBATEAU",
+    "XVVUXHHFHFXT",
+    "SACADOSZTYDO",
+    "VCTCLRMROARR",
+    "DAZUIIAGGZUO",
+    "KNXRIJSFLAMU",
+    "ICESDRBEIPRT",
+    "BERUTIOVZJLE",
+    "RSXSFSRBKZPM"
+  ],
+  "words": [
+    {
+      "word": "AUTOROUTE",
+      "row": 2,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "AVION",
+      "row": 5,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "BATEAU",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "GARE",
+      "row": 7,
+      "col": 8,
+      "dir": "SE"
+    },
+    {
+      "word": "PORT",
+      "row": 2,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "SACADOS",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 6,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "VACANCES",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VALISE",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "VOITURE",
+      "row": 10,
+      "col": 7,
+      "dir": "W"
+    }
+  ]
+}

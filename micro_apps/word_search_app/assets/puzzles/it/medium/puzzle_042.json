@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_042",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 41,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "TKMRCAFFEZ",
+    "OGBISCOTTO",
+    "RMZBURROSA",
+    "TDMTLIMONE",
+    "ANGURIAKAI",
+    "XTLUOUGXTT",
+    "EAMBKUGEOE",
+    "HAQQUDIPPD",
+    "GPOMODOROO",
+    "NQHCNKYCEE"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BURRO",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CAFFE",
+      "row": 0,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LIMONE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "POMODORO",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TORTA",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

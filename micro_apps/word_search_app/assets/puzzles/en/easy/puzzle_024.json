@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_024",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 23,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "CJANRSDV",
+    "PARTNUMC",
+    "SOCCERTP",
+    "ATHLETEZ",
+    "RXEOFWNJ",
+    "MMRRCZNM",
+    "JGYMGBIA",
+    "JQCHESSE"
+  ],
+  "words": [
+    {
+      "word": "ARCHERY",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CHESS",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "GYM",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOCCER",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

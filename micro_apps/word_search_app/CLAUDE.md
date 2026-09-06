@@ -1,0 +1,322 @@
+# Word Search app — working agreement & architecture
+
+The third app in the portfolio, built on the crossword app's skeleton
+(the same one sudoku used). `app/` and `core/` were **copied**, not
+extracted into a shared package — each micro app stays independently
+shippable and versioned. The cost is real: a fix to `core/` has to be
+applied in all three apps. Make that trade deliberately rather than
+"fixing" it without being asked.
+
+Branding: **Developer — BT developer. Copyright — BaLa Dream.**
+App/product identity is fixed: `com.baslt.word_search_app`, product ID
+`remove_ads`.
+
+---
+
+## What is different from the crossword and sudoku apps
+
+Read this before assuming a recipe from either sibling applies here.
+
+| | Crossword | Sudoku | Word Search |
+| --- | --- | --- | --- |
+| Puzzle content | Per-language word banks, grid *derived* at load | Generated grids, no language dimension | Per-language word banks, grid *stored* (not derived) |
+| Language settings | UI language *and* puzzle language | UI language only | UI language *and* puzzle language |
+| Onboarding | welcome → language → difficulty | welcome → difficulty | welcome → language → difficulty |
+| Input | Hidden `TextField` + OS keyboard | On-screen number pad | Drag-to-select on the grid, no keyboard |
+| Hint | Reveals one letter | Reveals one cell | Finds one whole unfound word |
+| Palette | Indigo + amber on cream | Teal + orange on cool white | Violet + lime on tinted white |
+
+The three apps are kept at **visual parity** apart from the palette: the
+decorative art, per-tier difficulty accents, card shadows, difficulty
+banner, and completion burst are the same design across all of them.
+When one app gains a UI treatment, the others should get it too — with
+their own colour tokens, never by copying another app's palette.
+
+"Add a new language" here means **both** halves, same as crossword: an
+ARB file (UI translation) *and* a new `tool/word_banks/<code>_words.dart`
+(puzzle content) plus a `supportedGameLanguageCodes` entry. Adding UI
+translation alone is possible (crossword's UI/game language split is
+deliberately reused) but is a partial job — flag it if that's genuinely
+all that's wanted.
+
+---
+
+## Why the grid is stored, not derived
+
+Crossword's puzzle asset holds the word list and clue text; the grid
+(blocked cells, clue numbers) is *derived* from it at load time by
+`CrosswordGridGenerator`. Word Search cannot do the same: the filler
+letters between words are not derivable from the word list alone — they
+are themselves part of what makes a puzzle a specific puzzle. Two
+players opening puzzle `en_easy_007` must see the *same* grid, so the
+filled grid (`rows`) is generated once, offline, by
+`tool/generate_puzzles.dart`, and shipped as-is. The word list
+(`placements`) travels alongside it so the app can validate a selection
+without re-deriving anything, and so tests can prove the two agree.
+
+---
+
+## Non-negotiable invariants
+
+1. **Puzzle content is generated, never hand-authored.** `tool/` owns
+   everything under `assets/puzzles/`. Never hand-edit a puzzle JSON.
+2. **Every bundled puzzle is validated through the real scanner**, and
+   that validation is a permanent test, not a throwaway script — see
+   `test/features/word_search/bundled_puzzles_test.dart`. It runs in
+   seconds; don't delete it to speed up the suite.
+3. **The generator and the app share one engine.**
+   `lib/features/word_search/domain/word_search_scanner.dart` and
+   `word_search_generator.dart` are pure Dart with no Flutter import
+   precisely so `tool/generate_puzzles.dart` can run them under plain
+   `dart run`. Keep it that way — a second, tool-only implementation of
+   the placement rules is how a puzzle ships with a word that isn't
+   actually where its metadata claims.
+4. **Every listed word appears in its grid exactly once.** A word that
+   accidentally repeats (once from its real placement, once from filler
+   letters lining up by chance) lets a player select the wrong copy and
+   be told they're wrong. `WordSearchValidator` checks this at generation
+   time *and* the bundled-puzzles test checks it again on the shipped
+   asset.
+5. **`assets/test_fixtures/` is off-limits to the generator.** Tests
+   assert against it precisely because it never changes.
+6. **UI language list and game language list are separate.**
+   `supportedUILanguageCodes` (translated chrome) vs
+   `supportedGameLanguageCodes` (has puzzle content). They may diverge.
+7. **Ad unit IDs are never committed.** They live in the gitignored
+   `ad_config.json` (copy `ad_config.example.json`) and reach the app via
+   `--dart-define-from-file`; debug without them falls back to Google
+   test units, release falls back to empty. The AdMob **App ID** is
+   different: it *is* committed, in `AndroidManifest.xml`, because it is
+   public and the ads SDK crashes on launch without it.
+8. **Prices are not hardcoded.** The store reports them; bundled strings
+   are only an offline fallback.
+9. **The app stays fully offline.** No backend, no database, no accounts
+   — all state is SharedPreferences. Notifications are **local only**.
+
+---
+
+## How difficulty actually works
+
+Three levers per tier, not just grid size — see `WordSearchTier` in
+`word_search_generator.dart` (`wordSearchTiers`):
+
+| Tier | Grid | Words | Directions |
+| --- | --- | --- | --- |
+| easy | 8x8 | 6 | right, down |
+| medium | 10x10 | 8 | + down-right |
+| hard | 12x12 | 10 | + up-right, **backwards** |
+| expert | 14x14 | 12 | all eight |
+
+"Backwards" is the real difficulty cliff, which is why it arrives at hard
+and not before: a player scanning for a word reads in one direction, and
+a reversed word defeats that habit entirely. Word-length windows widen
+alongside grid size so a bigger board doesn't just mean "more of the same
+short words".
+
+Seeds are fixed per language (`_languageSeeds` in
+`tool/generate_puzzles.dart`), so a regeneration reproduces the same set
+rather than silently reshuffling every player's puzzle numbering. Change
+a seed only when you intend to replace the content.
+
+### Regenerating
+
+```bash
+dart run tool/generate_puzzles.dart            # every language
+dart run tool/generate_puzzles.dart en         # just one
+```
+
+### Word banks
+
+`tool/word_banks/<code>_words.dart` holds one word list per
+`PuzzleTheme` (animals, food, nature, home, body, clothes, travel,
+sports — see `lib/features/word_search/domain/puzzle_theme.dart`).
+European-language banks are written **without diacritics**
+(`ARBOL` not `ÁRBOL`, `PAIN` not `PAIN` with any accented cousin) —
+matching how printed word-search books set this content, and sidestepping
+the question of whether an accented and unaccented letter are "the same"
+filler letter. Arabic is written without diacritics (tashkeel) for the
+same reason real puzzles are. Multi-word answers are concatenated into
+one token (`ARCENCIEL`, not `ARC-EN-CIEL`) since a grid cell holds one
+letter, not a space.
+
+`WordSearchGenerator.pickWords` excludes any two words where one
+contains the other (`CAT`/`CATS`) — such a pair can never both appear
+exactly once — so word banks can be generous without hand-curating for
+that case; the generator prunes it per draw.
+
+---
+
+## Architecture map
+
+```
+lib/
+  app/            app_config.dart (all constants), router, theme
+  core/           ads, audio, billing, consent, notifications,
+                  localization, storage — copied from crossword_app
+  features/
+    word_search/
+      domain/     models, scanner/validator, generator, tiers, progress
+      data/       PuzzleRepository (asset bundles + progress)
+      presentation/ controller, grid view (drag selection), word list,
+                    gameplay screen
+    game_language/  puzzle-language picker (reused shape from crossword)
+    puzzle_list/    list + sequential unlock
+    difficulty/     tier selection
+    settings/       single settings surface
+tool/             puzzle generator, word banks, icon/audio generators
+```
+
+Platform-specific plugins (`google_mobile_ads`, `in_app_purchase`,
+`audioplayers`, `flutter_local_notifications`) are reached only through
+the abstractions in `core/`, via conditional-import factories, so
+web/desktop builds stay clean.
+
+---
+
+## Traps already hit — do not reintroduce
+
+- **A `GestureDetector(onPanStart:)` inside a scroll view cannot select
+  vertically.** `PanGestureRecognizer` waits for `kPanSlop` (~36dp)
+  before claiming a gesture; the enclosing `SingleChildScrollView`
+  claims a *vertical* drag at `kTouchSlop` (~18dp). The scrollable wins
+  that race every time, so the shipped build could select horizontal
+  words but no vertical ones — the board just scrolled. The grid uses a
+  `RawGestureDetector` with `_GridPanGestureRecognizer`, which accepts on
+  the first move event while leaving two-finger gestures on the default
+  slop so `InteractiveViewer` keeps pinch-to-zoom.
+- **`DragStartBehavior.start` reports the drag from where the slop
+  threshold was crossed, not where the finger landed**, which selected a
+  cell or two along from the one touched. The grid's recognizer sets
+  `DragStartBehavior.down`.
+- **A `WidgetTester` drag written with one big `moveTo` cannot reproduce
+  either bug.** A single large jump crosses both recognizers' thresholds
+  in the same event, and the arena then awards the gesture to the
+  innermost one — so the grid wins and the test passes against broken
+  code. `grid_drag_gesture_test.dart` moves in 8dp steps for exactly this
+  reason. If you touch that gesture code, verify the test still *fails*
+  when you undo the fix; a gesture test that cannot fail is worse than
+  none.
+
+Everything in the crossword and sudoku apps' own "traps" sections applies
+here too (both apps share this skeleton's `core/` and much of `app/`
+verbatim) — re-read those before assuming a Flutter/Riverpod/asset-bundle
+oddity here is new. Only what's specific to this app is repeated below.
+
+- **The 8 drag directions are 45 degrees apart, so "ambiguous" isn't a
+  real case.** `snappedSelection` (in `word_search_controller.dart`)
+  picks whichever direction's unit vector has the best cosine similarity
+  to the drag — always within 22.5 degrees of *some* direction. An
+  earlier version rejected low-confidence drags below a threshold that,
+  with only 8 evenly-spaced directions, could never actually be crossed;
+  it was dead code that looked like a safety check. Don't re-add a
+  similarity floor without checking it can actually fire.
+- **Comparing raw dot products across the 8 directions is not cosine
+  similarity.** The four diagonal step vectors have magnitude √2, the
+  four cardinal ones have magnitude 1 — without dividing each direction's
+  score by its own magnitude, every comparison is biased toward
+  diagonals, and a mostly-horizontal drag can snap to a diagonal instead.
+  `snappedSelection`'s scoring divides by `sqrt(rowStep² + colStep²)` for
+  exactly this reason; the test at `word_search_controller_test.dart`'s
+  "wobbly, mostly-horizontal drag" case is what catches a regression here.
+- **`WordSearchScanner.findAll` assumes a square grid.** It uses
+  `rows.length` as both the row bound and the column bound, which is
+  correct for every real puzzle (`WordSearchValidator` enforces
+  `rows.length == size` and each row's length `== size`) but wrong for a
+  non-square `List<String>` — a hand-written test fixture that only
+  slices the first few rows of a square puzzle will silently miss matches
+  near the clipped edge. Use a full, square grid in scanner tests.
+- **A palindrome placed once must count as one occurrence, not two.**
+  Reading a palindrome forward from one end is the same cells as reading
+  it backward from the other; `findAll` dedupes by the *sorted cell set*,
+  not by (start cell, direction), specifically so this doesn't look like
+  a duplicate to the one-occurrence-per-word check.
+- **Filler letters can accidentally spell a second copy of a listed
+  word.** `WordSearchGenerator.tryGenerate` re-fills and re-validates up
+  to 40 times rather than patching a single offending cell — patching one
+  collision can create the next one, and a full validator pass is the
+  only way to know the grid is actually clean.
+- **A `FutureProvider.family` caches and never re-reads storage.**
+  Completing/restarting a puzzle must
+  `ref.invalidate(puzzleSummariesProvider)` or the unlock state goes
+  stale — same trap as both sibling apps.
+- **`endDrag()` is sync and hands off to an unawaited async chain**
+  (persist -> check completion -> invalidate -> analytics), exactly like
+  the crossword app's `enterLetter()`. A test that drags a word and
+  asserts on post-completion state in the same synchronous breath reads
+  `isCompleted` before that chain has run — and if the test ends there,
+  `tearDown`'s `container.dispose()` can tear down the Ref out from under
+  the still-pending `ref.invalidate` call, surfacing as "Ref already
+  disposed" rather than as a timing issue. Give it a turn first, same as
+  the crossword controller test does:
+  `await Future<void>.delayed(const Duration(milliseconds: 50));`.
+- **Objects created in `setUp` belong to the real async zone.** Same
+  crossword/sudoku trap: build `Completer`/`Future`/primed `rootBundle`
+  reads inside the test body, not `setUp`.
+- `rootBundle` caches per asset path across tests — any test file that
+  pumps a widget reading an asset needs `setUp(rootBundle.clear)`.
+- Generated `lib/core/localization/generated/` files periodically vanish
+  between sessions — rerun `flutter gen-l10n`.
+- A stale `GeneratedPluginRegistrant.java` breaks the release build after
+  running `flutter_native_splash:create` — delete
+  `android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java`
+  and rebuild.
+
+---
+
+## Verify before reporting done
+
+```bash
+flutter analyze && flutter test && flutter build apk --release
+```
+
+All three must pass. Report real output; never claim console/account
+setup that only the owner can perform.
+
+---
+
+## Current state
+
+- **6 UI languages, 6 game languages**: en, ar, de, fr, es, it — full UI
+  translation and full puzzle content in all six.
+- **2,400 puzzles**: 100 per language per difficulty, every one verified
+  through the real scanner/validator to have every listed word appear
+  exactly once, spelled correctly, inside its own grid.
+- Gameplay: drag-to-select in all 8 directions (from either end of a
+  word), live wrong-selection feedback, found-word strike-through list,
+  hint (rewarded ad or free for premium — finds one whole word), pinch
+  zoom, restart, sequential unlock, dark mode, audio, local play
+  reminders — inherited from the crossword/sudoku skeleton.
+- **Music is not bundled per-app.** `assets/audio/music/` and
+  `assets/audio/sfx/` were carried over from the crossword app's real,
+  licensed tracks rather than left empty — see that folder's README for
+  the filename contract if tracks ever need replacing.
+- **AdMob is wired up for real.** App ID
+  `ca-app-pub-1057967613304012~1554723382` is in the Android manifest;
+  the three unit IDs are in the gitignored `ad_config.json`. Ship with:
+  `flutter build appbundle --release --dart-define-from-file=ad_config.json`
+  — a build without that flag silently falls back to test units (debug)
+  or to no ads at all (release). iOS still carries Google's test App ID
+  in `ios/Runner/Info.plist`: AdMob issues a *separate* App ID per
+  platform, and the Android one must not be pasted there.
+- **Register your device in AdMob → Settings → Test devices before
+  opening a build with the real IDs.** Tapping your own live ads is
+  invalid traffic and is the most common reason new AdMob accounts get
+  suspended.
+- **Privacy policy is hosted and wired.**
+  `AppConfig.privacyPolicyUrl` points at
+  `doc-hosting.flycricket.io/word-search/70ff7ba2-.../privacy`, verified
+  live on 2026-09-03, and the bundled `assets/legal/privacy_policy.md`
+  names that same URL. The two must stay in step: the in-app screen
+  renders the bundled file while the Play listing links the hosted one,
+  so editing one without republishing the other ships a contradiction.
+  `privacy_policy_test.dart` enforces the mechanical half of that (a
+  configured URL means no `[[FILL IN]]` placeholders may remain).
+- **Release builds are signed with a real upload key.**
+  `C:/Users/baslt/keys/word-search-upload.jks` (JKS, alias `upload`,
+  2048-bit RSA, ~27-year validity), credentials in the gitignored
+  `android/key.properties`. Same convention as
+  `crossword-upload.jks` / `sudoku-upload.jks`, one keystore per app.
+  Neither the keystore nor its password exists anywhere but this
+  machine — they are the one thing here that cannot be regenerated.
+- Everything else remaining before launch is account configuration only
+  — see `store/PLAY_STORE_READINESS.md`.

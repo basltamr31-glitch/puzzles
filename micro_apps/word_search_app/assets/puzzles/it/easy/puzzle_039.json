@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_039",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 38,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "VACANZAA",
+    "AUHGZKRT",
+    "LQTXCGXR",
+    "IHEINAVE",
+    "GQXTEMYN",
+    "IVIAGGIO",
+    "APPXLBOB",
+    "EVTIELPZ"
+  ],
+  "words": [
+    {
+      "word": "NAVE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TRENO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "VACANZA",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VALIGIA",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VIAGGIO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

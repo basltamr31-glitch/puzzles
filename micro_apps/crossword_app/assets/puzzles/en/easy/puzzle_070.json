@@ -1,0 +1,58 @@
+{
+  "id": "en_easy_070",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 070",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "GRAPE",
+      "clue": "Small round fruit that grows in bunches",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "BIRD",
+      "clue": "Feathered animal that can usually fly",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "JUMP",
+      "clue": "To spring off the ground",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "BLUE",
+      "clue": "Color of a clear sky",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "EAR",
+      "clue": "Body part used for hearing",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "WORD",
+      "clue": "A unit of language with meaning",
+      "category": "object"
+    }
+  ]
+}

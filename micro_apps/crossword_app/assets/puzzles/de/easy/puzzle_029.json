@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_029",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 029",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "HAUT",
+      "clue": "Äußere Hülle des Körpers",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "JAHR",
+      "clue": "Ein Zeitraum von zwölf Monaten",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "BLATT",
+      "clue": "Flacher grüner Teil einer Pflanze",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "HERZ",
+      "clue": "Organ, das das Blut durch den Körper pumpt",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "OHR",
+      "clue": "Körperteil zum Hören",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "answer": "TAL",
+      "clue": "Niedriges Land zwischen Bergen",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "answer": "GOLD",
+      "clue": "Wertvolles gelbes Metall",
+      "category": "nature"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_043",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 42,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "ZVMJHAAWYMMJCU",
+    "WXOWSMLJZLUIXX",
+    "JAUUOUZGTMAJDU",
+    "LWUGNKSTRANDSL",
+    "VLJCNHAJOELLAZ",
+    "YUKBELZYGDBSYU",
+    "GCBKBISORHDHON",
+    "WALDEABWRSUZNN",
+    "LOMTLNNASYURCR",
+    "WEEOENFJUWIZIN",
+    "AOSGMDATNMFMZE",
+    "MRENMPETEOIFXG",
+    "CRIHIGOWZNNDHU",
+    "NSWHHZXVBVEKIT"
+  ],
+  "words": [
+    {
+      "word": "BAUM",
+      "row": 7,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "BERG",
+      "row": 5,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "BLATT",
+      "row": 6,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "HIMMEL",
+      "row": 13,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "INSEL",
+      "row": 12,
+      "col": 4,
+      "dir": "NW"
+    },
+    {
+      "word": "NEBEL",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "REGENBOGEN",
+      "row": 12,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "SONNE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "STRAND",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "WALD",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WIESE",
+      "row": 13,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "WOLKE",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

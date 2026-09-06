@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_040",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 39,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "TKCVWUMHEHXM",
+    "OEBTRDPOTUVL",
+    "UJAHWXACYVLX",
+    "BCAMBLMKSAJZ",
+    "LYUAJEAEBVSF",
+    "ECARSUXYQSQR",
+    "RLLABTEKSABK",
+    "FISTLLAEOLUS",
+    "UNPHLVHDIMAK",
+    "BGSOCCERILWL",
+    "YTVNFKJENUAP",
+    "BNDVWPEQNCMA"
+  ],
+  "words": [
+    {
+      "word": "BASKETBALL",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CHESS",
+      "row": 9,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "CYCLING",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MARATHON",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "RACE",
+      "row": 5,
+      "col": 3,
+      "dir": "W"
+    },
+    {
+      "word": "SOCCER",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STADIUM",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TEAM",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "VOLLEYBALL",
+      "row": 10,
+      "col": 2,
+      "dir": "NE"
+    }
+  ]
+}

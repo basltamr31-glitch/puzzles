@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_035",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 34,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "AEMOEIXPSKED",
+    "SVGNRGRAVJCA",
+    "NNKUPZPXQVRE",
+    "VTIBIEIGYEYH",
+    "KFQEXTELDSSP",
+    "QCCOBJDASIIZ",
+    "XUFPJLRCRFBL",
+    "PFOTVPAIIBMU",
+    "YISLADOASMOO",
+    "MIKJSCDRXITL",
+    "AXOTREISEDCM",
+    "QHGAXQEBFGPI"
+  ],
+  "words": [
+    {
+      "word": "ARBOL",
+      "row": 5,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "ARCOIRIS",
+      "row": 11,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "DESIERTO",
+      "row": 10,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "GLACIAR",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "HOJA",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "ISLA",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "NIEBLA",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "NUBE",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PRADERA",
+      "row": 7,
+      "col": 5,
+      "dir": "NE"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_082",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 81,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "ZTEBXASERFTV",
+    "PMPATATAVYOJ",
+    "OAMUHQGZNMRA",
+    "ONOCSEKIRDTB",
+    "EZHXLCSPCKIR",
+    "TADRTLEHCELA",
+    "YNIUQEQLUSLX",
+    "KALLIUQETNAM",
+    "JKBBTUEZRRSK",
+    "IQGCSFISEZNU",
+    "UULTAIOPOJJP",
+    "GRVCIGRYPFCP"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 11,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "FRESA",
+      "row": 0,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "LECHE",
+      "row": 5,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "MANTEQUILLA",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "MANZANA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PERA",
+      "row": 10,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "QUESO",
+      "row": 6,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "SANDIA",
+      "row": 0,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "TORTILLA",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

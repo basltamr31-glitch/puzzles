@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_067",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 66,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "ASVIOYSL",
+    "GRCDSDUV",
+    "KIZSTONE",
+    "DOQSYHSF",
+    "ZGLACIER",
+    "ODESERTA",
+    "DCAYIZEI",
+    "ANFEEIFN"
+  ],
+  "words": [
+    {
+      "word": "DESERT",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "RAIN",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "STONE",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SUNSET",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

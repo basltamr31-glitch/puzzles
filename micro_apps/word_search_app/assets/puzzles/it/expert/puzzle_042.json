@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_042",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 41,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "HFIUOTKXSBLLER",
+    "FBBUTOPENIHCXR",
+    "QEIBGCCODPYUGV",
+    "NNXSSMFOAAQKRU",
+    "GHMBCURMPTZIXA",
+    "PERAAOIGGAMROF",
+    "NKNBDQTDQTITAD",
+    "SCSOMCTTBANANA",
+    "PBMTMVETOLEIZF",
+    "UOIAYILUZESAHI",
+    "PREYQBLKSMTRPF",
+    "QQLRDOANGURIAU",
+    "NTEDSKDITCAEXE",
+    "XTYQCIYRASEUBN"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 11,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "BANANA",
+      "row": 7,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 5,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "FRITTELLA",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LIMONE",
+      "row": 10,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "MELA",
+      "row": 10,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "MIELE",
+      "row": 8,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 5,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "POMODORO",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

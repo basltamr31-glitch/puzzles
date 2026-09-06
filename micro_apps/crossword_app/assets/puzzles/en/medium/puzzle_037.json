@@ -1,0 +1,80 @@
+{
+  "id": "en_medium_037",
+  "language": "en",
+  "difficulty": "medium",
+  "title": "Puzzle 037",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "POWER",
+      "clue": "The ability to do or control something"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "CASTLE",
+      "clue": "Large fortified building, home of nobility"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "CAMERA",
+      "clue": "Device used to take photographs"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "SPRING",
+      "clue": "Season when flowers bloom"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "RATE",
+      "clue": "A measure of how fast something happens"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "MAP",
+      "clue": "A drawing that shows where places are"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "SEA",
+      "clue": "A large body of salt water"
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "answer": "LETTER",
+      "clue": "A written message, or a symbol in the alphabet"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "answer": "WEATHER",
+      "clue": "The state of the atmosphere, hot, cold, rainy, etc."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "answer": "EAGLE",
+      "clue": "Large bird of prey with sharp eyesight"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_052",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 51,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "UHRXWRCDJYGNOS",
+    "MIKSZMLDNDTOJY",
+    "CYIHOEKLRPFTFJ",
+    "LWSCHLAFZIMMER",
+    "YHSIGNMUWGTANB",
+    "HKEPSUICOPBVSC",
+    "RKNPFDNYFMLSTR",
+    "UBVEMBWVIZPAEA",
+    "WYOTHAVSZNSURC",
+    "GOMOVCLGDSTDBJ",
+    "VZIELOEUEFUNZG",
+    "BDKWMLNUCNHKUU",
+    "JUAOFWZNKMLCBT",
+    "ESZFYPHZEGMEOT"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 4,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "DECKE",
+      "row": 9,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "FENSTER",
+      "row": 2,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "KAMIN",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "KUECHE",
+      "row": 12,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "LAMPE",
+      "row": 9,
+      "col": 6,
+      "dir": "NW"
+    },
+    {
+      "word": "SCHLAFZIMMER",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STUHL",
+      "row": 8,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "TASSE",
+      "row": 6,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 8,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "TUER",
+      "row": 9,
+      "col": 10,
+      "dir": "NE"
+    }
+  ]
+}

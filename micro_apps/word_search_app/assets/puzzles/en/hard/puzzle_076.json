@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_076",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 75,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "HIGCGFBLRNRB",
+    "AQMORWYSOHBE",
+    "VTKITCHENIXP",
+    "HFAYSHELFLMT",
+    "LHFWOACINAPW",
+    "CNQRFLUHLSST",
+    "XPECALPERIFD",
+    "HJSSZWBLYWNB",
+    "CLWGMAOCYKUG",
+    "CQULWYADLGMJ",
+    "UQMDOOROAMOT",
+    "PHMSINDZHBPA"
+  ],
+  "words": [
+    {
+      "word": "CEILING",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "CHAIR",
+      "row": 5,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CUPBOARD",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DOOR",
+      "row": 10,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FIREPLACE",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LAMP",
+      "row": 5,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "SHELF",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

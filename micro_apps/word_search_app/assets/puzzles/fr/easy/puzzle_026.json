@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_026",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 25,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "FRAISEPT",
+    "RRYLBEON",
+    "OKXCAIIP",
+    "MJSMNARS",
+    "ATOMATEB",
+    "GDUVNNSA",
+    "EUPUEEZF",
+    "ZJEMFKXB"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FRAISE",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "POIRE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SOUPE",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

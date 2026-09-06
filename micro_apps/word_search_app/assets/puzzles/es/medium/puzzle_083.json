@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_083",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 82,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "GVNDFCVUIF",
+    "NVIENTOGXJ",
+    "CUESLELLDP",
+    "YQBILUCAKX",
+    "TGLEUJACCN",
+    "CVARVENIEP",
+    "EBHTIBXAIG",
+    "LREOAXJRSZ",
+    "TTPGJHUUQV",
+    "RXZYKAXJXQ"
+  ],
+  "words": [
+    {
+      "word": "DESIERTO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "GLACIAR",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "HOJA",
+      "row": 6,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "LLUVIA",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "NIEBLA",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "NUBE",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "VIENTO",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_020",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 19,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "STWBXOHZZH",
+    "NUKEFISSSA",
+    "IFTPILLOWW",
+    "STAIRCASEI",
+    "LCKJEXDDGN",
+    "VBCUPBOARD",
+    "VCEILINGQO",
+    "EHBDADPYDW",
+    "CBOBCMLOCY",
+    "TABLESACIA"
+  ],
+  "words": [
+    {
+      "word": "BED",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CEILING",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CUPBOARD",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FIREPLACE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PILLOW",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "STAIRCASE",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WINDOW",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

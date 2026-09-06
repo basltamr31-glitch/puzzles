@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_085",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 84,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "IZUZTLOB",
+    "NRGZAOJA",
+    "AXBSRPGU",
+    "FATTUAGC",
+    "HMBIOOOH",
+    "VDERXJHA",
+    "KFINGERL",
+    "HYNPUTXS"
+  ],
+  "words": [
+    {
+      "word": "BAUCH",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BEIN",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "FINGER",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HALS",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "OHR",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "STIRN",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

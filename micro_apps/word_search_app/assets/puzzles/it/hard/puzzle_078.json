@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_078",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 77,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "QHLPANTOFOLE",
+    "NFSCARPETTES",
+    "CARUTNICCCCD",
+    "PADDNKTCIARP",
+    "LILSGBHAXPME",
+    "KKZZIYNPLPND",
+    "ZESCIARPAOSG",
+    "FTXFLNHEITNM",
+    "ZQYLUZOLLTDE",
+    "KYOEPQGLKOMF",
+    "ECXPKAHOQBQK",
+    "MRDZMSLLUKTH"
+  ],
+  "words": [
+    {
+      "word": "CALZINO",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CAPPELLO",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CAPPOTTO",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CINTURA",
+      "row": 2,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "COLLANA",
+      "row": 10,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "MAGLIONE",
+      "row": 11,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "PANTALONE",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTOFOLE",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SCARPETTE",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCIARPA",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

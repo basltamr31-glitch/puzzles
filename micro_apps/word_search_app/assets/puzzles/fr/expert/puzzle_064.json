@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_064",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 63,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "VVRCLUEEMIBGBJ",
+    "CQZMFLIXAANKPE",
+    "OINLDAAORUROYI",
+    "BVOLLEYBALLMZQ",
+    "CNTAJGIOTDMKAS",
+    "KIABYTRCHOTYNM",
+    "KZHTRZOAOEOZSZ",
+    "ATOEAUOHNPSFZS",
+    "JVCKRTPNCIQNTM",
+    "GRKSGOIUCUXAGM",
+    "JGEAUSIOAQDKJG",
+    "XZYBRJLUNEMEIQ",
+    "SCQZAPRVVYVHHM",
+    "JREEEXGZPMILNV"
+  ],
+  "words": [
+    {
+      "word": "ARBITRE",
+      "row": 1,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "BASKETBALL",
+      "row": 11,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "BOXE",
+      "row": 3,
+      "col": 7,
+      "dir": "N"
+    },
+    {
+      "word": "COURSE",
+      "row": 5,
+      "col": 7,
+      "dir": "SW"
+    },
+    {
+      "word": "EQUIPE",
+      "row": 11,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "FOOTBALL",
+      "row": 7,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "MARATHON",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "NATATION",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "STADE",
+      "row": 7,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "TENNIS",
+      "row": 5,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "VOLLEYBALL",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

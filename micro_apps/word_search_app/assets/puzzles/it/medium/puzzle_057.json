@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_057",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 56,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "NAXGSTINZR",
+    "XVOPUEIUEE",
+    "SCNMCPVGBN",
+    "ZEMPDIVIRV",
+    "OHUCANERAE",
+    "XCDQHGOAVT",
+    "FVTVMUSFGG",
+    "LUPOMIEFNN",
+    "KALOPNSAAZ",
+    "KBLLEONEPH"
+  ],
+  "words": [
+    {
+      "word": "CANE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFFA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LEONE",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LUPO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "TOPO",
+      "row": 6,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

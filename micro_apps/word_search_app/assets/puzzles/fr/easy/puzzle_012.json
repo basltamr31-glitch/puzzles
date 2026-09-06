@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_012",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 11,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "CUISINEU",
+    "AFENETRE",
+    "NEJARDIN",
+    "AHRFBFLT",
+    "PUQZKHBA",
+    "EGIRDNTS",
+    "UBMMCLSS",
+    "MBQLAMPE"
+  ],
+  "words": [
+    {
+      "word": "CANAPE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CUISINE",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FENETRE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "JARDIN",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TASSE",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

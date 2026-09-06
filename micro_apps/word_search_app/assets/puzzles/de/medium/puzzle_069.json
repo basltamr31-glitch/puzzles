@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_069",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 68,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "IUELLBOGEN",
+    "RKVYIEBLSW",
+    "EHMDLIABTX",
+    "USAKCNUIVS",
+    "ATKNOECHEL",
+    "PIBIDHHJSX",
+    "DRHEAPRCOX",
+    "MNTXRXCGCH",
+    "ZNAHKSSLTF",
+    "GJAKNHYSBV"
+  ],
+  "words": [
+    {
+      "word": "BAUCH",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BEIN",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ELLBOGEN",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HAND",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "KNIE",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KNOECHEL",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "OHR",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "STIRN",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

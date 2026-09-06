@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_079",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 079",
+  "rows": 7,
+  "cols": 5,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "LIBRO",
+      "clue": "Páginas encuadernadas que se leen",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "PAPEL",
+      "clue": "Material fino usado para escribir",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "MANO",
+      "clue": "Parte del cuerpo al final del brazo",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "answer": "REY",
+      "clue": "Gobernante masculino de un reino",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "PIE",
+      "clue": "Parte del cuerpo al final de la pierna",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "PLATA",
+      "clue": "Metal precioso gris y brillante",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "PIEL",
+      "clue": "Cubierta exterior del cuerpo",
+      "category": "body"
+    }
+  ]
+}

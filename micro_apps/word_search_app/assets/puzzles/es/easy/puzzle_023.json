@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_023",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 22,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "JRUNLHFT",
+    "SPTMLSCF",
+    "MPGAVION",
+    "AUQPNCCB",
+    "LEMAYTHU",
+    "ERNAOAES",
+    "TTRPGJQO",
+    "AOKXGFNZ"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "BUS",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "COCHE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MALETA",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "MAPA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PUERTO",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

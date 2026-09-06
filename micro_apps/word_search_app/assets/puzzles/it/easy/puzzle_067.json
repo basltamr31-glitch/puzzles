@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_067",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 66,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "HHZEEYZA",
+    "MPMVVUPE",
+    "OINEBBIA",
+    "DESERTOC",
+    "STUDBTGI",
+    "ZRZNMKGE",
+    "MARECMIL",
+    "TGBZAQAO"
+  ],
+  "words": [
+    {
+      "word": "CIELO",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "DESERTO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MARE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PIETRA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

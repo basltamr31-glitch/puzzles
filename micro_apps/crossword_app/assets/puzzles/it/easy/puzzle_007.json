@@ -1,0 +1,58 @@
+{
+  "id": "it_easy_007",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 007",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "PAGINA",
+      "clue": "Un foglio in un libro",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "PIETRA",
+      "clue": "Un piccolo pezzo di roccia",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "NOTTE",
+      "clue": "La parte buia della giornata",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ANNO",
+      "clue": "Un periodo di dodici mesi",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "TETTO",
+      "clue": "Copertura sopra un edificio",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "SONNO",
+      "clue": "Riposo con gli occhi chiusi",
+      "category": "action"
+    }
+  ]
+}

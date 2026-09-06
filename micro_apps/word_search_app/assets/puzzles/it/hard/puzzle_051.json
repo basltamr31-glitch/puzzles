@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_051",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 50,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "HZEBNUFUNZFZ",
+    "MPFGFVRHCGMM",
+    "CASPIAGGIAAI",
+    "RRVUGQQHSLRP",
+    "OPKEGYFIUMEV",
+    "YZGVULCANOYP",
+    "NGQTQYFCYHTZ",
+    "YUNGUMYCCEHN",
+    "HZVSGUPIETRA",
+    "PPIOGGIAAFCZ",
+    "ZELLLZDIBZLT",
+    "DONELABOCRAF"
+  ],
+  "words": [
+    {
+      "word": "ARCOBALENO",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "FIUME",
+      "row": 4,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "GHIACCIAIO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MARE",
+      "row": 1,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 6,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PIETRA",
+      "row": 8,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOLE",
+      "row": 8,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SPIAGGIA",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VULCANO",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

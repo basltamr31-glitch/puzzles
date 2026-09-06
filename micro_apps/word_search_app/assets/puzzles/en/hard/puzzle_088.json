@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_088",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 87,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "XXHGNIXOBVUL",
+    "TLHVJDRQTUWM",
+    "CSSEHCAPBPTT",
+    "PHWVOORNAFNL",
+    "BBIRECCOSJBB",
+    "TXMVHMHKKKTT",
+    "FTTDLREFEREE",
+    "WMUSMXRATYJN",
+    "CYHMYYYKBSDN",
+    "LOEMMUIDATSI",
+    "BVVZJSZRLNAS",
+    "KSVEYIAFLMRC"
+  ],
+  "words": [
+    {
+      "word": "ARCHERY",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BASKETBALL",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "BOXING",
+      "row": 0,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "CHESS",
+      "row": 2,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "REFEREE",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SOCCER",
+      "row": 4,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "STADIUM",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SWIM",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 5,
+      "col": 11,
+      "dir": "S"
+    }
+  ]
+}

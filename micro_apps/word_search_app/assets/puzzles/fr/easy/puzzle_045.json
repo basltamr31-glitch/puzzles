@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_045",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 44,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "LQZERDTT",
+    "TXPYSUBQ",
+    "PQCOUDEL",
+    "JPGENOUX",
+    "MILMAINC",
+    "LEAATGCJ",
+    "EDNTETEP",
+    "IQDYUYHV"
+  ],
+  "words": [
+    {
+      "word": "COUDE",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "DOIGT",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GENOU",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MAIN",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PIED",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TETE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_050",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 49,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "LYXDOXSPKJIMFV",
+    "FYLZCGGNATTJPT",
+    "IZLETSAPMIANRZ",
+    "CLMTCULFJMYJXQ",
+    "CZCAOHLMUFMGJM",
+    "QGZLNREZJKERSV",
+    "JBOOAZTYMNTAHB",
+    "BNTCTUAIDNASOY",
+    "GTKOAVENLQUESO",
+    "FHIHLLJOALYRQF",
+    "UFCCPLKJDCAFEE",
+    "TIZNXPEHXDMBHN",
+    "CTMJIZFVIUEPDB",
+    "NTSFSLQZHJCVJN"
+  ],
+  "words": [
+    {
+      "word": "CAFE",
+      "row": 10,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 10,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "FRESA",
+      "row": 10,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "GALLETA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LECHE",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "MANZANA",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "MIEL",
+      "row": 6,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "PASTEL",
+      "row": 2,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "PLATANO",
+      "row": 10,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "QUESO",
+      "row": 8,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "SANDIA",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "TORTILLA",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

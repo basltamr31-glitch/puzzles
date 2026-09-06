@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_099",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 099",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "BERG",
+      "clue": "Hoch aufragende Landform",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "BROT",
+      "clue": "Gebackenes Nahrungsmittel aus Mehl und Wasser",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "WOLKE",
+      "clue": "Weiße oder graue Masse am Himmel",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "OHR",
+      "clue": "Körperteil zum Hören",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "FROSCH",
+      "clue": "Grüne Amphibie, die hüpft und quakt",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "HAI",
+      "clue": "Großer Raubfisch mit scharfen Zähnen",
+      "category": "animal"
+    }
+  ]
+}

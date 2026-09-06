@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_018",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 018",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "answer": "شاي",
+      "clue": "مشروب ساخن يُحضّر من أوراق نبات",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "كتاب",
+      "clue": "مجموعة صفحات مطبوعة تُقرأ",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "answer": "ملك",
+      "clue": "حاكم مملكة",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "رجل",
+      "clue": "إنسان بالغ من الذكور",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "نور",
+      "clue": "ضياء يساعد على الرؤية",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "سنة",
+      "clue": "مدة اثني عشر شهراً",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "answer": "شمس",
+      "clue": "النجم الذي يضيء نهارنا",
+      "category": "nature"
+    }
+  ]
+}

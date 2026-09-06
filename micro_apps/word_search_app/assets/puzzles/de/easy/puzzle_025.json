@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_025",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 24,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "FZTSPGGF",
+    "BECNIFIU",
+    "SBZINRRC",
+    "XRTOGCAH",
+    "BAERUSFS",
+    "DELFINFL",
+    "PMYZNHEH",
+    "TRVWGHUN"
+  ],
+  "words": [
+    {
+      "word": "BAER",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DELFIN",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FUCHS",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUIN",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

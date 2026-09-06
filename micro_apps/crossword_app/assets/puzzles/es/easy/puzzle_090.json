@@ -1,0 +1,58 @@
+{
+  "id": "es_easy_090",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 090",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "CORAZON",
+      "clue": "Órgano que bombea sangre por el cuerpo",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "MONTAÑA",
+      "clue": "Relieve natural muy elevado",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "MADERA",
+      "clue": "Material del que están hechos los árboles",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "MAR",
+      "clue": "Gran extensión de agua salada",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "OSO",
+      "clue": "Animal grande y peludo que vive en el bosque",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "MESA",
+      "clue": "Mueble con una superficie plana y patas",
+      "category": "home"
+    }
+  ]
+}

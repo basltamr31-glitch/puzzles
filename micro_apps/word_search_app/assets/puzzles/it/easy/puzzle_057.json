@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_057",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 56,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "YBVAIKVF",
+    "TOPOIXSL",
+    "IZEBRAFU",
+    "GRCKUFKP",
+    "RXOCQSRO",
+    "EERZZMRM",
+    "MCANERDV",
+    "LQKRYGIP"
+  ],
+  "words": [
+    {
+      "word": "CANE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LUPO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PECORA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TOPO",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

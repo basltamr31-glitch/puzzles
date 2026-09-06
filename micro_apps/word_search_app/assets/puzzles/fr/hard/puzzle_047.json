@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_047",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 46,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "JNKPSUBPQHYQ",
+    "CHVOYAGETRAC",
+    "VALISECNACAV",
+    "VEVUAETABINN",
+    "VQRFDEESDSVM",
+    "ZSRSLZDTROPF",
+    "BLOLMUVEOVSC",
+    "GDIXATFNYRCY",
+    "JBGAEUFLUDEY",
+    "FQANSVKPZNQK",
+    "APYGZKTQUZXF",
+    "UMSZBQSAXMCF"
+  ],
+  "words": [
+    {
+      "word": "BATEAU",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "BILLET",
+      "row": 8,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "CARTE",
+      "row": 1,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PORT",
+      "row": 5,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SACADOS",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TAXI",
+      "row": 7,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "VACANCES",
+      "row": 2,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "VALISE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VELO",
+      "row": 4,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_070",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 69,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "XSWEATER",
+    "UOGNOILQ",
+    "PCHXWEAA",
+    "CKRZZKBR",
+    "YFDBNREN",
+    "PSANDALS",
+    "LOFLJOTR",
+    "CFGLOVEV"
+  ],
+  "words": [
+    {
+      "word": "BELT",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GLOVE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALS",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOCK",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SWEATER",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TIE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

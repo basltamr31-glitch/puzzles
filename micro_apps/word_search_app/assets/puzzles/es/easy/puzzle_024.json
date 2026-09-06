@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_024",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 23,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "ARBITROU",
+    "OUFSUEEJ",
+    "BQUKCSJF",
+    "OATLETAB",
+    "XVBHQAML",
+    "EGOKQDKO",
+    "OKLOGITC",
+    "EQUIPOSJ"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ATLETA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BOXEO",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "EQUIPO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ESTADIO",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FUTBOL",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

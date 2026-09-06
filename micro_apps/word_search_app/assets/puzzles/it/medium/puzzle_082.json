@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_082",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 81,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "VNADORXTZO",
+    "LFTGFMCLGB",
+    "MBFOORUIMG",
+    "VMPERAHMET",
+    "DPILMTZOLP",
+    "MDNBANANAR",
+    "GBFXGTBESG",
+    "VOMEGGTDCM",
+    "MHQOIUXEAV",
+    "BISCOTTOQX"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "LATTE",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "LIMONE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MELA",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TORTA",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_091",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 90,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "YNDYDQTOMIFQ",
+    "JZIVGRSUNSET",
+    "RAGOLSUMWLGJ",
+    "RULLAFRETAWF",
+    "JQACECQARNHM",
+    "IQCAIAXDIDLS",
+    "CDINEJFOPNQD",
+    "PMEOQDOWESVV",
+    "DDRSEPRBLYFU",
+    "RURLELEIUNKW",
+    "QERSKRSVAUVB",
+    "INWSPJTFOVVA"
+  ],
+  "words": [
+    {
+      "word": "DESERT",
+      "row": 6,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "FOREST",
+      "row": 6,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GLACIER",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "ISLAND",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "MEADOW",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "RAIN",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "SUNSET",
+      "row": 1,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "WATERFALL",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    }
+  ]
+}

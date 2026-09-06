@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_091",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 90,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "RCTBFUSX",
+    "IRUJKPGS",
+    "HNUBERCQ",
+    "UOISLAIJ",
+    "UMDCEDES",
+    "CEYHIELO",
+    "SPESHROL",
+    "JVCVLALO"
+  ],
+  "words": [
+    {
+      "word": "CIELO",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HIELO",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ISLA",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "NUBE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PRADERA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SOL",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

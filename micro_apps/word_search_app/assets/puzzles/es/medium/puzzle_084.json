@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_084",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 83,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "MSHKMBYDPV",
+    "YETYXKGAFE",
+    "RCESTANTEN",
+    "ACJACLDAAT",
+    "JIYAOFJJZA",
+    "KHCVCOMDHN",
+    "FDCHIMENEA",
+    "QRAJNBSUJY",
+    "LAMPARALKO",
+    "SAAYTAYDNV"
+  ],
+  "words": [
+    {
+      "word": "ALFOMBRA",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CAMA",
+      "row": 6,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "COCINA",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MESA",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "VENTANA",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

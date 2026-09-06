@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_052",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 51,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "TFTPAUUIMNZV",
+    "VECIBYLVCTAT",
+    "LIDEUBPFINUV",
+    "NEAXCRZOIQEQ",
+    "SPECCHIORCOG",
+    "UCDIVANOMTBZ",
+    "SYAXRIGYEOAB",
+    "PTXFDOBPVIGZ",
+    "PMFRFNPTXQND",
+    "ONAOPATREPOC",
+    "SIHATGLTCGOX",
+    "GDIARTSENIFX"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 5,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "COPERTA",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "DIVANO",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "PORTA",
+      "row": 2,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SEDIA",
+      "row": 4,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_031",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 30,
+  "theme": "travel",
+  "size": 8,
+  "rows": [
+    "BQVMGTAB",
+    "CYRDFABA",
+    "UVKCDXUT",
+    "YPVALISE",
+    "OPERZAIA",
+    "LKLTJDFU",
+    "EZOEFLAZ",
+    "ECOYQCFF"
+  ],
+  "words": [
+    {
+      "word": "BATEAU",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CARTE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "VALISE",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VELO",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

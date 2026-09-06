@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_098",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 97,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "BDMBREAD",
+    "PIZZAOVZ",
+    "CNKOARLS",
+    "XWTOMATO",
+    "ILJIWNIU",
+    "LHAOQGTP",
+    "ZGRAPEFY",
+    "THVMEUKE"
+  ],
+  "words": [
+    {
+      "word": "BREAD",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GRAPE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ORANGE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PIZZA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOUP",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TOMATO",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

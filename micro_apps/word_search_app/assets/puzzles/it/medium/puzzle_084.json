@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_084",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 83,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "NAKYKRGXCM",
+    "RCTMFUFVEC",
+    "OUABRYPFTS",
+    "TSPMNLQICP",
+    "CCPDIVANOE",
+    "DIEPQNLEPC",
+    "ENTYQBESEC",
+    "DOOUZYTTRH",
+    "PEGMYVTRTI",
+    "HOSYUXOAAO"
+  ],
+  "words": [
+    {
+      "word": "CAMINETTO",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "COPERTA",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "DIVANO",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LETTO",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

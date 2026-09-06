@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_016",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 15,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "YRREDLVQ",
+    "FDSSSNKS",
+    "BIQNTABT",
+    "OXUEETMA",
+    "XQAGNLLD",
+    "EFDNNEHI",
+    "VARBITRO",
+    "XLAGSAAE"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ATLETA",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BOXE",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SQUADRA",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "STADIO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

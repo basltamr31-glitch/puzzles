@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_093",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 92,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "OFYGDEVLPOFY",
+    "PBGAYNXPTKXG",
+    "ZHZIYOQIEAEH",
+    "CSOTNEMESEUH",
+    "ORPAYOZDTDTC",
+    "ABMAGNCEANVR",
+    "SHTOLLOCONDM",
+    "BOXNHLNVHBUD",
+    "YMVOBRACCIOK",
+    "MPKDQLEKQNOV",
+    "DYNBSZBVZMRD",
+    "DMQHAYRHVKQV"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "COLLO",
+      "row": 6,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "GAMBA",
+      "row": 5,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "GINOCCHIO",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "GOMITO",
+      "row": 5,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "MANO",
+      "row": 5,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "MENTO",
+      "row": 3,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "PIEDE",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SPALLA",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "TESTA",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

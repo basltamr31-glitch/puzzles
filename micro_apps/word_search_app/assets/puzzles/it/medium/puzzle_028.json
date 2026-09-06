@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_028",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 27,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "VGESYLIBMC",
+    "FINESTRAAU",
+    "XAGDPDLGES",
+    "GRDQEIVNRC",
+    "ADICCVOOVI",
+    "YIMECAXVBN",
+    "XNMBHNMGZO",
+    "EOEFIOEEUP",
+    "QHVGOTELRC",
+    "UTQVETAZZA"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CAMERA",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "DIVANO",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SPECCHIO",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TAZZA",
+      "row": 9,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

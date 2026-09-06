@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_094",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 094",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "ساعة",
+      "clue": "أداة تُظهر الوقت",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "كرسي",
+      "clue": "مقعد يجلس عليه الإنسان",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "سنة",
+      "clue": "مدة اثني عشر شهراً",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "سماء",
+      "clue": "الفضاء الأزرق فوق الأرض",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "answer": "عسل",
+      "clue": "مادة حلوة تنتجها النحل",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "حصان",
+      "clue": "حيوان كبير يُركب",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "تفاح",
+      "clue": "فاكهة مستديرة حلوة",
+      "category": "food"
+    }
+  ]
+}

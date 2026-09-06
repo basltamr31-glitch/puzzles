@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_100",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 99,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "JBWZGWVDSB",
+    "CRIRCLAMPE",
+    "VWSVSEFTIT",
+    "CSEWGTHKET",
+    "JUGDJXUHGI",
+    "FETUHFIHES",
+    "UTUEREGALC",
+    "FYVTEPPICH",
+    "FUBGHVLVYX",
+    "PHMETBAOKE"
+  ],
+  "words": [
+    {
+      "word": "BETT",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPE",
+      "row": 1,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "REGAL",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "STUHL",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "TISCH",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TUER",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

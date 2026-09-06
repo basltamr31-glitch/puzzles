@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_100",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 99,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "HEAYFNCSFT",
+    "OSAOOCXIOF",
+    "JTCUFZFLVI",
+    "YAMOGQXLNT",
+    "ENPMCAMAEO",
+    "JTTUQIQMXL",
+    "TECQEINPII",
+    "AARDMRIASA",
+    "ZDTARMTRUM",
+    "ALMOHADACM"
+  ],
+  "words": [
+    {
+      "word": "ALMOHADA",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CAMA",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "COCINA",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PUERTA",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SILLA",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TAZA",
+      "row": 6,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

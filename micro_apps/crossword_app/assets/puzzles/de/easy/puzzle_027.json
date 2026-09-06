@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_027",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 027",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "ONKEL",
+      "clue": "Bruder von Mutter oder Vater",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "BERG",
+      "clue": "Hoch aufragende Landform",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "FREUND",
+      "clue": "Jemand, den man mag und dem man vertraut",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "NASE",
+      "clue": "Körperteil zum Riechen",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "TAL",
+      "clue": "Niedriges Land zwischen Bergen",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "PFERD",
+      "clue": "Großes Tier, auf dem man reitet",
+      "category": "animal"
+    }
+  ]
+}

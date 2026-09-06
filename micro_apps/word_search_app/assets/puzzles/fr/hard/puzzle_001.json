@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_001",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 0,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "EDCMZFYHCCRE",
+    "EEPDOIOKZCLQ",
+    "BLZYOVSNULYS",
+    "QTEENGEPIAAZ",
+    "UTBPIIDEKPHK",
+    "MIRRHRBURISO",
+    "VOECHATNFNDT",
+    "YOURSFNUJIYK",
+    "APRTDEHTPCDB",
+    "OGCROCODILEI",
+    "RBRAFNNAFFSK",
+    "PNOTCQAQATIK"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 6,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "CHAT",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CHIEN",
+      "row": 6,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "CROCODILE",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LAPIN",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "MOUTON",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "OURS",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

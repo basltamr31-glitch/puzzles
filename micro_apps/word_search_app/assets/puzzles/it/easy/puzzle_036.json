@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_036",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 35,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "VXTLLCRT",
+    "SEDIAARA",
+    "NPQRMMCV",
+    "MTAPPETO",
+    "IZBYARZL",
+    "OYXFDAHO",
+    "VASUAFDS",
+    "CUSCINOU"
+  ],
+  "words": [
+    {
+      "word": "CAMERA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPADA",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SEDIA",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TAPPETO",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TAVOLO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_011",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 011",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "WALD",
+      "clue": "Große mit Bäumen bedeckte Fläche",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "BLATT",
+      "clue": "Flacher grüner Teil einer Pflanze",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "ZEIT",
+      "clue": "Was Uhren messen",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "TAG",
+      "clue": "Ein 24-Stunden-Zeitraum",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "REGEN",
+      "clue": "Wasser, das aus Wolken fällt",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "SONNE",
+      "clue": "Stern im Zentrum unseres Sonnensystems",
+      "category": "nature"
+    }
+  ]
+}

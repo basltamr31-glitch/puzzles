@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_058",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 57,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "AZSDLALBZX",
+    "LPQTJLAITE",
+    "GOGEZSPSIQ",
+    "UYRDEFOCJY",
+    "ADGNZRMURF",
+    "BBYUEOMIPX",
+    "PFEHCMETZE",
+    "QXEHGATEAU",
+    "VKEGCGFBVM",
+    "VNYCREPESA"
+  ],
+  "words": [
+    {
+      "word": "BISCUIT",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CAFE",
+      "row": 6,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CREPE",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "GATEAU",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "LAIT",
+      "row": 1,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "POMME",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SOUPE",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    }
+  ]
+}

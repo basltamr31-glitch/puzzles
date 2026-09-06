@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_002",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 1,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "CINMNNTRRODHOS",
+    "ISXMMZFGCRXRDX",
+    "QETALOCOHCEIGV",
+    "JELRTLOCYTPGHM",
+    "SFJAAKILTHRUSR",
+    "HFTNIWLUIAODFV",
+    "XONEDBBIPRHIIT",
+    "PCSNVQPEMXBYFD",
+    "IZABBTEVRQFRAH",
+    "ZSQKJPWYQRAURR",
+    "ZGOUEZIPCNYFBI",
+    "AECUJEHMUSBBLS",
+    "TDVVPDWKUYLHPX",
+    "UUEUQBXKVFSLBD"
+  ],
+  "words": [
+    {
+      "word": "BUTTER",
+      "row": 6,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "CAKE",
+      "row": 7,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 2,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "COFFEE",
+      "row": 7,
+      "col": 1,
+      "dir": "N"
+    },
+    {
+      "word": "COOKIE",
+      "row": 1,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "GRAPE",
+      "row": 3,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "MILK",
+      "row": 7,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "PIZZA",
+      "row": 7,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 7,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "SOUP",
+      "row": 9,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "STRAWBERRY",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

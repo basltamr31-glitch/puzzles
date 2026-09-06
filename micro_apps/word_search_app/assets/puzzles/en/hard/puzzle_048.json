@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_048",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 47,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "AYFNAGYADUUE",
+    "RACEJRVOOKPJ",
+    "CENCSGMFWJJV",
+    "HCFHWWKMDNCV",
+    "EJSEYEKCOHYG",
+    "RJTSRFZHWFCR",
+    "YBASKETBALLR",
+    "XHDATAERIIIH",
+    "RKIPRECCOSNB",
+    "UDUAMAPNVOGH",
+    "HPMEDCQHKVOK",
+    "BHFGPKHOZGHW"
+  ],
+  "words": [
+    {
+      "word": "ARCHERY",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BASKETBALL",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHESS",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "CYCLING",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 4,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "MARATHON",
+      "row": 10,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "RACE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "REFEREE",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SOCCER",
+      "row": 8,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "STADIUM",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_064",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 63,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "BGMMVSRM",
+    "MYYIVTOR",
+    "LASCHACH",
+    "OYEWSDBI",
+    "LTLEJIOT",
+    "AFWNCOXD",
+    "UPRENNEN",
+    "FCVVWHNF"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "LAUF",
+      "row": 4,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "RENNEN",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCHACH",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STADION",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TOR",
+      "row": 1,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

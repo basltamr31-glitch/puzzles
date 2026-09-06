@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_039",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 38,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "FQXVOYAGEOLW",
+    "OKYMTWUBJVRW",
+    "LPASSPORTOXY",
+    "GWJUVDSXBGNY",
+    "DPVIYENRUOJG",
+    "DESTINATIONY",
+    "IPSCIHXTALXK",
+    "XRYAKCAPKCAB",
+    "ZERSBCKQGKJB",
+    "WTLEAHOEPSID",
+    "HDMVWTCUTCGU",
+    "OFIBVWPBAFVA"
+  ],
+  "words": [
+    {
+      "word": "BACKPACK",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "DESTINATION",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HARBOR",
+      "row": 6,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 4,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SUITCASE",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 5,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "TRAIN",
+      "row": 9,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "VACATION",
+      "row": 10,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

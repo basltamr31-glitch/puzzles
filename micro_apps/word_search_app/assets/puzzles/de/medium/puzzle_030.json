@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_030",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 29,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "BUDLWRGHGK",
+    "ATKDPMUAIH",
+    "SANDALENUD",
+    "OJNHBPRDKE",
+    "CKHSRHTSBR",
+    "KZOJPJECRX",
+    "EJSCHALHFE",
+    "CDELMCEULS",
+    "IXMGMKGHUT",
+    "FMPYAEXXMN"
+  ],
+  "words": [
+    {
+      "word": "GUERTEL",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HANDSCHUH",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "HOSE",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "HUT",
+      "row": 8,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "JACKE",
+      "row": 5,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALEN",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCHAL",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOCKE",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

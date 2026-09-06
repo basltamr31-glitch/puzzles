@@ -1,0 +1,146 @@
+{
+  "@@locale": "it",
+  "appName": "Cruciverba",
+  "onboardingTitle": "Cruciverba",
+  "onboardingSubtitle": "Piccoli cruciverba da giocare ovunque e in qualsiasi momento — senza account, senza bisogno di internet.",
+  "continueButton": "Continua",
+  "chooseGameLanguageTitle": "Scegli la lingua dei tuoi cruciverba",
+  "chooseGameLanguageSubtitle": "Questa è la lingua degli indizi e delle risposte. Potrai cambiarla in seguito nelle Impostazioni.",
+  "chooseDifficultyTitle": "Scegli una difficoltà",
+  "chooseDifficultySubtitle": "Puoi giocare a qualsiasi livello di difficoltà in qualsiasi momento.",
+  "difficultyEasy": "Facile",
+  "difficultyMedium": "Medio",
+  "difficultyHard": "Difficile",
+  "difficultyExpert": "Esperto",
+  "puzzleListTitle": "Cruciverba {difficulty}",
+  "@puzzleListTitle": {
+    "placeholders": {
+      "difficulty": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleStatusCompleted": "Completato",
+  "puzzleStatusInProgress": "In corso",
+  "puzzleStatusNotStarted": "Non iniziato",
+  "puzzleStatusLocked": "Bloccato",
+  "puzzlesSolvedLabel": "{solved} di {total} risolti",
+  "@puzzlesSolvedLabel": {
+    "placeholders": {
+      "solved": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "puzzleLockedMessage": "Risolvi il cruciverba precedente per sbloccare questo.",
+  "puzzleNumberLabel": "Cruciverba {number}",
+  "@puzzleNumberLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "noPuzzlesTitle": "Ancora nessun cruciverba",
+  "noPuzzlesMessage": "Nuovi cruciverba per questo livello sono in arrivo.",
+  "acrossLabel": "Orizzontale",
+  "downLabel": "Verticale",
+  "previousClueTooltip": "Indizio precedente",
+  "nextClueTooltip": "Indizio successivo",
+  "hintButton": "Suggerimento",
+  "hintConfirmTitle": "Usare un suggerimento?",
+  "hintConfirmMessage": "Questo rivelerà la lettera nella casella selezionata.",
+  "watchAdForHint": "Guarda un breve video per ottenere un suggerimento",
+  "checkButton": "Controlla",
+  "restartPuzzleButton": "Ricomincia",
+  "zoomInButton": "Ingrandisci",
+  "zoomOutButton": "Riduci",
+  "restartConfirmTitle": "Ricominciare questo cruciverba?",
+  "restartConfirmMessage": "I tuoi progressi in questo cruciverba verranno cancellati.",
+  "exitPuzzleConfirmTitle": "Uscire dal cruciverba?",
+  "exitPuzzleConfirmMessage": "I tuoi progressi vengono salvati automaticamente.",
+  "puzzleCompletedTitle": "Cruciverba completato!",
+  "puzzleCompletedMessage": "Ben fatto. Pronto per il prossimo?",
+  "nextPuzzleButton": "Prossimo cruciverba",
+  "backToPuzzlesButton": "Torna ai cruciverba",
+  "settingsTitle": "Impostazioni",
+  "settingsUiLanguage": "Lingua dell'app",
+  "settingsGameLanguage": "Lingua dei cruciverba",
+  "settingsAppearance": "Aspetto",
+  "themeModeSystem": "Sistema",
+  "themeModeLight": "Chiaro",
+  "themeModeDark": "Scuro",
+  "settingsSound": "Effetti sonori",
+  "settingsVibration": "Vibrazione",
+  "settingsMusic": "Musica di sottofondo",
+  "musicTrackOff": "Disattivata",
+  "musicTrackCalm": "Calma",
+  "musicTrackGentle": "Delicata",
+  "musicTrackUplifting": "Allegra",
+  "musicTrackFocus": "Concentrazione",
+  "musicTrackBright": "Luminosa",
+  "musicTrackNight": "Notte",
+  "settingsReminders": "Promemoria di gioco",
+  "remindersPermissionDenied": "Le notifiche sono disattivate per questa app. Puoi attivarle nelle impostazioni del dispositivo.",
+  "reminderTitle": "Un cruciverba ti aspetta",
+  "reminderBody": "Prenditi una pausa e risolvine uno — bastano pochi minuti.",
+  "settingsTestSound": "Prova suono",
+  "soundTestOk": "Suono riprodotto.",
+  "soundTestFailed": "Suono non riuscito: {error}",
+  "@soundTestFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsRemoveAds": "Rimuovi pubblicità",
+  "settingsRestorePurchases": "Ripristina acquisti",
+  "settingsAdPrivacyOptions": "Opzioni sulla privacy degli annunci",
+  "settingsPrivacy": "Informativa sulla privacy",
+  "privacyPolicyViewOnline": "Visualizza online",
+  "settingsAbout": "Informazioni",
+  "settingsVersion": "Versione {version}",
+  "@settingsVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "removeAdsTitle": "Rimuovi pubblicità",
+  "removeAdsDescription": "Goditi ogni cruciverba senza banner o pubblicità a schermo intero — per sempre, con un solo acquisto.",
+  "removeAdsPrice": "1,00 $",
+  "removeAdsPurchaseButton": "Acquista — 1,00 $",
+  "removeAdsPurchaseButtonWithPrice": "Acquista — {price}",
+  "@removeAdsPurchaseButtonWithPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "musicToggleOn": "Attiva la musica",
+  "musicToggleOff": "Disattiva la musica",
+  "settingsDeveloper": "Sviluppatore",
+  "settingsDeveloperName": "BT developer",
+  "settingsCopyright": "© BaLa Dream",
+  "removeAdsAlreadyOwned": "Possiedi già Rimuovi pubblicità. Grazie per il tuo supporto!",
+  "purchasePending": "Il tuo acquisto è in elaborazione…",
+  "purchaseError": "Non è stato possibile completare l'acquisto. Riprova.",
+  "purchaseStoreUnavailable": "Lo store non è disponibile al momento. Verifica di aver effettuato l'accesso e riprova.",
+  "purchaseProductUnavailable": "Questo acquisto non è disponibile al momento. Riprova più tardi.",
+  "purchaseCancelled": "Acquisto annullato.",
+  "restoreSuccess": "I tuoi acquisti sono stati ripristinati.",
+  "restoreNothingFound": "Nessun acquisto precedente trovato.",
+  "errorGeneric": "Qualcosa è andato storto. Riprova.",
+  "errorNoInternet": "Sei offline. Questa funzione richiede una connessione a internet.",
+  "errorAdUnavailable": "Al momento nessuna pubblicità è disponibile. Riprova più tardi.",
+  "errorPuzzleMissing": "Impossibile caricare questo cruciverba.",
+  "cancelButton": "Annulla",
+  "okButton": "OK",
+  "confirmButton": "Conferma"
+}

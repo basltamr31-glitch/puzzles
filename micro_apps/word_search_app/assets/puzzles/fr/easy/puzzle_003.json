@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_003",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 2,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "IFKYFVDN",
+    "SGOOIAEI",
+    "OLEUOBRI",
+    "LABGVENT",
+    "ECGAUPUI",
+    "IILEVGAR",
+    "LEAYIDGL",
+    "PRAIRIEX"
+  ],
+  "words": [
+    {
+      "word": "GLACIER",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ILE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "NUAGE",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PRAIRIE",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VENT",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    }
+  ]
+}

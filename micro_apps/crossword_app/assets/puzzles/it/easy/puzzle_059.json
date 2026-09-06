@@ -1,0 +1,58 @@
+{
+  "id": "it_easy_059",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 059",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "PESCE",
+      "clue": "Animale acquatico che respira con le branchie",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "COLORE",
+      "clue": "Rosso, blu, verde o un'altra tonalità",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "SONNO",
+      "clue": "Riposo con gli occhi chiusi",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "answer": "TESTA",
+      "clue": "Parte superiore del corpo, con il cervello",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "REGINA",
+      "clue": "Sovrana femminile di un regno",
+      "category": "people"
+    }
+  ]
+}

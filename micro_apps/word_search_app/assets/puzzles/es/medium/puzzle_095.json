@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_095",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 94,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "IKTPEXMQUL",
+    "JBLUBVCNSR",
+    "PEAEGCOCHE",
+    "BHSRQKKTOH",
+    "ADHTCZBAMR",
+    "TZZOAOBXAB",
+    "BDMMOCHILA",
+    "ZAUTOPISTA",
+    "BKBOLETOHB",
+    "NYOPDDAFNC"
+  ],
+  "words": [
+    {
+      "word": "AUTOPISTA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BARCO",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "BOLETO",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "COCHE",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "ESTACION",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PUERTO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

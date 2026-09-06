@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_039",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 38,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "FJOURNEYYY",
+    "SXTWTYBOKR",
+    "HMHZJIAIAJ",
+    "IAZROTCVJE",
+    "PFRPEZKKYI",
+    "PEHBTIPLED",
+    "TTTVOYAGET",
+    "BKNETRCPLE",
+    "UVLUTNKBLW",
+    "STATIONENZ"
+  ],
+  "words": [
+    {
+      "word": "BACKPACK",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 7,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "HARBOR",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SHIP",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "STATION",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TICKET",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

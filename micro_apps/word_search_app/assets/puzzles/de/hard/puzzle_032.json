@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_032",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 31,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "BZVUXGTRVMUE",
+    "TRVCFGKEANYE",
+    "CXUBLARENNEN",
+    "KOMARATHONXJ",
+    "SBMSYTUUTMIE",
+    "HOCKEYTFVZRS",
+    "AXNEMMIWHCSR",
+    "DEFTUJYOKHBG",
+    "ENNBIWSRPEIL",
+    "WCYAFAOHXAWC",
+    "ENGLZZJJUSKP",
+    "CRELTROPSMCT"
+  ],
+  "words": [
+    {
+      "word": "BASKETBALL",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BOXEN",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LAUF",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "MARATHON",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RENNEN",
+      "row": 2,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "SCHWIMMEN",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SPORTLER",
+      "row": 11,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "TEAM",
+      "row": 3,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "TENNIS",
+      "row": 0,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

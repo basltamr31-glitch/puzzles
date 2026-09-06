@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_042",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 41,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "LYXOBREADC",
+    "VEJVWAFJCA",
+    "RDMAPWNHEK",
+    "WCHOCOLATE",
+    "WAPSNHYTNF",
+    "UZEQOHEJTA",
+    "WTDQKQOEUU",
+    "FQSEIQUNSC",
+    "UNQRCOFFEE",
+    "BOXPNAULJY"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "BREAD",
+      "row": 0,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CAKE",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CHEESE",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COFFEE",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "HONEY",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "LEMON",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

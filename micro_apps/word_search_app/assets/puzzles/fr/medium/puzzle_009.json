@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_009",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 8,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "EECHAMEAUY",
+    "LLQOAXHBSP",
+    "YECNUMYEAD",
+    "OCHEVREIDT",
+    "PUADHPSLAG",
+    "NRTCHTXLUV",
+    "CEEHZCGEPR",
+    "VUYIPODRHV",
+    "YIXRUTCSIA",
+    "FLOUPUYCNI"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CHAMEAU",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CHAT",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CHEVRE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "DAUPHIN",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "ECUREUIL",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "LOUP",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "OURS",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

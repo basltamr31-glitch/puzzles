@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_006",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 5,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "DBOQLZYIGQMMAY",
+    "YXBASKETSPFNHC",
+    "BYCUTGLEGYYLEG",
+    "CBSAPILMUHHLLI",
+    "TELECARBJLFRQU",
+    "LAITDRNMROBELL",
+    "CSANOLATNAPDPC",
+    "IOAATGPVORXYRF",
+    "SSLMAUKDAURBBI",
+    "CJTLFRRHRTFQKJ",
+    "XMOBIXCENNELIR",
+    "YZHVOEQRPAJCEV",
+    "NFQDEARYTGBOIS",
+    "QIDLSJNKHYDOBY"
+  ],
+  "words": [
+    {
+      "word": "BASKETS",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "BRACELET",
+      "row": 4,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "CEINTURE",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "COLLIER",
+      "row": 6,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CRAVATE",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "ECHARPE",
+      "row": 11,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "GANT",
+      "row": 12,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "MANTEAU",
+      "row": 8,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "PANTALON",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "PANTOUFLES",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "ROBE",
+      "row": 5,
+      "col": 8,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALES",
+      "row": 8,
+      "col": 1,
+      "dir": "NE"
+    }
+  ]
+}

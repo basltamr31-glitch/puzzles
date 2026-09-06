@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_047",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 047",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "ACQUA",
+      "clue": "Liquido chiaro essenziale per la vita",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "MURO",
+      "clue": "Struttura verticale che divide una stanza",
+      "category": "home"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "SQUALO",
+      "clue": "Grande pesce predatore dai denti affilati",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "BOSCO",
+      "clue": "Grande estensione coperta di alberi",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "answer": "ANNO",
+      "clue": "Un periodo di dodici mesi",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "SOLE",
+      "clue": "Stella al centro del nostro sistema solare",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_063",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 62,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "MDLUMKUNJQSUPF",
+    "ITIASPDFOPSZQU",
+    "VSPTNTTHECOCOJ",
+    "OAJEYBRLDARUJO",
+    "ELCLBMEUJEZAJH",
+    "BEJAIVJQKEUXBQ",
+    "CBAMCERFRTATYF",
+    "CODOIINZOUGCLH",
+    "DKCCCHOPUXAECB",
+    "GNOHLTINDMXFYF",
+    "NUAIESVGEXKYEM",
+    "ZGJLTTAXISTVGQ",
+    "OMOAAEMKSQEVOP",
+    "SBICDTBMBBPBZE"
+  ],
+  "words": [
+    {
+      "word": "AUTOPISTA",
+      "row": 4,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "AVION",
+      "row": 11,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "BARCO",
+      "row": 5,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "BICICLETA",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BOLETO",
+      "row": 13,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "COCHE",
+      "row": 6,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "MALETA",
+      "row": 6,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "MAPA",
+      "row": 0,
+      "col": 4,
+      "dir": "SW"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 6,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 11,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "VACACIONES",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "VIAJE",
+      "row": 5,
+      "col": 5,
+      "dir": "W"
+    }
+  ]
+}

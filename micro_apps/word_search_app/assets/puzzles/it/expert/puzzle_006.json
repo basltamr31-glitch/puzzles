@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_006",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 5,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "YQQNYBDKCYROLX",
+    "OTDPGXSIPMMPPG",
+    "PFESDFNOAALESO",
+    "TSTLITSGNPRXDR",
+    "VQTCUALCTIOOYX",
+    "TPKRRIMOIXZLCT",
+    "ZYACOACVBANLIM",
+    "OTTNEEVPNHREAF",
+    "TQELTZTAZDHPZC",
+    "PNFENOLATNAPAM",
+    "BXEGFLFEOTNAUG",
+    "YRCGOTTOPPACDO",
+    "NFFCPHRFLELHBU",
+    "DBRACCIALETTOA"
+  ],
+  "words": [
+    {
+      "word": "BRACCIALETTO",
+      "row": 13,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CALZINO",
+      "row": 8,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "CAPPELLO",
+      "row": 11,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "CAPPOTTO",
+      "row": 11,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CINTURA",
+      "row": 0,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "COLLANA",
+      "row": 12,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "CRAVATTA",
+      "row": 4,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "GUANTO",
+      "row": 10,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "MAGLIONE",
+      "row": 1,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "PANTALONE",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PANTOFOLE",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SCIARPA",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

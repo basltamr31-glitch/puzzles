@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_080",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 080",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "BALLENA",
+      "clue": "Enorme mamífero marino",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "PALABRA",
+      "clue": "Una unidad de lenguaje con significado",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "TECHO",
+      "clue": "Cubierta en la parte superior de un edificio",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "answer": "RATON",
+      "clue": "Pequeño roedor de cola larga",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "RIO",
+      "clue": "Gran corriente natural de agua",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "NUBE",
+      "clue": "Masa blanca o gris que flota en el cielo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "DIA",
+      "clue": "Un período de 24 horas",
+      "category": "time"
+    }
+  ]
+}

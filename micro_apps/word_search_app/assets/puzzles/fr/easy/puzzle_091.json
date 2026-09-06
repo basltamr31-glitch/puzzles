@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_091",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 90,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "GANMRPMU",
+    "FEUILLEY",
+    "GLACEURR",
+    "NEGMBIUR",
+    "EJECKEBF",
+    "GIVFORET",
+    "DKKERYGX",
+    "PSDLFIBZ"
+  ],
+  "words": [
+    {
+      "word": "FEUILLE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FORET",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "GLACE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MER",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "NUAGE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "PLUIE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    }
+  ]
+}

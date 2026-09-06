@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_047",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 46,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "BUSTAZIONE",
+    "IPIAEUIELB",
+    "GOTERRTGVB",
+    "LNAVEXBOLT",
+    "ITDNOVRGEN",
+    "EOKKHQOZVF",
+    "TCVKNROBBU",
+    "TRENOOUYHH",
+    "OEZVALIGIA",
+    "XZPVEEHIQY"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "AUTO",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "BIGLIETTO",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "NAVE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "STAZIONE",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TRENO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VALIGIA",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

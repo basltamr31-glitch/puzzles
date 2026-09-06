@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_077",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 76,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "HDDHHRXO",
+    "PCEDDBLC",
+    "NHOMBROQ",
+    "NPIERNAR",
+    "FRENTERT",
+    "QBCTLFOV",
+    "LMNOREJA",
+    "XFJNOGOJ"
+  ],
+  "words": [
+    {
+      "word": "FRENTE",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HOMBRO",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MENTON",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "OJO",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "OREJA",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PIERNA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

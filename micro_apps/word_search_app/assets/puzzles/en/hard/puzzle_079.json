@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_079",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 78,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "NOITATSLDKHO",
+    "UEBNSIUPZYAV",
+    "LUJGDAIRPORT",
+    "ELQQQFTUYHBI",
+    "EVJTVACATION",
+    "TROPSSAPEGRS",
+    "HJIYOGSQLHJF",
+    "CHPLANESRWPR",
+    "SZUJYGGDUANK",
+    "JKDFQLEAUYLO",
+    "TFTQSIKAGVFL",
+    "DYGPKVTCCDDM"
+  ],
+  "words": [
+    {
+      "word": "AIRPORT",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "HARBOR",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "PLANE",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SHIP",
+      "row": 8,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "STATION",
+      "row": 0,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "SUITCASE",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "VACATION",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

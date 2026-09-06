@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_067",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 66,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "XHJGRZIJQU",
+    "VSCKHYPMCJ",
+    "BDXCVHRPMS",
+    "DGIIHIELOS",
+    "KRCEXNXNNE",
+    "NGILABYITH",
+    "OXBOSQUEAQ",
+    "VEVDYPIBNS",
+    "RPVMPISLAG",
+    "YNLQTPLAYA"
+  ],
+  "words": [
+    {
+      "word": "BOSQUE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CIELO",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "HIELO",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "ISLA",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "MONTANA",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "NIEBLA",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PLAYA",
+      "row": 9,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "RIO",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

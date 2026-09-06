@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_026",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 25,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "PPOHONIG",
+    "VZSVBCHL",
+    "BZMILCHU",
+    "UASXAKGN",
+    "TXUIPAZV",
+    "TIPUNEKX",
+    "EGPHESXE",
+    "RKEKSEIX"
+  ],
+  "words": [
+    {
+      "word": "BUTTER",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "HONIG",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "KAESE",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "KEKSE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MILCH",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SUPPE",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

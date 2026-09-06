@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_035",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 34,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "IHLBETGHNVSL",
+    "GYPLVSYLEXGK",
+    "YNPRKMAREAFA",
+    "BSFISOLEICGC",
+    "LIBAOCBKEYXL",
+    "LHCFVUEDBKYF",
+    "HFOMUURSVPBP",
+    "BLAILGOFVRFL",
+    "OIAICCAIHGAL",
+    "SBOTARPSNGYK",
+    "CAVINUCAYHRU",
+    "ONCUOTRESEDN"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BOSCO",
+      "row": 7,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "CIELO",
+      "row": 3,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "DESERTO",
+      "row": 11,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 7,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "GHIACCIAIO",
+      "row": 8,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "MARE",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PRATO",
+      "row": 9,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "SOLE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VULCANO",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

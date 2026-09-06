@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_011",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 10,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "XNEBBIACME",
+    "UPDNCBSEPS",
+    "HKGCALBERO",
+    "QPGLSQBLAM",
+    "CAIRCVEXTK",
+    "CVMEAAOSOD",
+    "GVENTOGYSU",
+    "ISOLAREZTT",
+    "ONUVOLAOSR",
+    "IXVXHZSMTN"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CASCATA",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ISOLA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PIETRA",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "PRATO",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "VENTO",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

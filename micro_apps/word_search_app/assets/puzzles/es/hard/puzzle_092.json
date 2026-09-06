@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_092",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 91,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "MHGIYICKAQXO",
+    "BRCTJFZTLGIS",
+    "KAVKDGREFRYF",
+    "JAQBTECSOCCH",
+    "NZTFUDHTMTFQ",
+    "KFMPNBIABLRY",
+    "XSSTAMMNRHUF",
+    "FIKERAETAZAH",
+    "ZLXOCANEHDUO",
+    "ILDESPEJOJVQ",
+    "YALMOHADAXGG",
+    "YSYGISIKQAGL"
+  ],
+  "words": [
+    {
+      "word": "ALFOMBRA",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "ALMOHADA",
+      "row": 10,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CAMA",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DORMITORIO",
+      "row": 9,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PUERTA",
+      "row": 5,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "SILLA",
+      "row": 6,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TAZA",
+      "row": 7,
+      "col": 7,
+      "dir": "E"
+    }
+  ]
+}

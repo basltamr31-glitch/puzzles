@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_019",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 18,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "IDHIGGCMCV",
+    "XRHIELOQFG",
+    "XFHSTAMYGF",
+    "EPXLLCMIKG",
+    "MUFARIOZPE",
+    "KLVZPANNLO",
+    "DESIERTOFV",
+    "UJMQEUAETZ",
+    "JQSVIENTOC",
+    "SNIEBLALUX"
+  ],
+  "words": [
+    {
+      "word": "DESIERTO",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GLACIAR",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "HIELO",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ISLA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MONTANA",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "NIEBLA",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RIO",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VIENTO",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

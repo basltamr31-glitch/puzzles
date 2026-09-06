@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_019",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 019",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "answer": "CANARD",
+      "clue": "Oiseau aquatique qui fait coin-coin",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "answer": "PAIN",
+      "clue": "Aliment cuit à base de farine et d'eau",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "VERT",
+      "clue": "Couleur de l'herbe et des feuilles",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "REVE",
+      "clue": "Images et pensées pendant le sommeil",
+      "category": "action"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "FER",
+      "clue": "Métal gris résistant, utilisé dans l'acier",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "NEZ",
+      "clue": "Organe utilisé pour sentir",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "PERE",
+      "clue": "Parent masculin",
+      "category": "people"
+    }
+  ]
+}

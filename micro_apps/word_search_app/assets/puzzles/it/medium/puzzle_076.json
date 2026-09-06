@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_076",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 75,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "UXUYQPTVFG",
+    "VSAIEQHTBR",
+    "CCGFSMAOVQ",
+    "CAMINETTOG",
+    "UFMNAZDBUH",
+    "SFIENRUIBS",
+    "CAPSRBDMAL",
+    "ILMTTAEIGR",
+    "NEARCBPTNF",
+    "OKLAOIHSOO"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CAMERA",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CAMINETTO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "GIARDINO",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SEDIA",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    }
+  ]
+}

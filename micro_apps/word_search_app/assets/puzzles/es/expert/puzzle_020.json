@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_020",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 19,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "MJHYOHYUCFXJBS",
+    "TADBDJLHRLBHPG",
+    "OAGTEJJJHFCXEA",
+    "URFAGLPVGIEJUF",
+    "TXRERVMQJCYXQO",
+    "CYFTJXAOQPTLJS",
+    "CORPBLNFADVEAK",
+    "ZMCAZATREUPQCJ",
+    "YUCIBYAENSKKBF",
+    "CYDANPKREPGRQT",
+    "KHQQMARBMOFLAI",
+    "XSMAJARDINZCAL",
+    "QRLIHXITHGLQUT",
+    "UAOCXZUACOPFYT"
+  ],
+  "words": [
+    {
+      "word": "ALFOMBRA",
+      "row": 10,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "BANO",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "CAMA",
+      "row": 8,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 13,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "COCINA",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "ESPEJO",
+      "row": 9,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "JARDIN",
+      "row": 11,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 12,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "MANTA",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PUERTA",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "SOFA",
+      "row": 5,
+      "col": 13,
+      "dir": "N"
+    },
+    {
+      "word": "TAZA",
+      "row": 7,
+      "col": 6,
+      "dir": "W"
+    }
+  ]
+}

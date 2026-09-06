@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_059",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 58,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "DPGLACIERBRA",
+    "PRAIRIEBHZUV",
+    "JIKFCTEBXFLP",
+    "RSRPETRQSSQB",
+    "AOFRNUZLAGUH",
+    "GSOECIIRYLFB",
+    "VFVVIVOLCANP",
+    "YKDPESDNLCQN",
+    "AHHFLZERREIP",
+    "OSIZPYSLKQQD",
+    "PLBSYLIPMREB",
+    "KPRCMNAVZEPQ"
+  ],
+  "words": [
+    {
+      "word": "ARBRE",
+      "row": 0,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "ARCENCIEL",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "FORET",
+      "row": 6,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "GLACE",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "GLACIER",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PIERRE",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PRAIRIE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VENT",
+      "row": 6,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_016",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 15,
+  "theme": "sports",
+  "size": 14,
+  "rows": [
+    "XETPYPVORKZBTX",
+    "HLEAXDKRKRYOHB",
+    "ACNLHQIXNLCXYA",
+    "GCNLBMHEUQGEFR",
+    "DPIACYCAOBKUAN",
+    "TESCVYCSTCDUTR",
+    "MGPALLAVOLOGED",
+    "NUONHICHRIERPY",
+    "MLLEUDSPSRCTSL",
+    "TLTSEEQMVPTLAA",
+    "RUMTNEANOTARAM",
+    "EVLRYCZHDFOGEC",
+    "BPBOAQFKNGRYFP",
+    "STEBADLUFPGECG"
+  ],
+  "words": [
+    {
+      "word": "ATLETA",
+      "row": 4,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "BOXE",
+      "row": 0,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "CALCIO",
+      "row": 11,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "CICLISMO",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CORSA",
+      "row": 5,
+      "col": 9,
+      "dir": "SE"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 7,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "MARATONA",
+      "row": 10,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "NUOTO",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "PALLACANESTRO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PALLAVOLO",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 8,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "TENNIS",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

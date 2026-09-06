@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_017",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 16,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "PECORAPC",
+    "AYAMEQAA",
+    "NPNTROOV",
+    "TTEOHSBA",
+    "EOLPCMML",
+    "RNPOHEBL",
+    "AYCGATTO",
+    "OYILZFPA"
+  ],
+  "words": [
+    {
+      "word": "CANE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CAVALLO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GATTO",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PANTERA",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "PECORA",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TOPO",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

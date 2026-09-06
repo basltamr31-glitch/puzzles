@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_005",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 4,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "LXQGDPMYHI",
+    "JKABEFZLAS",
+    "HIHNCYZQNG",
+    "QFOREHEADB",
+    "RLIPGCILRR",
+    "TZRNWFKNEC",
+    "CVWJGBRAPD",
+    "UCOAJEAJFD",
+    "LKSVCKRMZE",
+    "YBYFKQMFOP"
+  ],
+  "words": [
+    {
+      "word": "ARM",
+      "row": 7,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "CHIN",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "EYE",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "FINGER",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "FOREHEAD",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "HAND",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "LIP",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "NECK",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

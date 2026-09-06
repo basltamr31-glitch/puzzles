@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_041",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 40,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "FEMEKSEE",
+    "NLAHPBXS",
+    "IEUZFKSM",
+    "DFSCHAFZ",
+    "SAFZEWNI",
+    "NNXFHASE",
+    "FTEEAESG",
+    "CHUNDNOE"
+  ],
+  "words": [
+    {
+      "word": "ELEFANT",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HASE",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "HUND",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MAUS",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SCHAF",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "ZIEGE",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_027",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 26,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "CVULCANO",
+    "EFORILEH",
+    "COLXEBBV",
+    "PGGELEBH",
+    "ILAHORIU",
+    "TIZPDOAA",
+    "TAFHRBCO",
+    "IHFVENTO"
+  ],
+  "words": [
+    {
+      "word": "ALBERO",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CIELO",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "VENTO",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VULCANO",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

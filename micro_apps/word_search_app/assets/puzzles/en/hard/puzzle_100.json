@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_100",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 99,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "XAMAKOMICWEV",
+    "ROPPVEPLHCCU",
+    "QFNCBCYBALZG",
+    "ZRCXAJYLIWQF",
+    "TQCFTRPARAOI",
+    "KITCHENNKKDP",
+    "SSYMROBKSHTJ",
+    "CFRIOFTEFOCF",
+    "EWFROODTCKFS",
+    "JABRMOORDEBA",
+    "NQSOPGALXTWG",
+    "JYCRTMWXOLLI"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BEDROOM",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "BLANKET",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CHAIR",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 8,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "DOOR",
+      "row": 8,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "FIREPLACE",
+      "row": 8,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "MIRROR",
+      "row": 6,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 6,
+      "col": 8,
+      "dir": "SE"
+    }
+  ]
+}

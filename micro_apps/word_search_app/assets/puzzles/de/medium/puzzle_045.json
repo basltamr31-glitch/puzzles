@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_045",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 44,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "CTAXKVSGTV",
+    "AATYOHRLGU",
+    "STKOPVKZIZ",
+    "YCRHFLIVHB",
+    "DAHIMINIEE",
+    "KAFUSSNMWI",
+    "TDELLBOGEN",
+    "WVCHOTXDES",
+    "LRELPXETZR",
+    "UWUIRJRRCB"
+  ],
+  "words": [
+    {
+      "word": "BEIN",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "ELLBOGEN",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FINGER",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "FUSS",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KINN",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "KOPF",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "OHR",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SCHULTER",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

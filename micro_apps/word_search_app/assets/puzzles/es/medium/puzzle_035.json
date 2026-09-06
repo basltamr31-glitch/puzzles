@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_035",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 34,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "ZBVTVGRQQG",
+    "NMSOALHJBB",
+    "DYISLAOTVO",
+    "AAIPHCJNRL",
+    "SYQLRIAJGP",
+    "EJIPCAENRI",
+    "MFMEQRDLIE",
+    "YHNDCJTEOD",
+    "BUYKIURLRR",
+    "MMKHXLDSXA"
+  ],
+  "words": [
+    {
+      "word": "GLACIAR",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "HIELO",
+      "row": 3,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "HOJA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ISLA",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PIEDRA",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "PRADERA",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "RIO",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_061",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 60,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "UEVCRCEUWZ",
+    "SRFKNEEARM",
+    "VMZHMLNHIR",
+    "HZWITBLEGY",
+    "XTWSTOMACH",
+    "FHJYXWEDAK",
+    "HJIQOADEYD",
+    "SEQNMUFDPW",
+    "SEQRDGHMCD",
+    "WTTCOIMZFW"
+  ],
+  "words": [
+    {
+      "word": "ARM",
+      "row": 1,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "EAR",
+      "row": 1,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "ELBOW",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "HEAD",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KNEE",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LEG",
+      "row": 3,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "NECK",
+      "row": 2,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "STOMACH",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

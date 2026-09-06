@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_098",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 97,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "HKPESCLNZC",
+    "CMAQOKZJXF",
+    "BISCUITCUU",
+    "QETCPPFACN",
+    "TLEREAZFUO",
+    "RTQEOIIELY",
+    "CVUPPNRLUO",
+    "MSEEDHGVRE",
+    "XOLNFDNAEV",
+    "FUNQZSOSXQ"
+  ],
+  "words": [
+    {
+      "word": "BISCUIT",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CAFE",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CITRON",
+      "row": 1,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "CREPE",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MIEL",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PAIN",
+      "row": 3,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PASTEQUE",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "SOUPE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_089",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 88,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "BGTDCKHGTHYN",
+    "CPLNCKCAPRAO",
+    "YBYKSNOTMOMM",
+    "GVHPONFTLFIL",
+    "IOLLIRDOCCOC",
+    "ULFFHNTNKXXH",
+    "YPLGQTGKQRLL",
+    "ZEBRALIUQATT",
+    "DLVIUDOGIPVI",
+    "LKONGGYBRNQM",
+    "SCTZNSQXPEOT",
+    "STRLGVCNPRRG"
+  ],
+  "words": [
+    {
+      "word": "AQUILA",
+      "row": 7,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CAPRA",
+      "row": 1,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "COCCODRILLO",
+      "row": 4,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "DELFINO",
+      "row": 8,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "GATTO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SCOIATTOLO",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "TIGRE",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "VOLPE",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

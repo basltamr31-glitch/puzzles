@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_094",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 93,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "YPMSWXBYKTKK",
+    "YVYAQNZCPLAI",
+    "LXUJLBFSXGGL",
+    "TNDNCRGMCFWA",
+    "FCAEAAGSTROM",
+    "POPCECRTLECA",
+    "SASKSEVOLGKQ",
+    "MTJLKLDBOHPF",
+    "IEBAJERUBBXR",
+    "BXECMTEKCAJP",
+    "WNLECASMXDRX",
+    "SOTSHPSSCPUH"
+  ],
+  "words": [
+    {
+      "word": "BELT",
+      "row": 8,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BRACELET",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "COAT",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "DRESS",
+      "row": 7,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "GLOVE",
+      "row": 6,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "JACKET",
+      "row": 9,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "NECKLACE",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PAJAMAS",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SCARF",
+      "row": 6,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "SNEAKERS",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

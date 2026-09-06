@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_008",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 7,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "YTHHABYT",
+    "DJUTTBMJ",
+    "TFUEHCBR",
+    "OTJNLOOH",
+    "PIONEUXZ",
+    "ARBITREV",
+    "NJNSESME",
+    "YOECHECS"
+  ],
+  "words": [
+    {
+      "word": "ARBITRE",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "ATHLETE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "BOXE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "COURSE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ECHECS",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

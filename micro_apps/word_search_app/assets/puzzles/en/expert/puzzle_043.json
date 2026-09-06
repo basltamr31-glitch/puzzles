@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_043",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 42,
+  "theme": "nature",
+  "size": 14,
+  "rows": [
+    "UZLRWZFXYBWPXK",
+    "LFGCBDSJCZUMPB",
+    "REWHXCKHHXRQOC",
+    "NNWAHWCCLOUDXW",
+    "UKNHTDAETCNQVU",
+    "ZQWHCEUSAQZKHA",
+    "BFQWBSRKFEOYBQ",
+    "PSMOLEAFLMDBCP",
+    "AZUBDRLNAECORZ",
+    "TKMNMTBXBLIMIC",
+    "XEUISBONACLOVU",
+    "EHEANEPLGIQKEM",
+    "TSEROFTZUTXARB",
+    "LIEFOGMINSMRKZ"
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "row": 6,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "CLOUD",
+      "row": 3,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "DESERT",
+      "row": 4,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "FOREST",
+      "row": 12,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "LEAF",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "OCEAN",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "RAINBOW",
+      "row": 12,
+      "col": 3,
+      "dir": "N"
+    },
+    {
+      "word": "RIVER",
+      "row": 8,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "SUNSET",
+      "row": 7,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "THUNDERSTORM",
+      "row": 12,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 10,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "WATERFALL",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

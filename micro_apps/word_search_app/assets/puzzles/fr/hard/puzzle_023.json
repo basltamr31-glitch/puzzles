@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_023",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 22,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "UUNGBPCHQHXK",
+    "VTRAINGSCXEJ",
+    "OALXLYMAXTZA",
+    "IEVNLGBCRFSG",
+    "TROPESSAPELO",
+    "UOEFTPCDTXES",
+    "RPCADDBOLEVS",
+    "EOEDAJPSKOAK",
+    "YRLORRBKNZSU",
+    "PTBJONOXUSBT",
+    "NQQTBMUOFQOZ",
+    "PLAGPSJTTYDY"
+  ],
+  "words": [
+    {
+      "word": "AEROPORT",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "BATEAU",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "BILLET",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CARTE",
+      "row": 5,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "GARE",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "PASSEPORT",
+      "row": 4,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "SACADOS",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TRAIN",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VELO",
+      "row": 6,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "VOITURE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

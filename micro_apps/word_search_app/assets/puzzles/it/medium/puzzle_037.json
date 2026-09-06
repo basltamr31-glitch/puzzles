@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_037",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 36,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "CICXRHNEGY",
+    "FSPALLARAG",
+    "IVOSVMENTO",
+    "FYBRQIHFQM",
+    "QRSAECGIBI",
+    "ELOYFCNLBT",
+    "QGINOCCHIO",
+    "RTESTAHHOA",
+    "HAATIEFLIA",
+    "AOEKFYGCEO"
+  ],
+  "words": [
+    {
+      "word": "CAVIGLIA",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "FRONTE",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "GINOCCHIO",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GOMITO",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "MENTO",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SPALLA",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TESTA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

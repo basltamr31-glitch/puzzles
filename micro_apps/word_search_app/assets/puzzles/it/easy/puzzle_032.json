@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_032",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 31,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "ANUMYLNH",
+    "XTEGTUUX",
+    "YVOCBTOC",
+    "UDFOHCTA",
+    "MNFRBGOL",
+    "EURSFMEC",
+    "FSCACCHI",
+    "PRSTADIO"
+  ],
+  "words": [
+    {
+      "word": "CALCIO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CORSA",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "GOL",
+      "row": 4,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "NUOTO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SCACCHI",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "STADIO",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

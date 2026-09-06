@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_088",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 87,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "VFMWKIZWIZ",
+    "MUNAUSHCGB",
+    "PSPORTLERO",
+    "HSPTLAVNIB",
+    "OBBFADTNIO",
+    "CANXBIMHTX",
+    "KLAUFOKROE",
+    "ELNBMNPYRN",
+    "YWPPFFJNKN",
+    "UXEUAIHFTG"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "FUSSBALL",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "LAUF",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MARATHON",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SPORTLER",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "STADION",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TOR",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

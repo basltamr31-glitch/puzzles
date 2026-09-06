@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_057",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 56,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "VLVHEEUO",
+    "ADVZTSXL",
+    "CHATIGRE",
+    "HYLAPINU",
+    "ASSOURIS",
+    "PMUSMACX",
+    "GOFYCFNM",
+    "NZEBREXA"
+  ],
+  "words": [
+    {
+      "word": "CHAT",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "LAPIN",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SOURIS",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TIGRE",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

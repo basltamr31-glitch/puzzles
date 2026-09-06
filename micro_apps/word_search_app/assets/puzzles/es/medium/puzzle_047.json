@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_047",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 46,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "XGXIQFYELB",
+    "CPCTCABLTF",
+    "OKCUAVIAJE",
+    "CBRKBXCVRM",
+    "HAUTOPISTA",
+    "ERJDLMCGAP",
+    "RCHJEJLUFI",
+    "TOGUTRENOS",
+    "RBKROJTSPD",
+    "QSVRLOAIBH"
+  ],
+  "words": [
+    {
+      "word": "AUTOPISTA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BARCO",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "BICICLETA",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BOLETO",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "COCHE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "TREN",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VIAJE",
+      "row": 2,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

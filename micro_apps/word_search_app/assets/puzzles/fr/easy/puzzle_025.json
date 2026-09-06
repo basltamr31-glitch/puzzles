@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_025",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 24,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "NXFLAPIN",
+    "LRDOBTHC",
+    "CMDUMIUH",
+    "OOUPMKIP",
+    "UUPFDXCS",
+    "RTIGREGB",
+    "SOURISLJ",
+    "NNHYYTEM"
+  ],
+  "words": [
+    {
+      "word": "LAPIN",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "LOUP",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MOUTON",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "OURS",
+      "row": 3,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SOURIS",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TIGRE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

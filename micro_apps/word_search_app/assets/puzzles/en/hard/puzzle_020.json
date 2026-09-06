@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_020",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 19,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "WWGXVEMDSNEQ",
+    "SNBNLUISTVTI",
+    "CRPYXMRPATFQ",
+    "IUTYYLRRBFDU",
+    "OLYIVWOGLVGD",
+    "PCTMOORDEBGQ",
+    "XTDDLYAWLLAH",
+    "HKNBCUPBOARD",
+    "PIYXRSGZRNDC",
+    "WOLLIPDESKEJ",
+    "UKSQEPTPTENC",
+    "TVIBLHMUETNI"
+  ],
+  "words": [
+    {
+      "word": "BEDROOM",
+      "row": 5,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "BLANKET",
+      "row": 5,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CUPBOARD",
+      "row": 7,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "DESK",
+      "row": 9,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "GARDEN",
+      "row": 5,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 6,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "MIRROR",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PILLOW",
+      "row": 9,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "TABLE",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "WINDOW",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

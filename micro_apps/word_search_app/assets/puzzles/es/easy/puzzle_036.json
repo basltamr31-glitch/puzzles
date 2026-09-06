@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_036",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 35,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "ZVESNRFJ",
+    "GABNBLDA",
+    "UGSEHAZR",
+    "MCORSMYD",
+    "VAFDRPTI",
+    "QMANTAON",
+    "TAZDJRZO",
+    "PUERTAEQ"
+  ],
+  "words": [
+    {
+      "word": "CAMA",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "JARDIN",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MANTA",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PUERTA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

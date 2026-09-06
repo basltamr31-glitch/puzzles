@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_034",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 33,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "CCKLAMNZBT",
+    "ARXACIETAZ",
+    "FPBTRNILNR",
+    "FRITTELLAG",
+    "EKSEISADNS",
+    "IPCELTTPAO",
+    "TVOPERAPEL",
+    "POTKMAXUEX",
+    "KKTPIMADSD",
+    "DGOPUZNRBH"
+  ],
+  "words": [
+    {
+      "word": "BANANA",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "BISCOTTO",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CAFFE",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "FRITTELLA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LATTE",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MELA",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PERA",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

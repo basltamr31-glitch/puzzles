@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_053",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 053",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "answer": "OEIL",
+      "clue": "Organe utilisé pour voir",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "SOLEIL",
+      "clue": "Étoile au centre de notre système solaire",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "SABLE",
+      "clue": "Petits grains présents sur les plages",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "BEBE",
+      "clue": "Très jeune enfant",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "SOURIS",
+      "clue": "Petit rongeur à longue queue",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "OR",
+      "clue": "Métal précieux de couleur jaune",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "answer": "AMI",
+      "clue": "Une personne que l'on aime et en qui on a confiance",
+      "category": "people"
+    }
+  ]
+}

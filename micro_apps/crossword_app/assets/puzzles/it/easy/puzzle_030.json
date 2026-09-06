@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_030",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 030",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "answer": "PANE",
+      "clue": "Alimento cotto a base di farina e acqua",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "ISOLA",
+      "clue": "Terra completamente circondata dall'acqua",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "VETRO",
+      "clue": "Materiale duro e trasparente",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "answer": "FIUME",
+      "clue": "Grande corso d'acqua naturale",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "answer": "MARE",
+      "clue": "Grande distesa d'acqua salata",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "FERRO",
+      "clue": "Metallo grigio resistente, usato nell'acciaio",
+      "category": "nature"
+    }
+  ]
+}

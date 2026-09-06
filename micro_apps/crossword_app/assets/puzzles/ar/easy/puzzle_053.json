@@ -1,0 +1,50 @@
+{
+  "id": "ar_easy_053",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 053",
+  "rows": 5,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "نمر",
+      "clue": "قط كبير مخطط",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "بحر",
+      "clue": "مسطح مائي كبير مالح",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "أرنب",
+      "clue": "حيوان له أذنان طويلتان يقفز",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "answer": "بقرة",
+      "clue": "حيوان أليف يُربى لحليبه",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "غرب",
+      "clue": "جهة غروب الشمس",
+      "category": "place"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_070",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 69,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "RSYEZGSTES",
+    "LPANTALONQ",
+    "ZXCNDNOSYJ",
+    "VYOEDTRFNC",
+    "PULLIAFIDR",
+    "PSLANNLNSA",
+    "GVIVESTEBV",
+    "EGEKFAEUSA",
+    "HUROCYOART",
+    "IJBMLZXTBE"
+  ],
+  "words": [
+    {
+      "word": "CEINTURE",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "COLLIER",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CRAVATE",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "GANT",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PANTALON",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PULL",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SANDALES",
+      "row": 0,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "VESTE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

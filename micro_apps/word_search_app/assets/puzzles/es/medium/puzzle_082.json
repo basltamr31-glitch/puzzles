@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_082",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 81,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "CPMDQRFTOS",
+    "QIYGPKRJCR",
+    "VVPLATANOI",
+    "OKQASLIMON",
+    "XNFUTRLPXU",
+    "VUUUEAEEHG",
+    "AFGTLSTRTL",
+    "DXRPKNOABA",
+    "JXQOYXMPQU",
+    "EKNBSDFKAE"
+  ],
+  "words": [
+    {
+      "word": "GALLETA",
+      "row": 1,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "LIMON",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PASTEL",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "PERA",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PLATANO",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "QUESO",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SOPA",
+      "row": 6,
+      "col": 5,
+      "dir": "SE"
+    }
+  ]
+}

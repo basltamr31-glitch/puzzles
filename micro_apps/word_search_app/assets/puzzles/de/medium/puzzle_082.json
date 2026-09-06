@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_082",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 81,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "BYAKUCHENZ",
+    "PUBAVGYLPK",
+    "ZITRONEWLX",
+    "VGHTOMATEY",
+    "EABOETSXRV",
+    "SCHFNRSZTH",
+    "WRYFMILCHC",
+    "MRGEYBGUTR",
+    "JLZLSOFEEG",
+    "GLUFHANUAO"
+  ],
+  "words": [
+    {
+      "word": "BROT",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "BUTTER",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "HONIG",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MILCH",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

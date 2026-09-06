@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_040",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 39,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "VRENNENN",
+    "ASTADION",
+    "ECESIHIG",
+    "BHNECOBB",
+    "TANAOCOU",
+    "ACITUKFY",
+    "FHSETEAM",
+    "RUABMYYE"
+  ],
+  "words": [
+    {
+      "word": "HOCKEY",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "RENNEN",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SCHACH",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "STADION",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 6,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TENNIS",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    }
+  ]
+}

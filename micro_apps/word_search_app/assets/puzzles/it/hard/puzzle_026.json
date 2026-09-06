@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_026",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 25,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "QLNZDZEMKZNQ",
+    "VOIDETVIFCPC",
+    "BZBAATENFCXI",
+    "UPKAVZREHYHO",
+    "SULQBYRSDSIC",
+    "BCFSLATTEGLC",
+    "APSPBNNRGDIO",
+    "XANGURIALOPL",
+    "DTELEIMSNDFA",
+    "VAUTORTATATT",
+    "STFIOKLCEGFO",
+    "CAFFECIEBAYE"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BANANA",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CAFFE",
+      "row": 11,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CIOCCOLATO",
+      "row": 1,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 11,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "LATTE",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MIELE",
+      "row": 8,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "MINESTRA",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PATATA",
+      "row": 6,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TORTA",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_034",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 33,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "JANGRBOZJP",
+    "EVESPOTUAX",
+    "SKQRCIHDSS",
+    "XDKPOIZJJA",
+    "QLEMONOZCN",
+    "UYKYKTREAD",
+    "VGYNISANRW",
+    "WGOTEENTRI",
+    "FICYTIGPOC",
+    "FEXPIAEGTH"
+  ],
+  "words": [
+    {
+      "word": "CARROT",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "COOKIE",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "EGG",
+      "row": 7,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "LEMON",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ORANGE",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PIZZA",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "POTATO",
+      "row": 3,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

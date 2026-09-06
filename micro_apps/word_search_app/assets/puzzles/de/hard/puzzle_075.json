@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_075",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 74,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "ZEVDMORBEXDM",
+    "DWUESTEINSEL",
+    "LJMUABGGZWXZ",
+    "DXHIMMELFNLO",
+    "RWYDVONRUWFI",
+    "XDNRSBBWGXIR",
+    "LGULXWOLKENO",
+    "XOVPOMGWAIUX",
+    "YPXHWHEORTOS",
+    "EGLWOXNEABTN",
+    "JBYKYZJGRSGF",
+    "AUJAOZDBUESU"
+  ],
+  "words": [
+    {
+      "word": "BAUM",
+      "row": 2,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "BERG",
+      "row": 2,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "BLATT",
+      "row": 5,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "HIMMEL",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "INSEL",
+      "row": 1,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "MEER",
+      "row": 7,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "REGENBOGEN",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "STEIN",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "WOLKE",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "WUESTE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

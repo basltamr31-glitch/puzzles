@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_064",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 63,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "DNUOPMRYUG",
+    "QYMMRAMUVJ",
+    "AENATACION",
+    "CARRERAYLC",
+    "VDJANBNLES",
+    "ARPTIIJVIX",
+    "MKJOSTGFBF",
+    "EPFNSRLOOH",
+    "EQUIPOJKLL",
+    "XPTMIPGDFJ"
+  ],
+  "words": [
+    {
+      "word": "ARBITRO",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CARRERA",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "EQUIPO",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GOL",
+      "row": 6,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "MARATON",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "NATACION",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TENIS",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "VOLEIBOL",
+      "row": 1,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

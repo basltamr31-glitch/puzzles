@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_073",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 72,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "TODMMCRQFUKK",
+    "XXETNAFELEMH",
+    "OQOTIVMDIYAP",
+    "NXGDZAFFARIG",
+    "AOKCRLNUERSD",
+    "PENOELITKXIX",
+    "CVCNNONLIYLP",
+    "ZEAIKASATYMT",
+    "PCRGPLXTUXOR",
+    "YOLLIOVZOMUA",
+    "HICICBUHFPPP",
+    "LSCOIATTOLOO"
+  ],
+  "words": [
+    {
+      "word": "CANE",
+      "row": 8,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "CAVALLO",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CONIGLIO",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 1,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "GIRAFFA",
+      "row": 3,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "LEONE",
+      "row": 5,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "PANTERA",
+      "row": 8,
+      "col": 4,
+      "dir": "NE"
+    },
+    {
+      "word": "PECORA",
+      "row": 8,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "SCOIATTOLO",
+      "row": 11,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TOPO",
+      "row": 8,
+      "col": 7,
+      "dir": "SE"
+    }
+  ]
+}

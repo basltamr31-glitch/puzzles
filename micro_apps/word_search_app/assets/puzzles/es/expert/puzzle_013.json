@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_013",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 12,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "GHYHRFOAOLTEDV",
+    "VUNSOOGAMOTSEE",
+    "AJSEPMDDBNYUDZ",
+    "IJSCXLBIEAAAON",
+    "FCESOALRLMOJOM",
+    "BCGRDLFEOLLEUC",
+    "VCCLOQAZEBACHO",
+    "LBDGCEMTYYCNDQ",
+    "EDEGRZKMCESECF",
+    "JRZLZYUPRAXDYR",
+    "RAFJEYGOIKUJYT",
+    "JCZXATEZCHXCEK",
+    "LECVZUZRZYTCPP",
+    "DGDCRECSSUMRDL"
+  ],
+  "words": [
+    {
+      "word": "CABEZA",
+      "row": 6,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "CEJA",
+      "row": 6,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "CODO",
+      "row": 7,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "CUELLO",
+      "row": 5,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "DEDO",
+      "row": 0,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "ESTOMAGO",
+      "row": 1,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "FRENTE",
+      "row": 5,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "HOMBRO",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "MANO",
+      "row": 4,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "OREJA",
+      "row": 6,
+      "col": 4,
+      "dir": "NW"
+    },
+    {
+      "word": "RODILLA",
+      "row": 0,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "TOBILLO",
+      "row": 0,
+      "col": 10,
+      "dir": "SW"
+    }
+  ]
+}

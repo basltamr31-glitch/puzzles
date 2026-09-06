@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_075",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 74,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "ZPFPTAAVUX",
+    "QVDRISOLAL",
+    "EKMAREPTGK",
+    "AKNTASTFHQ",
+    "QOMONFVRIZ",
+    "HXSOLECOAT",
+    "TFUQNABOCQ",
+    "XBSEGFBBCS",
+    "OIVPIOGGIA",
+    "OIRIMLSIOA"
+  ],
+  "words": [
+    {
+      "word": "GHIACCIO",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "ISOLA",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "MARE",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 4,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "PIETRA",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PIOGGIA",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "PRATO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SOLE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

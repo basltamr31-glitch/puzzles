@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_029",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 28,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "UEBMCPOROK",
+    "SZJPDIPLNZ",
+    "ZGISNPZUBT",
+    "IDSCMOVKMO",
+    "ZYEHAKYIYK",
+    "PBAUCHANDL",
+    "BERLGPYNXW",
+    "VIMTSAMNUM",
+    "KNIEWMYWDF",
+    "FOHRKLWPEH"
+  ],
+  "words": [
+    {
+      "word": "ARM",
+      "row": 5,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "BAUCH",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BEIN",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 5,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "KINN",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KNIE",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "OHR",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SCHULTER",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

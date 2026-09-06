@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_020",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 19,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "MSEDUQURTE",
+    "PCCOPERTAU",
+    "AAACLDNOZX",
+    "FFMRUXPLZZ",
+    "GFINESTRAB",
+    "IANUXCCHFA",
+    "ELEIZXTIHG",
+    "LETTOSSKNN",
+    "GBTACZFNAO",
+    "GLOIEKGNFU"
+  ],
+  "words": [
+    {
+      "word": "BAGNO",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "CAMINETTO",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "COPERTA",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CUSCINO",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "FINESTRA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LETTO",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SCAFFALE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TAZZA",
+      "row": 0,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

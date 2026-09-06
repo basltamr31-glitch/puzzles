@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_057",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 56,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "SQUIRRELHO",
+    "HACEONYZTU",
+    "EOUMCWQEAQ",
+    "EUHSYAWDRO",
+    "PIGQSCMDWG",
+    "EMOTQMOEOV",
+    "JSCQXRUGLG",
+    "ZLIPOBSLFT",
+    "NIKGHKEZXS",
+    "GVLDKHRESJ"
+  ],
+  "words": [
+    {
+      "word": "BEE",
+      "row": 7,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "CAMEL",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "DOG",
+      "row": 4,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "MOUSE",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PIG",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SHEEP",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "SQUIRREL",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WOLF",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    }
+  ]
+}

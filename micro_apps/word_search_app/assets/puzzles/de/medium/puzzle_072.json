@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_072",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 71,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "USNESSSRWW",
+    "CVMXUMCART",
+    "SRADFAHREN",
+    "ITSOXRWGNA",
+    "TLAUFAIAPH",
+    "XBYDFTMRDV",
+    "YTORIHMJKF",
+    "ETTXJOENLG",
+    "VICRENNENA",
+    "EFDNNNOZNA"
+  ],
+  "words": [
+    {
+      "word": "BOXEN",
+      "row": 5,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "LAUF",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MARATHON",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "RADFAHREN",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RENNEN",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SCHWIMMEN",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "STADION",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "TOR",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_054",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 53,
+  "theme": "clothes",
+  "size": 12,
+  "rows": [
+    "ASFVVMWTXATO",
+    "XLRCSNEAKERS",
+    "ACVVGLOVECOO",
+    "LJSREPPILSUM",
+    "TEKCAJGZDWSS",
+    "FPASSERDBEED",
+    "VRAINCOATARW",
+    "BBJBKTADNTSV",
+    "SVDPXLKROEGB",
+    "DROAOHQLFRDG",
+    "MXQEKSAPVCVY",
+    "LFKQMNCWBDEM"
+  ],
+  "words": [
+    {
+      "word": "BRACELET",
+      "row": 7,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "DRESS",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "GLOVE",
+      "row": 2,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "JACKET",
+      "row": 4,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "RAINCOAT",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SCARF",
+      "row": 5,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "SLIPPERS",
+      "row": 3,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "SNEAKERS",
+      "row": 1,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SWEATER",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TROUSERS",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

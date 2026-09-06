@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_076",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 75,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "ZBPUAQDE",
+    "MLXRDCFD",
+    "XAZBUOGO",
+    "FNSOFAFO",
+    "JKPSSAJR",
+    "CEILINGB",
+    "MTABLEIP",
+    "MIRRORUV"
+  ],
+  "words": [
+    {
+      "word": "BLANKET",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CEILING",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DOOR",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "MIRROR",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

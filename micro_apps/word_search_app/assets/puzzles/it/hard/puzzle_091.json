@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_091",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 90,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "FMIGYGQXAVFR",
+    "GAIBBENMBMHZ",
+    "RPRATOCKFAXA",
+    "IHACMPNDFRSY",
+    "IGYQOTRESEDN",
+    "AEHINBRLCELB",
+    "KCPITOAETBOI",
+    "NNAHAELLFLTV",
+    "POHTGCHVENTO",
+    "RDRINHCIUNFN",
+    "SGHIACCIAIOV",
+    "CDQHROKYOBZT"
+  ],
+  "words": [
+    {
+      "word": "ARCOBALENO",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CIELO",
+      "row": 10,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "DESERTO",
+      "row": 4,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "GHIACCIAIO",
+      "row": 10,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GHIACCIO",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MARE",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "MONTAGNA",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "NEBBIA",
+      "row": 1,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "PRATO",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VENTO",
+      "row": 8,
+      "col": 7,
+      "dir": "E"
+    }
+  ]
+}

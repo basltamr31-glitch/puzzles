@@ -1,0 +1,58 @@
+{
+  "id": "de_easy_085",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 085",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "EBENE",
+      "clue": "Flaches, weites Land ohne große Erhebungen",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "SILBER",
+      "clue": "Glänzendes wertvolles graues Metall",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "MILCH",
+      "clue": "Weiße Flüssigkeit von Kühen",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "STRASSE",
+      "clue": "Weg, auf dem Autos fahren",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "NASE",
+      "clue": "Körperteil zum Riechen",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "SEE",
+      "clue": "Großes Gewässer, von Land umgeben",
+      "category": "place"
+    }
+  ]
+}

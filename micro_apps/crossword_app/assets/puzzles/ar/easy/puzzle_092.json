@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_092",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 092",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "answer": "دفتر",
+      "clue": "أوراق مربوطة تُستخدم للكتابة",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "كتاب",
+      "clue": "مجموعة صفحات مطبوعة تُقرأ",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "أسد",
+      "clue": "ملك الغابة من القطط الكبيرة",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "أسبوع",
+      "clue": "مدة سبعة أيام",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "عمر",
+      "clue": "عدد السنوات التي عاشها الإنسان",
+      "category": "time"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "شمس",
+      "clue": "النجم الذي يضيء نهارنا",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "شهر",
+      "clue": "مدة تقارب ثلاثين يوماً",
+      "category": "time"
+    }
+  ]
+}

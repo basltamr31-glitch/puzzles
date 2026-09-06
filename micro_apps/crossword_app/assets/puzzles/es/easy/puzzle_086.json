@@ -1,0 +1,66 @@
+{
+  "id": "es_easy_086",
+  "language": "es",
+  "difficulty": "easy",
+  "title": "Crucigrama 086",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "MES",
+      "clue": "Una de las doce divisiones de un año",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "PELO",
+      "clue": "Lo que crece en la piel, especialmente la cabeza",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "answer": "ARBOL",
+      "clue": "Planta grande con tronco y ramas",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "HERMANA",
+      "clue": "Familiar femenino de la misma generación",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "answer": "PIE",
+      "clue": "Parte del cuerpo al final de la pierna",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "PERRO",
+      "clue": "Animal doméstico fiel que ladra",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "LAPIZ",
+      "clue": "Herramienta para escribir",
+      "category": "object"
+    }
+  ]
+}

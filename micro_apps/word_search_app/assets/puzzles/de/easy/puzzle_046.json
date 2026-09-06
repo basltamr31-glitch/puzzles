@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_046",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 45,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "TJSOCKEM",
+    "WAUHUTYT",
+    "PCBCSJSK",
+    "UKETCJRS",
+    "YEECHOSE",
+    "ARMBANDZ",
+    "YWRJLLCO",
+    "JZUXWVUE"
+  ],
+  "words": [
+    {
+      "word": "ARMBAND",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HOSE",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "HUT",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "JACKE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SCHAL",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SOCKE",
+      "row": 0,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

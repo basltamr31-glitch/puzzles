@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_055",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 54,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "LUTQSKJRBZ",
+    "LKJOURNEYU",
+    "ZHOVILQEJG",
+    "RPTSTATION",
+    "BIBRCQMAPI",
+    "KVOYAGEHXS",
+    "IEBPSIMZNI",
+    "XUAWEHNODI",
+    "MXSOSZIUUJ",
+    "LFVZIFAPCR"
+  ],
+  "words": [
+    {
+      "word": "JOURNEY",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 4,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "SHIP",
+      "row": 6,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "STATION",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "SUITCASE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 3,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "TRAIN",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_069",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 68,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "TKMOFGSSUFSX",
+    "WXBKSCIVUICN",
+    "YNRESHOBENHH",
+    "ZKEUARBNEGUA",
+    "HMLGTEHPGELL",
+    "EWLUDRKGRRTS",
+    "VUBKYWSNRIEC",
+    "FPOKGXFYFDRJ",
+    "KOGTMWDZHWCW",
+    "NIEBUUIOUNJB",
+    "DDNAHMMMPOKP",
+    "WANNWAHVWDSR"
+  ],
+  "words": [
+    {
+      "word": "AUGENBRAUE",
+      "row": 3,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "BEIN",
+      "row": 9,
+      "col": 3,
+      "dir": "W"
+    },
+    {
+      "word": "ELLBOGEN",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "FINGER",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "FUSS",
+      "row": 0,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "HALS",
+      "row": 2,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 10,
+      "col": 4,
+      "dir": "W"
+    },
+    {
+      "word": "KINN",
+      "row": 8,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "KOPF",
+      "row": 7,
+      "col": 3,
+      "dir": "W"
+    },
+    {
+      "word": "SCHULTER",
+      "row": 0,
+      "col": 10,
+      "dir": "S"
+    }
+  ]
+}

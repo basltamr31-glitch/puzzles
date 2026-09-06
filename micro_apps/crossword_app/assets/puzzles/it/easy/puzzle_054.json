@@ -1,0 +1,66 @@
+{
+  "id": "it_easy_054",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 054",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "AMICO",
+      "clue": "Qualcuno che ti piace e in cui hai fiducia",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "PAROLA",
+      "clue": "Un'unità linguistica con un significato",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "answer": "CAMPO",
+      "clue": "Terreno aperto per le coltivazioni",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "answer": "SOLE",
+      "clue": "Stella al centro del nostro sistema solare",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "ORO",
+      "clue": "Metallo prezioso di colore giallo",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "SCUOLA",
+      "clue": "Luogo dove i bambini imparano",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "ALBERO",
+      "clue": "Grande pianta con tronco e rami",
+      "category": "nature"
+    }
+  ]
+}

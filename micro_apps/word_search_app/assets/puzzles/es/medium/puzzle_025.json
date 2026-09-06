@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_025",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 24,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "OHAIDDMIQJ",
+    "GGDGAZNLOX",
+    "YCMMUUEKEG",
+    "FAARDILLAM",
+    "KBIMDELFIN",
+    "SROVEJAAZJ",
+    "LAYSGLCRKZ",
+    "JZYBOALUXY",
+    "BBTSLOBOPO",
+    "FLROFIOEOP"
+  ],
+  "words": [
+    {
+      "word": "AGUILA",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "ARDILLA",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CABRA",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CAMELLO",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "DELFIN",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "LOBO",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "OSO",
+      "row": 5,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "OVEJA",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

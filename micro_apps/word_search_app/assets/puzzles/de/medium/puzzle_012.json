@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_012",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 11,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "TZGFLUZHGL",
+    "YIMCODATAL",
+    "ZSSPIEGELA",
+    "UOTCMRAPPN",
+    "WFUTHSRPKE",
+    "ZAHAURTILZ",
+    "YELSERECSI",
+    "BKISSENHSU",
+    "EYTENHWSNI",
+    "SJYNACVHFW"
+  ],
+  "words": [
+    {
+      "word": "GARTEN",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "SPIEGEL",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STUHL",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TASSE",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "TISCH",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

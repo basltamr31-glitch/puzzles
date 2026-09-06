@@ -1,0 +1,84 @@
+{
+  "id": "es_hard_056",
+  "language": "es",
+  "difficulty": "hard",
+  "index": 55,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "FOEXOBHJMYPO",
+    "LUSBRVJMVDAZ",
+    "PATLETAKBNUM",
+    "HVABRZGMUPII",
+    "RLDNOIVNVLUU",
+    "BFIBRLOHEXQX",
+    "JHOMSILCICOP",
+    "OBULCZERDEJA",
+    "GRGARBITROFT",
+    "AOTUKZBCUJRK",
+    "OAVDDHOCKEYA",
+    "NJSPOYLCGCUC"
+  ],
+  "words": [
+    {
+      "word": "AJEDREZ",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "ARBITRO",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ATLETA",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BOXEO",
+      "row": 0,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "CICLISMO",
+      "row": 6,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "ESTADIO",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "FUTBOL",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 10,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "NATACION",
+      "row": 11,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "VOLEIBOL",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "fr_easy_073",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 073",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "SOURIS",
+      "clue": "Petit rongeur à longue queue",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "FEUILLE",
+      "clue": "Partie verte et plate d'une plante",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "COULEUR",
+      "clue": "Rouge, bleu, vert ou une autre teinte",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "FEU",
+      "clue": "Flammes chaudes et lumineuses",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "answer": "ROI",
+      "clue": "Souverain masculin d'un royaume",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "LUNE",
+      "clue": "Satellite naturel de la Terre",
+      "category": "nature"
+    }
+  ]
+}

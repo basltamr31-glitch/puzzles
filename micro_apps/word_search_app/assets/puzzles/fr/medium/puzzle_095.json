@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_095",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 94,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "CCBAGUSFRB",
+    "GVOYAGEDHK",
+    "PORTRVSTRP",
+    "BILLETISRR",
+    "UTCZVELOCM",
+    "HUYAVQVXNE",
+    "XRVIRLFPVG",
+    "UEGDNTFBPA",
+    "DKZILSEICD",
+    "VFOYOVVDBQ"
+  ],
+  "words": [
+    {
+      "word": "AVION",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "BILLET",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CARTE",
+      "row": 4,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "GARE",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PORT",
+      "row": 2,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "VELO",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VOITURE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

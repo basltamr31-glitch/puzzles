@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_051",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 50,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "EKQVYNKABPGT",
+    "XCIELLIUEFUF",
+    "TVRYEBQDYDTQ",
+    "IXQRPLAGEBCL",
+    "IGVOLCANHYRG",
+    "DKLHSOLEILDR",
+    "XEGAUNFESZVX",
+    "LZCGCNBOSQDS",
+    "DXESUITORBFK",
+    "ONMKGVERREIP",
+    "LCASQHURINTD",
+    "ZEUBLRSQRUIA"
+  ],
+  "words": [
+    {
+      "word": "CASCADE",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "CIEL",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FEUILLE",
+      "row": 1,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "FORET",
+      "row": 6,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "GLACIER",
+      "row": 4,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "NUAGE",
+      "row": 6,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "PIERRE",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "PLAGE",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "SOLEIL",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "VOLCAN",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

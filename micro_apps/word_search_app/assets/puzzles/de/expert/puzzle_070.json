@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_070",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 69,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "TEWTFAXKPJYYSV",
+    "HLKDDWPKAURAUR",
+    "GTEPOEPIKYXPPZ",
+    "YEXTLKDHBYNDHH",
+    "VERUNLEFFOTNAP",
+    "DWYDNABMRAZLNU",
+    "LZGADHMVPTSVDL",
+    "TCTUVCENEKCOSL",
+    "CNCMESOHEGIVCO",
+    "ZBNKXRITDGKYHV",
+    "EACPAFTIIKEMUE",
+    "IAUDGEIEECLRHR",
+    "JOLCPFCELIVLVF",
+    "ZYPTWJUUKPVKLM"
+  ],
+  "words": [
+    {
+      "word": "ARMBAND",
+      "row": 5,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "GUERTEL",
+      "row": 6,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "HALSKETTE",
+      "row": 3,
+      "col": 13,
+      "dir": "SW"
+    },
+    {
+      "word": "HANDSCHUH",
+      "row": 3,
+      "col": 12,
+      "dir": "S"
+    },
+    {
+      "word": "HOSE",
+      "row": 8,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "JACKE",
+      "row": 12,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "KLEID",
+      "row": 13,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "PANTOFFELN",
+      "row": 4,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "PULLOVER",
+      "row": 4,
+      "col": 13,
+      "dir": "S"
+    },
+    {
+      "word": "REGENMANTEL",
+      "row": 11,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "SCHAL",
+      "row": 8,
+      "col": 5,
+      "dir": "N"
+    },
+    {
+      "word": "SOCKE",
+      "row": 7,
+      "col": 12,
+      "dir": "W"
+    }
+  ]
+}

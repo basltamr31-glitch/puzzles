@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_036",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 036",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "ARM",
+      "clue": "Limb between the shoulder and the hand",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "answer": "PAPER",
+      "clue": "Thin material used for writing or printing",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "SUGAR",
+      "clue": "Sweet crystalline substance",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "NOSE",
+      "clue": "Body part used for smelling",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "SOUP",
+      "clue": "Warm liquid dish, often with vegetables",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "GOLD",
+      "clue": "Precious yellow metal",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "TIME",
+      "clue": "What clocks measure",
+      "category": "time"
+    }
+  ]
+}

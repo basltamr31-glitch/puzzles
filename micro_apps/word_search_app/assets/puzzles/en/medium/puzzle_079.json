@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_079",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 78,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "BWSNTDEFRJ",
+    "ANHARBORPM",
+    "XMISQAINVJ",
+    "YLPPLCUSZO",
+    "HXKWJKDDZU",
+    "TICEAPBSER",
+    "WAVACATION",
+    "KFXBICYCLE",
+    "XYTICKETNY",
+    "ATCKJGTEIH"
+  ],
+  "words": [
+    {
+      "word": "BACKPACK",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BICYCLE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "HARBOR",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SHIP",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "TICKET",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "VACATION",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

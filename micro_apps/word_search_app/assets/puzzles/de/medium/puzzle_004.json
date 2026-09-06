@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_004",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 3,
+  "theme": "home",
+  "size": 10,
+  "rows": [
+    "MOROPVLVFM",
+    "YEGEOCPFZE",
+    "OFYOGLCTZW",
+    "JEBAKAMINU",
+    "MNUHUMLSGP",
+    "BSDKEPFCAJ",
+    "BTMFCESHRN",
+    "EEMFHGOHTV",
+    "TRBREIFGEU",
+    "GVAMYMAMNK"
+  ],
+  "words": [
+    {
+      "word": "FENSTER",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "GARTEN",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "KAMIN",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "KUECHE",
+      "row": 3,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "LAMPE",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "REGAL",
+      "row": 0,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SOFA",
+      "row": 6,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "TISCH",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

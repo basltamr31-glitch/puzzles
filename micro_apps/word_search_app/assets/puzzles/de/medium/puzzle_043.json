@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_043",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 42,
+  "theme": "nature",
+  "size": 10,
+  "rows": [
+    "ZZKUOBSJIG",
+    "PSFLJALMWZ",
+    "WCZCDUPBMA",
+    "UIHIMMELFW",
+    "EINXVXWALD",
+    "SIUDRDITUI",
+    "TIUPUOETSG",
+    "EXXHMGSSSB",
+    "IZKDUMIBUL",
+    "NCOIVDELXG"
+  ],
+  "words": [
+    {
+      "word": "BAUM",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "BLATT",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "FLUSS",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "HIMMEL",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STEIN",
+      "row": 5,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "WALD",
+      "row": 4,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "WUESTE",
+      "row": 2,
+      "col": 0,
+      "dir": "S"
+    }
+  ]
+}

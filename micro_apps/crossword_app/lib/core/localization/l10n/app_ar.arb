@@ -1,0 +1,146 @@
+{
+  "@@locale": "ar",
+  "appName": "كلمات متقاطعة",
+  "onboardingTitle": "كلمات متقاطعة",
+  "onboardingSubtitle": "ألغاز كلمات متقاطعة قصيرة يمكنك لعبها في أي مكان وفي أي وقت — بدون حساب وبدون إنترنت.",
+  "continueButton": "متابعة",
+  "chooseGameLanguageTitle": "اختر لغة الألغاز",
+  "chooseGameLanguageSubtitle": "هذه هي لغة الأدلة والإجابات. يمكنك تغييرها لاحقًا من الإعدادات.",
+  "chooseDifficultyTitle": "اختر مستوى الصعوبة",
+  "chooseDifficultySubtitle": "يمكنك لعب أي مستوى صعوبة في أي وقت.",
+  "difficultyEasy": "سهل",
+  "difficultyMedium": "متوسط",
+  "difficultyHard": "صعب",
+  "difficultyExpert": "خبير",
+  "puzzleListTitle": "ألغاز {difficulty}",
+  "@puzzleListTitle": {
+    "placeholders": {
+      "difficulty": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleStatusCompleted": "مكتمل",
+  "puzzleStatusInProgress": "قيد التقدم",
+  "puzzleStatusNotStarted": "لم يبدأ",
+  "puzzleStatusLocked": "مقفل",
+  "puzzlesSolvedLabel": "تم حل {solved} من {total}",
+  "@puzzlesSolvedLabel": {
+    "placeholders": {
+      "solved": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "puzzleLockedMessage": "أكمل اللغز السابق لفتح هذا اللغز.",
+  "puzzleNumberLabel": "لغز {number}",
+  "@puzzleNumberLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "noPuzzlesTitle": "لا توجد ألغاز بعد",
+  "noPuzzlesMessage": "ألغاز جديدة لهذا المستوى قادمة قريبًا.",
+  "acrossLabel": "أفقي",
+  "downLabel": "عمودي",
+  "previousClueTooltip": "الدليل السابق",
+  "nextClueTooltip": "الدليل التالي",
+  "hintButton": "تلميح",
+  "hintConfirmTitle": "استخدام تلميح؟",
+  "hintConfirmMessage": "سيؤدي هذا إلى كشف الحرف في الخلية المحددة.",
+  "watchAdForHint": "شاهد فيديو قصيرًا للحصول على تلميح",
+  "checkButton": "تحقق",
+  "restartPuzzleButton": "إعادة البدء",
+  "zoomInButton": "تكبير",
+  "zoomOutButton": "تصغير",
+  "restartConfirmTitle": "إعادة بدء هذا اللغز؟",
+  "restartConfirmMessage": "سيتم مسح تقدمك في هذا اللغز.",
+  "exitPuzzleConfirmTitle": "مغادرة اللغز؟",
+  "exitPuzzleConfirmMessage": "يتم حفظ تقدمك تلقائيًا.",
+  "puzzleCompletedTitle": "اكتمل اللغز!",
+  "puzzleCompletedMessage": "أحسنت! هل أنت مستعد للغز التالي؟",
+  "nextPuzzleButton": "اللغز التالي",
+  "backToPuzzlesButton": "العودة إلى الألغاز",
+  "settingsTitle": "الإعدادات",
+  "settingsUiLanguage": "لغة التطبيق",
+  "settingsGameLanguage": "لغة الألغاز",
+  "settingsAppearance": "المظهر",
+  "themeModeSystem": "النظام",
+  "themeModeLight": "فاتح",
+  "themeModeDark": "داكن",
+  "settingsSound": "المؤثرات الصوتية",
+  "settingsVibration": "الاهتزاز",
+  "settingsMusic": "الموسيقى الخلفية",
+  "musicTrackOff": "إيقاف",
+  "musicTrackCalm": "هادئة",
+  "musicTrackGentle": "لطيفة",
+  "musicTrackUplifting": "منعشة",
+  "musicTrackFocus": "تركيز",
+  "musicTrackBright": "مشرقة",
+  "musicTrackNight": "ليلية",
+  "settingsReminders": "تذكير باللعب",
+  "remindersPermissionDenied": "الإشعارات معطّلة لهذا التطبيق. يمكنك تفعيلها من إعدادات جهازك.",
+  "reminderTitle": "هناك لغز في انتظارك",
+  "reminderBody": "خذ استراحة وحلّ لغزاً — لن يستغرق سوى بضع دقائق.",
+  "settingsTestSound": "اختبار الصوت",
+  "soundTestOk": "تم تشغيل الصوت.",
+  "soundTestFailed": "فشل تشغيل الصوت: {error}",
+  "@soundTestFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsRemoveAds": "إزالة الإعلانات",
+  "settingsRestorePurchases": "استعادة المشتريات",
+  "settingsAdPrivacyOptions": "خيارات خصوصية الإعلانات",
+  "settingsPrivacy": "سياسة الخصوصية",
+  "privacyPolicyViewOnline": "عرض عبر الإنترنت",
+  "settingsAbout": "حول التطبيق",
+  "settingsVersion": "الإصدار {version}",
+  "@settingsVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "removeAdsTitle": "إزالة الإعلانات",
+  "removeAdsDescription": "استمتع بكل لغز بدون إعلانات بانر أو إعلانات بينية — إلى الأبد، بعملية شراء واحدة.",
+  "removeAdsPrice": "١٫٠٠ دولار",
+  "removeAdsPurchaseButton": "شراء — ١٫٠٠ دولار",
+  "removeAdsPurchaseButtonWithPrice": "شراء — {price}",
+  "@removeAdsPurchaseButtonWithPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "musicToggleOn": "تشغيل الموسيقى",
+  "musicToggleOff": "إيقاف الموسيقى",
+  "settingsDeveloper": "المطوّر",
+  "settingsDeveloperName": "BT developer",
+  "settingsCopyright": "© BaLa Dream",
+  "removeAdsAlreadyOwned": "أنت تملك بالفعل إزالة الإعلانات. شكرًا لدعمك!",
+  "purchasePending": "جارٍ معالجة عملية الشراء…",
+  "purchaseError": "تعذر إتمام عملية الشراء. يرجى المحاولة مرة أخرى.",
+  "purchaseStoreUnavailable": "المتجر غير متاح حاليًا. تأكد من تسجيل الدخول ثم حاول مرة أخرى.",
+  "purchaseProductUnavailable": "هذا الشراء غير متاح حاليًا. يرجى المحاولة لاحقًا.",
+  "purchaseCancelled": "تم إلغاء عملية الشراء.",
+  "restoreSuccess": "تمت استعادة مشترياتك.",
+  "restoreNothingFound": "لم يتم العثور على مشتريات سابقة.",
+  "errorGeneric": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+  "errorNoInternet": "أنت غير متصل بالإنترنت. تتطلب هذه الميزة اتصالاً بالإنترنت.",
+  "errorAdUnavailable": "لا يوجد إعلان متاح حاليًا. يرجى المحاولة لاحقًا.",
+  "errorPuzzleMissing": "تعذر تحميل هذا اللغز.",
+  "cancelButton": "إلغاء",
+  "okButton": "موافق",
+  "confirmButton": "تأكيد"
+}

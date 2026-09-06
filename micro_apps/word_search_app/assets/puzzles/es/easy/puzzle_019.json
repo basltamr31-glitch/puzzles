@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_019",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 18,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "CASCADAX",
+    "TBJIQOGA",
+    "LBSEILNV",
+    "YSOLSAJI",
+    "QPYODGHE",
+    "QMIGODON",
+    "ZATNUGKT",
+    "PRADERAO"
+  ],
+  "words": [
+    {
+      "word": "CASCADA",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CIELO",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "MAR",
+      "row": 5,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PRADERA",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SOL",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VIENTO",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

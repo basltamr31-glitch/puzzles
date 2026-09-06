@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_010",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 9,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "WMDWBSOEAJ",
+    "OUKNUMWKYW",
+    "KZKUTRSADO",
+    "MUIATSURIW",
+    "EXKTEJPTOK",
+    "FMEZRSPOBU",
+    "MXKCBOEFNC",
+    "YDSIFINFIH",
+    "FOERDBEERE",
+    "GFOXHUZLMN"
+  ],
+  "words": [
+    {
+      "word": "BUTTER",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KAESE",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "KEKSE",
+      "row": 4,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SUPPE",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    }
+  ]
+}

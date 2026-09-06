@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_082",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 81,
+  "theme": "food",
+  "size": 14,
+  "rows": [
+    "RCLORRHTOBWKYF",
+    "SOVZRZQGJLOYZI",
+    "AWNUCSEGCGRAPE",
+    "ZMVTBLKSDROSIW",
+    "LNITHFPAEPPKAQ",
+    "RSWOYFOBKEOREI",
+    "YKOZTKWEAOHIYV",
+    "NXJETALOCOHCLU",
+    "LCARROTONLJVEE",
+    "JUTTIZFOAREFOT",
+    "DQSUCFWAPJXMWB",
+    "ZHAREQUDPJMAUI",
+    "WZPEDGAJLWTGTT",
+    "OEOPBDSQEZGFBC"
+  ],
+  "words": [
+    {
+      "word": "APPLE",
+      "row": 9,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CARROT",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHEESE",
+      "row": 7,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 7,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "COFFEE",
+      "row": 7,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "COOKIE",
+      "row": 7,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "GRAPE",
+      "row": 2,
+      "col": 9,
+      "dir": "E"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 10,
+      "col": 8,
+      "dir": "N"
+    },
+    {
+      "word": "PASTA",
+      "row": 12,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "POTATO",
+      "row": 10,
+      "col": 8,
+      "dir": "NW"
+    },
+    {
+      "word": "RICE",
+      "row": 8,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "STRAWBERRY",
+      "row": 10,
+      "col": 2,
+      "dir": "NE"
+    }
+  ]
+}

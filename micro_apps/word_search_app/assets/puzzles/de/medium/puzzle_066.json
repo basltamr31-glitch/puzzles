@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_066",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 65,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "KMKFVGJIIV",
+    "ZYAZKKVAYK",
+    "BERDBEEREH",
+    "NRTPFUKVYV",
+    "HKOZPITSPI",
+    "HSFTOMATEY",
+    "CFFGNYIKEN",
+    "XDERIHCLBR",
+    "MELGTBDACP",
+    "SUPPEBEKBH"
+  ],
+  "words": [
+    {
+      "word": "BROT",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "BUTTER",
+      "row": 2,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "KARTOFFEL",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "KEKSE",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "MILCH",
+      "row": 5,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "SUPPE",
+      "row": 9,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TOMATE",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

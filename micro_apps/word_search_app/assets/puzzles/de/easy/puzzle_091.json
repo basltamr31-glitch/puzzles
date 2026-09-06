@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_091",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 90,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "UPBSFZGR",
+    "WALDOAYI",
+    "SFVBXKIW",
+    "KLNWCJWU",
+    "IULWIESE",
+    "ISTRANDS",
+    "TSRKIMBT",
+    "HOKWOLKE"
+  ],
+  "words": [
+    {
+      "word": "FLUSS",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "STRAND",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "WALD",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WIESE",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "WOLKE",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "WUESTE",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

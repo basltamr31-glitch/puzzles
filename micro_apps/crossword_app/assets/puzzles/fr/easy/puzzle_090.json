@@ -1,0 +1,50 @@
+{
+  "id": "fr_easy_090",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 090",
+  "rows": 7,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "FORET",
+      "clue": "Grande étendue couverte d'arbres",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "SEL",
+      "clue": "Assaisonnement blanc qui relève les plats",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "answer": "COULEUR",
+      "clue": "Rouge, bleu, vert ou une autre teinte",
+      "category": "color"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "PIED",
+      "clue": "Partie du corps au bout de la jambe",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "answer": "PORTE",
+      "clue": "Panneau qui s'ouvre pour entrer dans une pièce",
+      "category": "home"
+    }
+  ]
+}

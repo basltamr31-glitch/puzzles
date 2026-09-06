@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_008",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 7,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "RCDVXIVMMZ",
+    "YUEAJUUXZA",
+    "CBATEFODNJ",
+    "CICLISMOCE",
+    "BOXEOANDFD",
+    "PTCTQFOCUR",
+    "NATACIONTE",
+    "JCUICPSCBZ",
+    "BOHMARATON",
+    "HSJZMGGOLO"
+  ],
+  "words": [
+    {
+      "word": "AJEDREZ",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "ATLETA",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "BOXEO",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CICLISMO",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FUTBOL",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "GOL",
+      "row": 9,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "MARATON",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "NATACION",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_013",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 12,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "UNMSOURCIL",
+    "MRRPSQVUQD",
+    "KYVMVEMCYB",
+    "CJCHEVILLE",
+    "KOZRNNFFLP",
+    "GJUDTZTRGA",
+    "BRCDRPBOEU",
+    "JDBSEDGNNL",
+    "RTEIQOFTOE",
+    "PBGRHKCJUD"
+  ],
+  "words": [
+    {
+      "word": "CHEVILLE",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "COUDE",
+      "row": 3,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "EPAULE",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "FRONT",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "GENOU",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "MENTON",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SOURCIL",
+      "row": 0,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VENTRE",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

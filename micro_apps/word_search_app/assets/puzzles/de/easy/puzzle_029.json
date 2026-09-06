@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_029",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 28,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "BAWCELHB",
+    "MUKOPFDW",
+    "FGOBTISE",
+    "FEYAUNXZ",
+    "RZZURGIF",
+    "VOICAEDK",
+    "ZVOHRRKJ",
+    "WGNTMFRW"
+  ],
+  "words": [
+    {
+      "word": "ARM",
+      "row": 5,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "AUGE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "BAUCH",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "FINGER",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "KOPF",
+      "row": 1,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "OHR",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

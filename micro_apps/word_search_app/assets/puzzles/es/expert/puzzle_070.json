@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_070",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 69,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "QXVKLRALLOCZCO",
+    "LBCAPJCPQGNSFI",
+    "CQOEHVICYIIKLH",
+    "NOAQZXGODRETBI",
+    "VMRRPLHXPBSCNQ",
+    "UEEBUFANDAAHQK",
+    "AISZAPATILLASD",
+    "XMLTBTMLCUFQET",
+    "NIULIBAERRUUSE",
+    "SEPSADTVHJTEOK",
+    "PNSSNIOYBYNTSX",
+    "DSPANTALONAAKB",
+    "USSLFVPTHGPKAG",
+    "MNHXPEYZZYFUAE"
+  ],
+  "words": [
+    {
+      "word": "ABRIGO",
+      "row": 5,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "BUFANDA",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "CALCETIN",
+      "row": 4,
+      "col": 11,
+      "dir": "SW"
+    },
+    {
+      "word": "CHAQUETA",
+      "row": 4,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "COLLAR",
+      "row": 0,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CORBATA",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "PANTALON",
+      "row": 11,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "PANTUFLAS",
+      "row": 12,
+      "col": 10,
+      "dir": "N"
+    },
+    {
+      "word": "PULSERA",
+      "row": 9,
+      "col": 2,
+      "dir": "N"
+    },
+    {
+      "word": "SANDALIAS",
+      "row": 12,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "ZAPATILLAS",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

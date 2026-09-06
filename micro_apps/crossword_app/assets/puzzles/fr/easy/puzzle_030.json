@@ -1,0 +1,66 @@
+{
+  "id": "fr_easy_030",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 030",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "ARGENT",
+      "clue": "Métal précieux gris et brillant",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "ILE",
+      "clue": "Terre entièrement entourée d'eau",
+      "category": "place"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "PIED",
+      "clue": "Partie du corps au bout de la jambe",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "CHAMP",
+      "clue": "Terrain ouvert pour les cultures",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "answer": "NUAGE",
+      "clue": "Masse blanche ou grise flottant dans le ciel",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "MAIN",
+      "clue": "Partie du corps au bout du bras",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "answer": "GATEAU",
+      "clue": "Dessert sucré cuit au four",
+      "category": "food"
+    }
+  ]
+}

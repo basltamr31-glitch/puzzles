@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_026",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 25,
+  "theme": "food",
+  "size": 10,
+  "rows": [
+    "QNEMFTIKHC",
+    "DJYPASTELH",
+    "FOTQGNTZCO",
+    "IRLUXQZSCC",
+    "VBEEHMPANO",
+    "QLTSCPKNNL",
+    "LRGOAHTDZA",
+    "EKCEMDEIOT",
+    "AOCMECBANE",
+    "KDPHIOUHNV"
+  ],
+  "words": [
+    {
+      "word": "CHOCOLATE",
+      "row": 0,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "FRESA",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "LECHE",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "MANZANA",
+      "row": 0,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "PAN",
+      "row": 4,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "PASTEL",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "QUESO",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "SANDIA",
+      "row": 3,
+      "col": 7,
+      "dir": "S"
+    }
+  ]
+}

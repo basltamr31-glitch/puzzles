@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_083",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 82,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "MREICALGJRYS",
+    "NAMUWBMTYXWC",
+    "XIGCRQWFKXEI",
+    "PNXVZRFHEVOY",
+    "WUEWIMVHLOKQ",
+    "CQJCIRJRGQRE",
+    "LLTDCXKKSMCP",
+    "PAOCEANMUQZH",
+    "NYOULSTONECU",
+    "FPHQDFERSACT",
+    "FJZAFNIREVIR",
+    "IJKFVYOBTENP"
+  ],
+  "words": [
+    {
+      "word": "BEACH",
+      "row": 11,
+      "col": 7,
+      "dir": "NE"
+    },
+    {
+      "word": "CLOUD",
+      "row": 5,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "DESERT",
+      "row": 6,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "GLACIER",
+      "row": 0,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "OCEAN",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "RIVER",
+      "row": 10,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "STONE",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "SUNSET",
+      "row": 6,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "TREE",
+      "row": 8,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

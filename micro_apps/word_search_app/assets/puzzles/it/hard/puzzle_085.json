@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_085",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 84,
+  "theme": "body",
+  "size": 12,
+  "rows": [
+    "IBYAMSTOMACO",
+    "NGCSCPORBFIZ",
+    "TSXOFAAEOHIV",
+    "RMFULLXCCXVY",
+    "ZPYRZLHCVSHP",
+    "KDITOAOHQYAY",
+    "GCSPGNLIRGEZ",
+    "LNTZIATOUPBL",
+    "OUQGXEMENTOO",
+    "QSIZMODBLORQ",
+    "EDUBQVREACSN",
+    "ULTGPXEHQRDR"
+  ],
+  "words": [
+    {
+      "word": "COLLO",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "DITO",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "FRONTE",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "GAMBA",
+      "row": 6,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "GINOCCHIO",
+      "row": 8,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "MENTO",
+      "row": 8,
+      "col": 6,
+      "dir": "E"
+    },
+    {
+      "word": "ORECCHIO",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PIEDE",
+      "row": 6,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "SPALLA",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "STOMACO",
+      "row": 0,
+      "col": 5,
+      "dir": "E"
+    }
+  ]
+}

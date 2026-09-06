@@ -1,0 +1,98 @@
+{
+  "id": "it_expert_089",
+  "language": "it",
+  "difficulty": "expert",
+  "index": 88,
+  "theme": "animals",
+  "size": 14,
+  "rows": [
+    "XDPTPDUSPKYZSV",
+    "ZYLFQKGIAGXGXM",
+    "QAXCVSNFPQFNZS",
+    "AOCOOGSHROLEIM",
+    "TQNNULKVAPVFDA",
+    "OLLIRDOCCOCVQA",
+    "GPNGFCLTLTPTYR",
+    "LONLILLPTTEUAB",
+    "IDQIBLETNAFELE",
+    "DPPOCXMDDGIERZ",
+    "THTLUHMADIPORK",
+    "FMNLREAMPTMLCF",
+    "KLNSFUCHERISPS",
+    "AURYYLHAYDUZXA"
+  ],
+  "words": [
+    {
+      "word": "CAMMELLO",
+      "row": 12,
+      "col": 6,
+      "dir": "N"
+    },
+    {
+      "word": "COCCODRILLO",
+      "row": 5,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "CONIGLIO",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "DELFINO",
+      "row": 9,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "ELEFANTE",
+      "row": 8,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "GATTO",
+      "row": 9,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "LUPO",
+      "row": 8,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 0,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "SCOIATTOLO",
+      "row": 12,
+      "col": 13,
+      "dir": "NW"
+    },
+    {
+      "word": "TOPO",
+      "row": 6,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "VOLPE",
+      "row": 4,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 9,
+      "col": 13,
+      "dir": "N"
+    }
+  ]
+}

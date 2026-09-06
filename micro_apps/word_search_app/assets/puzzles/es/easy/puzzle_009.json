@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_009",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 8,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "PPDSAFTO",
+    "QCKHVGAD",
+    "PAJCSTQE",
+    "TBKOYKLL",
+    "ARFNHUEF",
+    "CAMELLOI",
+    "UPOJXINN",
+    "QLBOVEJA"
+  ],
+  "words": [
+    {
+      "word": "CABRA",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CAMELLO",
+      "row": 5,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CONEJO",
+      "row": 2,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "DELFIN",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "LEON",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "OVEJA",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

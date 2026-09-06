@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_066",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 65,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "ZBRTZPACYBRY",
+    "BIZZCKPBSEYQ",
+    "CSEPYDUBERGJ",
+    "YCODBLGUHLXS",
+    "SUHFXKPBBBRX",
+    "DIQOIILOMETJ",
+    "ATEPCVXLIUMF",
+    "SYFYIOEPERCJ",
+    "DPCNTNLNLREX",
+    "LDAFROMAGEOA",
+    "KGFIOUNQTZNM",
+    "AJEENXQRMKNJ"
+  ],
+  "words": [
+    {
+      "word": "BEURRE",
+      "row": 4,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CAFE",
+      "row": 8,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 3,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "CITRON",
+      "row": 6,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "CREPE",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 9,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MIEL",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "PAIN",
+      "row": 8,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "POIRE",
+      "row": 4,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

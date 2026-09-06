@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_082",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 81,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "JBQLQLPZAIQA",
+    "LNBMCGTTEKZE",
+    "QOKUARLFCYIR",
+    "HXPAXPAINPDP",
+    "ITALOCOHCOTO",
+    "YDSYSGXMAICD",
+    "POTOMATEMRIH",
+    "FBEURREUVEDI",
+    "NVQKCPTMTTKX",
+    "QPUFYMRIULEY",
+    "HGENANABGTJU",
+    "EMGFZLGMRIHN"
+  ],
+  "words": [
+    {
+      "word": "BANANE",
+      "row": 10,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "BEURRE",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CAFE",
+      "row": 4,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "CHOCOLAT",
+      "row": 4,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "LAIT",
+      "row": 11,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "PAIN",
+      "row": 3,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "PASTEQUE",
+      "row": 3,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "POIRE",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "POMME",
+      "row": 3,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "TOMATE",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

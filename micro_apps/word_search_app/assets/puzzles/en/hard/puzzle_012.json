@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_012",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 11,
+  "theme": "home",
+  "size": 12,
+  "rows": [
+    "DZXJDLZLFYMA",
+    "PIQAOZHIZUAE",
+    "EFDKITCHENWA",
+    "ZYOGEGHSGLEZ",
+    "ZWOPBLANKETQ",
+    "XBRPXCICNDAI",
+    "YARXRMRJGFVQ",
+    "CCEILINGEJTX",
+    "RBATHROOMOYA",
+    "JTAIPRUKUBXQ",
+    "SJRHWOLLIPWM",
+    "VZKFTRSNFIKI"
+  ],
+  "words": [
+    {
+      "word": "BATHROOM",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BLANKET",
+      "row": 4,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "CARPET",
+      "row": 7,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "CEILING",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "CHAIR",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DOOR",
+      "row": 2,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 2,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "MIRROR",
+      "row": 6,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "PILLOW",
+      "row": 10,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "STAIRCASE",
+      "row": 10,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

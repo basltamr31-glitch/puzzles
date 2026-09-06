@@ -1,0 +1,56 @@
+{
+  "id": "es_easy_046",
+  "language": "es",
+  "difficulty": "easy",
+  "index": 45,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "PHMSIIZC",
+    "UDPCPAVO",
+    "LGUANTEL",
+    "SXAJUESL",
+    "ECORBATA",
+    "RRDOBLIR",
+    "ABUFANDA",
+    "ULSBVUOP"
+  ],
+  "words": [
+    {
+      "word": "BUFANDA",
+      "row": 6,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "COLLAR",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "CORBATA",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GUANTE",
+      "row": 2,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PULSERA",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "VESTIDO",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    }
+  ]
+}

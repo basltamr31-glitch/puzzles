@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_008",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 7,
+  "theme": "sports",
+  "size": 12,
+  "rows": [
+    "VDUYWOLRCVPZ",
+    "NPIETEWEEBHS",
+    "VCKOVDPFFLIF",
+    "KSYSOCCERNUS",
+    "XTECLVKRNVHG",
+    "SATHLETEBRUV",
+    "CDZREITEOHXM",
+    "OIUPYHNAXJSK",
+    "IURDBXCGIRNI",
+    "DMARATHONFKZ",
+    "HICVLXWCGYXS",
+    "ZFEKLWMZOBUL"
+  ],
+  "words": [
+    {
+      "word": "ATHLETE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "BOXING",
+      "row": 5,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "CYCLING",
+      "row": 2,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "MARATHON",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "RACE",
+      "row": 8,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "REFEREE",
+      "row": 0,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SOCCER",
+      "row": 3,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "STADIUM",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 6,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "VOLLEYBALL",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

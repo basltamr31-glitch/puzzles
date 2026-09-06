@@ -1,0 +1,70 @@
+{
+  "id": "de_medium_001",
+  "language": "de",
+  "difficulty": "medium",
+  "index": 0,
+  "theme": "animals",
+  "size": 10,
+  "rows": [
+    "YVHSYEKTBR",
+    "XYMKDFUCHS",
+    "ULXARIGOME",
+    "FWJTUGMIDH",
+    "WYDZNSFJEU",
+    "NLOEWEOJLF",
+    "CPYBTRFCFE",
+    "KDKROKODIL",
+    "GPHASEUTNM",
+    "HYVLEFKBCG"
+  ],
+  "words": [
+    {
+      "word": "DELFIN",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "FUCHS",
+      "row": 1,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "HASE",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "KATZE",
+      "row": 1,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "KROKODIL",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LOEWE",
+      "row": 5,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "MAUS",
+      "row": 1,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "ZEBRA",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    }
+  ]
+}

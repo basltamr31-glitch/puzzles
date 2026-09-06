@@ -1,0 +1,50 @@
+{
+  "id": "fr_easy_032",
+  "language": "fr",
+  "difficulty": "easy",
+  "title": "Grille 032",
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "answer": "BLEU",
+      "clue": "Couleur d'un ciel dégagé",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "CHEVAL",
+      "clue": "Grand animal que l'on monte",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "CANARD",
+      "clue": "Oiseau aquatique qui fait coin-coin",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "answer": "BRAS",
+      "clue": "Membre entre l'épaule et la main",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "LAC",
+      "clue": "Grande étendue d'eau entourée de terre",
+      "category": "place"
+    }
+  ]
+}

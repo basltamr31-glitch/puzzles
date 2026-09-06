@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_029",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 28,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "BRACCIOK",
+    "XAUZQFCG",
+    "YDMXYRCV",
+    "ITDITOHN",
+    "RSXGZNIU",
+    "TGMENTOA",
+    "BIQPIEDE",
+    "GVQHVMSZ"
+  ],
+  "words": [
+    {
+      "word": "BRACCIO",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "DITO",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FRONTE",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "MENTO",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "OCCHIO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "PIEDE",
+      "row": 6,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

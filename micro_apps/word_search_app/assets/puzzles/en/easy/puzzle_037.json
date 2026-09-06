@@ -1,0 +1,56 @@
+{
+  "id": "en_easy_037",
+  "language": "en",
+  "difficulty": "easy",
+  "index": 36,
+  "theme": "body",
+  "size": 8,
+  "rows": [
+    "NHANDPIB",
+    "VLEGVZFV",
+    "RHYRDHKP",
+    "EFEARUQX",
+    "YOBXFIMI",
+    "JORCHMQD",
+    "STOMACHO",
+    "WQWOUORP"
+  ],
+  "words": [
+    {
+      "word": "EAR",
+      "row": 3,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "EYEBROW",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "FOOT",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "LEG",
+      "row": 1,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "STOMACH",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ar_easy_072",
+  "language": "ar",
+  "difficulty": "easy",
+  "title": "اللغز 072",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "answer": "دفتر",
+      "clue": "أوراق مربوطة تُستخدم للكتابة",
+      "category": "object"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "answer": "وزير",
+      "clue": "مسؤول رفيع في الحكومة",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "answer": "تفاح",
+      "clue": "فاكهة مستديرة حلوة",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ملح",
+      "clue": "مادة بيضاء تُستخدم لتمليح الطعام",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "answer": "جنوب",
+      "clue": "الجهة المقابلة للشمال",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "answer": "قمر",
+      "clue": "الجرم السماوي الذي يضيء الليل",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "answer": "يوم",
+      "clue": "مدة أربع وعشرين ساعة",
+      "category": "time"
+    }
+  ]
+}

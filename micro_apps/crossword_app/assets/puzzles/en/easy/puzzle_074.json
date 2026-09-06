@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_074",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 074",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "HAND",
+      "clue": "Body part at the end of the arm",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "HONEY",
+      "clue": "Sweet substance made by bees",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "STONE",
+      "clue": "A small piece of rock",
+      "category": "nature"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "SISTER",
+      "clue": "Female sibling",
+      "category": "people"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "DOG",
+      "clue": "Loyal pet known for barking",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "answer": "YEAR",
+      "clue": "A period of twelve months",
+      "category": "time"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "answer": "LAKE",
+      "clue": "A large body of water surrounded by land",
+      "category": "place"
+    }
+  ]
+}

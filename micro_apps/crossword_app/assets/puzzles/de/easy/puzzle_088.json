@@ -1,0 +1,66 @@
+{
+  "id": "de_easy_088",
+  "language": "de",
+  "difficulty": "easy",
+  "title": "Rätsel 088",
+  "rows": 7,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "answer": "WAL",
+      "clue": "Riesiges Meeressäugetier",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "answer": "WOLF",
+      "clue": "Wildtier, verwandt mit dem Hund",
+      "category": "animal"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "answer": "ONKEL",
+      "clue": "Bruder von Mutter oder Vater",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "answer": "BRAUN",
+      "clue": "Farbe von Erde und Schokolade",
+      "category": "color"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "answer": "SCHLAF",
+      "clue": "Ruhe mit geschlossenen Augen",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "FRAU",
+      "clue": "Erwachsene weibliche Person",
+      "category": "people"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "answer": "GLAS",
+      "clue": "Hartes, durchsichtiges Fenstermaterial",
+      "category": "home"
+    }
+  ]
+}

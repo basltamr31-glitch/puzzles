@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_062",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 61,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "PJCGFMPN",
+    "ECHARPEL",
+    "JRANOUVM",
+    "IAPTBLSB",
+    "QVEPELYT",
+    "NAATBEIX",
+    "GTUUOPXS",
+    "TEPKUNNV"
+  ],
+  "words": [
+    {
+      "word": "CHAPEAU",
+      "row": 0,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "CRAVATE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "ECHARPE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GANT",
+      "row": 0,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "PULL",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "ROBE",
+      "row": 1,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

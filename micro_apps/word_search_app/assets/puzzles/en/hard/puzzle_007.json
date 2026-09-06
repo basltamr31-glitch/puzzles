@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_007",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 6,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "CRDVPLFOSHDE",
+    "MSFEEXSBEUWV",
+    "GJYVPDVSDDVL",
+    "NOITANITSEDA",
+    "CULRSCBGHOMQ",
+    "ORLQSTATIONX",
+    "FNFVPFCTPRPS",
+    "JELBOYKYIRLW",
+    "VYNHRYPXAOAK",
+    "WKUYTQAXFBND",
+    "MUHISTCGAWEB",
+    "JUCXIUKCEQPV"
+  ],
+  "words": [
+    {
+      "word": "BACKPACK",
+      "row": 4,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DESTINATION",
+      "row": 3,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PLANE",
+      "row": 6,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "SHIP",
+      "row": 3,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "STATION",
+      "row": 5,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 10,
+      "col": 5,
+      "dir": "NE"
+    },
+    {
+      "word": "VACATION",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 6,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_077",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 76,
+  "theme": "body",
+  "size": 14,
+  "rows": [
+    "DMJFNPNNTONOFJ",
+    "FMEDEDOUIOZTMT",
+    "CETNERFQRZDNXL",
+    "BTPOESTOMAGOJS",
+    "RHUJBIDPURZLCP",
+    "MEAVQIZDYBILTV",
+    "JDOPLGLTNCYEMQ",
+    "SCLLXGLLLUHUIX",
+    "MZAQCIRSOZDCMK",
+    "SEUOOQVRKDTVLP",
+    "LZNELDBCJANJBP",
+    "OAMTDMYCDBOLEZ",
+    "MFXGOEJQYODLLH",
+    "ADAHZNEXRYSIEN"
+  ],
+  "words": [
+    {
+      "word": "BRAZO",
+      "row": 5,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "CODO",
+      "row": 4,
+      "col": 12,
+      "dir": "NW"
+    },
+    {
+      "word": "CUELLO",
+      "row": 8,
+      "col": 11,
+      "dir": "N"
+    },
+    {
+      "word": "DEDO",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ESTOMAGO",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "FRENTE",
+      "row": 2,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "HOMBRO",
+      "row": 13,
+      "col": 3,
+      "dir": "NE"
+    },
+    {
+      "word": "MANO",
+      "row": 12,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "MENTON",
+      "row": 8,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "OREJA",
+      "row": 1,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "RODILLA",
+      "row": 2,
+      "col": 8,
+      "dir": "SW"
+    },
+    {
+      "word": "TOBILLO",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    }
+  ]
+}

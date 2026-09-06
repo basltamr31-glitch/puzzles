@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_003",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 2,
+  "theme": "nature",
+  "size": 8,
+  "rows": [
+    "STRANDHK",
+    "HFKKHSIU",
+    "GVUWCHMA",
+    "PSTDCGMX",
+    "XWUESTER",
+    "ANNEBELG",
+    "AOBLATTY",
+    "AMEERPUE"
+  ],
+  "words": [
+    {
+      "word": "BLATT",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "HIMMEL",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "MEER",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "NEBEL",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "STRAND",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "WUESTE",
+      "row": 4,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

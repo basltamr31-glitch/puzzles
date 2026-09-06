@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_071",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 70,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "AZMIYOETFPUJYD",
+    "QSNGDKJCENVNIN",
+    "IGTDUXZMALETAM",
+    "QFDSBVNUXRBLIY",
+    "EGVTSYKOTCIPTF",
+    "VSNUEINPJHCHES",
+    "KGIHNBARCOIKTX",
+    "KIFVOUEOCFCIRS",
+    "HPVUINMHMNLJOD",
+    "BCDYCHEOTREUPD",
+    "OOPPATSIPOTUAU",
+    "AAUZCJNOICATSE",
+    "GLVIAJEAHGDHAK",
+    "GYGHVHBSNLLQPR"
+  ],
+  "words": [
+    {
+      "word": "AUTOPISTA",
+      "row": 10,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "BARCO",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "BICICLETA",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "COCHE",
+      "row": 5,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "ESTACION",
+      "row": 11,
+      "col": 13,
+      "dir": "W"
+    },
+    {
+      "word": "MALETA",
+      "row": 2,
+      "col": 7,
+      "dir": "E"
+    },
+    {
+      "word": "MOCHILA",
+      "row": 8,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "PASAPORTE",
+      "row": 13,
+      "col": 12,
+      "dir": "N"
+    },
+    {
+      "word": "PUERTO",
+      "row": 9,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "TREN",
+      "row": 4,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "VACACIONES",
+      "row": 13,
+      "col": 4,
+      "dir": "N"
+    },
+    {
+      "word": "VIAJE",
+      "row": 12,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "it_medium_055",
+  "language": "it",
+  "difficulty": "medium",
+  "index": 54,
+  "theme": "travel",
+  "size": 10,
+  "rows": [
+    "VSZCSBAVNC",
+    "RVPBSIUMNP",
+    "MITYIPTSNU",
+    "HAEROPORTO",
+    "FGPAEREOCL",
+    "QGXPNNAVEV",
+    "HICLAFOFYO",
+    "KORZTIRPRF",
+    "QYXRHDTBUN",
+    "KFSHVTYKDG"
+  ],
+  "words": [
+    {
+      "word": "AEREO",
+      "row": 4,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "AEROPORTO",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "AUTO",
+      "row": 0,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "BUS",
+      "row": 0,
+      "col": 5,
+      "dir": "SE"
+    },
+    {
+      "word": "MAPPA",
+      "row": 2,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "NAVE",
+      "row": 5,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "TRENO",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "VIAGGIO",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

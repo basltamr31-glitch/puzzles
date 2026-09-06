@@ -1,0 +1,56 @@
+{
+  "id": "it_easy_078",
+  "language": "it",
+  "difficulty": "easy",
+  "index": 77,
+  "theme": "clothes",
+  "size": 8,
+  "rows": [
+    "GKVQVQCK",
+    "IHLGESNG",
+    "AVSCSODU",
+    "CCINTURA",
+    "CALZINON",
+    "AQKQTBZT",
+    "GPUTOXZO",
+    "USANDALI"
+  ],
+  "words": [
+    {
+      "word": "CALZINO",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CINTURA",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "GIACCA",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "GUANTO",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "SANDALI",
+      "row": 7,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "VESTITO",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    }
+  ]
+}

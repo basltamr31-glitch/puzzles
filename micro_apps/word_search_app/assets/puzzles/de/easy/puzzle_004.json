@@ -1,0 +1,56 @@
+{
+  "id": "de_easy_004",
+  "language": "de",
+  "difficulty": "easy",
+  "index": 3,
+  "theme": "home",
+  "size": 8,
+  "rows": [
+    "IFFTKZXJ",
+    "TEPPICHW",
+    "ANDISTME",
+    "SSXYSOFA",
+    "STTUERTB",
+    "EEFJNYDA",
+    "GRXEKXMU",
+    "ZBRIEAMA"
+  ],
+  "words": [
+    {
+      "word": "FENSTER",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "KISSEN",
+      "row": 0,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 3,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "TASSE",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TEPPICH",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "TUER",
+      "row": 4,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

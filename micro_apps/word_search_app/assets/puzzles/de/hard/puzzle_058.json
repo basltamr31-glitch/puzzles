@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_058",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 57,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "BRXNMBYCFGEZ",
+    "USZILUMVPMNK",
+    "THJVYOUDBIUD",
+    "TOTENANABLTY",
+    "ENORTIZYHCCL",
+    "RIEDALOKOHCS",
+    "DGRBBYIMJDBJ",
+    "LRLEEFFAKALU",
+    "JONEHCUKPJZO",
+    "YOVRZTCNHFDD",
+    "ENJETOYFFXEX",
+    "WILOICYOUMXL"
+  ],
+  "words": [
+    {
+      "word": "APFEL",
+      "row": 7,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "BANANE",
+      "row": 3,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "BUTTER",
+      "row": 0,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "ERDBEERE",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "HONIG",
+      "row": 2,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "KAFFEE",
+      "row": 7,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "KUCHEN",
+      "row": 8,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "MILCH",
+      "row": 1,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "SCHOKOLADE",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "ZITRONE",
+      "row": 4,
+      "col": 6,
+      "dir": "W"
+    }
+  ]
+}

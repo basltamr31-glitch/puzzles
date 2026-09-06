@@ -1,0 +1,84 @@
+{
+  "id": "de_hard_083",
+  "language": "de",
+  "difficulty": "hard",
+  "index": 82,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "VRPZADXXUDKI",
+    "MBWGLNVPAANW",
+    "AYKUDMUABNYN",
+    "KRITOGFXLEVO",
+    "MESSULFCABUS",
+    "ERFREHCSTELG",
+    "PSIMERHETLKB",
+    "PNMNUGMSSVAY",
+    "NITSLBERGWNV",
+    "HFYVEUPNGBNS",
+    "WZJKWTHUSYDK",
+    "MXYGUKYXFSSU"
+  ],
+  "words": [
+    {
+      "word": "BAUM",
+      "row": 2,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "BERG",
+      "row": 8,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "BLATT",
+      "row": 2,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "FLUSS",
+      "row": 4,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "GLETSCHER",
+      "row": 5,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "HIMMEL",
+      "row": 9,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "NEBEL",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "REGEN",
+      "row": 5,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "VULKAN",
+      "row": 3,
+      "col": 10,
+      "dir": "S"
+    },
+    {
+      "word": "WUESTE",
+      "row": 10,
+      "col": 4,
+      "dir": "NE"
+    }
+  ]
+}

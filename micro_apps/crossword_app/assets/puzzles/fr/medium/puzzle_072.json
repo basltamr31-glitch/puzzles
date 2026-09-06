@@ -1,0 +1,73 @@
+{
+  "id": "fr_medium_072",
+  "language": "fr",
+  "difficulty": "medium",
+  "title": "Grille 072",
+  "rows": 10,
+  "cols": 10,
+  "words": [
+    {
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "answer": "CHATEAU",
+      "clue": "Grand bâtiment fortifié, demeure de la noblesse"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "answer": "HOPITAL",
+      "clue": "Lieu où l'on soigne les malades"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "ECRIVAIN",
+      "clue": "Personne qui crée des livres"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "answer": "MUSIQUE",
+      "clue": "Son organisé, souvent avec mélodie et rythme"
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "answer": "FENETRE",
+      "clue": "Ouverture vitrée qui laisse entrer la lumière"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "answer": "CHEVALIER",
+      "clue": "Guerrier médiéval en armure à cheval"
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "answer": "TYPE",
+      "clue": "Une catégorie ou sorte de quelque chose"
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "answer": "GARE",
+      "clue": "Arrêt pour les trains"
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "answer": "TAILLE",
+      "clue": "La grandeur ou petitesse de quelque chose"
+    }
+  ]
+}

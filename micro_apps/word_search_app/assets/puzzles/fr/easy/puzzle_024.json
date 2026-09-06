@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_024",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 23,
+  "theme": "sports",
+  "size": 8,
+  "rows": [
+    "UPKVKSVX",
+    "ATHLETER",
+    "KEOIHACK",
+    "TNCGNDHZ",
+    "NNKCGEEJ",
+    "XIEXUGCQ",
+    "XSYNFISB",
+    "MVRBUTHL"
+  ],
+  "words": [
+    {
+      "word": "ATHLETE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "BUT",
+      "row": 7,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "ECHECS",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 1,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "STADE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "TENNIS",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    }
+  ]
+}

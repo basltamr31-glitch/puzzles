@@ -1,0 +1,66 @@
+{
+  "id": "en_easy_020",
+  "language": "en",
+  "difficulty": "easy",
+  "title": "Puzzle 020",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "answer": "DOG",
+      "clue": "Loyal pet known for barking",
+      "category": "animal"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "answer": "WIND",
+      "clue": "Moving air",
+      "category": "nature"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "ISLAND",
+      "clue": "Land completely surrounded by water",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "answer": "DOOR",
+      "clue": "Panel that swings open to enter a room",
+      "category": "home"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "answer": "MEAT",
+      "clue": "Animal flesh eaten as food",
+      "category": "food"
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "answer": "JUMP",
+      "clue": "To spring off the ground",
+      "category": "action"
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "answer": "BIRD",
+      "clue": "Feathered animal that can usually fly",
+      "category": "animal"
+    }
+  ]
+}

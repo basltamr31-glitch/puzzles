@@ -1,0 +1,98 @@
+{
+  "id": "fr_expert_055",
+  "language": "fr",
+  "difficulty": "expert",
+  "index": 54,
+  "theme": "travel",
+  "size": 14,
+  "rows": [
+    "HMDZVZTJYNYCVH",
+    "SXJHBKIVONTNHJ",
+    "AMAEHBIZJJBFVU",
+    "CBZTUFOSUVMXMT",
+    "ATUEORABOHADXF",
+    "DUYGPZGIZKGCGJ",
+    "OCTUFVTYTXMNPC",
+    "SCIOOUFBCTEKMM",
+    "MGTYROBQAXGYFK",
+    "ZAAEROPORTFGXS",
+    "BGXRLIUVTYEJKE",
+    "EMIEELLTEDBAUL",
+    "ZCVVALISEFNSUK",
+    "TVKBKSLBTRQQFR"
+  ],
+  "words": [
+    {
+      "word": "AEROPORT",
+      "row": 9,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "AUTOROUTE",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "BATEAU",
+      "row": 7,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "BILLET",
+      "row": 13,
+      "col": 7,
+      "dir": "NW"
+    },
+    {
+      "word": "CARTE",
+      "row": 7,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "GARE",
+      "row": 8,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "SACADOS",
+      "row": 1,
+      "col": 0,
+      "dir": "S"
+    },
+    {
+      "word": "TAXI",
+      "row": 8,
+      "col": 2,
+      "dir": "S"
+    },
+    {
+      "word": "VALISE",
+      "row": 12,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "VELO",
+      "row": 12,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "VOITURE",
+      "row": 3,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 6,
+      "col": 5,
+      "dir": "SW"
+    }
+  ]
+}

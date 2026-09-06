@@ -1,0 +1,84 @@
+{
+  "id": "en_hard_074",
+  "language": "en",
+  "difficulty": "hard",
+  "index": 73,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "OTZOMBDAAZLS",
+    "WCMPUOSUNFPI",
+    "WHWGTJLVWEMM",
+    "IORANGEJXQXS",
+    "FCMIWHMITSDW",
+    "EONZCZOMHOGN",
+    "TLCESENNPEOK",
+    "GAYSPHEENVER",
+    "STORRACMDFOQ",
+    "RETTUBSHJSHH",
+    "BKVZPTRTHHUA",
+    "UKCXFNEKACCQ"
+  ],
+  "words": [
+    {
+      "word": "BUTTER",
+      "row": 9,
+      "col": 5,
+      "dir": "W"
+    },
+    {
+      "word": "CAKE",
+      "row": 11,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CARROT",
+      "row": 8,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 1,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "LEMON",
+      "row": 2,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ORANGE",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PASTA",
+      "row": 7,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "RICE",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "SOUP",
+      "row": 1,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "TOMATO",
+      "row": 6,
+      "col": 0,
+      "dir": "NE"
+    }
+  ]
+}

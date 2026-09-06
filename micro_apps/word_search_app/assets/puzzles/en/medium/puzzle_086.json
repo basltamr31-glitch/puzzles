@@ -1,0 +1,70 @@
+{
+  "id": "en_medium_086",
+  "language": "en",
+  "difficulty": "medium",
+  "index": 85,
+  "theme": "clothes",
+  "size": 10,
+  "rows": [
+    "DPUORDBDVV",
+    "NGJVDBSSFD",
+    "UGLSGRNTYP",
+    "DEBOOAEWKU",
+    "MPHQVCASIT",
+    "OYNXDEKFST",
+    "KXQHCLEHEH",
+    "SLIPPERSHY",
+    "DSGTXTSBAS",
+    "LRAINCOATS"
+  ],
+  "words": [
+    {
+      "word": "BRACELET",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "DRESS",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "GLOVE",
+      "row": 1,
+      "col": 1,
+      "dir": "SE"
+    },
+    {
+      "word": "HAT",
+      "row": 7,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "RAINCOAT",
+      "row": 9,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "SLIPPERS",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "SNEAKERS",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "SOCK",
+      "row": 2,
+      "col": 3,
+      "dir": "SE"
+    }
+  ]
+}

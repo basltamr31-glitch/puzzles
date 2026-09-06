@@ -1,0 +1,98 @@
+{
+  "id": "de_expert_078",
+  "language": "de",
+  "difficulty": "expert",
+  "index": 77,
+  "theme": "clothes",
+  "size": 14,
+  "rows": [
+    "XYBUSMJHTLRVPD",
+    "HJOXYDEABSZPPI",
+    "XVOEZNSDRNVYLL",
+    "ZHKKUWJEIMHEHX",
+    "PKMVPFKMIEBASW",
+    "SUNGARGAUWLAEW",
+    "XMLANCUNWSNKNT",
+    "SZNLTNETKDCEUD",
+    "CWHROOREAOMHXB",
+    "BDGAFVTLSAXSAR",
+    "APTVFTEOIOAABL",
+    "IEBGENLRHGHLAV",
+    "ZEMJLRULXIPIRS",
+    "ATURNSCHUHEDYL"
+  ],
+  "words": [
+    {
+      "word": "ARMBAND",
+      "row": 1,
+      "col": 7,
+      "dir": "SE"
+    },
+    {
+      "word": "GUERTEL",
+      "row": 5,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "HALSKETTE",
+      "row": 3,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "HOSE",
+      "row": 11,
+      "col": 10,
+      "dir": "NW"
+    },
+    {
+      "word": "KLEID",
+      "row": 6,
+      "col": 11,
+      "dir": "NW"
+    },
+    {
+      "word": "MANTEL",
+      "row": 4,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PANTOFFELN",
+      "row": 4,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "PULLOVER",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "SANDALEN",
+      "row": 4,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "SCHAL",
+      "row": 6,
+      "col": 9,
+      "dir": "SE"
+    },
+    {
+      "word": "SOCKE",
+      "row": 9,
+      "col": 8,
+      "dir": "NE"
+    },
+    {
+      "word": "TURNSCHUHE",
+      "row": 13,
+      "col": 1,
+      "dir": "E"
+    }
+  ]
+}

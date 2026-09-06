@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_018",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 17,
+  "theme": "food",
+  "size": 12,
+  "rows": [
+    "XYAIGANCDMTX",
+    "YGNIHDMVDOFD",
+    "MUCAFFEEVFFN",
+    "SYRTREHYEOUI",
+    "ZEYYAANGURIA",
+    "PBUYGYXFXMNN",
+    "CQCIOCCOLATO",
+    "AYOILIFPNGVB",
+    "TORTAAMAOGXA",
+    "KKCCTSBNKIKH",
+    "GKTOTRIKPOBL",
+    "BYBNELEIMMRK"
+  ],
+  "words": [
+    {
+      "word": "ANGURIA",
+      "row": 4,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "BANANA",
+      "row": 9,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "CAFFE",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CIOCCOLATO",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "FORMAGGIO",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "FRAGOLA",
+      "row": 2,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "LATTE",
+      "row": 7,
+      "col": 4,
+      "dir": "S"
+    },
+    {
+      "word": "MIELE",
+      "row": 11,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "PERA",
+      "row": 5,
+      "col": 0,
+      "dir": "NE"
+    },
+    {
+      "word": "TORTA",
+      "row": 8,
+      "col": 0,
+      "dir": "E"
+    }
+  ]
+}

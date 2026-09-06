@@ -1,0 +1,84 @@
+{
+  "id": "fr_hard_031",
+  "language": "fr",
+  "difficulty": "hard",
+  "index": 30,
+  "theme": "travel",
+  "size": 12,
+  "rows": [
+    "GZIFYGMUFTDC",
+    "IUBMZTVSUIJJ",
+    "RAYVPUOOXFUL",
+    "MVCVPDIAYGEP",
+    "BAOAAETPCAJO",
+    "XLXCRFUEPJGV",
+    "ZIAADTROPMBE",
+    "ASGNLQECIRHL",
+    "XETCLRUBUVLO",
+    "JXMEBSZMIKND",
+    "ISYSDDGJJLBP",
+    "UEFKTQLHGISC"
+  ],
+  "words": [
+    {
+      "word": "CARTE",
+      "row": 3,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "GARE",
+      "row": 7,
+      "col": 2,
+      "dir": "NE"
+    },
+    {
+      "word": "PORT",
+      "row": 6,
+      "col": 8,
+      "dir": "W"
+    },
+    {
+      "word": "SACADOS",
+      "row": 7,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "TAXI",
+      "row": 4,
+      "col": 6,
+      "dir": "NE"
+    },
+    {
+      "word": "VACANCES",
+      "row": 3,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "VALISE",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "VELO",
+      "row": 5,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "VOITURE",
+      "row": 1,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "VOYAGE",
+      "row": 1,
+      "col": 6,
+      "dir": "SE"
+    }
+  ]
+}

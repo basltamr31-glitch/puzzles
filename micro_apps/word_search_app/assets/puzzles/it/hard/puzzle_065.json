@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_065",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 64,
+  "theme": "animals",
+  "size": 12,
+  "rows": [
+    "MXGGMPDNUBLU",
+    "CMZRYAEFVKQI",
+    "ALAIHACPGPXI",
+    "DTRQXEPEQIFL",
+    "GGXPUDRCSNHZ",
+    "CAERGITOPGMM",
+    "SGTXYLLRQUNU",
+    "NSITAFFARIGK",
+    "UORSOILGINOC",
+    "YIPPXNAENOEL",
+    "FGUBIHVHUGQL",
+    "ULUDHDATADLX"
+  ],
+  "words": [
+    {
+      "word": "AQUILA",
+      "row": 2,
+      "col": 2,
+      "dir": "SE"
+    },
+    {
+      "word": "CONIGLIO",
+      "row": 8,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "GATTO",
+      "row": 4,
+      "col": 0,
+      "dir": "SE"
+    },
+    {
+      "word": "GIRAFFA",
+      "row": 7,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "LEONE",
+      "row": 9,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "LUPO",
+      "row": 11,
+      "col": 1,
+      "dir": "NE"
+    },
+    {
+      "word": "ORSO",
+      "row": 8,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PECORA",
+      "row": 2,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PINGUINO",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "TIGRE",
+      "row": 5,
+      "col": 6,
+      "dir": "W"
+    }
+  ]
+}

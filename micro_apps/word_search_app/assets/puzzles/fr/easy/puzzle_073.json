@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_073",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 72,
+  "theme": "animals",
+  "size": 8,
+  "rows": [
+    "YLIONAUL",
+    "MUXZEBRE",
+    "BPCHIENH",
+    "DAUPHINN",
+    "QQAIELCD",
+    "BJRJPLGA",
+    "GIRAFEVV",
+    "BDOEFSKN"
+  ],
+  "words": [
+    {
+      "word": "ABEILLE",
+      "row": 0,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CHIEN",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "DAUPHIN",
+      "row": 3,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "GIRAFE",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "LION",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "ZEBRE",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    }
+  ]
+}

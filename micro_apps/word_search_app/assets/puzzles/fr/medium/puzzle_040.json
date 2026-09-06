@@ -1,0 +1,70 @@
+{
+  "id": "fr_medium_040",
+  "language": "fr",
+  "difficulty": "medium",
+  "index": 39,
+  "theme": "sports",
+  "size": 10,
+  "rows": [
+    "EQUIPEEHYT",
+    "KVBZQKJCFV",
+    "SQHOCKEYLM",
+    "ABNENKZCLO",
+    "FOOTBALLDT",
+    "YXNATATION",
+    "NEECHECSCN",
+    "BLAZDEUMPJ",
+    "BFAATHLETE",
+    "LGJUYAUAET"
+  ],
+  "words": [
+    {
+      "word": "ATHLETE",
+      "row": 8,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "BOXE",
+      "row": 3,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CYCLISME",
+      "row": 1,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "ECHECS",
+      "row": 6,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "EQUIPE",
+      "row": 0,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FOOTBALL",
+      "row": 4,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "NATATION",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

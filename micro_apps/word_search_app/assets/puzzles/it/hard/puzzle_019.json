@@ -1,0 +1,84 @@
+{
+  "id": "it_hard_019",
+  "language": "it",
+  "difficulty": "hard",
+  "index": 18,
+  "theme": "nature",
+  "size": 12,
+  "rows": [
+    "VRXEOMRQUXIP",
+    "YEFXFIVRZMUA",
+    "HMNUVOLAOGTN",
+    "BNFTNTGHHSSB",
+    "ZMBXOTHLCPZI",
+    "YSDEMUIFIIPG",
+    "MBIFQMAREABF",
+    "UXOASBCFLGNK",
+    "XRMPTKCOOGRF",
+    "CBALOSICMIRQ",
+    "ONELABOCRALE",
+    "GPAIZYSPUUGM"
+  ],
+  "words": [
+    {
+      "word": "ARCOBALENO",
+      "row": 10,
+      "col": 9,
+      "dir": "W"
+    },
+    {
+      "word": "CIELO",
+      "row": 4,
+      "col": 8,
+      "dir": "S"
+    },
+    {
+      "word": "FIUME",
+      "row": 5,
+      "col": 7,
+      "dir": "W"
+    },
+    {
+      "word": "FOGLIA",
+      "row": 1,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "GHIACCIO",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "ISOLA",
+      "row": 9,
+      "col": 6,
+      "dir": "W"
+    },
+    {
+      "word": "MARE",
+      "row": 6,
+      "col": 5,
+      "dir": "E"
+    },
+    {
+      "word": "NUVOLA",
+      "row": 2,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "SPIAGGIA",
+      "row": 3,
+      "col": 9,
+      "dir": "S"
+    },
+    {
+      "word": "VENTO",
+      "row": 0,
+      "col": 0,
+      "dir": "SE"
+    }
+  ]
+}

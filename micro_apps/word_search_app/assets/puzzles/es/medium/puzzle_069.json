@@ -1,0 +1,70 @@
+{
+  "id": "es_medium_069",
+  "language": "es",
+  "difficulty": "medium",
+  "index": 68,
+  "theme": "body",
+  "size": 10,
+  "rows": [
+    "MRODILLARH",
+    "PSXPIERNAA",
+    "YBZKPSPTKT",
+    "YUQSBTYLKO",
+    "UBQCEOBPDB",
+    "SRGUAMBZTI",
+    "CABEZAQDYL",
+    "FZBLPGVTAL",
+    "IOFLHOMBRO",
+    "OHSOVINCUI"
+  ],
+  "words": [
+    {
+      "word": "BRAZO",
+      "row": 4,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "CABEZA",
+      "row": 6,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "CUELLO",
+      "row": 4,
+      "col": 3,
+      "dir": "S"
+    },
+    {
+      "word": "ESTOMAGO",
+      "row": 1,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "HOMBRO",
+      "row": 8,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "PIERNA",
+      "row": 1,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "RODILLA",
+      "row": 0,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "TOBILLO",
+      "row": 2,
+      "col": 9,
+      "dir": "S"
+    }
+  ]
+}

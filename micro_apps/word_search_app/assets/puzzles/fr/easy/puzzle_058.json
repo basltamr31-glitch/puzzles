@@ -1,0 +1,56 @@
+{
+  "id": "fr_easy_058",
+  "language": "fr",
+  "difficulty": "easy",
+  "index": 57,
+  "theme": "food",
+  "size": 8,
+  "rows": [
+    "MFHAPIPP",
+    "CREPEYEQ",
+    "ZOIGZCGJ",
+    "JMIELIVQ",
+    "RACTVTRB",
+    "SGBEURRE",
+    "QEHSOORH",
+    "FBPAINQX"
+  ],
+  "words": [
+    {
+      "word": "BEURRE",
+      "row": 5,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "CITRON",
+      "row": 2,
+      "col": 5,
+      "dir": "S"
+    },
+    {
+      "word": "CREPE",
+      "row": 1,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "FROMAGE",
+      "row": 0,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "MIEL",
+      "row": 3,
+      "col": 1,
+      "dir": "E"
+    },
+    {
+      "word": "PAIN",
+      "row": 7,
+      "col": 2,
+      "dir": "E"
+    }
+  ]
+}

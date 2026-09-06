@@ -1,0 +1,98 @@
+{
+  "id": "es_expert_084",
+  "language": "es",
+  "difficulty": "expert",
+  "index": 83,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "YZAJCZDARGXFEL",
+    "KVPPXFYISBXZNZ",
+    "MTIDGUEGOOPLIY",
+    "IMBZAJUBHMZVEG",
+    "LOVICAKRGLYSJU",
+    "RZBOLJOITOLIGY",
+    "EMXPCQCHHASLGI",
+    "DGIDAHMORGZLMI",
+    "TCJARDINCPEAOZ",
+    "LOHKALVMUISMFS",
+    "KNVSBEKEEONPBO",
+    "IVLKQARSFNEAQK",
+    "AYBLETNATSERRB",
+    "HQJJALFOMBRAKG"
+  ],
+  "words": [
+    {
+      "word": "ALFOMBRA",
+      "row": 13,
+      "col": 4,
+      "dir": "E"
+    },
+    {
+      "word": "BANO",
+      "row": 10,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "CHIMENEA",
+      "row": 6,
+      "col": 4,
+      "dir": "SE"
+    },
+    {
+      "word": "COCINA",
+      "row": 6,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "ESTANTE",
+      "row": 12,
+      "col": 10,
+      "dir": "W"
+    },
+    {
+      "word": "JARDIN",
+      "row": 8,
+      "col": 2,
+      "dir": "E"
+    },
+    {
+      "word": "LAMPARA",
+      "row": 7,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "MESA",
+      "row": 9,
+      "col": 7,
+      "dir": "S"
+    },
+    {
+      "word": "PUERTA",
+      "row": 8,
+      "col": 9,
+      "dir": "SW"
+    },
+    {
+      "word": "SILLA",
+      "row": 4,
+      "col": 11,
+      "dir": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 9,
+      "col": 10,
+      "dir": "SW"
+    },
+    {
+      "word": "TAZA",
+      "row": 5,
+      "col": 8,
+      "dir": "SE"
+    }
+  ]
+}

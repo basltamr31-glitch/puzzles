@@ -1,0 +1,98 @@
+{
+  "id": "en_expert_044",
+  "language": "en",
+  "difficulty": "expert",
+  "index": 43,
+  "theme": "home",
+  "size": 14,
+  "rows": [
+    "OSHSVESWUPQLSA",
+    "AGJATWLFGEAQGL",
+    "CZMBKMHJSCTOGM",
+    "NEXESACRIATSTX",
+    "XUJSLZUFILQVGY",
+    "ZGBLAMPTEPRACM",
+    "HTWBICBWOEVHYX",
+    "GARDENOFVRAWMM",
+    "YBCSLDARDIZLHU",
+    "QLPQNJRMRFEUCD",
+    "HEAIELDOLPBWJN",
+    "MSWKJTXEOYFPAL",
+    "APLJUJISSMSBVN",
+    "RLOQOCXTPKJFYT"
+  ],
+  "words": [
+    {
+      "word": "BEDROOM",
+      "row": 6,
+      "col": 3,
+      "dir": "SE"
+    },
+    {
+      "word": "CARPET",
+      "row": 5,
+      "col": 12,
+      "dir": "W"
+    },
+    {
+      "word": "CHAIR",
+      "row": 5,
+      "col": 12,
+      "dir": "SW"
+    },
+    {
+      "word": "CUPBOARD",
+      "row": 3,
+      "col": 6,
+      "dir": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 10,
+      "col": 6,
+      "dir": "SE"
+    },
+    {
+      "word": "FIREPLACE",
+      "row": 9,
+      "col": 9,
+      "dir": "N"
+    },
+    {
+      "word": "GARDEN",
+      "row": 7,
+      "col": 0,
+      "dir": "E"
+    },
+    {
+      "word": "HALLWAY",
+      "row": 2,
+      "col": 6,
+      "dir": "SW"
+    },
+    {
+      "word": "LAMP",
+      "row": 5,
+      "col": 3,
+      "dir": "E"
+    },
+    {
+      "word": "STAIRCASE",
+      "row": 3,
+      "col": 11,
+      "dir": "W"
+    },
+    {
+      "word": "TABLE",
+      "row": 6,
+      "col": 1,
+      "dir": "S"
+    },
+    {
+      "word": "WINDOW",
+      "row": 11,
+      "col": 2,
+      "dir": "NE"
+    }
+  ]
+}

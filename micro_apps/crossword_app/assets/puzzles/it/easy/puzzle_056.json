@@ -1,0 +1,58 @@
+{
+  "id": "it_easy_056",
+  "language": "it",
+  "difficulty": "easy",
+  "title": "Cruciverba 056",
+  "rows": 6,
+  "cols": 7,
+  "words": [
+    {
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "answer": "SALE",
+      "clue": "Condimento bianco che rende saporito il cibo",
+      "category": "food"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "answer": "CUORE",
+      "clue": "Organo che pompa il sangue nel corpo",
+      "category": "body"
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "answer": "PENNA",
+      "clue": "Strumento per scrivere con inchiostro",
+      "category": "object"
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "answer": "MARE",
+      "clue": "Grande distesa d'acqua salata",
+      "category": "place"
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "answer": "GAMBA",
+      "clue": "Arto usato per camminare",
+      "category": "body"
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "answer": "RE",
+      "clue": "Sovrano maschile di un regno",
+      "category": "people"
+    }
+  ]
+}
