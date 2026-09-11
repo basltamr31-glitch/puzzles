@@ -1,0 +1,326 @@
+{
+  "@@locale": "en",
+  "appName": "Memory Match",
+  "onboardingTitle": "Memory Match",
+  "onboardingSubtitle": "Turn the cards over and find every pair — 400 boards, no account, no internet required.",
+  "continueButton": "Continue",
+  "chooseDifficultyTitle": "Choose a difficulty",
+  "chooseDifficultySubtitle": "You can play any difficulty at any time.",
+  "difficultyEasy": "Easy",
+  "difficultyMedium": "Medium",
+  "difficultyHard": "Hard",
+  "difficultyExpert": "Expert",
+  "puzzleListTitle": "{difficulty} Puzzles",
+  "@puzzleListTitle": {
+    "placeholders": {
+      "difficulty": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleStatusCompleted": "Completed",
+  "puzzleStatusInProgress": "In progress",
+  "puzzleStatusNotStarted": "Not started",
+  "puzzleStatusLocked": "Locked",
+  "puzzleLockedMessage": "Solve the previous puzzle to unlock this one.",
+  "puzzleNumberLabel": "Puzzle {number}",
+  "@puzzleNumberLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzlesSolvedLabel": "{solved} of {total} solved",
+  "@puzzlesSolvedLabel": {
+    "placeholders": {
+      "solved": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "noPuzzlesTitle": "No puzzles yet",
+  "noPuzzlesMessage": "New puzzles for this difficulty are on the way.",
+  "cellSemanticLabel": "Row {row}, column {column}",
+  "@cellSemanticLabel": {
+    "placeholders": {
+      "row": {
+        "type": "int"
+      },
+      "column": {
+        "type": "int"
+      }
+    }
+  },
+  "hintButton": "Hint",
+  "hintConfirmTitle": "Use a hint?",
+  "hintConfirmMessage": "This will match one pair for you.",
+  "watchAdForHint": "Watch a short video to get one hint",
+  "restartPuzzleButton": "Restart",
+  "restartConfirmTitle": "Restart this puzzle?",
+  "restartConfirmMessage": "Your progress on this puzzle will be cleared.",
+  "puzzleCompletedTitle": "Puzzle complete!",
+  "puzzleCompletedTime": "Solved in {time}",
+  "@puzzleCompletedTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "nextPuzzleButton": "Next puzzle",
+  "backToPuzzlesButton": "Back to puzzles",
+  "settingsTitle": "Settings",
+  "settingsUiLanguage": "App language",
+  "settingsAppearance": "Appearance",
+  "themeModeSystem": "System",
+  "themeModeLight": "Light",
+  "themeModeDark": "Dark",
+  "settingsSound": "Sound effects",
+  "settingsVibration": "Vibration",
+  "settingsMusic": "Background music",
+  "musicTrackOff": "Off",
+  "musicTrackCalm": "Calm",
+  "musicTrackGentle": "Gentle",
+  "musicTrackUplifting": "Uplifting",
+  "musicTrackFocus": "Focus",
+  "musicTrackBright": "Bright",
+  "musicTrackNight": "Night",
+  "settingsReminders": "Play reminders",
+  "remindersPermissionDenied": "Notifications are turned off for this app. You can enable them in your device settings.",
+  "reminderTitle": "A puzzle is waiting",
+  "reminderBody": "Take a break and solve one — it only takes a few minutes.",
+  "settingsTestSound": "Test sound",
+  "soundTestOk": "Sound played.",
+  "soundTestFailed": "Sound failed: {error}",
+  "@soundTestFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsRemoveAds": "Remove ads",
+  "settingsRestorePurchases": "Restore purchases",
+  "settingsAdPrivacyOptions": "Ad privacy options",
+  "settingsPrivacy": "Privacy policy",
+  "privacyPolicyViewOnline": "View online",
+  "settingsAbout": "About",
+  "settingsVersion": "Version {version}",
+  "@settingsVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "removeAdsTitle": "Remove Ads",
+  "removeAdsDescription": "Enjoy every puzzle with no banner or interstitial ads — forever, with one purchase.",
+  "removeAdsPrice": "$1.00",
+  "removeAdsPurchaseButton": "Purchase — $1.00",
+  "removeAdsPurchaseButtonWithPrice": "Purchase — {price}",
+  "@removeAdsPurchaseButtonWithPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "musicToggleOn": "Turn music on",
+  "musicToggleOff": "Turn music off",
+  "settingsDeveloper": "Developer",
+  "settingsDeveloperName": "BT developer",
+  "settingsCopyright": "© BaLa Dream",
+  "removeAdsAlreadyOwned": "You already own Remove Ads. Thank you for your support!",
+  "purchasePending": "Your purchase is being processed…",
+  "purchaseError": "The purchase couldn't be completed. Please try again.",
+  "purchaseStoreUnavailable": "The store isn't available right now. Check that you're signed in and try again.",
+  "purchaseProductUnavailable": "This purchase isn't available right now. Please try again later.",
+  "purchaseCancelled": "Purchase cancelled.",
+  "restoreSuccess": "Your purchases have been restored.",
+  "restoreNothingFound": "No previous purchases were found.",
+  "errorGeneric": "Something went wrong. Please try again.",
+  "errorNoInternet": "You're offline. This feature needs an internet connection.",
+  "errorAdUnavailable": "No ad is available right now. Please try again later.",
+  "errorPuzzleMissing": "This puzzle couldn't be loaded.",
+  "cancelButton": "Cancel",
+  "okButton": "OK",
+  "confirmButton": "Confirm",
+  "mistakesLabel": "Mistakes",
+  "livesRemaining": "{remaining} of {max} lives left",
+  "@livesRemaining": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "outOfLivesTitle": "Out of lives",
+  "outOfLivesMessage": "That is {max} mistakes. Start this puzzle again to have another go.",
+  "@outOfLivesMessage": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "outOfLivesTryAgain": "Try again",
+  "rewardHeadlineFlawless": "Flawless!",
+  "rewardHeadlineGreat": "Great solve!",
+  "rewardHeadlineSolved": "Solved!",
+  "rewardNoMistakes": "No mistakes",
+  "rewardMistakesMade": "{count, plural, =1{1 mistake} other{{count} mistakes}}",
+  "@rewardMistakesMade": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "rewardStreakDays": "{days, plural, =1{1-day streak} other{{days}-day streak}}",
+  "@rewardStreakDays": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "rewardBestStreak": "New best streak: {days}",
+  "@rewardBestStreak": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "rewardBadgeUnlocked": "New badge: {badge}",
+  "@rewardBadgeUnlocked": {
+    "placeholders": {
+      "badge": {
+        "type": "String"
+      }
+    }
+  },
+  "rewardStarsEarned": "{stars} of {max} stars",
+  "@rewardStarsEarned": {
+    "placeholders": {
+      "stars": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "achievementsTitle": "Progress",
+  "achievementsStreakLabel": "Day streak",
+  "achievementsSolvedLabel": "Puzzles solved",
+  "achievementsStarsLabel": "Stars earned",
+  "achievementsBestStreakLabel": "Best streak",
+  "achievementsBadgesTitle": "Badges",
+  "achievementsEarnedSemantics": "{badge}, earned",
+  "@achievementsEarnedSemantics": {
+    "placeholders": {
+      "badge": {
+        "type": "String"
+      }
+    }
+  },
+  "achievementsLockedSemantics": "{badge}, locked",
+  "@achievementsLockedSemantics": {
+    "placeholders": {
+      "badge": {
+        "type": "String"
+      }
+    }
+  },
+  "achievementFirstSolveTitle": "First solve",
+  "achievementFirstSolveDescription": "Finish your first puzzle",
+  "achievementTenSolvesTitle": "Getting warm",
+  "achievementTenSolvesDescription": "Finish 10 puzzles",
+  "achievementFiftySolvesTitle": "Regular",
+  "achievementFiftySolvesDescription": "Finish 50 puzzles",
+  "achievementHundredSolvesTitle": "Centurion",
+  "achievementHundredSolvesDescription": "Finish 100 puzzles",
+  "achievementFlawlessFiveTitle": "Perfectionist",
+  "achievementFlawlessFiveDescription": "Earn three stars on 5 puzzles",
+  "achievementWeekStreakTitle": "Seven days",
+  "achievementWeekStreakDescription": "Play 7 days in a row",
+  "puzzlePairsLabel": "{count, plural, =1{1 pair} other{{count} pairs}}",
+  "@puzzlePairsLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "puzzleThemedPairsLabel": "{pairs} · {theme}",
+  "@puzzleThemedPairsLabel": {
+    "placeholders": {
+      "pairs": {
+        "type": "String"
+      },
+      "theme": {
+        "type": "String"
+      }
+    }
+  },
+  "pairsFoundLabel": "Pairs {found}/{total}",
+  "@pairsFoundLabel": {
+    "placeholders": {
+      "found": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "movesLabel": "{moves, plural, =1{1 move} other{{moves} moves}}",
+  "@movesLabel": {
+    "placeholders": {
+      "moves": {
+        "type": "int"
+      }
+    }
+  },
+  "puzzleCompletedMoves": "{moves, plural, =1{In 1 move} other{In {moves} moves}}",
+  "@puzzleCompletedMoves": {
+    "placeholders": {
+      "moves": {
+        "type": "int"
+      }
+    }
+  },
+  "cardFaceDownLabel": "face down",
+  "cardFaceUpLabel": "showing {symbol}",
+  "@cardFaceUpLabel": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "cardMatchedLabel": "{symbol}, matched",
+  "@cardMatchedLabel": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "themeAnimals": "Animals",
+  "themeFood": "Food",
+  "themeNature": "Nature",
+  "themeTravel": "Travel",
+  "themeSports": "Sports",
+  "themeFaces": "Faces",
+  "themeParty": "Party",
+  "themeObjects": "Objects"
+}

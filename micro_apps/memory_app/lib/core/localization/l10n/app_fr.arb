@@ -1,0 +1,202 @@
+{
+  "@@locale": "fr",
+  "appName": "Memory Match",
+  "onboardingTitle": "Memory Match",
+  "onboardingSubtitle": "Retournez les cartes et trouvez toutes les paires — 400 tableaux, sans compte ni connexion.",
+  "continueButton": "Continuer",
+  "chooseDifficultyTitle": "Choisissez une difficulté",
+  "chooseDifficultySubtitle": "Vous pouvez jouer à n'importe quelle difficulté à tout moment.",
+  "difficultyEasy": "Facile",
+  "difficultyMedium": "Moyen",
+  "difficultyHard": "Difficile",
+  "difficultyExpert": "Expert",
+  "puzzleListTitle": "Grilles {difficulty}",
+  "@puzzleListTitle": {
+    "placeholders": {
+      "difficulty": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleStatusCompleted": "Terminée",
+  "puzzleStatusInProgress": "En cours",
+  "puzzleStatusNotStarted": "Non commencée",
+  "puzzleStatusLocked": "Verrouillée",
+  "puzzleLockedMessage": "Résolvez la grille précédente pour déverrouiller celle-ci.",
+  "puzzleNumberLabel": "Grille {number}",
+  "@puzzleNumberLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzlesSolvedLabel": "{solved} sur {total} résolues",
+  "@puzzlesSolvedLabel": {
+    "placeholders": {
+      "solved": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "noPuzzlesTitle": "Pas encore de grilles",
+  "noPuzzlesMessage": "De nouvelles grilles pour ce niveau arrivent bientôt.",
+  "cellSemanticLabel": "Ligne {row}, colonne {column}",
+  "@cellSemanticLabel": {
+    "placeholders": {
+      "row": {
+        "type": "int"
+      },
+      "column": {
+        "type": "int"
+      }
+    }
+  },
+  "hintButton": "Indice",
+  "hintConfirmTitle": "Utiliser un indice ?",
+  "hintConfirmMessage": "Une paire sera associée pour vous.",
+  "watchAdForHint": "Regardez une courte vidéo pour obtenir un indice",
+  "restartPuzzleButton": "Recommencer",
+  "restartConfirmTitle": "Recommencer cette grille ?",
+  "restartConfirmMessage": "Votre progression sur cette grille sera effacée.",
+  "puzzleCompletedTitle": "Grille terminée !",
+  "puzzleCompletedTime": "Résolu en {time}",
+  "@puzzleCompletedTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "nextPuzzleButton": "Grille suivante",
+  "backToPuzzlesButton": "Retour aux grilles",
+  "settingsTitle": "Paramètres",
+  "settingsUiLanguage": "Langue de l'application",
+  "settingsAppearance": "Apparence",
+  "themeModeSystem": "Système",
+  "themeModeLight": "Clair",
+  "themeModeDark": "Sombre",
+  "settingsSound": "Effets sonores",
+  "settingsVibration": "Vibration",
+  "settingsMusic": "Musique de fond",
+  "musicTrackOff": "Désactivée",
+  "musicTrackCalm": "Calme",
+  "musicTrackGentle": "Douce",
+  "musicTrackUplifting": "Entraînante",
+  "musicTrackFocus": "Concentration",
+  "musicTrackBright": "Lumineuse",
+  "musicTrackNight": "Nuit",
+  "settingsReminders": "Rappels de jeu",
+  "remindersPermissionDenied": "Les notifications sont désactivées pour cette application. Vous pouvez les activer dans les réglages de votre appareil.",
+  "reminderTitle": "Une grille vous attend",
+  "reminderBody": "Faites une pause et résolvez-en une — cela ne prend que quelques minutes.",
+  "settingsTestSound": "Tester le son",
+  "soundTestOk": "Son joué.",
+  "soundTestFailed": "Échec du son : {error}",
+  "@soundTestFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsRemoveAds": "Supprimer les publicités",
+  "settingsRestorePurchases": "Restaurer les achats",
+  "settingsAdPrivacyOptions": "Options de confidentialité des annonces",
+  "settingsPrivacy": "Politique de confidentialité",
+  "privacyPolicyViewOnline": "Voir en ligne",
+  "settingsAbout": "À propos",
+  "settingsVersion": "Version {version}",
+  "@settingsVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "removeAdsTitle": "Supprimer les publicités",
+  "removeAdsDescription": "Profitez de chaque grille sans bannière ni publicité plein écran — pour toujours, avec un seul achat.",
+  "removeAdsPrice": "1,00 $",
+  "removeAdsPurchaseButton": "Acheter — 1,00 $",
+  "removeAdsPurchaseButtonWithPrice": "Acheter — {price}",
+  "@removeAdsPurchaseButtonWithPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "musicToggleOn": "Activer la musique",
+  "musicToggleOff": "Désactiver la musique",
+  "settingsDeveloper": "Développeur",
+  "settingsDeveloperName": "BT developer",
+  "settingsCopyright": "© BaLa Dream",
+  "removeAdsAlreadyOwned": "Vous possédez déjà l'option Supprimer les publicités. Merci pour votre soutien !",
+  "purchasePending": "Votre achat est en cours de traitement…",
+  "purchaseError": "L'achat n'a pas pu être finalisé. Veuillez réessayer.",
+  "purchaseStoreUnavailable": "La boutique n'est pas disponible pour le moment. Vérifiez que vous êtes connecté, puis réessayez.",
+  "purchaseProductUnavailable": "Cet achat n'est pas disponible pour le moment. Veuillez réessayer plus tard.",
+  "purchaseCancelled": "Achat annulé.",
+  "restoreSuccess": "Vos achats ont été restaurés.",
+  "restoreNothingFound": "Aucun achat précédent trouvé.",
+  "errorGeneric": "Une erreur s'est produite. Veuillez réessayer.",
+  "errorNoInternet": "Vous êtes hors ligne. Cette fonctionnalité nécessite une connexion internet.",
+  "errorAdUnavailable": "Aucune publicité n'est disponible pour le moment. Veuillez réessayer plus tard.",
+  "errorPuzzleMissing": "Cette grille n'a pas pu être chargée.",
+  "cancelButton": "Annuler",
+  "okButton": "OK",
+  "confirmButton": "Confirmer",
+  "mistakesLabel": "Erreurs",
+  "livesRemaining": "{remaining} vies sur {max} restantes",
+  "outOfLivesTitle": "Plus de vies",
+  "outOfLivesMessage": "Cela fait {max} erreurs. Recommencez cette grille pour un nouvel essai.",
+  "outOfLivesTryAgain": "Réessayer",
+  "rewardHeadlineFlawless": "Sans faute !",
+  "rewardHeadlineGreat": "Belle résolution !",
+  "rewardHeadlineSolved": "Résolu !",
+  "rewardNoMistakes": "Aucune erreur",
+  "rewardMistakesMade": "{count, plural, =1{1 erreur} other{{count} erreurs}}",
+  "rewardStreakDays": "{days, plural, =1{série de 1 jour} other{série de {days} jours}}",
+  "rewardBestStreak": "Nouvelle meilleure série : {days}",
+  "rewardBadgeUnlocked": "Nouveau badge : {badge}",
+  "rewardStarsEarned": "{stars} étoiles sur {max}",
+  "achievementsTitle": "Progression",
+  "achievementsStreakLabel": "Jours d'affilée",
+  "achievementsSolvedLabel": "Grilles résolues",
+  "achievementsStarsLabel": "Étoiles gagnées",
+  "achievementsBestStreakLabel": "Meilleure série",
+  "achievementsBadgesTitle": "Badges",
+  "achievementsEarnedSemantics": "{badge}, obtenu",
+  "achievementsLockedSemantics": "{badge}, verrouillé",
+  "achievementFirstSolveTitle": "Première résolution",
+  "achievementFirstSolveDescription": "Terminez votre première grille",
+  "achievementTenSolvesTitle": "En chauffe",
+  "achievementTenSolvesDescription": "Terminez 10 grilles",
+  "achievementFiftySolvesTitle": "Habitué",
+  "achievementFiftySolvesDescription": "Terminez 50 grilles",
+  "achievementHundredSolvesTitle": "Centenaire",
+  "achievementHundredSolvesDescription": "Terminez 100 grilles",
+  "achievementFlawlessFiveTitle": "Perfectionniste",
+  "achievementFlawlessFiveDescription": "Obtenez trois étoiles sur 5 grilles",
+  "achievementWeekStreakTitle": "Sept jours",
+  "achievementWeekStreakDescription": "Jouez 7 jours d'affilée",
+  "puzzlePairsLabel": "{count, plural, =1{1 paire} other{{count} paires}}",
+  "puzzleThemedPairsLabel": "{pairs} · {theme}",
+  "pairsFoundLabel": "Paires {found}/{total}",
+  "movesLabel": "{moves, plural, =1{1 coup} other{{moves} coups}}",
+  "puzzleCompletedMoves": "{moves, plural, =1{En 1 coup} other{En {moves} coups}}",
+  "cardFaceDownLabel": "face cachée",
+  "cardFaceUpLabel": "montre {symbol}",
+  "cardMatchedLabel": "{symbol}, paire trouvée",
+  "themeAnimals": "Animaux",
+  "themeFood": "Nourriture",
+  "themeNature": "Nature",
+  "themeTravel": "Voyage",
+  "themeSports": "Sport",
+  "themeFaces": "Visages",
+  "themeParty": "Fête",
+  "themeObjects": "Objets"
+}

@@ -1,0 +1,202 @@
+{
+  "@@locale": "de",
+  "appName": "Memory Match",
+  "onboardingTitle": "Memory Match",
+  "onboardingSubtitle": "Karten umdrehen und alle Paare finden — 400 Spielfelder, ohne Konto, ohne Internet.",
+  "continueButton": "Weiter",
+  "chooseDifficultyTitle": "Wähle einen Schwierigkeitsgrad",
+  "chooseDifficultySubtitle": "Du kannst jederzeit jeden Schwierigkeitsgrad spielen.",
+  "difficultyEasy": "Leicht",
+  "difficultyMedium": "Mittel",
+  "difficultyHard": "Schwer",
+  "difficultyExpert": "Experte",
+  "puzzleListTitle": "{difficulty}-Rätsel",
+  "@puzzleListTitle": {
+    "placeholders": {
+      "difficulty": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleStatusCompleted": "Abgeschlossen",
+  "puzzleStatusInProgress": "In Bearbeitung",
+  "puzzleStatusNotStarted": "Nicht begonnen",
+  "puzzleStatusLocked": "Gesperrt",
+  "puzzleLockedMessage": "Löse zuerst das vorherige Rätsel, um dieses freizuschalten.",
+  "puzzleNumberLabel": "Rätsel {number}",
+  "@puzzleNumberLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzlesSolvedLabel": "{solved} von {total} gelöst",
+  "@puzzlesSolvedLabel": {
+    "placeholders": {
+      "solved": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "noPuzzlesTitle": "Noch keine Rätsel",
+  "noPuzzlesMessage": "Neue Rätsel für diesen Schwierigkeitsgrad sind unterwegs.",
+  "cellSemanticLabel": "Zeile {row}, Spalte {column}",
+  "@cellSemanticLabel": {
+    "placeholders": {
+      "row": {
+        "type": "int"
+      },
+      "column": {
+        "type": "int"
+      }
+    }
+  },
+  "hintButton": "Tipp",
+  "hintConfirmTitle": "Tipp verwenden?",
+  "hintConfirmMessage": "Damit wird ein Paar für dich aufgedeckt.",
+  "watchAdForHint": "Schau ein kurzes Video, um einen Tipp zu erhalten",
+  "restartPuzzleButton": "Neu starten",
+  "restartConfirmTitle": "Dieses Rätsel neu starten?",
+  "restartConfirmMessage": "Dein Fortschritt bei diesem Rätsel wird gelöscht.",
+  "puzzleCompletedTitle": "Rätsel gelöst!",
+  "puzzleCompletedTime": "Gelöst in {time}",
+  "@puzzleCompletedTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "nextPuzzleButton": "Nächstes Rätsel",
+  "backToPuzzlesButton": "Zurück zu den Rätseln",
+  "settingsTitle": "Einstellungen",
+  "settingsUiLanguage": "App-Sprache",
+  "settingsAppearance": "Erscheinungsbild",
+  "themeModeSystem": "System",
+  "themeModeLight": "Hell",
+  "themeModeDark": "Dunkel",
+  "settingsSound": "Soundeffekte",
+  "settingsVibration": "Vibration",
+  "settingsMusic": "Hintergrundmusik",
+  "musicTrackOff": "Aus",
+  "musicTrackCalm": "Ruhig",
+  "musicTrackGentle": "Sanft",
+  "musicTrackUplifting": "Beschwingt",
+  "musicTrackFocus": "Konzentration",
+  "musicTrackBright": "Hell",
+  "musicTrackNight": "Nacht",
+  "settingsReminders": "Spiel-Erinnerungen",
+  "remindersPermissionDenied": "Benachrichtigungen sind für diese App deaktiviert. Du kannst sie in den Geräteeinstellungen aktivieren.",
+  "reminderTitle": "Ein Rätsel wartet auf dich",
+  "reminderBody": "Gönn dir eine Pause und löse eins — es dauert nur ein paar Minuten.",
+  "settingsTestSound": "Ton testen",
+  "soundTestOk": "Ton wurde abgespielt.",
+  "soundTestFailed": "Ton fehlgeschlagen: {error}",
+  "@soundTestFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsRemoveAds": "Werbung entfernen",
+  "settingsRestorePurchases": "Käufe wiederherstellen",
+  "settingsAdPrivacyOptions": "Anzeigen-Datenschutzoptionen",
+  "settingsPrivacy": "Datenschutzrichtlinie",
+  "privacyPolicyViewOnline": "Online ansehen",
+  "settingsAbout": "Über",
+  "settingsVersion": "Version {version}",
+  "@settingsVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "removeAdsTitle": "Werbung entfernen",
+  "removeAdsDescription": "Genieße jedes Rätsel ohne Banner- oder Vollbildwerbung — für immer, mit einem einmaligen Kauf.",
+  "removeAdsPrice": "1,00 $",
+  "removeAdsPurchaseButton": "Kaufen — 1,00 $",
+  "removeAdsPurchaseButtonWithPrice": "Kaufen — {price}",
+  "@removeAdsPurchaseButtonWithPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "musicToggleOn": "Musik einschalten",
+  "musicToggleOff": "Musik ausschalten",
+  "settingsDeveloper": "Entwickler",
+  "settingsDeveloperName": "BT developer",
+  "settingsCopyright": "© BaLa Dream",
+  "removeAdsAlreadyOwned": "Du besitzt bereits „Werbung entfernen“. Danke für deine Unterstützung!",
+  "purchasePending": "Dein Kauf wird bearbeitet …",
+  "purchaseError": "Der Kauf konnte nicht abgeschlossen werden. Bitte versuche es erneut.",
+  "purchaseStoreUnavailable": "Der Store ist derzeit nicht verfügbar. Prüfe, ob du angemeldet bist, und versuche es erneut.",
+  "purchaseProductUnavailable": "Dieser Kauf ist derzeit nicht verfügbar. Bitte versuche es später erneut.",
+  "purchaseCancelled": "Kauf abgebrochen.",
+  "restoreSuccess": "Deine Käufe wurden wiederhergestellt.",
+  "restoreNothingFound": "Keine früheren Käufe gefunden.",
+  "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+  "errorNoInternet": "Du bist offline. Diese Funktion benötigt eine Internetverbindung.",
+  "errorAdUnavailable": "Momentan ist keine Werbung verfügbar. Bitte versuche es später erneut.",
+  "errorPuzzleMissing": "Dieses Rätsel konnte nicht geladen werden.",
+  "cancelButton": "Abbrechen",
+  "okButton": "OK",
+  "confirmButton": "Bestätigen",
+  "mistakesLabel": "Fehler",
+  "livesRemaining": "{remaining} von {max} Leben übrig",
+  "outOfLivesTitle": "Keine Leben mehr",
+  "outOfLivesMessage": "Das waren {max} Fehler. Starte dieses Rätsel neu für einen weiteren Versuch.",
+  "outOfLivesTryAgain": "Erneut versuchen",
+  "rewardHeadlineFlawless": "Fehlerfrei!",
+  "rewardHeadlineGreat": "Starke Lösung!",
+  "rewardHeadlineSolved": "Gelöst!",
+  "rewardNoMistakes": "Keine Fehler",
+  "rewardMistakesMade": "{count, plural, =1{1 Fehler} other{{count} Fehler}}",
+  "rewardStreakDays": "{days, plural, =1{1 Tag in Folge} other{{days} Tage in Folge}}",
+  "rewardBestStreak": "Neue Bestserie: {days}",
+  "rewardBadgeUnlocked": "Neues Abzeichen: {badge}",
+  "rewardStarsEarned": "{stars} von {max} Sternen",
+  "achievementsTitle": "Fortschritt",
+  "achievementsStreakLabel": "Tage in Folge",
+  "achievementsSolvedLabel": "Gelöste Rätsel",
+  "achievementsStarsLabel": "Verdiente Sterne",
+  "achievementsBestStreakLabel": "Beste Serie",
+  "achievementsBadgesTitle": "Abzeichen",
+  "achievementsEarnedSemantics": "{badge}, erhalten",
+  "achievementsLockedSemantics": "{badge}, gesperrt",
+  "achievementFirstSolveTitle": "Erster Erfolg",
+  "achievementFirstSolveDescription": "Löse dein erstes Rätsel",
+  "achievementTenSolvesTitle": "Warm geworden",
+  "achievementTenSolvesDescription": "Löse 10 Rätsel",
+  "achievementFiftySolvesTitle": "Stammspieler",
+  "achievementFiftySolvesDescription": "Löse 50 Rätsel",
+  "achievementHundredSolvesTitle": "Hundert geschafft",
+  "achievementHundredSolvesDescription": "Löse 100 Rätsel",
+  "achievementFlawlessFiveTitle": "Perfektionist",
+  "achievementFlawlessFiveDescription": "Hole dir bei 5 Rätseln drei Sterne",
+  "achievementWeekStreakTitle": "Sieben Tage",
+  "achievementWeekStreakDescription": "Spiele 7 Tage in Folge",
+  "puzzlePairsLabel": "{count, plural, =1{1 Paar} other{{count} Paare}}",
+  "puzzleThemedPairsLabel": "{pairs} · {theme}",
+  "pairsFoundLabel": "Paare {found}/{total}",
+  "movesLabel": "{moves, plural, =1{1 Zug} other{{moves} Züge}}",
+  "puzzleCompletedMoves": "{moves, plural, =1{In 1 Zug} other{In {moves} Zügen}}",
+  "cardFaceDownLabel": "verdeckt",
+  "cardFaceUpLabel": "zeigt {symbol}",
+  "cardMatchedLabel": "{symbol}, Paar gefunden",
+  "themeAnimals": "Tiere",
+  "themeFood": "Essen",
+  "themeNature": "Natur",
+  "themeTravel": "Reisen",
+  "themeSports": "Sport",
+  "themeFaces": "Gesichter",
+  "themeParty": "Party",
+  "themeObjects": "Gegenstände"
+}

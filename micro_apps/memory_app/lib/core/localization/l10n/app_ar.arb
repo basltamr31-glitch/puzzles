@@ -1,0 +1,202 @@
+{
+  "@@locale": "ar",
+  "appName": "Memory Match",
+  "onboardingTitle": "Memory Match",
+  "onboardingSubtitle": "اقلب البطاقات واعثر على كل الأزواج — 400 لوحة، بدون حساب وبدون إنترنت.",
+  "continueButton": "متابعة",
+  "chooseDifficultyTitle": "اختر مستوى الصعوبة",
+  "chooseDifficultySubtitle": "يمكنك لعب أي مستوى صعوبة في أي وقت.",
+  "difficultyEasy": "سهل",
+  "difficultyMedium": "متوسط",
+  "difficultyHard": "صعب",
+  "difficultyExpert": "خبير",
+  "puzzleListTitle": "ألغاز {difficulty}",
+  "@puzzleListTitle": {
+    "placeholders": {
+      "difficulty": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleStatusCompleted": "مكتمل",
+  "puzzleStatusInProgress": "قيد التقدم",
+  "puzzleStatusNotStarted": "لم يبدأ",
+  "puzzleStatusLocked": "مقفل",
+  "puzzleLockedMessage": "أكمل اللغز السابق لفتح هذا اللغز.",
+  "puzzleNumberLabel": "لغز {number}",
+  "@puzzleNumberLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzlesSolvedLabel": "تم حل {solved} من {total}",
+  "@puzzlesSolvedLabel": {
+    "placeholders": {
+      "solved": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "noPuzzlesTitle": "لا توجد ألغاز بعد",
+  "noPuzzlesMessage": "ألغاز جديدة لهذا المستوى قادمة قريبًا.",
+  "cellSemanticLabel": "الصف {row}، العمود {column}",
+  "@cellSemanticLabel": {
+    "placeholders": {
+      "row": {
+        "type": "int"
+      },
+      "column": {
+        "type": "int"
+      }
+    }
+  },
+  "hintButton": "تلميح",
+  "hintConfirmTitle": "استخدام تلميح؟",
+  "hintConfirmMessage": "سيتم مطابقة زوج واحد نيابةً عنك.",
+  "watchAdForHint": "شاهد فيديو قصيرًا للحصول على تلميح",
+  "restartPuzzleButton": "إعادة البدء",
+  "restartConfirmTitle": "إعادة بدء هذا اللغز؟",
+  "restartConfirmMessage": "سيتم مسح تقدمك في هذا اللغز.",
+  "puzzleCompletedTitle": "اكتمل اللغز!",
+  "puzzleCompletedTime": "تم الحل في {time}",
+  "@puzzleCompletedTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "nextPuzzleButton": "اللغز التالي",
+  "backToPuzzlesButton": "العودة إلى الألغاز",
+  "settingsTitle": "الإعدادات",
+  "settingsUiLanguage": "لغة التطبيق",
+  "settingsAppearance": "المظهر",
+  "themeModeSystem": "النظام",
+  "themeModeLight": "فاتح",
+  "themeModeDark": "داكن",
+  "settingsSound": "المؤثرات الصوتية",
+  "settingsVibration": "الاهتزاز",
+  "settingsMusic": "الموسيقى الخلفية",
+  "musicTrackOff": "إيقاف",
+  "musicTrackCalm": "هادئة",
+  "musicTrackGentle": "لطيفة",
+  "musicTrackUplifting": "منعشة",
+  "musicTrackFocus": "تركيز",
+  "musicTrackBright": "مشرقة",
+  "musicTrackNight": "ليلية",
+  "settingsReminders": "تذكير باللعب",
+  "remindersPermissionDenied": "الإشعارات معطّلة لهذا التطبيق. يمكنك تفعيلها من إعدادات جهازك.",
+  "reminderTitle": "هناك لغز في انتظارك",
+  "reminderBody": "خذ استراحة وحلّ لغزاً — لن يستغرق سوى بضع دقائق.",
+  "settingsTestSound": "اختبار الصوت",
+  "soundTestOk": "تم تشغيل الصوت.",
+  "soundTestFailed": "فشل تشغيل الصوت: {error}",
+  "@soundTestFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsRemoveAds": "إزالة الإعلانات",
+  "settingsRestorePurchases": "استعادة المشتريات",
+  "settingsAdPrivacyOptions": "خيارات خصوصية الإعلانات",
+  "settingsPrivacy": "سياسة الخصوصية",
+  "privacyPolicyViewOnline": "عرض عبر الإنترنت",
+  "settingsAbout": "حول التطبيق",
+  "settingsVersion": "الإصدار {version}",
+  "@settingsVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "removeAdsTitle": "إزالة الإعلانات",
+  "removeAdsDescription": "استمتع بكل لغز بدون إعلانات بانر أو إعلانات بينية — إلى الأبد، بعملية شراء واحدة.",
+  "removeAdsPrice": "١٫٠٠ دولار",
+  "removeAdsPurchaseButton": "شراء — ١٫٠٠ دولار",
+  "removeAdsPurchaseButtonWithPrice": "شراء — {price}",
+  "@removeAdsPurchaseButtonWithPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "musicToggleOn": "تشغيل الموسيقى",
+  "musicToggleOff": "إيقاف الموسيقى",
+  "settingsDeveloper": "المطوّر",
+  "settingsDeveloperName": "BT developer",
+  "settingsCopyright": "© BaLa Dream",
+  "removeAdsAlreadyOwned": "أنت تملك بالفعل إزالة الإعلانات. شكرًا لدعمك!",
+  "purchasePending": "جارٍ معالجة عملية الشراء…",
+  "purchaseError": "تعذر إتمام عملية الشراء. يرجى المحاولة مرة أخرى.",
+  "purchaseStoreUnavailable": "المتجر غير متاح حاليًا. تأكد من تسجيل الدخول ثم حاول مرة أخرى.",
+  "purchaseProductUnavailable": "هذا الشراء غير متاح حاليًا. يرجى المحاولة لاحقًا.",
+  "purchaseCancelled": "تم إلغاء عملية الشراء.",
+  "restoreSuccess": "تمت استعادة مشترياتك.",
+  "restoreNothingFound": "لم يتم العثور على مشتريات سابقة.",
+  "errorGeneric": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+  "errorNoInternet": "أنت غير متصل بالإنترنت. تتطلب هذه الميزة اتصالاً بالإنترنت.",
+  "errorAdUnavailable": "لا يوجد إعلان متاح حاليًا. يرجى المحاولة لاحقًا.",
+  "errorPuzzleMissing": "تعذر تحميل هذا اللغز.",
+  "cancelButton": "إلغاء",
+  "okButton": "موافق",
+  "confirmButton": "تأكيد",
+  "mistakesLabel": "الأخطاء",
+  "livesRemaining": "{remaining} من {max} محاولات متبقية",
+  "outOfLivesTitle": "انتهت المحاولات",
+  "outOfLivesMessage": "لقد ارتكبت {max} أخطاء. أعد بدء هذا اللغز للمحاولة مرة أخرى.",
+  "outOfLivesTryAgain": "حاول مرة أخرى",
+  "rewardHeadlineFlawless": "بلا أخطاء!",
+  "rewardHeadlineGreat": "حل رائع!",
+  "rewardHeadlineSolved": "تم الحل!",
+  "rewardNoMistakes": "بدون أخطاء",
+  "rewardMistakesMade": "{count, plural, =1{خطأ واحد} =2{خطآن} other{{count} أخطاء}}",
+  "rewardStreakDays": "{days, plural, =1{يوم واحد متتالٍ} =2{يومان متتاليان} other{{days} أيام متتالية}}",
+  "rewardBestStreak": "أفضل سلسلة جديدة: {days}",
+  "rewardBadgeUnlocked": "شارة جديدة: {badge}",
+  "rewardStarsEarned": "{stars} من {max} نجوم",
+  "achievementsTitle": "التقدم",
+  "achievementsStreakLabel": "أيام متتالية",
+  "achievementsSolvedLabel": "ألغاز محلولة",
+  "achievementsStarsLabel": "النجوم المكتسبة",
+  "achievementsBestStreakLabel": "أفضل سلسلة",
+  "achievementsBadgesTitle": "الشارات",
+  "achievementsEarnedSemantics": "{badge}، تم الحصول عليها",
+  "achievementsLockedSemantics": "{badge}، مقفلة",
+  "achievementFirstSolveTitle": "أول حل",
+  "achievementFirstSolveDescription": "أكمل أول لغز لك",
+  "achievementTenSolvesTitle": "بداية قوية",
+  "achievementTenSolvesDescription": "أكمل 10 ألغاز",
+  "achievementFiftySolvesTitle": "لاعب منتظم",
+  "achievementFiftySolvesDescription": "أكمل 50 لغزًا",
+  "achievementHundredSolvesTitle": "مئة لغز",
+  "achievementHundredSolvesDescription": "أكمل 100 لغز",
+  "achievementFlawlessFiveTitle": "إتقان",
+  "achievementFlawlessFiveDescription": "احصل على ثلاث نجوم في 5 ألغاز",
+  "achievementWeekStreakTitle": "سبعة أيام",
+  "achievementWeekStreakDescription": "العب 7 أيام متتالية",
+  "puzzlePairsLabel": "{count, plural, =1{زوج واحد} =2{زوجان} few{{count} أزواج} many{{count} زوجًا} other{{count} زوج}}",
+  "puzzleThemedPairsLabel": "{pairs} · {theme}",
+  "pairsFoundLabel": "الأزواج {found}/{total}",
+  "movesLabel": "{moves, plural, =1{حركة واحدة} =2{حركتان} few{{moves} حركات} many{{moves} حركة} other{{moves} حركة}}",
+  "puzzleCompletedMoves": "{moves, plural, =1{في حركة واحدة} =2{في حركتين} few{في {moves} حركات} many{في {moves} حركة} other{في {moves} حركة}}",
+  "cardFaceDownLabel": "مقلوبة",
+  "cardFaceUpLabel": "تُظهر {symbol}",
+  "cardMatchedLabel": "{symbol}، تم العثور على الزوج",
+  "themeAnimals": "حيوانات",
+  "themeFood": "طعام",
+  "themeNature": "طبيعة",
+  "themeTravel": "سفر",
+  "themeSports": "رياضة",
+  "themeFaces": "وجوه",
+  "themeParty": "حفلة",
+  "themeObjects": "أشياء"
+}

@@ -30,6 +30,16 @@
       ],
       "port": 8767,
       "url": "http://127.0.0.1:8767"
+    },
+    {
+      "name": "memory_app_web",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "cd /d C:\\Users\\baslt\\puzzels\\micro_apps\\memory_app && flutter run -d web-server --web-port 8768 --web-hostname 127.0.0.1"
+      ],
+      "port": 8768,
+      "url": "http://127.0.0.1:8768"
     }
   ]
 }
