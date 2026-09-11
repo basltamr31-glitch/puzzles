@@ -38,20 +38,14 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
-        <!-- AdMob App ID. Not a secret — it is readable in any shipped
-             APK — but it must be present and valid, or the app crashes on
-             launch the moment the ads SDK initializes. Ad *unit* IDs are a
-             separate thing and stay out of source control; see
-             ad_config.example.json.
-
-             This is Google's public TEST App ID, because Memory Match has
-             no AdMob app of its own yet. Register the app in AdMob and
-             paste its real ~ id here before any build that goes to a
-             tester — each app in the portfolio has its own, and pasting a
-             sibling's would bill its inventory against the wrong app. -->
+        <!-- Real AdMob App ID for the "Memory Match" app. Not a secret — it
+             is readable in any shipped APK — but it must be present and
+             valid, or the app crashes on launch when the ads SDK
+             initializes. Ad *unit* IDs are a separate thing and stay out of
+             source control; see ad_config.example.json. -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713" />
+            android:value="ca-app-pub-1057967613304012~8346757209" />
         <!-- Re-registers pending reminders after a device restart. Without
              this the scheduled notification is lost on reboot. -->
         <receiver

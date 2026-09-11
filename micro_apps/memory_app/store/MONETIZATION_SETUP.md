@@ -239,15 +239,9 @@ store-side setup above that cannot be tested from here.
 ## 8. Pre-launch checklist
 
 - [x] AdMob account created (not just Google Ads)
-- [ ] **App added in AdMob for *this* app** ("Memory Match", Android), and
-      its own App ID pasted into `AndroidManifest.xml`. The manifest
-      currently carries Google's public **test** App ID
-      (`ca-app-pub-3940256099942544~3347511713`), which is valid — the app
-      launches — but earns nothing. Each app in the portfolio has its own;
-      pasting a sibling's would bill its inventory against the wrong app.
-- [ ] Three ad units created; IDs in the gitignored `ad_config.json`
-      (this app has no `ad_config.json` yet, so a release build currently
-      ships with no ads at all)
+- [x] App added in AdMob ("Memory Match", Android); App ID
+      `ca-app-pub-1057967613304012~8346757209` in `AndroidManifest.xml`
+- [x] Three ad units created; IDs in the gitignored `ad_config.json`
 - [ ] **Your phone registered in AdMob → Settings → Test devices** — do this
       before opening the app with real IDs. Tapping your own live ads is
       invalid traffic and gets new accounts suspended.

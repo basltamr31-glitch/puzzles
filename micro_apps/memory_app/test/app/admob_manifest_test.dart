@@ -72,23 +72,19 @@ void main() {
     }
   });
 
-  test('the sample App ID is flagged as still to be replaced', () {
-    // Memory Match has no AdMob app of its own yet, so the manifest
-    // deliberately carries Google's public sample App ID: it is valid, so
-    // the app launches, and it earns nothing, which is the honest state.
-    //
-    // This test is the reminder, not a rule — when the real ~ id is
-    // pasted in, delete this test rather than working around it. What
-    // must never happen is *shipping* the sample, so the check that
-    // outlives this one is the sibling test above plus the release
-    // checklist in store/PLAY_STORE_READINESS.md.
-    const sample = 'ca-app-pub-3940256099942544~3347511713';
-    if (appId() == sample) {
-      expect(
-        manifest,
-        contains('no AdMob app of its own yet'),
-        reason: 'the sample App ID must be commented as provisional',
-      );
-    }
+  test("the App ID is not Google's public sample", () {
+    // Memory Match carried the sample App ID until its own AdMob app
+    // existed. The sample is valid, so nothing crashes and nothing
+    // complains — it simply earns nothing, which is a fault that only
+    // shows up as an empty revenue report weeks after release.
+    expect(
+      appId(),
+      isNot(contains('3940256099942544')),
+      reason: "this is Google's sample App ID; it can never earn",
+    );
+  });
+
+  test("the App ID is this app's own", () {
+    expect(appId(), 'ca-app-pub-1057967613304012~8346757209');
   });
 }

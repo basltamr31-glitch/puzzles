@@ -322,16 +322,15 @@ setup that only the owner can perform.
 
 ### Not done yet — everything here is account setup, not code
 
-- **AdMob**: the manifest carries Google's public **test** App ID,
-  because Memory Match has no AdMob app of its own yet. Register it,
-  paste the real `~` id into `AndroidManifest.xml`, and put the three
-  unit IDs in a gitignored `ad_config.json`. Ship with:
+- **AdMob**: wired. Real App ID `ca-app-pub-1057967613304012~8346757209`
+  is in `AndroidManifest.xml`; the three real unit IDs are in the
+  gitignored `ad_config.json`. Ship with:
   `flutter build appbundle --release --dart-define-from-file=ad_config.json`
   — a build without that flag silently falls back to test units (debug)
-  or to no ads at all (release). Register your device as a test device in
-  AdMob before opening a build with real IDs; tapping your own live ads
-  is invalid traffic and the most common reason new AdMob accounts get
-  suspended.
+  or to no ads at all (release). Still owner action: register your device
+  as a test device in AdMob before opening a build with real IDs; tapping
+  your own live ads is invalid traffic and the most common reason new
+  AdMob accounts get suspended.
 - **Privacy policy**: `assets/legal/privacy_policy.md` is written and
   bundled but still carries its `[[FILL IN]]` for the hosted URL, and
   `AppConfig.privacyPolicyUrl` is empty. Host it (the three siblings use
