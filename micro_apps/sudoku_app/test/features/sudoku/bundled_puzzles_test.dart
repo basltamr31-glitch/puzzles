@@ -82,11 +82,60 @@ void main() {
         final spec = sudokuTiers[difficulty]!;
         for (final puzzle in puzzles) {
           expect(puzzle.difficulty, difficulty, reason: puzzle.id);
-          final grade = SudokuSolver.grade(SudokuSolver.parse(puzzle.givens));
+          final profile = SudokuSolver.profile(SudokuSolver.parse(puzzle.givens));
           expect(
-            spec.accepts(puzzle.givenCount, grade),
+            spec.accepts(puzzle.givenCount, profile),
             isTrue,
-            reason: '${puzzle.id}: ${puzzle.givenCount} givens, graded ${grade.name}',
+            reason: '${puzzle.id}: ${puzzle.givenCount} givens, '
+                'hardest ${profile.hardest.name}, '
+                'score ${profile.score.toStringAsFixed(1)}',
+          );
+        }
+      });
+
+      test('every puzzle can be finished by logic alone', () {
+        // No tier ships a grid that needs trial and error any more. This
+        // used to be what "expert" meant, which is why expert had no
+        // upper bound and no lower one either.
+        for (final puzzle in puzzles) {
+          final profile = SudokuSolver.profile(SudokuSolver.parse(puzzle.givens));
+          expect(profile.solved, isTrue, reason: puzzle.id);
+        }
+      });
+
+      test('every digit logic derives matches the stored solution', () {
+        // Catches an over-eager elimination in any of the techniques.
+        // Such a bug does not make a puzzle unsolvable — it makes the
+        // solver confidently wrong, which nothing else here would notice.
+        for (final puzzle in puzzles) {
+          final profile = SudokuSolver.profile(SudokuSolver.parse(puzzle.givens));
+          expect(SudokuSolver.format(profile.grid), puzzle.solution,
+              reason: puzzle.id);
+        }
+      });
+
+      test('puzzles get harder as the player works through the file', () {
+        // Puzzles unlock sequentially, so file order *is* the difficulty
+        // curve the player experiences. Compared in blocks rather than
+        // pairwise: neighbouring puzzles are meant to be close, and
+        // demanding a strict increase across all 100 would forbid the
+        // small variation that keeps a tier from feeling mechanical.
+        final scores = [
+          for (final puzzle in puzzles)
+            SudokuSolver.profile(SudokuSolver.parse(puzzle.givens)).score,
+        ];
+        const block = 20;
+        double meanOf(int start) {
+          final slice = scores.sublist(start, start + block);
+          return slice.reduce((a, b) => a + b) / slice.length;
+        }
+
+        for (var start = block; start + block <= scores.length; start += block) {
+          expect(
+            meanOf(start),
+            greaterThan(meanOf(start - block)),
+            reason: '$difficulty puzzles ${start + 1}-${start + block} should '
+                'average harder than the block before them',
           );
         }
       });

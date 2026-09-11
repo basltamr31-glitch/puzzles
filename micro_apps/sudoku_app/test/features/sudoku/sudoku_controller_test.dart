@@ -3,9 +3,12 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:sudoku_app/core/analytics/analytics_events.dart';
 import 'package:sudoku_app/core/storage/local_storage_service.dart';
 import 'package:sudoku_app/core/storage/storage_keys.dart';
+import 'package:sudoku_app/features/rewards/data/rewards_repository.dart';
+import 'package:sudoku_app/features/rewards/domain/solve_reward.dart';
 import 'package:sudoku_app/features/puzzle_list/domain/puzzle_summary.dart';
 import 'package:sudoku_app/features/sudoku/data/puzzle_repository.dart';
 import 'package:sudoku_app/features/sudoku/domain/sudoku_models.dart';
+import 'package:sudoku_app/features/sudoku/domain/sudoku_progress.dart';
 import 'package:sudoku_app/features/sudoku/presentation/controllers/sudoku_controller.dart';
 
 import '../../core/fake_analytics_service.dart';
@@ -135,6 +138,7 @@ void main() {
   Future<SudokuController> loadController() async {
     final controller = SudokuController(
       repository,
+      RewardsRepository(storage),
       analytics,
       container.read(Provider((ref) => ref)),
       (difficulty: 'easy', index: 0),
@@ -154,6 +158,59 @@ void main() {
       expect(controller.state.values[0], 5);
       expect(controller.state.values[_firstEmpty], 0);
       expect(controller.state.filledCount, _puzzle.givenCount);
+    });
+
+    test('discards saved progress that no longer matches the puzzle', () async {
+      // The failure this guards against, in the shape a player would hit
+      // it: progress saved against an older grid behind the same puzzle
+      // id. Replaying it would put a second 5 in row 0 next to the
+      // puzzle's own given 5 — a grid that arrives already broken and can
+      // never be solved.
+      final stale = List<int>.filled(sudokuCellCount, 0);
+      for (var i = 0; i < sudokuCellCount; i++) {
+        if (_puzzle.isGiven(i)) stale[i] = int.parse(_givens[i]);
+      }
+      stale[_givenIndex] = 9; // a given that disagrees with this puzzle
+      stale[_firstEmpty] = 5;
+      await repository.saveProgress(
+        _puzzle.id,
+        SudokuProgress(
+          values: stale,
+          notes: List<Set<int>>.generate(sudokuCellCount, (_) => <int>{}),
+          elapsedSeconds: 999,
+        ),
+      );
+
+      final controller = await loadController();
+
+      expect(controller.state.values[_givenIndex], 5,
+          reason: 'the puzzle own given must win');
+      expect(controller.state.values[_firstEmpty], 0,
+          reason: 'the stale entries must not survive');
+      expect(controller.state.elapsedSeconds, 0);
+      expect(controller.state.conflicts, isEmpty,
+          reason: 'a freshly opened puzzle can never start in conflict');
+    });
+
+    test('keeps saved progress that still matches the puzzle', () async {
+      final values = List<int>.filled(sudokuCellCount, 0);
+      for (var i = 0; i < sudokuCellCount; i++) {
+        if (_puzzle.isGiven(i)) values[i] = int.parse(_givens[i]);
+      }
+      values[_firstEmpty] = 4;
+      await repository.saveProgress(
+        _puzzle.id,
+        SudokuProgress(
+          values: values,
+          notes: List<Set<int>>.generate(sudokuCellCount, (_) => <int>{}),
+          elapsedSeconds: 42,
+        ),
+      );
+
+      final controller = await loadController();
+
+      expect(controller.state.values[_firstEmpty], 4);
+      expect(controller.state.elapsedSeconds, 42);
     });
 
     test('logs puzzle_started', () async {
@@ -296,6 +353,112 @@ void main() {
     });
   });
 
+  group('clash blocking', () {
+    // The reported bug, as a test. easy_001 has a given 7 at r0c4; the
+    // player put another 7 at r8c4, the grid accepted it, and the mistake
+    // read as a fault in the puzzle. Row 0 of _givens is "53..7....",
+    // so index 4 holds a 7 and index 2 is the first empty cell in it.
+    const sevenInRow0 = 4;
+
+    test('refuses a digit that duplicates one the cell can see', () async {
+      final controller = await loadController();
+      expect(controller.state.values[sevenInRow0], 7, reason: 'fixture check');
+
+      _enter(controller, _firstEmpty, 7);
+
+      expect(controller.state.values[_firstEmpty], 0,
+          reason: 'the clashing digit must not be written');
+      expect(controller.state.blockedCells, contains(_firstEmpty));
+      expect(controller.state.blockedCells, contains(sevenInRow0),
+          reason: 'the player must be shown what refused the entry');
+    });
+
+    test('a refused tap does not cost an undo step', () async {
+      final controller = await loadController();
+      controller.selectCell(_firstEmpty);
+      controller.enterDigit(7);
+
+      expect(controller.canUndo, isFalse,
+          reason: 'a move that never happened is not undoable');
+    });
+
+    test('a legal digit is still written, and clears the block', () async {
+      final controller = await loadController();
+      _enter(controller, _firstEmpty, 7);
+      expect(controller.state.blockedCells, isNotEmpty);
+
+      _enter(controller, _firstEmpty, 4);
+
+      expect(controller.state.values[_firstEmpty], 4);
+      expect(controller.state.blockedCells, isEmpty);
+    });
+
+    test('blocking looks at columns and boxes, not just rows', () async {
+      final controller = await loadController();
+      // A cell sharing only a column with an existing digit.
+      final column = colOf(_firstEmpty);
+      final target = [
+        for (var i = 0; i < sudokuCellCount; i++)
+          if (colOf(i) == column &&
+              rowOf(i) != rowOf(_firstEmpty) &&
+              controller.state.values[i] == 0 &&
+              !_puzzle.isGiven(i))
+            i,
+      ];
+      final blocker = [
+        for (var i = 0; i < sudokuCellCount; i++)
+          if (colOf(i) == column && controller.state.values[i] != 0) i,
+      ];
+      expect(target, isNotEmpty, reason: 'fixture check');
+      expect(blocker, isNotEmpty, reason: 'fixture check');
+
+      final digit = controller.state.values[blocker.first];
+      _enter(controller, target.first, digit);
+
+      expect(controller.state.values[target.first], 0);
+      expect(controller.state.blockedCells, contains(blocker.first));
+    });
+
+    test('pencil marks are never blocked', () async {
+      final controller = await loadController();
+      controller.toggleNotesMode();
+
+      _enter(controller, _firstEmpty, 7);
+
+      expect(controller.state.notes[_firstEmpty], contains(7),
+          reason: 'a note is a hypothesis, not a commitment');
+      expect(controller.state.blockedCells, isEmpty);
+    });
+
+    test('clearing a cell by re-tapping its digit is not a clash', () async {
+      final controller = await loadController();
+      _enter(controller, _firstEmpty, 4);
+      expect(controller.state.values[_firstEmpty], 4);
+
+      _enter(controller, _firstEmpty, 4);
+
+      expect(controller.state.values[_firstEmpty], 0);
+      expect(controller.state.blockedCells, isEmpty);
+    });
+
+    test('selecting another cell clears the block highlight', () async {
+      final controller = await loadController();
+      _enter(controller, _firstEmpty, 7);
+      expect(controller.state.blockedCells, isNotEmpty);
+
+      controller.selectCell(_emptyPeer);
+
+      expect(controller.state.blockedCells, isEmpty);
+    });
+
+    test('a blocked entry is not persisted', () async {
+      final controller = await loadController();
+      _enter(controller, _firstEmpty, 7);
+
+      expect(repository.loadProgress(_puzzle.id)?.values[_firstEmpty], anyOf(0, isNull));
+    });
+  });
+
   group('feedback', () {
     test('check flags entries that disagree with the solution', () async {
       final controller = await loadController();
@@ -310,9 +473,30 @@ void main() {
     });
 
     test('conflicts surface duplicates without consulting the solution', () async {
-      final controller = await loadController();
+      // A duplicate can no longer be *typed* — entering one is refused —
+      // so this loads a grid that already contains one. That is not a
+      // contrived route: every save written before clash blocking existed
+      // can hold duplicates, and those grids must still be marked when
+      // the player reopens them.
+      final values = List<int>.filled(sudokuCellCount, 0);
+      for (var i = 0; i < sudokuCellCount; i++) {
+        if (_puzzle.isGiven(i)) values[i] = int.parse(_givens[i]);
+      }
       // Index 0 already holds a 5; index 2 is in the same row and box.
-      _enter(controller, _firstEmpty, 5);
+      values[_firstEmpty] = 5;
+      await repository.saveProgress(
+        _puzzle.id,
+        SudokuProgress(
+          values: values,
+          notes: List<Set<int>>.generate(sudokuCellCount, (_) => <int>{}),
+          elapsedSeconds: 0,
+        ),
+      );
+
+      final controller = await loadController();
+
+      expect(controller.state.values[_firstEmpty], 5,
+          reason: 'the saved grid is restored as it was');
       expect(controller.state.conflicts, containsAll([0, _firstEmpty]));
     });
 
@@ -406,6 +590,7 @@ void main() {
     test('disposing before the puzzle has loaded does not throw', () {
       final controller = SudokuController(
         repository,
+        RewardsRepository(storage),
         analytics,
         container.read(Provider((ref) => ref)),
         (difficulty: 'easy', index: 0),
@@ -426,6 +611,126 @@ void main() {
       expect(controller.state.elapsedSeconds, 0);
       expect(repository.statusFor(_puzzle.id), PuzzleStatus.notStarted);
       expect(controller.canUndo, isFalse);
+    });
+  });
+
+  group('the mistake limit', () {
+    /// A digit that is legal against every peer the cell can see, but is
+    /// not the solution's. The clash-blocked kind never reaches the
+    /// counter, so this is what a counted mistake actually looks like.
+    int wrongDigitFor(SudokuController controller, int index) {
+      final correct = int.parse(_solution[index]);
+      for (var digit = 1; digit <= sudokuSize; digit++) {
+        if (digit == correct) continue;
+        final clashes = sudokuPeers[index].any(
+          (peer) => controller.state.values[peer] == digit,
+        );
+        if (!clashes) return digit;
+      }
+      fail('no legal-but-wrong digit available for cell $index');
+    }
+
+    /// Cells the player may write in, in index order.
+    List<int> emptyCells() => [
+      for (var i = 0; i < sudokuCellCount; i++)
+        if (!_puzzle.isGiven(i)) i,
+    ];
+
+    test('a legal but wrong digit costs a life and is marked', () async {
+      final controller = await loadController();
+      final cell = emptyCells().first;
+
+      _enter(controller, cell, wrongDigitFor(controller, cell));
+
+      expect(controller.state.mistakes, 1);
+      expect(controller.state.incorrectCells, {cell});
+      expect(controller.state.isFailed, isFalse);
+    });
+
+    test('a correct digit costs nothing', () async {
+      final controller = await loadController();
+      final cell = emptyCells().first;
+
+      _enter(controller, cell, int.parse(_solution[cell]));
+
+      expect(controller.state.mistakes, 0);
+    });
+
+    test('a refused clash is not charged as a mistake', () async {
+      // The obvious duplicates are rejected outright and never land, so
+      // a spent life always means a real deduction error.
+      final controller = await loadController();
+      final cell = emptyCells().first;
+      final clashing = int.parse(_solution[sudokuPeers[cell].first]);
+
+      _enter(controller, cell, clashing);
+
+      expect(controller.state.blockedCells, isNotEmpty);
+      expect(controller.state.mistakes, 0);
+    });
+
+    test('the third mistake fails the puzzle and locks the board',
+        () async {
+      final controller = await loadController();
+      final cells = emptyCells();
+
+      for (var i = 0; i < maxMistakes; i++) {
+        _enter(controller, cells[i], wrongDigitFor(controller, cells[i]));
+      }
+      expect(controller.state.mistakes, maxMistakes);
+      expect(controller.state.isFailed, isTrue);
+
+      // Nothing else may be written, including the right answer.
+      final next = cells[maxMistakes];
+      _enter(controller, next, int.parse(_solution[next]));
+      expect(controller.state.values[next], 0);
+
+      // And no rescuing it with a hint either.
+      controller.revealHintAtSelectedCell();
+      expect(controller.state.values[next], 0);
+    });
+
+    test('a spent life survives leaving and reopening the puzzle',
+        () async {
+      // A limit that resets by backing out to the list is not a limit.
+      final first = await loadController();
+      final cell = emptyCells().first;
+      _enter(first, cell, wrongDigitFor(first, cell));
+      await Future<void>.delayed(Duration.zero);
+
+      final second = await loadController();
+      expect(second.state.mistakes, 1);
+    });
+
+    test('restart gives the lives back', () async {
+      final controller = await loadController();
+      final cell = emptyCells().first;
+      _enter(controller, cell, wrongDigitFor(controller, cell));
+
+      await controller.restart();
+
+      expect(controller.state.mistakes, 0);
+      expect(controller.state.isFailed, isFalse);
+    });
+
+    test('a hint costs a star, not a life', () async {
+      final controller = await loadController();
+      controller.revealHintAtSelectedCell();
+
+      expect(controller.state.hintsUsed, 1);
+      expect(controller.state.mistakes, 0);
+    });
+
+    test('a solved puzzle clears its attempt so a replay starts fresh',
+        () async {
+      final controller = await loadController();
+      final cell = emptyCells().first;
+      _enter(controller, cell, wrongDigitFor(controller, cell));
+      await Future<void>.delayed(Duration.zero);
+      await _solve(controller);
+
+      final replay = await loadController();
+      expect(replay.state.mistakes, 0);
     });
   });
 }

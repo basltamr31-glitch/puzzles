@@ -117,6 +117,7 @@ class CrosswordGridGenerator {
 
     return CrosswordGrid(
       puzzleId: def.id,
+      language: def.language,
       title: def.title,
       rows: def.rows,
       cols: def.cols,

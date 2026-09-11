@@ -22,6 +22,11 @@ import '../../../core/widgets/loading_indicator.dart';
 import '../../../core/widgets/primary_button.dart';
 import '../../../core/widgets/secondary_button.dart';
 import '../../puzzle_list/puzzle_list_providers.dart';
+import '../../rewards/domain/solve_reward.dart';
+import '../../rewards/presentation/widgets/lives_indicator.dart';
+import '../../rewards/presentation/widgets/out_of_lives_dialog.dart';
+import '../../rewards/presentation/widgets/reward_summary.dart';
+import '../../rewards/rewards_controller.dart';
 import '../../settings/settings_controller.dart';
 import 'controllers/sudoku_controller.dart';
 import 'widgets/sudoku_grid_view.dart';
@@ -46,6 +51,11 @@ class SudokuScreen extends ConsumerStatefulWidget {
 class _SudokuScreenState extends ConsumerState<SudokuScreen>
     with SingleTickerProviderStateMixin, WidgetsBindingObserver {
   bool _completionHandled = false;
+  bool _failureHandled = false;
+
+  /// What the solve earned, captured the moment the puzzle was finished so
+  /// the celebration can show it once the interstitial is out of the way.
+  SolveReward? _reward;
 
   /// Built eagerly in [initState], not with a `late final` initialiser.
   /// Lazily creating it means a screen the player never shook would first
@@ -104,8 +114,27 @@ class _SudokuScreenState extends ConsumerState<SudokuScreen>
 
   void _onDigit(int digit) {
     ref.read(soundServiceProvider).playKeyTap();
-    ref.read(hapticServiceProvider).play(HapticIntent.light);
     _notifier.enterDigit(digit);
+
+    // Read back rather than trusting the tap: only the controller knows
+    // whether the digit was actually written, refused as a clash, or
+    // ignored outright (a given, a finished puzzle).
+    final blocked = ref
+        .read(sudokuControllerProvider(_puzzleRef))
+        .blockedCells
+        .isNotEmpty;
+    if (!blocked) {
+      ref.read(hapticServiceProvider).play(HapticIntent.light);
+      return;
+    }
+
+    ref.read(hapticServiceProvider).play(HapticIntent.rejected);
+    // Same treatment a failed Check gets: the buzz always fires, the
+    // large positional motion is what reduced-motion settings exist to
+    // suppress.
+    if (!isReducedMotion(context)) {
+      _shakeController.forward(from: 0);
+    }
   }
 
   void _handleCheck() {
@@ -139,6 +168,12 @@ class _SudokuScreenState extends ConsumerState<SudokuScreen>
     ref.listen<SudokuGameState>(sudokuControllerProvider(_puzzleRef), (previous, next) {
       if (next.isCompleted && previous?.isCompleted != true) {
         _onPuzzleCompleted();
+      }
+      // Also fires when a failed puzzle is reopened, which is deliberate:
+      // the board is locked either way, and a locked board with no
+      // explanation on screen is just a game that has stopped responding.
+      if (next.isFailed && !_failureHandled) {
+        _onOutOfLives();
       }
     });
 
@@ -196,6 +231,8 @@ class _SudokuScreenState extends ConsumerState<SudokuScreen>
           child: Column(
             children: [
               const SizedBox(height: AppSpacing.md),
+              _MistakesRow(mistakes: state.mistakes),
+              const SizedBox(height: AppSpacing.sm),
               AnimatedBuilder(
                 animation: _shakeController,
                 builder: (context, child) {
@@ -211,6 +248,7 @@ class _SudokuScreenState extends ConsumerState<SudokuScreen>
                   selectedIndex: state.selectedIndex,
                   incorrectCells: state.incorrectCells,
                   conflicts: state.conflicts,
+                  blockedCells: state.blockedCells,
                   isCompleted: state.isCompleted,
                   onCellTap: _onCellTap,
                 ),
@@ -237,14 +275,18 @@ class _SudokuScreenState extends ConsumerState<SudokuScreen>
               SudokuNumberPad(
                 remainingByDigit: state.remainingByDigit,
                 notesMode: state.notesMode,
-                enabled: !state.isCompleted,
+                // A failed board is read-only, and a pad that still
+                // lights up on tap would suggest otherwise.
+                enabled: !state.isCompleted && !state.isFailed,
                 onDigit: _onDigit,
               ),
               const SizedBox(height: AppSpacing.md),
               SecondaryButton(
                 label: l10n.checkButton,
                 icon: Icons.check_circle_outline_rounded,
-                onPressed: state.isCompleted ? null : _handleCheck,
+                onPressed: state.isCompleted || state.isFailed
+                    ? null
+                    : _handleCheck,
               ),
               const SizedBox(height: AppSpacing.lg),
             ],
@@ -351,9 +393,49 @@ class _SudokuScreenState extends ConsumerState<SudokuScreen>
     ref.read(analyticsServiceProvider).logEvent(AnalyticsEvents.hintUsed);
   }
 
+  /// Locks the run down and tells the player why. Restart is offered
+  /// right here rather than sending them back to the list first: wanting
+  /// another go is the overwhelmingly likely next move.
+  void _onOutOfLives() {
+    if (_failureHandled) return;
+    _failureHandled = true;
+
+    ref.read(hapticServiceProvider).play(HapticIntent.heavy);
+    showDialog<void>(
+      context: context,
+      barrierDismissible: false,
+      builder: (dialogContext) => OutOfLivesDialog(
+        onRestart: () {
+          Navigator.of(dialogContext).pop();
+          _failureHandled = false;
+          _notifier.restart();
+        },
+        onBackToPuzzles: () {
+          Navigator.of(dialogContext).pop();
+          context.pop();
+        },
+      ),
+    );
+  }
+
   Future<void> _onPuzzleCompleted() async {
     if (_completionHandled) return;
     _completionHandled = true;
+
+    // Banked before the interstitial: an ad failing to load, or the
+    // player killing the app while one is on screen, must not be able to
+    // cost them the solve they just earned.
+    final state = ref.read(sudokuControllerProvider(_puzzleRef));
+    final puzzleId = state.puzzle?.id;
+    if (puzzleId != null) {
+      _reward = ref
+          .read(rewardsControllerProvider.notifier)
+          .recordSolve(
+            puzzleId: puzzleId,
+            mistakes: state.mistakes,
+            hintsUsed: state.hintsUsed,
+          );
+    }
 
     ref.read(hapticServiceProvider).play(HapticIntent.heavy);
     await ref.read(adPolicyProvider).recordPuzzleCompleted();
@@ -375,6 +457,7 @@ class _SudokuScreenState extends ConsumerState<SudokuScreen>
       builder: (dialogContext) => _CompletionCelebration(
         l10n: l10n,
         elapsedSeconds: state.elapsedSeconds,
+        reward: _reward,
         onBackToPuzzles: () {
           Navigator.of(dialogContext).pop();
           context.pop();
@@ -388,6 +471,34 @@ class _SudokuScreenState extends ConsumerState<SudokuScreen>
               }
             : null,
       ),
+    );
+  }
+}
+
+/// The mistake budget, above the grid rather than in the app bar: three
+/// hearts alongside an elapsed timer and two icon buttons is more than a
+/// 320dp app bar can hold, and the number the player is watching should
+/// not be the first thing to get squeezed.
+class _MistakesRow extends StatelessWidget {
+  const _MistakesRow({required this.mistakes});
+
+  final int mistakes;
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    final l10n = AppLocalizations.of(context);
+    return Row(
+      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+      children: [
+        Text(
+          l10n.mistakesLabel,
+          style: theme.textTheme.labelLarge?.copyWith(
+            color: theme.colorScheme.onSurfaceVariant,
+          ),
+        ),
+        LivesIndicator(mistakes: mistakes),
+      ],
     );
   }
 }
@@ -415,7 +526,9 @@ class _ControlRow extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context);
-    final enabled = !state.isCompleted;
+    // A run that is out of lives is over in both directions: no more
+    // entries, and no spending a hint to rescue it either.
+    final enabled = !state.isCompleted && !state.isFailed;
 
     return Row(
       mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -562,12 +675,18 @@ class _CompletionCelebration extends StatelessWidget {
   const _CompletionCelebration({
     required this.l10n,
     required this.elapsedSeconds,
+    required this.reward,
     required this.onBackToPuzzles,
     required this.onNextPuzzle,
   });
 
   final AppLocalizations l10n;
   final int elapsedSeconds;
+
+  /// Null only if the puzzle finished before its id was known, which
+  /// should not happen — the celebration degrades to the old
+  /// time-only layout rather than throwing on the player's best moment.
+  final SolveReward? reward;
   final VoidCallback onBackToPuzzles;
   final VoidCallback? onNextPuzzle;
 
@@ -628,11 +747,14 @@ class _CompletionCelebration extends StatelessWidget {
               ),
             ),
             const SizedBox(height: AppSpacing.xl),
-            Text(
-              l10n.puzzleCompletedTitle,
-              style: theme.textTheme.headlineSmall,
-              textAlign: TextAlign.center,
-            ),
+            if (reward != null)
+              RewardSummary(reward: reward!)
+            else
+              Text(
+                l10n.puzzleCompletedTitle,
+                style: theme.textTheme.headlineSmall,
+                textAlign: TextAlign.center,
+              ),
             const SizedBox(height: AppSpacing.sm),
             Text(
               l10n.puzzleCompletedTime(_ElapsedLabel.format(elapsedSeconds)),

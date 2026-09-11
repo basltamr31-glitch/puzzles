@@ -292,6 +292,36 @@ abstract class AppLocalizations {
   /// **'Zoom out'**
   String get zoomOutButton;
 
+  /// No description provided for @zoomAreaLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Zoom area'**
+  String get zoomAreaLabel;
+
+  /// No description provided for @zoomAreaTopLeft.
+  ///
+  /// In en, this message translates to:
+  /// **'Top left'**
+  String get zoomAreaTopLeft;
+
+  /// No description provided for @zoomAreaTopRight.
+  ///
+  /// In en, this message translates to:
+  /// **'Top right'**
+  String get zoomAreaTopRight;
+
+  /// No description provided for @zoomAreaBottomLeft.
+  ///
+  /// In en, this message translates to:
+  /// **'Bottom left'**
+  String get zoomAreaBottomLeft;
+
+  /// No description provided for @zoomAreaBottomRight.
+  ///
+  /// In en, this message translates to:
+  /// **'Bottom right'**
+  String get zoomAreaBottomRight;
+
   /// No description provided for @restartConfirmTitle.
   ///
   /// In en, this message translates to:
@@ -675,6 +705,210 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Confirm'**
   String get confirmButton;
+
+  /// No description provided for @mistakesLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Mistakes'**
+  String get mistakesLabel;
+
+  /// No description provided for @livesRemaining.
+  ///
+  /// In en, this message translates to:
+  /// **'{remaining} of {max} lives left'**
+  String livesRemaining(int remaining, int max);
+
+  /// No description provided for @outOfLivesTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Out of lives'**
+  String get outOfLivesTitle;
+
+  /// No description provided for @outOfLivesMessage.
+  ///
+  /// In en, this message translates to:
+  /// **'That is {max} mistakes. Start this puzzle again to have another go.'**
+  String outOfLivesMessage(int max);
+
+  /// No description provided for @outOfLivesTryAgain.
+  ///
+  /// In en, this message translates to:
+  /// **'Try again'**
+  String get outOfLivesTryAgain;
+
+  /// No description provided for @rewardHeadlineFlawless.
+  ///
+  /// In en, this message translates to:
+  /// **'Flawless!'**
+  String get rewardHeadlineFlawless;
+
+  /// No description provided for @rewardHeadlineGreat.
+  ///
+  /// In en, this message translates to:
+  /// **'Great solve!'**
+  String get rewardHeadlineGreat;
+
+  /// No description provided for @rewardHeadlineSolved.
+  ///
+  /// In en, this message translates to:
+  /// **'Solved!'**
+  String get rewardHeadlineSolved;
+
+  /// No description provided for @rewardNoMistakes.
+  ///
+  /// In en, this message translates to:
+  /// **'No mistakes'**
+  String get rewardNoMistakes;
+
+  /// No description provided for @rewardMistakesMade.
+  ///
+  /// In en, this message translates to:
+  /// **'{count, plural, =1{1 mistake} other{{count} mistakes}}'**
+  String rewardMistakesMade(int count);
+
+  /// No description provided for @rewardStreakDays.
+  ///
+  /// In en, this message translates to:
+  /// **'{days, plural, =1{1-day streak} other{{days}-day streak}}'**
+  String rewardStreakDays(int days);
+
+  /// No description provided for @rewardBestStreak.
+  ///
+  /// In en, this message translates to:
+  /// **'New best streak: {days}'**
+  String rewardBestStreak(int days);
+
+  /// No description provided for @rewardBadgeUnlocked.
+  ///
+  /// In en, this message translates to:
+  /// **'New badge: {badge}'**
+  String rewardBadgeUnlocked(String badge);
+
+  /// No description provided for @rewardStarsEarned.
+  ///
+  /// In en, this message translates to:
+  /// **'{stars} of {max} stars'**
+  String rewardStarsEarned(int stars, int max);
+
+  /// No description provided for @achievementsTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Progress'**
+  String get achievementsTitle;
+
+  /// No description provided for @achievementsStreakLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Day streak'**
+  String get achievementsStreakLabel;
+
+  /// No description provided for @achievementsSolvedLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Puzzles solved'**
+  String get achievementsSolvedLabel;
+
+  /// No description provided for @achievementsStarsLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Stars earned'**
+  String get achievementsStarsLabel;
+
+  /// No description provided for @achievementsBestStreakLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Best streak'**
+  String get achievementsBestStreakLabel;
+
+  /// No description provided for @achievementsBadgesTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Badges'**
+  String get achievementsBadgesTitle;
+
+  /// No description provided for @achievementsEarnedSemantics.
+  ///
+  /// In en, this message translates to:
+  /// **'{badge}, earned'**
+  String achievementsEarnedSemantics(String badge);
+
+  /// No description provided for @achievementsLockedSemantics.
+  ///
+  /// In en, this message translates to:
+  /// **'{badge}, locked'**
+  String achievementsLockedSemantics(String badge);
+
+  /// No description provided for @achievementFirstSolveTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'First solve'**
+  String get achievementFirstSolveTitle;
+
+  /// No description provided for @achievementFirstSolveDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Finish your first puzzle'**
+  String get achievementFirstSolveDescription;
+
+  /// No description provided for @achievementTenSolvesTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Getting warm'**
+  String get achievementTenSolvesTitle;
+
+  /// No description provided for @achievementTenSolvesDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Finish 10 puzzles'**
+  String get achievementTenSolvesDescription;
+
+  /// No description provided for @achievementFiftySolvesTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Regular'**
+  String get achievementFiftySolvesTitle;
+
+  /// No description provided for @achievementFiftySolvesDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Finish 50 puzzles'**
+  String get achievementFiftySolvesDescription;
+
+  /// No description provided for @achievementHundredSolvesTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Centurion'**
+  String get achievementHundredSolvesTitle;
+
+  /// No description provided for @achievementHundredSolvesDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Finish 100 puzzles'**
+  String get achievementHundredSolvesDescription;
+
+  /// No description provided for @achievementFlawlessFiveTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Perfectionist'**
+  String get achievementFlawlessFiveTitle;
+
+  /// No description provided for @achievementFlawlessFiveDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Earn three stars on 5 puzzles'**
+  String get achievementFlawlessFiveDescription;
+
+  /// No description provided for @achievementWeekStreakTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Seven days'**
+  String get achievementWeekStreakTitle;
+
+  /// No description provided for @achievementWeekStreakDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Play 7 days in a row'**
+  String get achievementWeekStreakDescription;
 }
 
 class _AppLocalizationsDelegate

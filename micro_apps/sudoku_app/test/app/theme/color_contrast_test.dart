@@ -43,11 +43,16 @@ void main() {
   const light = SudokuColors.light;
   const dark = SudokuColors.dark;
 
-  /// Every background a digit can sit on in light mode.
+  /// Every background a *normal* digit can sit on, per theme.
+  ///
+  /// The selected and conflicting cells are deliberately absent: both are
+  /// filled strongly enough that they carry their own digit colour
+  /// ([SudokuColors.digitOnSelected] / [SudokuColors.digitIncorrect]),
+  /// which is what lets those fills be bold enough to actually see. They
+  /// are asserted separately below.
   const lightCellBackgrounds = <String, Color>{
     'normal cell': AppColors.cellBackgroundLight,
     'given cell': AppColors.cellGivenLight,
-    'selected cell': AppColors.cellSelectedLight,
     'peer cell': AppColors.cellPeerLight,
     'same-value cell': AppColors.cellSameValueLight,
   };
@@ -55,138 +60,146 @@ void main() {
   const darkCellBackgrounds = <String, Color>{
     'normal cell': AppColors.cellBackgroundDark,
     'given cell': AppColors.cellGivenDark,
-    'selected cell': AppColors.cellSelectedDark,
     'peer cell': AppColors.cellPeerDark,
     'same-value cell': AppColors.cellSameValueDark,
   };
 
-  /// The two teal-on-teal combinations that currently miss WCAG AA, kept
-  /// as *named* exceptions rather than by lowering the bar for everything.
+  /// How far each cell state must sit from a plain, untouched cell.
   ///
-  /// Both are the player's own teal digit on a teal highlight:
-  ///   entered digit on the selected cell     4.34 (AA wants 4.50)
-  ///   entered digit on a same-value cell     4.35 (AA wants 4.50)
-  ///   incorrect digit on the selected cell   2.98 (wants 3.00)
-  ///   incorrect digit on a same-value cell   2.99 (wants 3.00)
-  ///
-  /// Lightening `cellSelectedLight` fixes the ratios but costs the thing
-  /// that makes the selection obvious: at #CCFBF1 the selected cell is
-  /// only 35 channel-steps from a peer cell instead of 92, so the
-  /// highlight stops reading as "you are here". The palette is deliberately
-  /// left as-is; these bounds pin the current values so a *further*
-  /// regression still fails.
-  const knownShortfallFloor = 4.3;
-  const knownIncorrectFloor = 2.9;
-  const nearMissBackgrounds = {'selected cell', 'same-value cell'};
+  /// This is the test that matters for "I tap a cell and cannot tell what
+  /// lit up". The tints form a deliberate ramp — a given is a whisper, a
+  /// peer is a clear tint, a same-value cell is clearly stronger again,
+  /// and the selection is unmistakable. Before this ramp existed a light
+  /// peer cell sat 56 steps from a plain cell and only 12 from a given
+  /// cell, so the row/column highlight was invisible in practice.
+  const minVisibility = <String, int>{
+    'given': 30,
+    'peer': 90,
+    'sameValue': 150,
+    'selected': 230,
+    'conflict': 70,
+  };
 
-  group('light-mode grid legibility', () {
-    test("the puzzle's own digits read on every cell state", () {
-      lightCellBackgrounds.forEach((name, background) {
+  void assertRamp(String theme, SudokuColors c) {
+    group('$theme: every cell state is visible against a plain cell', () {
+      test('each state clears its own visibility floor', () {
+        final measured = <String, int>{
+          'given': _channelDistance(c.cellGiven, c.cellBackground),
+          'peer': _channelDistance(c.cellPeer, c.cellBackground),
+          'sameValue': _channelDistance(c.cellSameValue, c.cellBackground),
+          'selected': _channelDistance(c.cellSelected, c.cellBackground),
+          'conflict': _channelDistance(c.cellConflict, c.cellBackground),
+        };
+        measured.forEach((name, value) {
+          expect(
+            value,
+            greaterThanOrEqualTo(minVisibility[name]!),
+            reason: '$theme $name is only $value steps from a plain cell',
+          );
+        });
+      });
+
+      test('the ramp is strictly increasing, so each state outranks the last', () {
+        final given = _channelDistance(c.cellGiven, c.cellBackground);
+        final peer = _channelDistance(c.cellPeer, c.cellBackground);
+        final same = _channelDistance(c.cellSameValue, c.cellBackground);
+        final selected = _channelDistance(c.cellSelected, c.cellBackground);
+        expect(peer, greaterThan(given));
+        expect(same, greaterThan(peer));
+        expect(selected, greaterThan(same));
+      });
+
+      test('adjacent states are told apart, not just ordered', () {
+        // The bug this pins: a peer cell that looks exactly like a given
+        // cell. Ordering alone would not have caught it — the two were 12
+        // steps apart and both "correct" relative to a plain cell.
         expect(
-          _contrast(light.digitGiven, background),
-          greaterThanOrEqualTo(4.5),
-          reason: 'given digit on $name',
+          _channelDistance(c.cellPeer, c.cellGiven),
+          greaterThan(45),
+          reason: '$theme peer vs given',
+        );
+        expect(
+          _channelDistance(c.cellSameValue, c.cellPeer),
+          greaterThan(55),
+          reason: '$theme same-value vs peer',
+        );
+        expect(
+          _channelDistance(c.cellSelected, c.cellSameValue),
+          greaterThan(60),
+          reason: '$theme selected vs same-value',
+        );
+        expect(
+          _channelDistance(c.cellConflict, c.cellSameValue),
+          greaterThan(60),
+          reason: '$theme conflict vs same-value',
         );
       });
-    });
 
-    test("the player's digits read on every cell state", () {
-      lightCellBackgrounds.forEach((name, background) {
-        final floor = nearMissBackgrounds.contains(name) ? knownShortfallFloor : 4.5;
-        expect(
-          _contrast(light.digitEntered, background),
-          greaterThanOrEqualTo(floor),
-          reason: 'entered digit on $name',
-        );
+      test('the selection ring reads against the cell it encircles', () {
+        expect(_contrast(c.cellSelectedBorder, c.cellSelected),
+            greaterThanOrEqualTo(3.0));
       });
     });
+  }
 
-    test('an incorrect digit reads on every cell state', () {
-      lightCellBackgrounds.forEach((name, background) {
-        final floor =
-            nearMissBackgrounds.contains(name) ? knownIncorrectFloor : 3.0;
-        expect(
-          _contrast(light.digitIncorrect, background),
-          greaterThanOrEqualTo(floor),
-          reason: 'incorrect digit on $name',
-        );
+  assertRamp('light mode', light);
+  assertRamp('dark mode', dark);
+
+  void assertLegibility(
+    String theme,
+    SudokuColors c,
+    Map<String, Color> backgrounds,
+  ) {
+    group('$theme grid legibility', () {
+      test("the puzzle's own digits read on every cell state", () {
+        backgrounds.forEach((name, background) {
+          expect(_contrast(c.digitGiven, background),
+              greaterThanOrEqualTo(4.5), reason: 'given digit on $name');
+        });
+      });
+
+      test("the player's digits read on every cell state", () {
+        backgrounds.forEach((name, background) {
+          expect(_contrast(c.digitEntered, background),
+              greaterThanOrEqualTo(4.5), reason: 'entered digit on $name');
+        });
+      });
+
+      // No exceptions list any more. The selected and conflicting cells
+      // used to be the two that could not clear AA; giving each its own
+      // digit colour is what removed the compromise.
+      test("the selected cell digit reads on the selection fill", () {
+        expect(_contrast(c.digitOnSelected, c.cellSelected),
+            greaterThanOrEqualTo(4.5));
+      });
+
+      test('a wrong digit reads on the conflict wash', () {
+        expect(_contrast(c.digitIncorrect, c.cellConflict),
+            greaterThanOrEqualTo(4.5));
+      });
+
+      test('pencil marks stay readable everywhere they can appear', () {
+        // Notes only render in an *empty* cell, so they can never sit on
+        // a same-value fill — that state requires a matching digit.
+        expect(_contrast(c.noteText, c.cellBackground),
+            greaterThanOrEqualTo(4.5), reason: 'notes on a plain cell');
+        expect(_contrast(c.noteText, c.cellPeer),
+            greaterThanOrEqualTo(4.5), reason: 'notes on a peer cell');
+        expect(_contrast(c.digitOnSelected, c.cellSelected),
+            greaterThanOrEqualTo(4.5), reason: 'notes on the selected cell');
       });
     });
+  }
 
-    test('pencil marks stay readable on an empty cell', () {
-      expect(
-        _contrast(light.noteText, AppColors.cellBackgroundLight),
-        greaterThanOrEqualTo(4.5),
-      );
-    });
-  });
+  assertLegibility('light-mode', light, lightCellBackgrounds);
+  assertLegibility('dark-mode', dark, darkCellBackgrounds);
 
-  group('dark-mode grid legibility', () {
-    test("the puzzle's own digits read on every cell state", () {
-      darkCellBackgrounds.forEach((name, background) {
-        expect(
-          _contrast(dark.digitGiven, background),
-          greaterThanOrEqualTo(4.5),
-          reason: 'given digit on $name',
-        );
-      });
-    });
-
-    test("the player's digits read on every cell state", () {
-      darkCellBackgrounds.forEach((name, background) {
-        expect(
-          _contrast(dark.digitEntered, background),
-          greaterThanOrEqualTo(4.5),
-          reason: 'entered digit on $name',
-        );
-      });
-    });
-  });
-
-  group('cell states are distinguishable from each other', () {
-    // Selection, peers, and matching digits are three different pieces of
-    // information. If two of them look alike the highlight means nothing.
-    test('light mode: selected, peer, and same-value are visibly different', () {
-      expect(
-        _channelDistance(AppColors.cellSelectedLight, AppColors.cellPeerLight),
-        greaterThan(60),
-      );
-      expect(
-        _channelDistance(AppColors.cellSameValueLight, AppColors.cellPeerLight),
-        greaterThan(25),
-      );
-      expect(
-        _channelDistance(AppColors.cellSelectedLight, AppColors.cellSameValueLight),
-        greaterThan(40),
-      );
-      // A given cell is meant to be a whisper apart from an empty one, not
-      // a different colour — but it must not be identical either.
-      expect(
-        _channelDistance(AppColors.cellGivenLight, AppColors.cellBackgroundLight),
-        greaterThan(20),
-      );
-    });
-
-    test('dark mode: selected, peer, and same-value are visibly different', () {
-      expect(
-        _channelDistance(AppColors.cellSelectedDark, AppColors.cellPeerDark),
-        greaterThan(60),
-      );
-      expect(
-        _channelDistance(AppColors.cellSameValueDark, AppColors.cellPeerDark),
-        greaterThan(25),
-      );
-    });
-
+  group('box separators', () {
     test('the box separators read against the cells they divide', () {
-      expect(
-        _contrast(light.gridBorder, AppColors.cellBackgroundLight),
-        greaterThan(2.0),
-      );
-      expect(
-        _contrast(dark.gridBorder, AppColors.cellBackgroundDark),
-        greaterThan(2.0),
-      );
+      expect(_contrast(light.gridBorder, AppColors.cellBackgroundLight),
+          greaterThan(2.0));
+      expect(_contrast(dark.gridBorder, AppColors.cellBackgroundDark),
+          greaterThan(2.0));
     });
   });
 

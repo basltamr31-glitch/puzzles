@@ -20,6 +20,7 @@ class SudokuGridView extends StatelessWidget {
     required this.selectedIndex,
     required this.incorrectCells,
     required this.conflicts,
+    required this.blockedCells,
     required this.isCompleted,
     required this.onCellTap,
   });
@@ -30,6 +31,10 @@ class SudokuGridView extends StatelessWidget {
   final int? selectedIndex;
   final Set<int> incorrectCells;
   final Set<int> conflicts;
+
+  /// The refused entry and what refused it, shown until the next action.
+  final Set<int> blockedCells;
+
   final bool isCompleted;
   final void Function(int index) onCellTap;
 
@@ -78,7 +83,8 @@ class SudokuGridView extends StatelessWidget {
                                   values[index] == selectedValue &&
                                   index != selected,
                               isIncorrect: incorrectCells.contains(index),
-                              isConflicting: conflicts.contains(index),
+                              isConflicting: conflicts.contains(index) ||
+                                  blockedCells.contains(index),
                               isCompleted: isCompleted,
                               cellSize: cellSize,
                               onTap: () => onCellTap(index),
@@ -146,11 +152,17 @@ class _SudokuCellView extends StatelessWidget {
   Widget build(BuildContext context) {
     final colors = context.sudokuColors;
 
-    // Ordered by how much the player needs to see it: their own selection
-    // beats digit-matching, which beats the row/column/box tint, which
-    // beats the flat "this is a clue" shading.
+    // Ordered by how much the player needs to see it. A mistake outranks
+    // everything — including the selection, whose ring still marks the
+    // cell — because a duplicate digit is the one thing in the grid that
+    // must never be missable. Below that: their own selection, then
+    // digit-matching, then the row/column/box tint, then the flat "this
+    // is a clue" shading.
+    final isMistake = isIncorrect || isConflicting;
     final Color background;
-    if (isSelected) {
+    if (isMistake) {
+      background = colors.cellConflict;
+    } else if (isSelected) {
       background = colors.cellSelected;
     } else if (isSameValue) {
       background = colors.cellSameValue;
@@ -162,14 +174,25 @@ class _SudokuCellView extends StatelessWidget {
       background = colors.cellBackground;
     }
 
+    // Must follow the same order as the fill above: each of these colours
+    // is only guaranteed to be readable on the fill it pairs with.
     final Color digitColor;
-    if (isIncorrect || isConflicting) {
+    if (isMistake) {
       digitColor = colors.digitIncorrect;
+    } else if (isSelected) {
+      digitColor = colors.digitOnSelected;
     } else if (isGiven) {
       digitColor = colors.digitGiven;
     } else {
       digitColor = colors.digitEntered;
     }
+
+    // The selection ring. Drawn as a border rather than only a fill so
+    // that selection survives the red mistake wash taking the fill over,
+    // and so the fill never has to be dark enough to hurt the digit.
+    final Border border = isSelected
+        ? Border.all(color: colors.cellSelectedBorder, width: 2.5)
+        : Border.all(color: colors.cellBorder, width: 0.5);
 
     return Semantics(
       button: true,
@@ -185,7 +208,7 @@ class _SudokuCellView extends StatelessWidget {
           duration: const Duration(milliseconds: 120),
           decoration: BoxDecoration(
             color: background,
-            border: Border.all(color: colors.cellBorder, width: 0.5),
+            border: border,
           ),
           child: Center(
             child: value != 0
@@ -204,7 +227,11 @@ class _SudokuCellView extends StatelessWidget {
                 : _NoteMarks(
                     notes: notes,
                     cellSize: cellSize,
-                    color: colors.noteText,
+                    // Pencil marks on the selected cell sit on its strong
+                    // fill, where the ordinary note colour would vanish.
+                    color: isSelected
+                        ? colors.digitOnSelected
+                        : colors.noteText,
                   ),
           ),
         ),

@@ -20,7 +20,13 @@ class GoogleMobileAdsService implements AdService {
   final AdPolicy _policy;
 
   static const _loadTimeout = Duration(seconds: 8);
-  static const _showTimeout = Duration(seconds: 30);
+
+  /// Deliberately far longer than any ad. This is a stuck-callback
+  /// backstop, *not* a limit on how long the player may watch: at 30
+  /// seconds it expired while a normal rewarded video was still playing,
+  /// so the hint was reported unavailable and never granted no matter how
+  /// many ads were watched to the end.
+  static const _showTimeout = Duration(minutes: 5);
 
   @override
   Widget buildBanner({required String placementId}) {
@@ -83,18 +89,24 @@ class GoogleMobileAdsService implements AdService {
       onAdFailedToShowFullScreenContent: (ad, error) {
         ad.dispose();
         if (!completer.isCompleted) {
-          completer.complete(RewardedAdResult.unavailable);
+          completer.complete(_resultFor(earnedReward));
         }
       },
     );
 
     await ad.show(onUserEarnedReward: (ad, reward) => earnedReward = true);
 
+    // Once the SDK has said the reward was earned it is owed, whatever
+    // happens to the dismissal callback afterwards — a reward that was
+    // earned is never downgraded by a timeout.
     return completer.future.timeout(
       _showTimeout,
-      onTimeout: () => RewardedAdResult.unavailable,
+      onTimeout: () => _resultFor(earnedReward),
     );
   }
+
+  static RewardedAdResult _resultFor(bool earnedReward) =>
+      earnedReward ? RewardedAdResult.rewarded : RewardedAdResult.unavailable;
 
   Future<InterstitialAd?> _loadInterstitial(String adUnitId) {
     final completer = Completer<InterstitialAd?>();

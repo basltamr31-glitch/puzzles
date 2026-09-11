@@ -332,4 +332,137 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get confirmButton => 'Confirmar';
+
+  @override
+  String get mistakesLabel => 'Errores';
+
+  @override
+  String livesRemaining(int remaining, int max) {
+    return '$remaining de $max vidas restantes';
+  }
+
+  @override
+  String get outOfLivesTitle => 'Sin vidas';
+
+  @override
+  String outOfLivesMessage(int max) {
+    return 'Son $max errores. Reinicia este puzle para intentarlo de nuevo.';
+  }
+
+  @override
+  String get outOfLivesTryAgain => 'Intentar de nuevo';
+
+  @override
+  String get rewardHeadlineFlawless => '¡Impecable!';
+
+  @override
+  String get rewardHeadlineGreat => '¡Gran resolución!';
+
+  @override
+  String get rewardHeadlineSolved => '¡Resuelto!';
+
+  @override
+  String get rewardNoMistakes => 'Sin errores';
+
+  @override
+  String rewardMistakesMade(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count errores',
+      one: '1 error',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String rewardStreakDays(int days) {
+    String _temp0 = intl.Intl.pluralLogic(
+      days,
+      locale: localeName,
+      other: 'racha de $days días',
+      one: 'racha de 1 día',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String rewardBestStreak(int days) {
+    return 'Nueva mejor racha: $days';
+  }
+
+  @override
+  String rewardBadgeUnlocked(String badge) {
+    return 'Nueva insignia: $badge';
+  }
+
+  @override
+  String rewardStarsEarned(int stars, int max) {
+    return '$stars de $max estrellas';
+  }
+
+  @override
+  String get achievementsTitle => 'Progreso';
+
+  @override
+  String get achievementsStreakLabel => 'Racha de días';
+
+  @override
+  String get achievementsSolvedLabel => 'Puzles resueltos';
+
+  @override
+  String get achievementsStarsLabel => 'Estrellas ganadas';
+
+  @override
+  String get achievementsBestStreakLabel => 'Mejor racha';
+
+  @override
+  String get achievementsBadgesTitle => 'Insignias';
+
+  @override
+  String achievementsEarnedSemantics(String badge) {
+    return '$badge, conseguida';
+  }
+
+  @override
+  String achievementsLockedSemantics(String badge) {
+    return '$badge, bloqueada';
+  }
+
+  @override
+  String get achievementFirstSolveTitle => 'Primera victoria';
+
+  @override
+  String get achievementFirstSolveDescription => 'Termina tu primer puzle';
+
+  @override
+  String get achievementTenSolvesTitle => 'Cogiendo ritmo';
+
+  @override
+  String get achievementTenSolvesDescription => 'Termina 10 puzles';
+
+  @override
+  String get achievementFiftySolvesTitle => 'Habitual';
+
+  @override
+  String get achievementFiftySolvesDescription => 'Termina 50 puzles';
+
+  @override
+  String get achievementHundredSolvesTitle => 'Centenar';
+
+  @override
+  String get achievementHundredSolvesDescription => 'Termina 100 puzles';
+
+  @override
+  String get achievementFlawlessFiveTitle => 'Perfeccionista';
+
+  @override
+  String get achievementFlawlessFiveDescription =>
+      'Consigue tres estrellas en 5 puzles';
+
+  @override
+  String get achievementWeekStreakTitle => 'Siete días';
+
+  @override
+  String get achievementWeekStreakDescription => 'Juega 7 días seguidos';
 }

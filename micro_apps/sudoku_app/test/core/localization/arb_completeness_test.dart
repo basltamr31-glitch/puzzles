@@ -110,6 +110,9 @@ void main() {
           'settingsAbout',
           'errorGeneric',
           'settingsPrivacy',
+          // "Badges" is the word French actually uses here; a
+          // synonym picked only to look translated would be worse.
+          'achievementsBadgesTitle',
         };
         if (code == 'en') return;
 

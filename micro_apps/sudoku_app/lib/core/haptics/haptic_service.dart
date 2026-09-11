@@ -17,6 +17,12 @@ enum HapticIntent {
   /// More consequential: an incorrect-answer check result.
   medium,
 
+  /// "That move is not allowed" — a digit refused because it would
+  /// duplicate one the cell can already see. Deliberately not an impact:
+  /// a buzz is qualitatively different from the taps that confirm a
+  /// successful action, so a rejection never feels like a soft success.
+  rejected,
+
   /// Rare, major, celebratory: puzzle completion.
   heavy,
 }
@@ -44,6 +50,8 @@ class SystemHapticService implements HapticService {
         HapticFeedback.lightImpact();
       case HapticIntent.medium:
         HapticFeedback.mediumImpact();
+      case HapticIntent.rejected:
+        HapticFeedback.vibrate();
       case HapticIntent.heavy:
         HapticFeedback.heavyImpact();
     }

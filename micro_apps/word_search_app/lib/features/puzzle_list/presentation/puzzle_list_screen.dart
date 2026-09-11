@@ -11,6 +11,8 @@ import '../../../core/haptics/haptic_service.dart';
 import '../../../core/localization/generated/app_localizations.dart';
 import '../../../core/widgets/app_card.dart';
 import '../../../core/widgets/app_scaffold.dart';
+import '../../rewards/presentation/widgets/star_rating.dart';
+import '../../rewards/rewards_controller.dart';
 import '../../../core/widgets/decorative_art.dart';
 import '../../../core/widgets/empty_state.dart';
 import '../../../core/widgets/error_state.dart';
@@ -56,6 +58,11 @@ class PuzzleListScreen extends ConsumerWidget {
       title: l10n.puzzleListTitle(difficultyLabel(l10n, difficulty)),
       showBackButton: false,
       actions: [
+        IconButton(
+          onPressed: () => context.push('/progress'),
+          icon: const Icon(Icons.emoji_events_outlined),
+          tooltip: l10n.achievementsTitle,
+        ),
         IconButton(
           onPressed: () => context.push('/settings'),
           icon: const Icon(Icons.settings_outlined),
@@ -111,6 +118,17 @@ class PuzzleListScreen extends ConsumerWidget {
                       final index = rawIndex - 1;
                       final summary = summaries[index];
                       final isLocked = isPuzzleLocked(summaries, index);
+                      // Watched, not read: finishing a puzzle and
+                      // coming straight back should show the stars it
+                      // earned without the list being rebuilt from
+                      // storage first.
+                      final stars = ref.watch(
+                        rewardsControllerProvider.select(
+                          (_) => ref
+                              .read(rewardsControllerProvider.notifier)
+                              .starsFor(summary.id),
+                        ),
+                      );
                       return AppCard(
                         onTap: () {
                           if (isLocked) {
@@ -175,14 +193,26 @@ class PuzzleListScreen extends ConsumerWidget {
                                   ],
                                 ),
                               ),
-                              Text(
-                                isLocked
-                                    ? l10n.puzzleStatusLocked
-                                    : _statusLabel(l10n, summary.status),
-                                style: theme.textTheme.labelMedium?.copyWith(
-                                  color: theme.colorScheme.onSurfaceVariant,
+                              // A solved puzzle shows what it was
+                              // solved *for*. "Completed" is the same
+                              // word on every row; the stars are the
+                              // part worth scrolling back to improve.
+                              if (!isLocked &&
+                                  summary.status == PuzzleStatus.completed &&
+                                  stars > 0)
+                                StarRating(stars: stars, size: 16)
+                              else
+                                Text(
+                                  isLocked
+                                      ? l10n.puzzleStatusLocked
+                                      : _statusLabel(l10n, summary.status),
+                                  style: theme.textTheme.labelMedium
+                                      ?.copyWith(
+                                        color: theme
+                                            .colorScheme
+                                            .onSurfaceVariant,
+                                      ),
                                 ),
-                              ),
                             ],
                           ),
                         ),

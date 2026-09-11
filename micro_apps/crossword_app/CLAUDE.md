@@ -29,6 +29,8 @@ App/product identity is fixed: `com.baslt.crossword_app`, product ID
 4. **UI language list and game language list are separate.**
    `supportedUILanguageCodes` (translated chrome) vs
    `supportedGameLanguageCodes` (has puzzle content). They may diverge.
+   The *lists* stay separate; the defaults no longer are — an unset UI
+   language follows the chosen game language before the device locale.
 5. **Ad unit IDs are never committed.** They come from `--dart-define`;
    debug falls back to Google test units, release falls back to empty.
 6. **Prices are not hardcoded.** The store reports them; bundled strings
@@ -255,6 +257,33 @@ that — so reaching the end of a case *is* the assertion. Every layout bug
 listed above was found by it, not by looking at screenshots. Add new
 screens to it rather than checking them by eye.
 
+- **The board's reading direction comes from the *puzzle*, not the app.**
+  `CrosswordGridView` sets its own `Directionality` from
+  `grid.language`. Inheriting the ambient one is wrong in both
+  directions, because the UI language and the game language are picked
+  separately: an Arabic player on an English phone had every across
+  answer drawn backwards (first letter on the left), and an English board
+  under an Arabic UI would mirror the same way. `crossword_grid_direction_test.dart`
+  pins both halves. Clue numbering needs no special case — scanning
+  row-major in a mirrored board *is* the Arabic convention.
+- **The UI language falls back to the game language.** Resolution order is
+  explicit Settings choice > game language (if the UI is translated into
+  it) > device locale > English. Going straight to the device locale is
+  what left an Arabic player looking at `Hint` and `Check` in English.
+  Choosing a language to play in says what you read; a Settings choice is
+  still never overwritten.
+- **A rewarded ad outlives a 30-second timeout.** `showRewarded` capped
+  the *show* phase at 30s, which expires while a normal rewarded video is
+  still playing — so the hint came back `unavailable` and was never
+  granted no matter how many ads were watched to the end. The timeout is
+  a stuck-callback backstop (5 minutes) and never downgrades a reward the
+  SDK already said was earned.
+- **A hint must visibly do something.** It is paid for with an ad, so
+  revealing the selected cell unconditionally was wrong: the caret sits on
+  an already-correct cell after typing a word, and the reward rewrote a
+  letter that was already there. `revealHintAtSelectedCell` falls forward
+  to the first cell that still needs solving — current word first, then
+  the grid.
 - **`FutureProvider.family` caches and never re-reads storage.**
   Completing/restarting a puzzle must `ref.invalidate(puzzleSummariesProvider)`
   or the unlock state goes stale.
@@ -298,3 +327,84 @@ screens to it rather than checking them by eye.
   change a palette value, that test is what catches an unreadable result.
 - Remaining before launch is account configuration only — see
   `store/MONETIZATION_SETUP.md`.
+
+---
+
+## Mistake limit and rewards
+
+Two mechanics added together, sharing one module: `lib/features/rewards/`.
+The module is **identical in all three apps** (relative imports only, no
+app-specific colour tokens), so a fix here has to be applied in all three
+— the same trade the rest of `core/` makes.
+
+### Three mistakes and the run is over
+
+`maxMistakes` (3) lives in `rewards/domain/solve_reward.dart`. What counts
+as a mistake is the one genuinely per-app decision:
+
+A **finished word that is wrong**, charged once per distinct guess.
+Only finished words are judged: a crossword is typed left to right, so
+every partial answer disagrees with the solution at some point, and
+charging per keystroke would end the puzzle before the player had
+entered a single complete word. Retyping the *same* wrong answer is
+free (`_struckClues` keys on clue + letters) — a player who cannot see
+why an answer was refused will do exactly that, and draining their
+remaining lives for it would be punishing them for the UI's silence.
+A *different* wrong answer is a new guess and does cost a life.
+
+At the third mistake `state.isFailed` flips and **the board goes
+read-only** — entry, undo, erase, check and hint all refuse. That last one
+is deliberate: a run that is out of lives is over in both directions, and
+a hint that could rescue it would make the limit negotiable. The only ways
+on are restart or leave, which is exactly what `OutOfLivesDialog` offers.
+
+Three things are easy to get wrong here:
+
+1. **The counters are persisted per puzzle**, under
+   `StorageKeys.puzzleAttempt(id)`, not held in memory. A limit that resets
+   when the player backs out to the list and walks straight back in is not
+   a limit. They are cleared on restart and on a solve, so a replay always
+   starts on a full three lives.
+2. **They live in their own key, not in each app's saved progress.** The
+   three apps store progress in three different shapes (81 digits, a letter
+   map, a found-word set); one small shared record avoided three
+   serialization migrations.
+3. **The offending entry is marked at the same moment the life is spent.**
+   Counting a mistake without showing which entry cost it leaves the player
+   hunting for something they cannot see.
+
+Not built, deliberately: **no rewarded ad to continue a failed run.** That
+is a monetization change and needs to be asked for, not slipped in
+alongside a gameplay one. The hook for it is the one place
+`OutOfLivesDialog` is constructed.
+
+### What a solve earns
+
+`RewardsController.recordSolve` is the single entry point, called by each
+screen the moment the puzzle completes — **before** the interstitial, so an
+ad failing to load cannot cost the player the solve they just earned.
+
+- **Stars, 1-3.** Three for no mistakes and no hints, two for at most one
+  mistake and two hints, one otherwise. Never zero: finishing a hard puzzle
+  the messy way should not read as failure. Shown in the celebration and on
+  the solved rows of the puzzle list.
+- **A day streak**, counting *days*, not puzzles — a second solve on a day
+  already played extends nothing, or the streak could be farmed in one
+  sitting. `PlayerProgress.streakOn(now)` is what the UI must read: the
+  stored number can be a day stale, and showing a run the player has
+  already lost is worse than showing zero.
+- **Six badges**, on `/progress`, reachable from the puzzle list's trophy
+  button. Locked ones show how far off they are rather than hiding behind a
+  question mark — a target you can see is a reason to play another puzzle.
+
+`recordSolve` is safe to call again for an already-solved puzzle: the star
+total moves by the *improvement* on that puzzle's previous best, and the
+solved count does not move at all. Replaying for a cleaner result is meant
+to be worth something without being a way to grind the totals up on one
+easy grid. `test/features/rewards/rewards_test.dart` pins all of that.
+
+**The reward strings use ICU plurals, which fail at render time, not build
+time.** `reward_widgets_test.dart` renders every widget in all six locales
+across the plural boundaries for exactly that reason — the scoring unit
+tests never build a `MaterialApp`, so they would all pass while the
+celebration crashed on the player's screen.

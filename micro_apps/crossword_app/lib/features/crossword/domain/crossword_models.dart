@@ -193,6 +193,7 @@ class CrosswordClue extends Equatable {
 class CrosswordGrid extends Equatable {
   const CrosswordGrid({
     required this.puzzleId,
+    required this.language,
     required this.title,
     required this.rows,
     required this.cols,
@@ -202,6 +203,13 @@ class CrosswordGrid extends Equatable {
   });
 
   final String puzzleId;
+
+  /// The language the *content* is written in, carried through from the
+  /// puzzle JSON. The board must be laid out in this language's reading
+  /// direction — which is not necessarily the UI language's, since the
+  /// two are chosen independently (spec §11/§12).
+  final String language;
+
   final String title;
   final int rows;
   final int cols;
@@ -216,6 +224,7 @@ class CrosswordGrid extends Equatable {
   @override
   List<Object?> get props => [
     puzzleId,
+    language,
     title,
     rows,
     cols,

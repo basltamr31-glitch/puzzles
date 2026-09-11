@@ -2,6 +2,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../core/analytics/analytics_events.dart';
 import '../../core/analytics/analytics_service.dart';
+import '../../core/localization/locale_controller.dart';
 import '../../core/storage/local_storage_service.dart';
 import '../../core/storage/storage_keys.dart';
 
@@ -19,6 +20,11 @@ class GameLanguageController extends Notifier<String?> {
     final storage = ref.read(localStorageServiceProvider);
     await storage.setString(StorageKeys.gameLanguageCode, languageCode);
     state = languageCode;
+    // Takes the UI along unless the player has already chosen one in
+    // Settings — see [LocaleController.applyGameLanguageDefault].
+    ref
+        .read(localeControllerProvider.notifier)
+        .applyGameLanguageDefault(languageCode);
     ref.read(analyticsServiceProvider).logEvent(
       AnalyticsEvents.gameLanguageSelected,
       {'language_code': languageCode},

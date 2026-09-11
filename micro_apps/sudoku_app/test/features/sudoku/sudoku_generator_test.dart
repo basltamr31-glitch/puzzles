@@ -47,10 +47,10 @@ void main() {
         expect(puzzle.givenCount, lessThanOrEqualTo(entry.value.maxGivens));
 
         final givens = SudokuSolver.parse(puzzle.givens);
-        expect(
-          entry.value.accepts(puzzle.givenCount, SudokuSolver.grade(givens)),
-          isTrue,
-        );
+        final profile = SudokuSolver.profile(givens);
+        expect(entry.value.accepts(puzzle.givenCount, profile), isTrue);
+        expect(profile.solved, isTrue,
+            reason: 'no tier may ship a puzzle needing guesswork');
       });
 
       test('a ${entry.key} puzzle has exactly one solution', () {
@@ -92,6 +92,35 @@ void main() {
       }
     });
 
+    test('the tier score windows do not overlap', () {
+      // This is the property that makes "an Expert is harder than an
+      // Easy" true of every *pair* of puzzles rather than only of the
+      // tier medians. Overlapping windows are exactly how a specific
+      // Expert ended up easier than a specific Medium.
+      final order = ['easy', 'medium', 'hard', 'expert'];
+      for (var i = 1; i < order.length; i++) {
+        final easier = sudokuTiers[order[i - 1]]!;
+        final harder = sudokuTiers[order[i]]!;
+        expect(
+          harder.minScore,
+          greaterThan(easier.maxScore),
+          reason: '${order[i]} must start above where ${order[i - 1]} ends',
+        );
+      }
+    });
+
+    test('no tier accepts a puzzle that needs guessing', () {
+      // Expert used to *require* this. An unsolvable-by-logic grid is a
+      // worse puzzle, not a harder one.
+      for (final spec in sudokuTiers.values) {
+        expect(
+          spec.hardestAllowed.isHarderThan(SudokuTechnique.xWing),
+          isFalse,
+          reason: '${spec.difficulty} allows guesswork',
+        );
+      }
+    });
+
     test('gives up rather than looping forever on an impossible spec', () {
       const impossible = SudokuTierSpec(
         difficulty: 'impossible',
@@ -101,6 +130,8 @@ void main() {
         // Demanding a grid that needs guessing while forbidding every
         // removal that would make it so.
         hardestRequired: SudokuTechnique.guess,
+        minScore: 0,
+        maxScore: 100000,
       );
       expect(
         SudokuGenerator.generate(

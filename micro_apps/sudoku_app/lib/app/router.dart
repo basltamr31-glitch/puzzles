@@ -6,6 +6,7 @@ import '../features/difficulty/presentation/difficulty_screen.dart';
 import '../features/onboarding/onboarding_controller.dart';
 import '../features/onboarding/presentation/welcome_screen.dart';
 import '../features/puzzle_list/presentation/puzzle_list_screen.dart';
+import '../features/rewards/presentation/achievements_screen.dart';
 import '../features/settings/presentation/privacy_policy_screen.dart';
 import '../features/settings/presentation/remove_ads_screen.dart';
 import '../features/settings/presentation/settings_screen.dart';
@@ -61,6 +62,10 @@ final routerProvider = Provider<GoRouter>((ref) {
             index: index,
           );
         },
+      ),
+      GoRoute(
+        path: '/progress',
+        builder: (context, state) => const AchievementsScreen(),
       ),
       GoRoute(
         path: '/privacy',

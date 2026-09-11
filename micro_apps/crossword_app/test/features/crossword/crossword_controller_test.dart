@@ -1,6 +1,8 @@
 import 'package:crossword_app/core/analytics/analytics_events.dart';
 import 'package:crossword_app/core/storage/local_storage_service.dart';
 import 'package:crossword_app/core/storage/storage_keys.dart';
+import 'package:crossword_app/features/rewards/data/rewards_repository.dart';
+import 'package:crossword_app/features/rewards/domain/solve_reward.dart';
 import 'package:crossword_app/features/crossword/data/puzzle_repository.dart';
 import 'package:crossword_app/features/crossword/domain/crossword_models.dart';
 import 'package:crossword_app/features/crossword/presentation/controllers/crossword_controller.dart';
@@ -107,7 +109,15 @@ void main() {
     );
   });
 
-  tearDown(() {
+  tearDown(() async {
+    // Completion and restart do their persistence fire-and-forget, so a
+    // test can finish with that work still queued. Disposing the
+    // container out from under it invalidates the Ref the controller is
+    // about to call `invalidate` on, and the failure surfaces on whatever
+    // test runs next rather than on the one that caused it.
+    for (var i = 0; i < 5; i++) {
+      await Future<void>.delayed(Duration.zero);
+    }
     container.dispose();
   });
 
@@ -118,6 +128,7 @@ void main() {
     // wiring in these unit tests.
     final controller = CrosswordController(
       repository,
+      RewardsRepository(storage),
       analytics,
       container.read(Provider((ref) => ref)),
       _assetPath,
@@ -236,6 +247,50 @@ void main() {
       controller.revealHintAtSelectedCell();
       expect(controller.state.letters['0,0'], 'C');
       expect(controller.state.selectedCol, 1);
+    });
+
+    // A hint is paid for with a rewarded ad, so it must never spend one
+    // rewriting a letter that is already there — that is what "the ad
+    // gave me nothing" looks like from the player's side.
+    test('skips a selected cell that is already correct', () async {
+      final controller = await loadController();
+      _enterSolutionCell(controller, '0,0', 'C');
+      controller.selectCell(0, 0);
+      final before = Map<String, String>.from(controller.state.letters);
+
+      controller.revealHintAtSelectedCell();
+
+      final revealed = controller.state.letters.keys
+          .where((key) => !before.containsKey(key))
+          .toList();
+      expect(revealed, hasLength(1), reason: 'a hint must reveal something');
+      expect(controller.state.letters[revealed.single], _solution[revealed.single]);
+      expect(controller.state.letters['0,0'], 'C');
+    });
+
+    test('falls back to the rest of the grid once the word is solved', () async {
+      final controller = await loadController();
+      for (final entry in _solution.entries) {
+        if (entry.key == '2,2') continue;
+        _enterSolutionCell(controller, entry.key, entry.value);
+      }
+      // A fully solved word under the caret: the only cell a hint can
+      // usefully fill is the one left at the far corner.
+      controller.selectCell(0, 0);
+
+      controller.revealHintAtSelectedCell();
+
+      expect(controller.state.letters['2,2'], 'T');
+    });
+
+    test('replaces a wrong letter in the selected cell', () async {
+      final controller = await loadController();
+      _enterSolutionCell(controller, '0,0', 'X');
+      controller.selectCell(0, 0);
+
+      controller.revealHintAtSelectedCell();
+
+      expect(controller.state.letters['0,0'], 'C');
     });
   });
 
@@ -358,6 +413,122 @@ void main() {
 
       expect(rebuilds, greaterThan(0),
           reason: 'the puzzle list must re-read storage after a restart');
+    });
+  });
+
+  group('the mistake limit', () {
+    /// Types [word] into the currently selected clue, letter by letter.
+    void type(CrosswordController controller, String word) {
+      for (final letter in word.split('')) {
+        controller.enterLetter(letter);
+      }
+    }
+
+    /// The first across clue, and a wrong answer of the same length.
+    ({CrosswordClue clue, String wrong, String right}) firstClue(
+      CrosswordController controller,
+    ) {
+      final clue = controller.state.grid!.acrossClues.first;
+      final right = [
+        for (final cell in clue.cells)
+          controller.state.grid!.cellAt(cell.$1, cell.$2).solutionLetter!,
+      ].join();
+      // Same length, definitely not the answer.
+      final wrong = right.split('').map((l) => l == 'Z' ? 'Q' : 'Z').join();
+      return (clue: clue, wrong: wrong, right: right);
+    }
+
+    test('a partly typed word is never charged', () async {
+      // A crossword is typed left to right, so every partial answer
+      // disagrees with the solution at some point. Charging per keystroke
+      // would end the puzzle before a single word was finished.
+      final controller = await loadController();
+      final target = firstClue(controller);
+      controller.selectClue(target.clue);
+
+      type(controller, target.wrong.substring(0, target.wrong.length - 1));
+
+      expect(controller.state.mistakes, 0);
+    });
+
+    test('a finished word that is wrong costs a life and stays marked',
+        () async {
+      final controller = await loadController();
+      final target = firstClue(controller);
+      controller.selectClue(target.clue);
+
+      type(controller, target.wrong);
+
+      expect(controller.state.mistakes, 1);
+      expect(controller.state.incorrectCells, isNotEmpty);
+    });
+
+    test('a finished word that is right costs nothing', () async {
+      final controller = await loadController();
+      final target = firstClue(controller);
+      controller.selectClue(target.clue);
+
+      type(controller, target.right);
+
+      expect(controller.state.mistakes, 0);
+    });
+
+    test('retyping the same wrong answer is not charged twice', () async {
+      // A player who cannot see why an answer is refused will retype it;
+      // that should not quietly drain the rest of their lives.
+      final controller = await loadController();
+      final target = firstClue(controller);
+      controller.selectClue(target.clue);
+
+      type(controller, target.wrong);
+      controller.selectClue(target.clue);
+      type(controller, target.wrong);
+
+      expect(controller.state.mistakes, 1);
+    });
+
+    test('the third wrong answer fails the puzzle and locks the grid',
+        () async {
+      final controller = await loadController();
+      final target = firstClue(controller);
+      // Three *different* wrong guesses at the same clue. Each is a new
+      // guess, so each costs a life.
+      final firstLetters = const ['Z', 'Q', 'X', 'J']
+          .where((letter) => letter != target.right[0])
+          .take(maxMistakes);
+
+      for (final letter in firstLetters) {
+        controller.selectClue(target.clue);
+        type(controller, letter + target.right.substring(1));
+      }
+
+      expect(controller.state.mistakes, maxMistakes);
+      expect(controller.state.isFailed, isTrue);
+
+      // The grid stops accepting letters, right answers included.
+      controller.selectClue(target.clue);
+      type(controller, target.right);
+      expect(controller.state.isCompleted, isFalse);
+    });
+
+    test('restart gives the lives back', () async {
+      final controller = await loadController();
+      final target = firstClue(controller);
+      controller.selectClue(target.clue);
+      type(controller, target.wrong);
+
+      await controller.restart();
+
+      expect(controller.state.mistakes, 0);
+      expect(controller.state.isFailed, isFalse);
+    });
+
+    test('a hint costs a star, not a life', () async {
+      final controller = await loadController();
+      controller.revealHintAtSelectedCell();
+
+      expect(controller.state.hintsUsed, 1);
+      expect(controller.state.mistakes, 0);
     });
   });
 }

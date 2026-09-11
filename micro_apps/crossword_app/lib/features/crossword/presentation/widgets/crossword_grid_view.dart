@@ -1,12 +1,21 @@
 import 'package:flutter/material.dart';
 
 import '../../../../app/theme/crossword_colors.dart';
+import '../../../../shared/models/game_locale.dart';
 import '../../domain/crossword_models.dart';
 import '../controllers/crossword_controller.dart';
 
 /// Renders the playable grid. Sized responsively via [AspectRatio] so
 /// cells stay perfectly square across phone sizes and aspect ratios
 /// (spec §27) without any hardcoded dimensions.
+///
+/// The board is laid out in the *puzzle's* reading direction, not the
+/// app's: column 0 sits on the right for an Arabic puzzle, so an across
+/// answer reads right-to-left the way its letters were authored. Taking
+/// this from the ambient [Directionality] would be wrong both ways — the
+/// UI language and the game language are chosen independently, so an
+/// Arabic board on an English UI came out mirrored (every across word
+/// read backwards) and an English board on an Arabic UI would too.
 class CrosswordGridView extends StatelessWidget {
   const CrosswordGridView({
     super.key,
@@ -41,34 +50,39 @@ class CrosswordGridView extends StatelessWidget {
     final colors = context.crosswordColors;
     final currentClueCells = _currentClueCells;
 
-    return AspectRatio(
-      aspectRatio: grid.cols / grid.rows,
-      child: Container(
-        decoration: BoxDecoration(
-          border: Border.all(color: colors.cellBorder, width: 1.5),
-          borderRadius: BorderRadius.circular(12),
-        ),
-        clipBehavior: Clip.antiAlias,
-        child: Column(
-          children: List.generate(grid.rows, (r) {
-            return Expanded(
-              child: Row(
-                children: List.generate(grid.cols, (c) {
-                  return Expanded(
-                    child: _CrosswordCellView(
-                      cell: grid.cellAt(r, c),
-                      letter: letters['$r,$c'],
-                      isSelected: r == selectedRow && c == selectedCol,
-                      isInCurrentWord: currentClueCells.contains('$r,$c'),
-                      isIncorrect: incorrectCells.contains('$r,$c'),
-                      isCompleted: isCompleted,
-                      onTap: () => onCellTap(r, c),
-                    ),
-                  );
-                }),
-              ),
-            );
-          }),
+    return Directionality(
+      textDirection: GameLocale.byCode(grid.language).isRtl
+          ? TextDirection.rtl
+          : TextDirection.ltr,
+      child: AspectRatio(
+        aspectRatio: grid.cols / grid.rows,
+        child: Container(
+          decoration: BoxDecoration(
+            border: Border.all(color: colors.cellBorder, width: 1.5),
+            borderRadius: BorderRadius.circular(12),
+          ),
+          clipBehavior: Clip.antiAlias,
+          child: Column(
+            children: List.generate(grid.rows, (r) {
+              return Expanded(
+                child: Row(
+                  children: List.generate(grid.cols, (c) {
+                    return Expanded(
+                      child: _CrosswordCellView(
+                        cell: grid.cellAt(r, c),
+                        letter: letters['$r,$c'],
+                        isSelected: r == selectedRow && c == selectedCol,
+                        isInCurrentWord: currentClueCells.contains('$r,$c'),
+                        isIncorrect: incorrectCells.contains('$r,$c'),
+                        isCompleted: isCompleted,
+                        onTap: () => onCellTap(r, c),
+                      ),
+                    );
+                  }),
+                ),
+              );
+            }),
+          ),
         ),
       ),
     );
@@ -132,9 +146,12 @@ class _CrosswordCellView extends StatelessWidget {
           child: Stack(
             children: [
               if (cell.clueNumber != null)
-                Positioned(
+                // Directional, not `left`: in an RTL board the number
+                // belongs on the word's starting corner, which is the
+                // right-hand one.
+                PositionedDirectional(
                   top: 2,
-                  left: 2,
+                  start: 2,
                   child: Text(
                     '${cell.clueNumber}',
                     style: TextStyle(

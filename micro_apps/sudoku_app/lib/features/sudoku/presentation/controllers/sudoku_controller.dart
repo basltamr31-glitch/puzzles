@@ -10,6 +10,9 @@ import '../../../../core/errors/app_exception.dart';
 import '../../../../core/notifications/reminder_controller.dart';
 import '../../../puzzle_list/domain/puzzle_summary.dart';
 import '../../../puzzle_list/puzzle_list_providers.dart';
+import '../../../rewards/data/rewards_repository.dart';
+import '../../../rewards/domain/puzzle_attempt.dart';
+import '../../../rewards/domain/solve_reward.dart';
 import '../../data/puzzle_repository.dart';
 import '../../domain/sudoku_models.dart';
 import '../../domain/sudoku_progress.dart';
@@ -25,7 +28,10 @@ class SudokuGameState extends Equatable {
     this.selectedIndex,
     this.notesMode = false,
     this.incorrectCells = const {},
+    this.blockedCells = const {},
     this.elapsedSeconds = 0,
+    this.mistakes = 0,
+    this.hintsUsed = 0,
     this.isCompleted = false,
     this.isLoading = true,
     this.errorMessage,
@@ -44,7 +50,28 @@ class SudokuGameState extends Equatable {
   /// Cleared on the next edit — it's feedback about a moment, not state.
   final Set<int> incorrectCells;
 
+  /// The cell of a refused entry, plus the filled cells that refused it.
+  ///
+  /// Populated only when [SudokuController.enterDigit] blocks a digit that
+  /// would duplicate one already visible from that cell. Both halves are
+  /// included on purpose: telling the player "no" without showing them
+  /// *what* it clashed with leaves them stuck, which matters because the
+  /// blocker is often one of their own earlier mistakes rather than a
+  /// given. Cleared by the next action, like [incorrectCells].
+  final Set<int> blockedCells;
+
   final int elapsedSeconds;
+
+  /// Digits entered on this run that disagreed with the solution.
+  final int mistakes;
+
+  /// Hints spent on this run. Costs a star rather than a life.
+  final int hintsUsed;
+
+  /// True once the player has spent every mistake. The board is read-only
+  /// from here — the only ways on are restarting or leaving.
+  bool get isFailed => mistakes >= maxMistakes;
+
   final bool isCompleted;
   final bool isLoading;
   final String? errorMessage;
@@ -88,7 +115,10 @@ class SudokuGameState extends Equatable {
     int? selectedIndex,
     bool? notesMode,
     Set<int>? incorrectCells,
+    Set<int>? blockedCells,
     int? elapsedSeconds,
+    int? mistakes,
+    int? hintsUsed,
     bool? isCompleted,
     bool? isLoading,
     String? errorMessage,
@@ -100,7 +130,10 @@ class SudokuGameState extends Equatable {
       selectedIndex: selectedIndex ?? this.selectedIndex,
       notesMode: notesMode ?? this.notesMode,
       incorrectCells: incorrectCells ?? this.incorrectCells,
+      blockedCells: blockedCells ?? this.blockedCells,
       elapsedSeconds: elapsedSeconds ?? this.elapsedSeconds,
+      mistakes: mistakes ?? this.mistakes,
+      hintsUsed: hintsUsed ?? this.hintsUsed,
       isCompleted: isCompleted ?? this.isCompleted,
       isLoading: isLoading ?? this.isLoading,
       errorMessage: errorMessage ?? this.errorMessage,
@@ -119,7 +152,10 @@ class SudokuGameState extends Equatable {
         selectedIndex,
         notesMode,
         incorrectCells,
+        blockedCells,
         elapsedSeconds,
+        mistakes,
+        hintsUsed,
         isCompleted,
         isLoading,
         errorMessage,
@@ -144,12 +180,18 @@ class _Snapshot {
 /// and progress persistence. One instance per puzzle (see
 /// [sudokuControllerProvider]), so switching puzzles never leaks state.
 class SudokuController extends StateNotifier<SudokuGameState> {
-  SudokuController(this._repository, this._analytics, this._ref, this.puzzleRef)
-      : super(SudokuGameState()) {
+  SudokuController(
+    this._repository,
+    this._rewards,
+    this._analytics,
+    this._ref,
+    this.puzzleRef,
+  ) : super(SudokuGameState()) {
     _load();
   }
 
   final PuzzleRepository _repository;
+  final RewardsRepository _rewards;
   final AnalyticsService _analytics;
   final Ref _ref;
   final SudokuPuzzleRef puzzleRef;
@@ -182,12 +224,20 @@ class SudokuController extends StateNotifier<SudokuGameState> {
       final isCompleted =
           _repository.statusFor(puzzle.id) == PuzzleStatus.completed;
 
-      final progress = saved ?? _initialProgress(puzzle);
+      final progress = _usableProgress(puzzle, saved) ?? _initialProgress(puzzle);
+      // A completed puzzle carries no live attempt: its counters were
+      // cleared on the solve, and re-reading them would show a fresh
+      // player three hearts on a board they cannot lose.
+      final attempt = isCompleted
+          ? PuzzleAttempt.empty
+          : _rewards.loadAttempt(puzzle.id);
       state = state.copyWith(
         puzzle: puzzle,
         values: progress.values,
         notes: progress.notes,
         elapsedSeconds: progress.elapsedSeconds,
+        mistakes: attempt.mistakes,
+        hintsUsed: attempt.hintsUsed,
         isLoading: false,
         isCompleted: isCompleted,
         selectedIndex: _firstEmptyCell(puzzle, progress.values),
@@ -211,6 +261,31 @@ class SudokuController extends StateNotifier<SudokuGameState> {
         errorMessage: 'This puzzle could not be loaded.',
       );
     }
+  }
+
+  /// [saved] if it still belongs to [puzzle], otherwise null.
+  ///
+  /// Saved progress is keyed by puzzle id, and ids are stable across
+  /// releases while the grids behind them are regenerated content. If a
+  /// bundle is ever rebuilt, a player mid-way through the old `easy_007`
+  /// would have their entries replayed onto a different grid — which
+  /// surfaces as a puzzle that "came with" a duplicate digit in a row and
+  /// cannot be solved. There is no way to repair such a grid, so it is
+  /// discarded and the puzzle starts clean.
+  ///
+  /// Cheap enough to run on every open (81 character comparisons) that
+  /// there is no reason to gate it behind a version stamp that could
+  /// itself be forgotten.
+  static SudokuProgress? _usableProgress(
+    SudokuPuzzleDef puzzle,
+    SudokuProgress? saved,
+  ) {
+    if (saved == null) return null;
+    for (var i = 0; i < sudokuCellCount; i++) {
+      if (!puzzle.isGiven(i)) continue;
+      if (saved.values[i] != int.parse(puzzle.givens[i])) return null;
+    }
+    return saved;
   }
 
   static SudokuProgress _initialProgress(SudokuPuzzleDef puzzle) {
@@ -253,23 +328,66 @@ class SudokuController extends StateNotifier<SudokuGameState> {
 
   void selectCell(int index) {
     if (index < 0 || index >= sudokuCellCount) return;
-    state = state.copyWith(selectedIndex: index, incorrectCells: const {});
+    state = state.copyWith(
+      selectedIndex: index,
+      incorrectCells: const {},
+      blockedCells: const {},
+    );
   }
 
   void toggleNotesMode() {
     state = state.copyWith(notesMode: !state.notesMode);
   }
 
+  /// Cells already showing [digit] that [index] can see — the reason an
+  /// entry is refused, and empty when the entry is legal.
+  Set<int> _clashesFor(int index, int digit) {
+    return {
+      for (final peer in sudokuPeers[index])
+        if (state.values[peer] == digit) peer,
+    };
+  }
+
   /// Writes [digit] into the selected cell — as an answer, or as a pencil
   /// mark when [SudokuGameState.notesMode] is on. Tapping the digit
   /// already in the cell clears it, which is how players expect a number
   /// pad to behave.
+  ///
+  /// An answer that would duplicate a digit the cell can already see is
+  /// **refused** rather than written. The grid used to accept it and mark
+  /// it after the fact, which failed in the way that matters: a player
+  /// put a 7 under a column that already had one, the far-away clue lit
+  /// up red while their own mistake sat under the selection highlight,
+  /// and it read as "this puzzle contains two 7s" rather than "I slipped".
+  /// Refusing is unambiguous — the digit never lands, so there is no
+  /// wrong state to misread.
+  ///
+  /// Pencil marks are deliberately exempt: a note is a hypothesis, and
+  /// the whole point of writing one is to reason about a digit before
+  /// committing to it.
   void enterDigit(int digit) {
     final index = state.selectedIndex;
     final puzzle = state.puzzle;
     if (puzzle == null || index == null || state.isCompleted) return;
+    if (state.isFailed) return;
     if (puzzle.isGiven(index)) return;
     if (digit < 1 || digit > sudokuSize) return;
+
+    // Clearing the cell by re-tapping its own digit is never a clash, and
+    // checking first would find the cell's own value on no peer anyway.
+    final isClearing = !state.notesMode && state.values[index] == digit;
+    if (!state.notesMode && !isClearing) {
+      final clashes = _clashesFor(index, digit);
+      if (clashes.isNotEmpty) {
+        // Nothing is written and no undo entry is pushed — a refused tap
+        // is not a move, so it must not cost the player an undo step.
+        state = state.copyWith(
+          incorrectCells: const {},
+          blockedCells: {index, ...clashes},
+        );
+        return;
+      }
+    }
 
     _pushUndo();
 
@@ -298,12 +416,30 @@ class SudokuController extends StateNotifier<SudokuGameState> {
       }
     }
 
+    // A digit that is legal against everything the cell can see but still
+    // disagrees with the solution is the mistake worth counting. The
+    // obvious duplicates never get this far — they were refused above,
+    // for free — so a spent life always means a real deduction error
+    // rather than a slip of the thumb.
+    final isWrong = !state.notesMode &&
+        values[index] != 0 &&
+        values[index] != int.parse(puzzle.solution[index]);
+
     state = state.copyWith(
       values: values,
       notes: notes,
-      incorrectCells: const {},
+      mistakes: isWrong ? state.mistakes + 1 : state.mistakes,
+      // The offending cell is marked straight away. Counting a life
+      // without showing which entry cost it would leave the player
+      // hunting a mistake they cannot see.
+      incorrectCells: isWrong ? {index} : const {},
+      blockedCells: const {},
     );
     _persist();
+    if (isWrong) {
+      _persistAttempt();
+      return;
+    }
     _checkCompletion();
   }
 
@@ -311,6 +447,7 @@ class SudokuController extends StateNotifier<SudokuGameState> {
     final index = state.selectedIndex;
     final puzzle = state.puzzle;
     if (puzzle == null || index == null || state.isCompleted) return;
+    if (state.isFailed) return;
     if (puzzle.isGiven(index)) return;
     if (state.values[index] == 0 && state.notes[index].isEmpty) return;
 
@@ -324,12 +461,13 @@ class SudokuController extends StateNotifier<SudokuGameState> {
   }
 
   void undo() {
-    if (_undoStack.isEmpty || state.isCompleted) return;
+    if (_undoStack.isEmpty || state.isCompleted || state.isFailed) return;
     final snapshot = _undoStack.removeLast();
     state = state.copyWith(
       values: snapshot.values,
       notes: snapshot.notes,
       incorrectCells: const {},
+      blockedCells: const {},
     );
     _persist();
   }
@@ -339,7 +477,7 @@ class SudokuController extends StateNotifier<SudokuGameState> {
   /// a no-op just because the player hadn't tapped anywhere yet.
   void revealHintAtSelectedCell() {
     final puzzle = state.puzzle;
-    if (puzzle == null || state.isCompleted) return;
+    if (puzzle == null || state.isCompleted || state.isFailed) return;
     final index = state.selectedIndex != null && state.values[state.selectedIndex!] == 0
         ? state.selectedIndex!
         : _firstEmptyCell(puzzle, state.values) ?? -1;
@@ -358,9 +496,12 @@ class SudokuController extends StateNotifier<SudokuGameState> {
       values: values,
       notes: notes,
       selectedIndex: index,
+      hintsUsed: state.hintsUsed + 1,
       incorrectCells: const {},
+      blockedCells: const {},
     );
     _persist();
+    _persistAttempt();
     _checkCompletion();
   }
 
@@ -380,6 +521,7 @@ class SudokuController extends StateNotifier<SudokuGameState> {
     final puzzle = state.puzzle;
     if (puzzle == null) return;
     await _repository.clearProgress(puzzle.id);
+    await _rewards.clearAttempt(puzzle.id);
     if (!mounted) return;
     // The puzzle list's cached summaries (and therefore the sequential
     // unlock check) would otherwise keep showing this puzzle as completed.
@@ -391,7 +533,10 @@ class SudokuController extends StateNotifier<SudokuGameState> {
       values: progress.values,
       notes: progress.notes,
       elapsedSeconds: 0,
+      mistakes: 0,
+      hintsUsed: 0,
       incorrectCells: const {},
+      blockedCells: const {},
       isCompleted: false,
       selectedIndex: _firstEmptyCell(puzzle, progress.values),
     );
@@ -401,6 +546,17 @@ class SudokuController extends StateNotifier<SudokuGameState> {
   void _pushUndo() {
     _undoStack.add(_Snapshot(state.values, state.notes));
     if (_undoStack.length > _maxUndo) _undoStack.removeAt(0);
+  }
+
+  /// Written separately from [_persist] because it changes far less often
+  /// — only on a mistake or a hint, never on the timer tick.
+  Future<void> _persistAttempt() async {
+    final puzzle = state.puzzle;
+    if (puzzle == null) return;
+    await _rewards.saveAttempt(
+      puzzle.id,
+      PuzzleAttempt(mistakes: state.mistakes, hintsUsed: state.hintsUsed),
+    );
   }
 
   Future<void> _persist() async {
@@ -426,6 +582,10 @@ class SudokuController extends StateNotifier<SudokuGameState> {
     _timer?.cancel();
     state = state.copyWith(isCompleted: true, incorrectCells: const {});
     await _repository.markCompleted(puzzle.id);
+    // The run is over, so its counters are dropped — a replay starts on a
+    // full three lives. The tallies the solve earned have already been
+    // read off the state by the screen.
+    await _rewards.clearAttempt(puzzle.id);
     if (!mounted) return;
     // FutureProvider.family caches per difficulty and never re-reads
     // storage on its own — without this, the puzzle list keeps showing
@@ -467,6 +627,7 @@ final sudokuControllerProvider = StateNotifierProvider.autoDispose
     .family<SudokuController, SudokuGameState, SudokuPuzzleRef>(
   (ref, puzzleRef) => SudokuController(
     ref.watch(puzzleRepositoryProvider),
+    ref.watch(rewardsRepositoryProvider),
     ref.watch(analyticsServiceProvider),
     ref,
     puzzleRef,

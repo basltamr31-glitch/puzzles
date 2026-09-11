@@ -20,10 +20,109 @@ enum SudokuTechnique {
   /// digits away from the rest of the unit.
   nakedPair,
 
+  /// Two digits in a unit that can only go in the same two cells. The
+  /// mirror of a naked pair, and materially harder to spot: a naked pair
+  /// announces itself by the cells being short, a hidden pair is buried
+  /// among other candidates.
+  hiddenPair,
+
+  /// Three cells in a unit whose candidates together span only three
+  /// digits, in any distribution.
+  nakedTriple,
+
+  /// A digit whose candidates in two rows are confined to the same two
+  /// columns (or vice versa) can be struck from those columns elsewhere.
+  /// The first technique here that is not local to a single unit.
+  xWing,
+
   /// None of the above make progress — finishing needs trial and error.
+  ///
+  /// This is deliberately *not* a difficulty tier any more. It used to be
+  /// what "expert" required, which made expert unbounded in both
+  /// directions: every technique past naked pair collapsed into it, so
+  /// one expert grid might need a single hidden pair and the next a deep
+  /// forcing chain. A puzzle that reaches this is now rejected by every
+  /// tier — a Sudoku that cannot be finished by logic is a worse puzzle,
+  /// not a harder one.
   guess;
 
   bool isHarderThan(SudokuTechnique other) => index > other.index;
+}
+
+/// What a logical solve of one grid actually cost.
+///
+/// The categorical [SudokuTechnique] alone was never enough to order
+/// puzzles: it reports the single hardest step and says nothing about
+/// whether that step happened once or eleven times, or about how long the
+/// player hunts for each move in between. Both of those are what a player
+/// experiences as difficulty.
+class SudokuProfile {
+  const SudokuProfile({
+    required this.hardest,
+    required this.uses,
+    required this.steps,
+    required this.scanLoad,
+    required this.solved,
+    required this.grid,
+  });
+
+  /// The hardest technique the solve needed.
+  final SudokuTechnique hardest;
+
+  /// How many times each technique was applied.
+  final Map<SudokuTechnique, int> uses;
+
+  /// Total technique applications.
+  final int steps;
+
+  /// Accumulated scanning effort: how hard it was to *find* each move,
+  /// rather than how hard the move was once found.
+  ///
+  /// This is what separates a 36-clue "easy" from a 44-clue one. Both are
+  /// naked-singles-only, so both grade identically, but the sparse one
+  /// leaves only one or two placeable cells at a time and the player
+  /// rescans the whole board for each. Measured as the shortfall below a
+  /// comfortable frontier of ten simultaneous moves, summed over the
+  /// solve.
+  final double scanLoad;
+
+  /// False when the technique ladder stalled before the grid was full.
+  final bool solved;
+
+  /// The grid as the technique ladder left it — complete when [solved],
+  /// otherwise as far as pure logic got.
+  ///
+  /// Exposed so tests can assert that every digit the ladder placed
+  /// agrees with the puzzle's real solution. A technique that eliminates
+  /// a candidate it should not would otherwise fail silently: the solve
+  /// still finishes, just with the wrong digits in it.
+  final List<int> grid;
+
+  /// A single ordering number for the whole puzzle.
+  ///
+  /// Weights are per *application*, so a grid needing three X-Wings
+  /// outscores one needing a single X-Wing — which the technique ceiling
+  /// alone could never express. The scan term is added at a deliberately
+  /// modest coefficient: it should separate puzzles inside a tier without
+  /// letting a tediously sparse easy grid outscore a genuinely tricky one.
+  static const Map<SudokuTechnique, double> weights = {
+    SudokuTechnique.nakedSingle: 1,
+    SudokuTechnique.hiddenSingle: 3,
+    SudokuTechnique.lockedCandidates: 14,
+    SudokuTechnique.nakedPair: 22,
+    SudokuTechnique.hiddenPair: 40,
+    SudokuTechnique.nakedTriple: 50,
+    SudokuTechnique.xWing: 80,
+    SudokuTechnique.guess: 400,
+  };
+
+  double get score {
+    var total = 0.0;
+    uses.forEach((technique, count) {
+      total += weights[technique]! * count;
+    });
+    return total + scanLoad * 1.5;
+  }
 }
 
 /// Pure-Dart Sudoku engine: solving, uniqueness checking, and grading.
@@ -179,8 +278,147 @@ class SudokuSolver {
         record(SudokuTechnique.nakedPair);
         continue;
       }
+      if (_applyHiddenPairs(working, candidates)) {
+        record(SudokuTechnique.hiddenPair);
+        continue;
+      }
+      if (_applyNakedTriples(working, candidates)) {
+        record(SudokuTechnique.nakedTriple);
+        continue;
+      }
+      if (_applyXWing(working, candidates)) {
+        record(SudokuTechnique.xWing);
+        continue;
+      }
       return SudokuTechnique.guess;
     }
+  }
+
+  /// Solves [grid] the way a player would and reports what it cost.
+  ///
+  /// Structurally the same ladder as [grade], but it counts every
+  /// application rather than only remembering the maximum, and measures
+  /// how many placements were on offer at each step. [grade] is kept as a
+  /// separate, cheaper method because the generator calls it once per
+  /// trial removal, where the extra bookkeeping would be pure cost.
+  static SudokuProfile profile(List<int> grid) {
+    final working = List<int>.from(grid);
+    final candidates = _computeCandidates(working);
+    final uses = <SudokuTechnique, int>{};
+
+    if (candidates == null) {
+      return SudokuProfile(
+        hardest: SudokuTechnique.guess,
+        uses: const {SudokuTechnique.guess: 1},
+        steps: 1,
+        scanLoad: 0,
+        solved: false,
+        grid: working,
+      );
+    }
+
+    var hardest = SudokuTechnique.nakedSingle;
+    var steps = 0;
+    var scanLoad = 0.0;
+
+    // The frontier a player is comfortable with. Below this they are
+    // rescanning the board to find the next move; above it, moves are
+    // simply there to be taken.
+    const comfortableFrontier = 10;
+
+    bool step(SudokuTechnique technique, bool Function() apply) {
+      if (!apply()) return false;
+      uses[technique] = (uses[technique] ?? 0) + 1;
+      steps++;
+      if (technique.isHarderThan(hardest)) hardest = technique;
+      return true;
+    }
+
+    while (working.contains(0)) {
+      // Measured before the move is taken: this is what the player is
+      // looking at when they go hunting for it.
+      final available = _placeableCount(working, candidates);
+      if (available > 0 && available < comfortableFrontier) {
+        scanLoad += (comfortableFrontier - available) / available;
+      }
+
+      if (step(SudokuTechnique.nakedSingle,
+          () => _applyNakedSingles(working, candidates))) {
+        continue;
+      }
+      if (step(SudokuTechnique.hiddenSingle,
+          () => _applyHiddenSingles(working, candidates))) {
+        continue;
+      }
+      if (step(SudokuTechnique.lockedCandidates,
+          () => _applyLockedCandidates(working, candidates))) {
+        continue;
+      }
+      if (step(SudokuTechnique.nakedPair,
+          () => _applyNakedPairs(working, candidates))) {
+        continue;
+      }
+      if (step(SudokuTechnique.hiddenPair,
+          () => _applyHiddenPairs(working, candidates))) {
+        continue;
+      }
+      if (step(SudokuTechnique.nakedTriple,
+          () => _applyNakedTriples(working, candidates))) {
+        continue;
+      }
+      if (step(SudokuTechnique.xWing,
+          () => _applyXWing(working, candidates))) {
+        continue;
+      }
+
+      uses[SudokuTechnique.guess] = (uses[SudokuTechnique.guess] ?? 0) + 1;
+      return SudokuProfile(
+        hardest: SudokuTechnique.guess,
+        uses: uses,
+        steps: steps + 1,
+        scanLoad: scanLoad,
+        solved: false,
+        grid: working,
+      );
+    }
+
+    return SudokuProfile(
+      hardest: hardest,
+      uses: uses,
+      steps: steps,
+      scanLoad: scanLoad,
+      solved: true,
+      grid: working,
+    );
+  }
+
+  /// Cells fillable right now by a naked or hidden single — the moves
+  /// visibly on offer to the player at this moment.
+  static int _placeableCount(List<int> grid, List<int> candidates) {
+    final placeable = <int>{};
+    for (var i = 0; i < sudokuCellCount; i++) {
+      if (grid[i] == 0 && _bitCount(candidates[i]) == 1) placeable.add(i);
+    }
+    for (final unit in sudokuUnits) {
+      for (var digit = 1; digit <= sudokuSize; digit++) {
+        final bit = 1 << (digit - 1);
+        var seen = -1;
+        var count = 0;
+        var alreadyPlaced = false;
+        for (final index in unit) {
+          if (grid[index] == digit) {
+            alreadyPlaced = true;
+            break;
+          }
+          if (grid[index] == 0 && candidates[index] & bit != 0) {
+            count++;
+            seen = index;
+          }
+        }
+        if (!alreadyPlaced && count == 1) placeable.add(seen);
+      }
+    }
+    return placeable.length;
   }
 
   /// Candidate bitmask per cell (0 for filled cells), or null if some
@@ -297,6 +535,133 @@ class SudokuSolver {
             if (candidates[index] & mask == 0) continue;
             candidates[index] &= ~mask;
             progressed = true;
+          }
+        }
+      }
+    }
+    return progressed;
+  }
+
+  /// Two digits in a unit whose only possible cells are the same two.
+  /// Those cells must hold those digits, so every *other* candidate is
+  /// struck from them. The elimination happens inside the pair, which is
+  /// what makes it harder to see than a naked pair.
+  static bool _applyHiddenPairs(List<int> grid, List<int> candidates) {
+    var progressed = false;
+    for (final unit in sudokuUnits) {
+      // Where each still-unplaced digit could go in this unit.
+      final places = <int, List<int>>{};
+      for (var digit = 1; digit <= sudokuSize; digit++) {
+        final bit = 1 << (digit - 1);
+        if (unit.any((i) => grid[i] == digit)) continue;
+        final cells = [
+          for (final i in unit)
+            if (grid[i] == 0 && candidates[i] & bit != 0) i,
+        ];
+        if (cells.length == 2) places[digit] = cells;
+      }
+
+      final digits = places.keys.toList();
+      for (var a = 0; a < digits.length; a++) {
+        for (var b = a + 1; b < digits.length; b++) {
+          final first = places[digits[a]]!;
+          final second = places[digits[b]]!;
+          if (first[0] != second[0] || first[1] != second[1]) continue;
+
+          final mask = (1 << (digits[a] - 1)) | (1 << (digits[b] - 1));
+          for (final index in first) {
+            if (candidates[index] == mask) continue;
+            candidates[index] &= mask;
+            progressed = true;
+          }
+        }
+      }
+    }
+    return progressed;
+  }
+
+  /// Three cells in a unit whose candidates together span exactly three
+  /// digits. Unlike a naked pair the cells need not each hold all three,
+  /// which is why it sits above hidden pairs rather than beside naked
+  /// pairs: the shape is much less obvious on the board.
+  static bool _applyNakedTriples(List<int> grid, List<int> candidates) {
+    var progressed = false;
+    for (final unit in sudokuUnits) {
+      final cells = [
+        for (final i in unit)
+          if (grid[i] == 0 && _bitCount(candidates[i]) <= sudokuBoxSize) i,
+      ];
+      for (var a = 0; a < cells.length; a++) {
+        for (var b = a + 1; b < cells.length; b++) {
+          for (var c = b + 1; c < cells.length; c++) {
+            final mask = candidates[cells[a]] |
+                candidates[cells[b]] |
+                candidates[cells[c]];
+            if (_bitCount(mask) != sudokuBoxSize) continue;
+
+            for (final index in unit) {
+              if (index == cells[a] || index == cells[b] || index == cells[c]) {
+                continue;
+              }
+              if (grid[index] != 0) continue;
+              if (candidates[index] & mask == 0) continue;
+              candidates[index] &= ~mask;
+              progressed = true;
+            }
+          }
+        }
+      }
+    }
+    return progressed;
+  }
+
+  /// Two rows in which a digit has exactly two possible columns, both
+  /// rows using the *same* two columns. The digit must take one of those
+  /// cells in each row, so it cannot appear anywhere else in either
+  /// column — and symmetrically with rows and columns swapped.
+  ///
+  /// The first technique here that reasons across units rather than
+  /// inside one, which is the real step up in difficulty.
+  static bool _applyXWing(List<int> grid, List<int> candidates) {
+    var progressed = false;
+    for (var digit = 1; digit <= sudokuSize; digit++) {
+      final bit = 1 << (digit - 1);
+
+      // byRow scans rows and eliminates down columns; the second pass is
+      // the transpose. Written once rather than twice because the two
+      // halves differ only in how a line's cells are addressed.
+      for (final byRow in const [true, false]) {
+        int cellAt(int line, int offset) =>
+            byRow ? indexOf(line, offset) : indexOf(offset, line);
+
+        final lines = <int, List<int>>{};
+        for (var line = 0; line < sudokuSize; line++) {
+          final offsets = [
+            for (var offset = 0; offset < sudokuSize; offset++)
+              if (grid[cellAt(line, offset)] == 0 &&
+                  candidates[cellAt(line, offset)] & bit != 0)
+                offset,
+          ];
+          if (offsets.length == 2) lines[line] = offsets;
+        }
+
+        final keys = lines.keys.toList();
+        for (var a = 0; a < keys.length; a++) {
+          for (var b = a + 1; b < keys.length; b++) {
+            final first = lines[keys[a]]!;
+            final second = lines[keys[b]]!;
+            if (first[0] != second[0] || first[1] != second[1]) continue;
+
+            for (final offset in first) {
+              for (var line = 0; line < sudokuSize; line++) {
+                if (line == keys[a] || line == keys[b]) continue;
+                final index = cellAt(line, offset);
+                if (grid[index] != 0) continue;
+                if (candidates[index] & bit == 0) continue;
+                candidates[index] &= ~bit;
+                progressed = true;
+              }
+            }
           }
         }
       }

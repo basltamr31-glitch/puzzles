@@ -10,6 +10,9 @@ import '../../../../core/errors/app_exception.dart';
 import '../../../../core/notifications/reminder_controller.dart';
 import '../../../puzzle_list/domain/puzzle_summary.dart';
 import '../../../puzzle_list/puzzle_list_providers.dart';
+import '../../../rewards/data/rewards_repository.dart';
+import '../../../rewards/domain/puzzle_attempt.dart';
+import '../../../rewards/domain/solve_reward.dart';
 import '../../data/puzzle_repository.dart';
 import '../../domain/word_search_models.dart';
 import '../../domain/word_search_progress.dart';
@@ -75,6 +78,8 @@ class WordSearchGameState extends Equatable {
     this.dragStart,
     this.dragCurrent,
     this.wrongSelectionCells = const {},
+    this.mistakes = 0,
+    this.hintsUsed = 0,
     this.isCompleted = false,
     this.isLoading = true,
     this.errorMessage,
@@ -93,6 +98,16 @@ class WordSearchGameState extends Equatable {
   /// Briefly non-empty after a released drag that matched no word, so the
   /// grid can flash it red before clearing on the next touch.
   final Set<String> wrongSelectionCells;
+
+  /// Released drags on this run that spelled nothing.
+  final int mistakes;
+
+  /// Hints spent on this run. Costs a star rather than a life.
+  final int hintsUsed;
+
+  /// True once the player has spent every mistake. The board stops
+  /// accepting drags — the only ways on are restarting or leaving.
+  bool get isFailed => mistakes >= maxMistakes;
 
   final bool isCompleted;
   final bool isLoading;
@@ -117,6 +132,8 @@ class WordSearchGameState extends Equatable {
     (int, int)? dragCurrent,
     bool clearDragCurrent = false,
     Set<String>? wrongSelectionCells,
+    int? mistakes,
+    int? hintsUsed,
     bool? isCompleted,
     bool? isLoading,
     String? errorMessage,
@@ -130,6 +147,8 @@ class WordSearchGameState extends Equatable {
           ? null
           : (dragCurrent ?? this.dragCurrent),
       wrongSelectionCells: wrongSelectionCells ?? this.wrongSelectionCells,
+      mistakes: mistakes ?? this.mistakes,
+      hintsUsed: hintsUsed ?? this.hintsUsed,
       isCompleted: isCompleted ?? this.isCompleted,
       isLoading: isLoading ?? this.isLoading,
       errorMessage: errorMessage ?? this.errorMessage,
@@ -144,6 +163,8 @@ class WordSearchGameState extends Equatable {
     dragStart,
     dragCurrent,
     wrongSelectionCells,
+    mistakes,
+    hintsUsed,
     isCompleted,
     isLoading,
     errorMessage,
@@ -157,6 +178,7 @@ class WordSearchGameState extends Equatable {
 class WordSearchController extends StateNotifier<WordSearchGameState> {
   WordSearchController(
     this._repository,
+    this._rewards,
     this._analytics,
     this._ref,
     this.assetPath,
@@ -165,6 +187,7 @@ class WordSearchController extends StateNotifier<WordSearchGameState> {
   }
 
   final PuzzleRepository _repository;
+  final RewardsRepository _rewards;
   final AnalyticsService _analytics;
   final Ref _ref;
   final String assetPath;
@@ -178,10 +201,19 @@ class WordSearchController extends StateNotifier<WordSearchGameState> {
           _repository.statusFor(puzzle.id) == PuzzleStatus.completed;
       final foundWords = saved?.foundWords ?? const {};
 
+      // A completed puzzle carries no live attempt: its counters were
+      // cleared on the solve, and re-reading them would show a spent
+      // heart on a board that can no longer be lost.
+      final attempt = isCompleted
+          ? PuzzleAttempt.empty
+          : _rewards.loadAttempt(puzzle.id);
+
       state = state.copyWith(
         puzzle: puzzle,
         foundWords: foundWords,
         foundCells: _cellsFor(puzzle, foundWords),
+        mistakes: attempt.mistakes,
+        hintsUsed: attempt.hintsUsed,
         isLoading: false,
         isCompleted: isCompleted,
       );
@@ -217,7 +249,7 @@ class WordSearchController extends StateNotifier<WordSearchGameState> {
   }
 
   void startDrag(int row, int col) {
-    if (state.isCompleted) return;
+    if (state.isCompleted || state.isFailed) return;
     state = state.copyWith(
       dragStart: (row, col),
       dragCurrent: (row, col),
@@ -234,13 +266,18 @@ class WordSearchController extends StateNotifier<WordSearchGameState> {
     final puzzle = state.puzzle;
     final selection = state.liveSelection;
     state = state.copyWith(clearDragStart: true, clearDragCurrent: true);
+    // A one-cell selection is a tap, not a guess — the player brushed
+    // the board or thought better of a drag, and charging a life for
+    // that would make the grid feel hostile to touch.
     if (puzzle == null || selection.length < 2) return;
 
     final match = _matchWord(puzzle, selection);
     if (match == null) {
       state = state.copyWith(
+        mistakes: state.mistakes + 1,
         wrongSelectionCells: {for (final (r, c) in selection) '$r,$c'},
       );
+      _persistAttempt();
       return;
     }
     _markFound(puzzle, match);
@@ -285,7 +322,7 @@ class WordSearchController extends StateNotifier<WordSearchGameState> {
   /// reveals one cell — a hint always makes direct, immediate progress.
   Future<void> revealHint() async {
     final puzzle = state.puzzle;
-    if (puzzle == null || state.isCompleted) return;
+    if (puzzle == null || state.isCompleted || state.isFailed) return;
     final remaining = puzzle.placements
         .map((p) => p.word)
         .where((w) => !state.foundWords.contains(w))
@@ -294,6 +331,8 @@ class WordSearchController extends StateNotifier<WordSearchGameState> {
 
     final word = remaining[_random.nextInt(remaining.length)];
     _analytics.logEvent(AnalyticsEvents.hintUsed, {'puzzle_id': puzzle.id});
+    state = state.copyWith(hintsUsed: state.hintsUsed + 1);
+    await _persistAttempt();
     await _markFound(puzzle, word);
   }
 
@@ -301,6 +340,8 @@ class WordSearchController extends StateNotifier<WordSearchGameState> {
     final puzzle = state.puzzle;
     if (puzzle == null) return;
     await _repository.clearProgress(puzzle.id);
+    await _rewards.clearAttempt(puzzle.id);
+    if (!mounted) return;
     // The puzzle list's cached summaries (and therefore the sequential
     // unlock check) would otherwise keep showing this puzzle as completed.
     _ref.invalidate(puzzleSummariesProvider);
@@ -308,9 +349,22 @@ class WordSearchController extends StateNotifier<WordSearchGameState> {
       foundWords: const {},
       foundCells: const {},
       wrongSelectionCells: const {},
+      mistakes: 0,
+      hintsUsed: 0,
       isCompleted: false,
       clearDragStart: true,
       clearDragCurrent: true,
+    );
+  }
+
+  /// Written separately from [_persist] because it changes far less
+  /// often — only on a wrong guess or a hint.
+  Future<void> _persistAttempt() async {
+    final puzzle = state.puzzle;
+    if (puzzle == null) return;
+    await _rewards.saveAttempt(
+      puzzle.id,
+      PuzzleAttempt(mistakes: state.mistakes, hintsUsed: state.hintsUsed),
     );
   }
 
@@ -330,6 +384,13 @@ class WordSearchController extends StateNotifier<WordSearchGameState> {
 
     state = state.copyWith(isCompleted: true);
     await _repository.markCompleted(puzzle.id);
+    // Every await here is a chance for the player to have left the puzzle;
+    // reaching for the Ref afterwards throws on a disposed provider.
+    if (!mounted) return;
+    // The run is over, so its counters are dropped — a replay starts on
+    // a full three lives. The tallies the solve earned have already
+    // been read off the state by the screen.
+    await _rewards.clearAttempt(puzzle.id);
     // FutureProvider.family caches per (language, difficulty) args and
     // never re-reads storage on its own — without this, the puzzle list
     // keeps showing this puzzle as unfinished and the next one stays
@@ -349,6 +410,7 @@ final wordSearchControllerProvider =
     >(
       (ref, assetPath) => WordSearchController(
         ref.watch(puzzleRepositoryProvider),
+        ref.watch(rewardsRepositoryProvider),
         ref.watch(analyticsServiceProvider),
         ref,
         assetPath,

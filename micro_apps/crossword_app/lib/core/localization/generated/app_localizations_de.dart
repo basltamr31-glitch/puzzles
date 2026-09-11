@@ -124,6 +124,21 @@ class AppLocalizationsDe extends AppLocalizations {
   String get zoomOutButton => 'Verkleinern';
 
   @override
+  String get zoomAreaLabel => 'Zoombereich';
+
+  @override
+  String get zoomAreaTopLeft => 'Oben links';
+
+  @override
+  String get zoomAreaTopRight => 'Oben rechts';
+
+  @override
+  String get zoomAreaBottomLeft => 'Unten links';
+
+  @override
+  String get zoomAreaBottomRight => 'Unten rechts';
+
+  @override
   String get restartConfirmTitle => 'Dieses Rätsel neu starten?';
 
   @override
@@ -332,4 +347,137 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get confirmButton => 'Bestätigen';
+
+  @override
+  String get mistakesLabel => 'Fehler';
+
+  @override
+  String livesRemaining(int remaining, int max) {
+    return '$remaining von $max Leben übrig';
+  }
+
+  @override
+  String get outOfLivesTitle => 'Keine Leben mehr';
+
+  @override
+  String outOfLivesMessage(int max) {
+    return 'Das waren $max Fehler. Starte dieses Rätsel neu für einen weiteren Versuch.';
+  }
+
+  @override
+  String get outOfLivesTryAgain => 'Erneut versuchen';
+
+  @override
+  String get rewardHeadlineFlawless => 'Fehlerfrei!';
+
+  @override
+  String get rewardHeadlineGreat => 'Starke Lösung!';
+
+  @override
+  String get rewardHeadlineSolved => 'Gelöst!';
+
+  @override
+  String get rewardNoMistakes => 'Keine Fehler';
+
+  @override
+  String rewardMistakesMade(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count Fehler',
+      one: '1 Fehler',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String rewardStreakDays(int days) {
+    String _temp0 = intl.Intl.pluralLogic(
+      days,
+      locale: localeName,
+      other: '$days Tage in Folge',
+      one: '1 Tag in Folge',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String rewardBestStreak(int days) {
+    return 'Neue Bestserie: $days';
+  }
+
+  @override
+  String rewardBadgeUnlocked(String badge) {
+    return 'Neues Abzeichen: $badge';
+  }
+
+  @override
+  String rewardStarsEarned(int stars, int max) {
+    return '$stars von $max Sternen';
+  }
+
+  @override
+  String get achievementsTitle => 'Fortschritt';
+
+  @override
+  String get achievementsStreakLabel => 'Tage in Folge';
+
+  @override
+  String get achievementsSolvedLabel => 'Gelöste Rätsel';
+
+  @override
+  String get achievementsStarsLabel => 'Verdiente Sterne';
+
+  @override
+  String get achievementsBestStreakLabel => 'Beste Serie';
+
+  @override
+  String get achievementsBadgesTitle => 'Abzeichen';
+
+  @override
+  String achievementsEarnedSemantics(String badge) {
+    return '$badge, erhalten';
+  }
+
+  @override
+  String achievementsLockedSemantics(String badge) {
+    return '$badge, gesperrt';
+  }
+
+  @override
+  String get achievementFirstSolveTitle => 'Erster Erfolg';
+
+  @override
+  String get achievementFirstSolveDescription => 'Löse dein erstes Rätsel';
+
+  @override
+  String get achievementTenSolvesTitle => 'Warm geworden';
+
+  @override
+  String get achievementTenSolvesDescription => 'Löse 10 Rätsel';
+
+  @override
+  String get achievementFiftySolvesTitle => 'Stammspieler';
+
+  @override
+  String get achievementFiftySolvesDescription => 'Löse 50 Rätsel';
+
+  @override
+  String get achievementHundredSolvesTitle => 'Hundert geschafft';
+
+  @override
+  String get achievementHundredSolvesDescription => 'Löse 100 Rätsel';
+
+  @override
+  String get achievementFlawlessFiveTitle => 'Perfektionist';
+
+  @override
+  String get achievementFlawlessFiveDescription =>
+      'Hole dir bei 5 Rätseln drei Sterne';
+
+  @override
+  String get achievementWeekStreakTitle => 'Sieben Tage';
+
+  @override
+  String get achievementWeekStreakDescription => 'Spiele 7 Tage in Folge';
 }

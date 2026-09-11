@@ -177,4 +177,71 @@ void main() {
 
     expect(started.single, (0, 1));
   });
+
+  // The tests above omit the InteractiveViewer that sits between the scroll
+  // view and the grid on the real screen. That matters: InteractiveViewer
+  // installs a ScaleGestureRecognizer unconditionally - panEnabled: false
+  // only makes it *ignore* the result, it still competes in the arena - so
+  // the real tree has three recognizers fighting over one drag, not two.
+  // This case mirrors word_search_screen.dart. If it disagrees with the
+  // screen, fix the harness, not the assertion.
+  testWidgets('vertical drag works with InteractiveViewer in the tree', (
+    tester,
+  ) async {
+    final started = <(int, int)>[];
+    final updated = <(int, int)>[];
+
+    await tester.pumpWidget(
+      MaterialApp(
+        theme: AppTheme.light,
+        home: Scaffold(
+          body: SingleChildScrollView(
+            child: Column(
+              children: [
+                const SizedBox(height: 100),
+                SizedBox(
+                  width: 400,
+                  height: 400,
+                  child: ClipRect(
+                    child: InteractiveViewer(
+                      minScale: 1,
+                      maxScale: 4,
+                      panEnabled: false,
+                      child: WordSearchGridView(
+                        puzzle: puzzle,
+                        foundCells: const {},
+                        liveSelection: const [],
+                        wrongSelectionCells: const {},
+                        onDragStart: (r, c) => started.add((r, c)),
+                        onDragUpdate: (r, c) => updated.add((r, c)),
+                        onDragEnd: () {},
+                      ),
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 800),
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+
+    final topLeft = tester.getTopLeft(find.byType(WordSearchGridView));
+    final gesture = await tester.startGesture(topLeft + const Offset(50, 50));
+    await tester.pump();
+    for (var i = 0; i < 25; i++) {
+      await gesture.moveBy(const Offset(0, 8));
+      await tester.pump();
+    }
+    await gesture.up();
+    await tester.pumpAndSettle();
+
+    expect(
+      started,
+      isNotEmpty,
+      reason: 'a vertical drag was swallowed before it reached the grid',
+    );
+    expect(updated, contains((2, 0)));
+  });
 }

@@ -119,6 +119,21 @@ class AppLocalizationsAr extends AppLocalizations {
   String get zoomOutButton => 'تصغير';
 
   @override
+  String get zoomAreaLabel => 'منطقة التكبير';
+
+  @override
+  String get zoomAreaTopLeft => 'أعلى اليسار';
+
+  @override
+  String get zoomAreaTopRight => 'أعلى اليمين';
+
+  @override
+  String get zoomAreaBottomLeft => 'أسفل اليسار';
+
+  @override
+  String get zoomAreaBottomRight => 'أسفل اليمين';
+
+  @override
   String get restartConfirmTitle => 'إعادة بدء هذا اللغز؟';
 
   @override
@@ -323,4 +338,139 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get confirmButton => 'تأكيد';
+
+  @override
+  String get mistakesLabel => 'الأخطاء';
+
+  @override
+  String livesRemaining(int remaining, int max) {
+    return '$remaining من $max محاولات متبقية';
+  }
+
+  @override
+  String get outOfLivesTitle => 'انتهت المحاولات';
+
+  @override
+  String outOfLivesMessage(int max) {
+    return 'لقد ارتكبت $max أخطاء. أعد بدء هذا اللغز للمحاولة مرة أخرى.';
+  }
+
+  @override
+  String get outOfLivesTryAgain => 'حاول مرة أخرى';
+
+  @override
+  String get rewardHeadlineFlawless => 'بلا أخطاء!';
+
+  @override
+  String get rewardHeadlineGreat => 'حل رائع!';
+
+  @override
+  String get rewardHeadlineSolved => 'تم الحل!';
+
+  @override
+  String get rewardNoMistakes => 'بدون أخطاء';
+
+  @override
+  String rewardMistakesMade(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count أخطاء',
+      two: 'خطآن',
+      one: 'خطأ واحد',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String rewardStreakDays(int days) {
+    String _temp0 = intl.Intl.pluralLogic(
+      days,
+      locale: localeName,
+      other: '$days أيام متتالية',
+      two: 'يومان متتاليان',
+      one: 'يوم واحد متتالٍ',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String rewardBestStreak(int days) {
+    return 'أفضل سلسلة جديدة: $days';
+  }
+
+  @override
+  String rewardBadgeUnlocked(String badge) {
+    return 'شارة جديدة: $badge';
+  }
+
+  @override
+  String rewardStarsEarned(int stars, int max) {
+    return '$stars من $max نجوم';
+  }
+
+  @override
+  String get achievementsTitle => 'التقدم';
+
+  @override
+  String get achievementsStreakLabel => 'أيام متتالية';
+
+  @override
+  String get achievementsSolvedLabel => 'ألغاز محلولة';
+
+  @override
+  String get achievementsStarsLabel => 'النجوم المكتسبة';
+
+  @override
+  String get achievementsBestStreakLabel => 'أفضل سلسلة';
+
+  @override
+  String get achievementsBadgesTitle => 'الشارات';
+
+  @override
+  String achievementsEarnedSemantics(String badge) {
+    return '$badge، تم الحصول عليها';
+  }
+
+  @override
+  String achievementsLockedSemantics(String badge) {
+    return '$badge، مقفلة';
+  }
+
+  @override
+  String get achievementFirstSolveTitle => 'أول حل';
+
+  @override
+  String get achievementFirstSolveDescription => 'أكمل أول لغز لك';
+
+  @override
+  String get achievementTenSolvesTitle => 'بداية قوية';
+
+  @override
+  String get achievementTenSolvesDescription => 'أكمل 10 ألغاز';
+
+  @override
+  String get achievementFiftySolvesTitle => 'لاعب منتظم';
+
+  @override
+  String get achievementFiftySolvesDescription => 'أكمل 50 لغزًا';
+
+  @override
+  String get achievementHundredSolvesTitle => 'مئة لغز';
+
+  @override
+  String get achievementHundredSolvesDescription => 'أكمل 100 لغز';
+
+  @override
+  String get achievementFlawlessFiveTitle => 'إتقان';
+
+  @override
+  String get achievementFlawlessFiveDescription =>
+      'احصل على ثلاث نجوم في 5 ألغاز';
+
+  @override
+  String get achievementWeekStreakTitle => 'سبعة أيام';
+
+  @override
+  String get achievementWeekStreakDescription => 'العب 7 أيام متتالية';
 }

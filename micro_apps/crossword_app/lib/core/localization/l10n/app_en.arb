@@ -58,6 +58,11 @@
   "restartPuzzleButton": "Restart",
   "zoomInButton": "Zoom in",
   "zoomOutButton": "Zoom out",
+  "zoomAreaLabel": "Zoom area",
+  "zoomAreaTopLeft": "Top left",
+  "zoomAreaTopRight": "Top right",
+  "zoomAreaBottomLeft": "Bottom left",
+  "zoomAreaBottomRight": "Bottom right",
   "restartConfirmTitle": "Restart this puzzle?",
   "restartConfirmMessage": "Your progress on this puzzle will be cleared.",
   "exitPuzzleConfirmTitle": "Leave puzzle?",
@@ -142,5 +147,108 @@
   "errorPuzzleMissing": "This puzzle couldn't be loaded.",
   "cancelButton": "Cancel",
   "okButton": "OK",
-  "confirmButton": "Confirm"
+  "confirmButton": "Confirm",
+  "mistakesLabel": "Mistakes",
+  "livesRemaining": "{remaining} of {max} lives left",
+  "@livesRemaining": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "outOfLivesTitle": "Out of lives",
+  "outOfLivesMessage": "That is {max} mistakes. Start this puzzle again to have another go.",
+  "@outOfLivesMessage": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "outOfLivesTryAgain": "Try again",
+  "rewardHeadlineFlawless": "Flawless!",
+  "rewardHeadlineGreat": "Great solve!",
+  "rewardHeadlineSolved": "Solved!",
+  "rewardNoMistakes": "No mistakes",
+  "rewardMistakesMade": "{count, plural, =1{1 mistake} other{{count} mistakes}}",
+  "@rewardMistakesMade": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "rewardStreakDays": "{days, plural, =1{1-day streak} other{{days}-day streak}}",
+  "@rewardStreakDays": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "rewardBestStreak": "New best streak: {days}",
+  "@rewardBestStreak": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "rewardBadgeUnlocked": "New badge: {badge}",
+  "@rewardBadgeUnlocked": {
+    "placeholders": {
+      "badge": {
+        "type": "String"
+      }
+    }
+  },
+  "rewardStarsEarned": "{stars} of {max} stars",
+  "@rewardStarsEarned": {
+    "placeholders": {
+      "stars": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "achievementsTitle": "Progress",
+  "achievementsStreakLabel": "Day streak",
+  "achievementsSolvedLabel": "Puzzles solved",
+  "achievementsStarsLabel": "Stars earned",
+  "achievementsBestStreakLabel": "Best streak",
+  "achievementsBadgesTitle": "Badges",
+  "achievementsEarnedSemantics": "{badge}, earned",
+  "@achievementsEarnedSemantics": {
+    "placeholders": {
+      "badge": {
+        "type": "String"
+      }
+    }
+  },
+  "achievementsLockedSemantics": "{badge}, locked",
+  "@achievementsLockedSemantics": {
+    "placeholders": {
+      "badge": {
+        "type": "String"
+      }
+    }
+  },
+  "achievementFirstSolveTitle": "First solve",
+  "achievementFirstSolveDescription": "Finish your first puzzle",
+  "achievementTenSolvesTitle": "Getting warm",
+  "achievementTenSolvesDescription": "Finish 10 puzzles",
+  "achievementFiftySolvesTitle": "Regular",
+  "achievementFiftySolvesDescription": "Finish 50 puzzles",
+  "achievementHundredSolvesTitle": "Centurion",
+  "achievementHundredSolvesDescription": "Finish 100 puzzles",
+  "achievementFlawlessFiveTitle": "Perfectionist",
+  "achievementFlawlessFiveDescription": "Earn three stars on 5 puzzles",
+  "achievementWeekStreakTitle": "Seven days",
+  "achievementWeekStreakDescription": "Play 7 days in a row"
 }

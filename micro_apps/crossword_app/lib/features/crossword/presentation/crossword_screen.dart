@@ -17,11 +17,17 @@ import '../../../core/haptics/haptic_service.dart';
 import '../../../core/localization/generated/app_localizations.dart';
 import '../../../core/utils/motion.dart';
 import '../../../core/widgets/app_scaffold.dart';
+import '../../../core/widgets/board_zoom_controls.dart';
 import '../../../core/widgets/decorative_art.dart';
 import '../../../core/widgets/error_state.dart';
 import '../../../core/widgets/loading_indicator.dart';
 import '../../../core/widgets/primary_button.dart';
 import '../../../core/widgets/secondary_button.dart';
+import '../../rewards/domain/solve_reward.dart';
+import '../../rewards/presentation/widgets/lives_indicator.dart';
+import '../../rewards/presentation/widgets/out_of_lives_dialog.dart';
+import '../../rewards/presentation/widgets/reward_summary.dart';
+import '../../rewards/rewards_controller.dart';
 import '../../settings/settings_controller.dart';
 import '../domain/crossword_models.dart';
 import 'controllers/crossword_controller.dart';
@@ -52,6 +58,12 @@ class _CrosswordScreenState extends ConsumerState<CrosswordScreen>
   final _focusNode = FocusNode();
   final _textController = TextEditingController();
   bool _completionHandled = false;
+  bool _failureHandled = false;
+
+  /// What the solve earned, captured the moment the puzzle was finished
+  /// so the celebration can show it once the interstitial is out of the
+  /// way.
+  SolveReward? _reward;
 
   /// Drives pinch-to-zoom on the grid. Pan is only enabled once zoomed in,
   /// so at 1x a vertical drag still scrolls the page instead of being
@@ -59,8 +71,24 @@ class _CrosswordScreenState extends ConsumerState<CrosswordScreen>
   final _zoomController = TransformationController();
   double _gridScale = 1;
 
+  /// Measures the viewer so [_applyZoom] can work out where the middle of
+  /// the board is. Sits on the [ClipRect], whose size is the viewport's.
+  final _viewerKey = GlobalKey();
+
+  /// The quarter of the board the zoom buttons are aimed at, or null when
+  /// the board is unzoomed or the player has panned it by hand.
+  BoardQuadrant? _quadrant;
+
+  /// The last transform this screen set itself, used by [_onZoomChanged]
+  /// to tell our own zooming apart from a pinch or a pan.
+  Matrix4? _appliedMatrix;
+
   static const double _minScale = 1;
   static const double _maxScale = 4;
+
+  /// Where a quarter jumps to when it is picked from an unzoomed board.
+  /// 2x is exactly "this quarter fills the frame".
+  static const double _quadrantScale = 2;
 
   /// Built eagerly in [initState], not with a `late final` initialiser.
   /// Lazily creating it means a screen the player never shook would first
@@ -91,10 +119,17 @@ class _CrosswordScreenState extends ConsumerState<CrosswordScreen>
   }
 
   void _onZoomChanged() {
-    final scale = _zoomController.value.getMaxScaleOnAxis();
-    if ((scale - _gridScale).abs() > 0.01) {
-      setState(() => _gridScale = scale);
-    }
+    final matrix = _zoomController.value;
+    final scale = matrix.getMaxScaleOnAxis();
+    // A pinch or a pan moves the view off whichever quarter the picker is
+    // pointing at, so drop the highlight instead of leaving it claiming
+    // something that is no longer true.
+    final quadrant = matrix == _appliedMatrix ? _quadrant : null;
+    if ((scale - _gridScale).abs() <= 0.01 && quadrant == _quadrant) return;
+    setState(() {
+      _gridScale = scale;
+      _quadrant = quadrant;
+    });
   }
 
   /// Parks the hidden field on the sentinel so [decodeCrosswordInput] can
@@ -106,18 +141,71 @@ class _CrosswordScreenState extends ConsumerState<CrosswordScreen>
     );
   }
 
-  void _zoomBy(double factor) {
-    final next = (_gridScale * factor).clamp(_minScale, _maxScale);
-    _setZoom(next);
+  /// The viewport, which is also the board: [InteractiveViewer] sizes its
+  /// child to the viewer, so the two are the same box.
+  Size? get _viewportSize {
+    final box = _viewerKey.currentContext?.findRenderObject() as RenderBox?;
+    if (box == null || !box.hasSize || box.size.isEmpty) return null;
+    return box.size;
   }
 
-  void _setZoom(double scale) {
-    if (scale <= _minScale) {
-      _zoomController.value = Matrix4.identity();
+  /// Aims the magnifier at [quadrant]. Picking a quarter of an unzoomed
+  /// board zooms straight in on it — arming a button and showing nothing
+  /// would read as a dead tap.
+  void _selectQuadrant(BoardQuadrant quadrant) {
+    _applyZoom(
+      _gridScale > _minScale ? _gridScale : _quadrantScale,
+      quadrant,
+    );
+  }
+
+  void _zoomBy(double factor) {
+    _applyZoom((_gridScale * factor).clamp(_minScale, _maxScale), _quadrant);
+  }
+
+  /// Scales the board to [scale] with [quadrant] centred in the frame.
+  /// See [boardZoomMatrix] for why the translation matters.
+  void _applyZoom(double scale, BoardQuadrant? quadrant) {
+    final size = _viewportSize;
+    if (scale <= _minScale || size == null) {
+      _setMatrix(Matrix4.identity(), null);
       return;
     }
-    _zoomController.value = Matrix4.identity()
-      ..scaleByDouble(scale, scale, scale, 1);
+
+    final Offset focal;
+    if (quadrant != null) {
+      focal = Offset(
+        size.width * quadrant.fractionX,
+        size.height * quadrant.fractionY,
+      );
+    } else {
+      // No quarter aimed at — the player panned here by hand, so hold
+      // whatever they parked in the middle and only change the
+      // magnification around it.
+      final current = _zoomController.value;
+      final currentScale = current.getMaxScaleOnAxis();
+      final translation = current.getTranslation();
+      focal = Offset(
+        (size.width / 2 - translation.x) / currentScale,
+        (size.height / 2 - translation.y) / currentScale,
+      );
+    }
+
+    _setMatrix(
+      boardZoomMatrix(viewport: size, scale: scale, focal: focal),
+      quadrant,
+    );
+  }
+
+  /// Records the transform as ours before handing it to the controller,
+  /// so the listener it wakes up can recognise it.
+  void _setMatrix(Matrix4 matrix, BoardQuadrant? quadrant) {
+    setState(() {
+      _appliedMatrix = matrix;
+      _quadrant = quadrant;
+      _zoomController.value = matrix;
+      _gridScale = matrix.getMaxScaleOnAxis();
+    });
   }
 
   CrosswordController get _notifier =>
@@ -197,6 +285,13 @@ class _CrosswordScreenState extends ConsumerState<CrosswordScreen>
         if (next.isCompleted && previous?.isCompleted != true) {
           _onPuzzleCompleted();
         }
+        // Also fires when a failed puzzle is reopened, which is
+        // deliberate: the grid is locked either way, and a locked grid
+        // with no explanation on screen is just a game that has
+        // stopped responding.
+        if (next.isFailed && !_failureHandled) {
+          _onOutOfLives();
+        }
       },
     );
 
@@ -273,6 +368,8 @@ class _CrosswordScreenState extends ConsumerState<CrosswordScreen>
         child: Column(
           children: [
             const SizedBox(height: AppSpacing.md),
+            _MistakesRow(mistakes: state.mistakes),
+            const SizedBox(height: AppSpacing.sm),
             ClueBar(
               clue: state.currentClue,
               onTap: () => _showClueList(context, l10n, grid),
@@ -306,6 +403,7 @@ class _CrosswordScreenState extends ConsumerState<CrosswordScreen>
                       : null,
                 ),
                 child: ClipRect(
+                  key: _viewerKey,
                   child: InteractiveViewer(
                     transformationController: _zoomController,
                     minScale: _minScale,
@@ -327,7 +425,7 @@ class _CrosswordScreenState extends ConsumerState<CrosswordScreen>
                 ),
               ),
             ),
-            _buildZoomControls(l10n),
+            _buildZoomControls(),
             const SizedBox(height: AppSpacing.sm),
             Row(
               children: [
@@ -337,7 +435,7 @@ class _CrosswordScreenState extends ConsumerState<CrosswordScreen>
                     icon: Icons.lightbulb_outline_rounded,
                     fill: AppColors.hintFillLight,
                     foreground: AppColors.hintForegroundLight,
-                    onPressed: state.isCompleted
+                    onPressed: state.isCompleted || state.isFailed
                         ? null
                         : () => _handleHintTap(context, l10n),
                   ),
@@ -349,7 +447,9 @@ class _CrosswordScreenState extends ConsumerState<CrosswordScreen>
                     icon: Icons.check_circle_outline_rounded,
                     fill: AppColors.checkFillLight,
                     foreground: AppColors.checkForegroundLight,
-                    onPressed: state.isCompleted ? null : _handleCheck,
+                    onPressed: state.isCompleted || state.isFailed
+                        ? null
+                        : _handleCheck,
                   ),
                 ),
               ],
@@ -364,25 +464,20 @@ class _CrosswordScreenState extends ConsumerState<CrosswordScreen>
   /// Explicit buttons alongside pinch-to-zoom: the bigger expert grids are
   /// hard to read on a phone, and a discoverable control beats relying on
   /// players guessing that the grid is pinchable.
-  Widget _buildZoomControls(AppLocalizations l10n) {
-    return Row(
-      mainAxisAlignment: MainAxisAlignment.center,
-      children: [
-        IconButton(
-          onPressed: _gridScale > _minScale ? () => _zoomBy(1 / 1.4) : null,
-          icon: const Icon(Icons.zoom_out_rounded),
-          tooltip: l10n.zoomOutButton,
-        ),
-        TextButton(
-          onPressed: _gridScale > _minScale ? () => _setZoom(_minScale) : null,
-          child: Text('${(_gridScale * 100).round()}%'),
-        ),
-        IconButton(
-          onPressed: _gridScale < _maxScale ? () => _zoomBy(1.4) : null,
-          icon: const Icon(Icons.zoom_in_rounded),
-          tooltip: l10n.zoomInButton,
-        ),
-      ],
+  ///
+  /// The quarter picker beside them decides *where* the buttons magnify.
+  /// Without it they could only ever enlarge one fixed corner of the
+  /// board, leaving the other three reachable only by panning.
+  Widget _buildZoomControls() {
+    return BoardZoomControls(
+      scale: _gridScale,
+      minScale: _minScale,
+      maxScale: _maxScale,
+      selectedQuadrant: _quadrant,
+      onQuadrantSelected: _selectQuadrant,
+      onZoomIn: () => _zoomBy(1.4),
+      onZoomOut: () => _zoomBy(1 / 1.4),
+      onReset: () => _applyZoom(_minScale, null),
     );
   }
 
@@ -607,9 +702,49 @@ class _CrosswordScreenState extends ConsumerState<CrosswordScreen>
     }
   }
 
+  /// Locks the run down and tells the player why. Restart is offered
+  /// right here rather than sending them back to the list first:
+  /// wanting another go is the overwhelmingly likely next move.
+  void _onOutOfLives() {
+    if (_failureHandled) return;
+    _failureHandled = true;
+
+    ref.read(hapticServiceProvider).play(HapticIntent.heavy);
+    showDialog<void>(
+      context: context,
+      barrierDismissible: false,
+      builder: (dialogContext) => OutOfLivesDialog(
+        onRestart: () {
+          Navigator.of(dialogContext).pop();
+          _failureHandled = false;
+          _notifier.restart();
+        },
+        onBackToPuzzles: () {
+          Navigator.of(dialogContext).pop();
+          context.pop();
+        },
+      ),
+    );
+  }
+
   Future<void> _onPuzzleCompleted() async {
     if (_completionHandled) return;
     _completionHandled = true;
+
+    // Banked before the interstitial: an ad failing to load, or the
+    // player killing the app while one is on screen, must not be able
+    // to cost them the solve they just earned.
+    final state = ref.read(crosswordControllerProvider(widget.assetPath));
+    final puzzleId = state.grid?.puzzleId;
+    if (puzzleId != null) {
+      _reward = ref
+          .read(rewardsControllerProvider.notifier)
+          .recordSolve(
+            puzzleId: puzzleId,
+            mistakes: state.mistakes,
+            hintsUsed: state.hintsUsed,
+          );
+    }
 
     ref.read(hapticServiceProvider).play(HapticIntent.heavy);
     await ref.read(adPolicyProvider).recordPuzzleCompleted();
@@ -633,6 +768,7 @@ class _CrosswordScreenState extends ConsumerState<CrosswordScreen>
       barrierDismissible: false,
       builder: (dialogContext) => _CompletionCelebration(
         l10n: l10n,
+        reward: _reward,
         onBackToPuzzles: () {
           Navigator.of(dialogContext).pop();
           context.pop();
@@ -745,14 +881,49 @@ class _MusicToggleButton extends ConsumerWidget {
 /// icon's elastic scale-in is a single implicit [TweenAnimationBuilder]
 /// (Lever 1's cheapest, highest-impact technique), not a hand-rolled
 /// controller, because that's all this moment needs.
+/// The mistake budget, above the grid rather than in the app bar: three
+/// hearts alongside a puzzle title and two icon buttons is more than a
+/// 320dp app bar can hold, and the number the player is watching should
+/// not be the first thing to get squeezed.
+class _MistakesRow extends StatelessWidget {
+  const _MistakesRow({required this.mistakes});
+
+  final int mistakes;
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    final l10n = AppLocalizations.of(context);
+    return Row(
+      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+      children: [
+        Text(
+          l10n.mistakesLabel,
+          style: theme.textTheme.labelLarge?.copyWith(
+            color: theme.colorScheme.onSurfaceVariant,
+          ),
+        ),
+        LivesIndicator(mistakes: mistakes),
+      ],
+    );
+  }
+}
+
 class _CompletionCelebration extends StatelessWidget {
   const _CompletionCelebration({
     required this.l10n,
+    required this.reward,
     required this.onBackToPuzzles,
     required this.onNextPuzzle,
   });
 
   final AppLocalizations l10n;
+
+  /// Null only if the puzzle finished before its id was known, which
+  /// should not happen — the celebration degrades to the plain
+  /// congratulation rather than throwing on the player's best moment.
+  final SolveReward? reward;
+
   final VoidCallback onBackToPuzzles;
   final VoidCallback? onNextPuzzle;
 
@@ -818,11 +989,14 @@ class _CompletionCelebration extends StatelessWidget {
               ),
             ),
             const SizedBox(height: AppSpacing.xl),
-            Text(
-              l10n.puzzleCompletedTitle,
-              style: theme.textTheme.headlineSmall,
-              textAlign: TextAlign.center,
-            ),
+            if (reward != null)
+              RewardSummary(reward: reward!)
+            else
+              Text(
+                l10n.puzzleCompletedTitle,
+                style: theme.textTheme.headlineSmall,
+                textAlign: TextAlign.center,
+              ),
             const SizedBox(height: AppSpacing.sm),
             Text(
               l10n.puzzleCompletedMessage,

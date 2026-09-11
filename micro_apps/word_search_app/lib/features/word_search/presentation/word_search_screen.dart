@@ -13,11 +13,17 @@ import '../../../core/billing/premium_state.dart';
 import '../../../core/haptics/haptic_service.dart';
 import '../../../core/localization/generated/app_localizations.dart';
 import '../../../core/widgets/app_scaffold.dart';
+import '../../../core/widgets/board_zoom_controls.dart';
 import '../../../core/widgets/decorative_art.dart';
 import '../../../core/widgets/error_state.dart';
 import '../../../core/widgets/loading_indicator.dart';
 import '../../../core/widgets/primary_button.dart';
 import '../../../core/widgets/secondary_button.dart';
+import '../../rewards/domain/solve_reward.dart';
+import '../../rewards/presentation/widgets/lives_indicator.dart';
+import '../../rewards/presentation/widgets/out_of_lives_dialog.dart';
+import '../../rewards/presentation/widgets/reward_summary.dart';
+import '../../rewards/rewards_controller.dart';
 import '../../settings/settings_controller.dart';
 import 'controllers/word_search_controller.dart';
 import 'widgets/word_list_panel.dart';
@@ -40,15 +46,57 @@ class WordSearchScreen extends ConsumerStatefulWidget {
 
 class _WordSearchScreenState extends ConsumerState<WordSearchScreen> {
   bool _completionHandled = false;
+  bool _failureHandled = false;
 
-  /// Drives pinch-to-zoom on the grid. Pan is only enabled once zoomed in,
-  /// so at 1x a vertical drag still scrolls the page instead of being
-  /// swallowed by the viewer.
+  /// What the solve earned, captured the moment the puzzle was finished
+  /// so the celebration can show it once the interstitial is out of the
+  /// way.
+  SolveReward? _reward;
+
+  /// Drives pinch-to-zoom on the grid. Panning the *viewer* is only
+  /// enabled once zoomed in, so at 1x every drag on the board is a word
+  /// selection rather than a pan.
   final _zoomController = TransformationController();
   double _gridScale = 1;
 
+  /// Measures the viewer so [_applyZoom] can work out where the middle of
+  /// the board is. Sits on the [ClipRect], whose size is the viewport's.
+  final _viewerKey = GlobalKey();
+
+  /// The quarter of the board the zoom buttons are aimed at, or null when
+  /// the board is unzoomed or the player has panned it by hand.
+  BoardQuadrant? _quadrant;
+
+  /// The last transform this screen set itself, used by [_onZoomChanged]
+  /// to tell our own zooming apart from a pinch or a pan.
+  Matrix4? _appliedMatrix;
+
+  /// True while a finger is down anywhere on the board.
+  ///
+  /// While it is, the page stops being scrollable. The grid's own
+  /// recognizer is written to out-race the scroll view's (see
+  /// `_GridPanGestureRecognizer`), but *winning a race* is a weaker
+  /// guarantee than there being no competitor at all: this takes the
+  /// scroll view out of the gesture arena for the duration of the touch,
+  /// so a vertical drag on the board cannot be stolen no matter how the
+  /// arena resolves on a given device.
+  ///
+  /// Set from a [Listener], not a gesture recognizer, because a Listener
+  /// sees raw pointer events without joining the arena — it cannot itself
+  /// be beaten to the gesture it is trying to protect.
+  bool _boardTouched = false;
+
+  void _setBoardTouched(bool touched) {
+    if (_boardTouched == touched) return;
+    setState(() => _boardTouched = touched);
+  }
+
   static const double _minScale = 1;
   static const double _maxScale = 3;
+
+  /// Where a quarter jumps to when it is picked from an unzoomed board.
+  /// 2x is exactly "this quarter fills the frame".
+  static const double _quadrantScale = 2;
 
   @override
   void initState() {
@@ -64,23 +112,84 @@ class _WordSearchScreenState extends ConsumerState<WordSearchScreen> {
   }
 
   void _onZoomChanged() {
-    final scale = _zoomController.value.getMaxScaleOnAxis();
-    if ((scale - _gridScale).abs() > 0.01) {
-      setState(() => _gridScale = scale);
-    }
+    final matrix = _zoomController.value;
+    final scale = matrix.getMaxScaleOnAxis();
+    // A pinch or a pan moves the view off whichever quarter the picker is
+    // pointing at, so drop the highlight instead of leaving it claiming
+    // something that is no longer true.
+    final quadrant = matrix == _appliedMatrix ? _quadrant : null;
+    if ((scale - _gridScale).abs() <= 0.01 && quadrant == _quadrant) return;
+    setState(() {
+      _gridScale = scale;
+      _quadrant = quadrant;
+    });
+  }
+
+  /// The viewport, which is also the board: [InteractiveViewer] sizes its
+  /// child to the viewer, so the two are the same box.
+  Size? get _viewportSize {
+    final box = _viewerKey.currentContext?.findRenderObject() as RenderBox?;
+    if (box == null || !box.hasSize || box.size.isEmpty) return null;
+    return box.size;
+  }
+
+  /// Aims the magnifier at [quadrant]. Picking a quarter of an unzoomed
+  /// board zooms straight in on it — arming a button and showing nothing
+  /// would read as a dead tap.
+  void _selectQuadrant(BoardQuadrant quadrant) {
+    _applyZoom(
+      _gridScale > _minScale ? _gridScale : _quadrantScale,
+      quadrant,
+    );
   }
 
   void _zoomBy(double factor) {
-    _setZoom((_gridScale * factor).clamp(_minScale, _maxScale));
+    _applyZoom((_gridScale * factor).clamp(_minScale, _maxScale), _quadrant);
   }
 
-  void _setZoom(double scale) {
-    if (scale <= _minScale) {
-      _zoomController.value = Matrix4.identity();
+  /// Scales the board to [scale] with [quadrant] centred in the frame.
+  /// See [boardZoomMatrix] for why the translation matters.
+  void _applyZoom(double scale, BoardQuadrant? quadrant) {
+    final size = _viewportSize;
+    if (scale <= _minScale || size == null) {
+      _setMatrix(Matrix4.identity(), null);
       return;
     }
-    _zoomController.value = Matrix4.identity()
-      ..scaleByDouble(scale, scale, scale, 1);
+
+    final Offset focal;
+    if (quadrant != null) {
+      focal = Offset(
+        size.width * quadrant.fractionX,
+        size.height * quadrant.fractionY,
+      );
+    } else {
+      // No quarter aimed at — the player panned here by hand, so hold
+      // whatever they parked in the middle and only change the
+      // magnification around it.
+      final current = _zoomController.value;
+      final currentScale = current.getMaxScaleOnAxis();
+      final translation = current.getTranslation();
+      focal = Offset(
+        (size.width / 2 - translation.x) / currentScale,
+        (size.height / 2 - translation.y) / currentScale,
+      );
+    }
+
+    _setMatrix(
+      boardZoomMatrix(viewport: size, scale: scale, focal: focal),
+      quadrant,
+    );
+  }
+
+  /// Records the transform as ours before handing it to the controller,
+  /// so the listener it wakes up can recognise it.
+  void _setMatrix(Matrix4 matrix, BoardQuadrant? quadrant) {
+    setState(() {
+      _appliedMatrix = matrix;
+      _quadrant = quadrant;
+      _zoomController.value = matrix;
+      _gridScale = matrix.getMaxScaleOnAxis();
+    });
   }
 
   WordSearchController get _notifier =>
@@ -96,6 +205,13 @@ class _WordSearchScreenState extends ConsumerState<WordSearchScreen> {
       (previous, next) {
         if (next.isCompleted && previous?.isCompleted != true) {
           _onPuzzleCompleted();
+        }
+        // Also fires when a failed puzzle is reopened, which is
+        // deliberate: the board is locked either way, and a locked
+        // board with no explanation on screen is just a game that has
+        // stopped responding.
+        if (next.isFailed && !_failureHandled) {
+          _onOutOfLives();
         }
       },
     );
@@ -172,13 +288,13 @@ class _WordSearchScreenState extends ConsumerState<WordSearchScreen> {
           : null,
       child: SingleChildScrollView(
         padding: const EdgeInsets.symmetric(horizontal: AppSpacing.lg),
+        physics: _boardTouched ? const NeverScrollableScrollPhysics() : null,
         child: Column(
           children: [
             const SizedBox(height: AppSpacing.md),
-            WordListPanel(
-              words: puzzle.words,
-              foundWords: state.foundWords,
-            ),
+            _MistakesRow(mistakes: state.mistakes),
+            const SizedBox(height: AppSpacing.sm),
+            WordListPanel(words: puzzle.words, foundWords: state.foundWords),
             const SizedBox(height: AppSpacing.lg),
             Container(
               padding: const EdgeInsets.all(AppSpacing.sm),
@@ -195,56 +311,71 @@ class _WordSearchScreenState extends ConsumerState<WordSearchScreen> {
                       ]
                     : null,
               ),
-              child: ClipRect(
-                child: InteractiveViewer(
-                  transformationController: _zoomController,
-                  minScale: _minScale,
-                  maxScale: _maxScale,
-                  // Zoomed-in panning must not fight the selection drag,
-                  // so panning is only claimed once zoomed in — at 1x
-                  // every drag is a word selection.
-                  panEnabled: _gridScale > _minScale,
-                  child: WordSearchGridView(
-                    puzzle: puzzle,
-                    foundCells: state.foundCells,
-                    liveSelection: state.liveSelection,
-                    wrongSelectionCells: state.wrongSelectionCells,
-                    onDragStart: (row, col) {
-                      ref.read(hapticServiceProvider).play(HapticIntent.light);
-                      _notifier.startDrag(row, col);
-                    },
-                    onDragUpdate: _notifier.updateDrag,
-                    onDragEnd: () {
-                      final before = ref
-                          .read(wordSearchControllerProvider(widget.assetPath))
-                          .foundWords
-                          .length;
-                      _notifier.endDrag();
-                      final after = ref
-                          .read(wordSearchControllerProvider(widget.assetPath))
-                          .foundWords
-                          .length;
-                      ref
-                          .read(hapticServiceProvider)
-                          .play(
-                            after > before
-                                ? HapticIntent.medium
-                                : HapticIntent.selection,
-                          );
-                      if (after > before) {
-                        ref.read(soundServiceProvider).playKeyTap();
-                      }
-                    },
+              child: Listener(
+                // Raw pointer events: this fires on touch-down, before any
+                // recognizer has resolved, which is what makes the scroll
+                // lock above take effect for the very gesture it protects.
+                onPointerDown: (_) => _setBoardTouched(true),
+                onPointerUp: (_) => _setBoardTouched(false),
+                onPointerCancel: (_) => _setBoardTouched(false),
+                child: ClipRect(
+                  key: _viewerKey,
+                  child: InteractiveViewer(
+                    transformationController: _zoomController,
+                    minScale: _minScale,
+                    maxScale: _maxScale,
+                    // Zoomed-in panning must not fight the selection drag,
+                    // so panning is only claimed once zoomed in — at 1x
+                    // every drag is a word selection.
+                    panEnabled: _gridScale > _minScale,
+                    child: WordSearchGridView(
+                      puzzle: puzzle,
+                      foundCells: state.foundCells,
+                      liveSelection: state.liveSelection,
+                      wrongSelectionCells: state.wrongSelectionCells,
+                      onDragStart: (row, col) {
+                        ref
+                            .read(hapticServiceProvider)
+                            .play(HapticIntent.light);
+                        _notifier.startDrag(row, col);
+                      },
+                      onDragUpdate: _notifier.updateDrag,
+                      onDragEnd: () {
+                        final before = ref
+                            .read(
+                              wordSearchControllerProvider(widget.assetPath),
+                            )
+                            .foundWords
+                            .length;
+                        _notifier.endDrag();
+                        final after = ref
+                            .read(
+                              wordSearchControllerProvider(widget.assetPath),
+                            )
+                            .foundWords
+                            .length;
+                        ref
+                            .read(hapticServiceProvider)
+                            .play(
+                              after > before
+                                  ? HapticIntent.medium
+                                  : HapticIntent.selection,
+                            );
+                        if (after > before) {
+                          ref.read(soundServiceProvider).playKeyTap();
+                        }
+                      },
+                    ),
                   ),
                 ),
               ),
             ),
-            _buildZoomControls(l10n),
+            _buildZoomControls(),
             const SizedBox(height: AppSpacing.sm),
             PrimaryButton(
               label: l10n.hintButton,
               icon: Icons.lightbulb_outline_rounded,
-              onPressed: state.isCompleted
+              onPressed: state.isCompleted || state.isFailed
                   ? null
                   : () => _handleHintTap(context, l10n),
             ),
@@ -258,27 +389,20 @@ class _WordSearchScreenState extends ConsumerState<WordSearchScreen> {
   /// Explicit buttons alongside pinch-to-zoom: the bigger expert grids are
   /// hard to read on a phone, and a discoverable control beats relying on
   /// players guessing that the grid is pinchable.
-  Widget _buildZoomControls(AppLocalizations l10n) {
-    return Row(
-      mainAxisAlignment: MainAxisAlignment.center,
-      children: [
-        IconButton(
-          onPressed: _gridScale > _minScale ? () => _zoomBy(1 / 1.4) : null,
-          icon: const Icon(Icons.zoom_out_rounded),
-          tooltip: l10n.zoomOutButton,
-        ),
-        TextButton(
-          onPressed: _gridScale > _minScale
-              ? () => _setZoom(_minScale)
-              : null,
-          child: Text('${(_gridScale * 100).round()}%'),
-        ),
-        IconButton(
-          onPressed: _gridScale < _maxScale ? () => _zoomBy(1.4) : null,
-          icon: const Icon(Icons.zoom_in_rounded),
-          tooltip: l10n.zoomInButton,
-        ),
-      ],
+  ///
+  /// The quarter picker beside them decides *where* the buttons magnify.
+  /// Without it they could only ever enlarge one fixed corner of the
+  /// board, leaving the other three reachable only by panning.
+  Widget _buildZoomControls() {
+    return BoardZoomControls(
+      scale: _gridScale,
+      minScale: _minScale,
+      maxScale: _maxScale,
+      selectedQuadrant: _quadrant,
+      onQuadrantSelected: _selectQuadrant,
+      onZoomIn: () => _zoomBy(1.4),
+      onZoomOut: () => _zoomBy(1 / 1.4),
+      onReset: () => _applyZoom(_minScale, null),
     );
   }
 
@@ -398,9 +522,49 @@ class _WordSearchScreenState extends ConsumerState<WordSearchScreen> {
     }
   }
 
+  /// Locks the run down and tells the player why. Restart is offered
+  /// right here rather than sending them back to the list first:
+  /// wanting another go is the overwhelmingly likely next move.
+  void _onOutOfLives() {
+    if (_failureHandled) return;
+    _failureHandled = true;
+
+    ref.read(hapticServiceProvider).play(HapticIntent.heavy);
+    showDialog<void>(
+      context: context,
+      barrierDismissible: false,
+      builder: (dialogContext) => OutOfLivesDialog(
+        onRestart: () {
+          Navigator.of(dialogContext).pop();
+          _failureHandled = false;
+          _notifier.restart();
+        },
+        onBackToPuzzles: () {
+          Navigator.of(dialogContext).pop();
+          context.pop();
+        },
+      ),
+    );
+  }
+
   Future<void> _onPuzzleCompleted() async {
     if (_completionHandled) return;
     _completionHandled = true;
+
+    // Banked before the interstitial: an ad failing to load, or the
+    // player killing the app while one is on screen, must not be able
+    // to cost them the solve they just earned.
+    final state = ref.read(wordSearchControllerProvider(widget.assetPath));
+    final puzzleId = state.puzzle?.id;
+    if (puzzleId != null) {
+      _reward = ref
+          .read(rewardsControllerProvider.notifier)
+          .recordSolve(
+            puzzleId: puzzleId,
+            mistakes: state.mistakes,
+            hintsUsed: state.hintsUsed,
+          );
+    }
 
     ref.read(hapticServiceProvider).play(HapticIntent.heavy);
     await ref.read(adPolicyProvider).recordPuzzleCompleted();
@@ -424,6 +588,7 @@ class _WordSearchScreenState extends ConsumerState<WordSearchScreen> {
       barrierDismissible: false,
       builder: (dialogContext) => _CompletionCelebration(
         l10n: l10n,
+        reward: _reward,
         onBackToPuzzles: () {
           Navigator.of(dialogContext).pop();
           context.pop();
@@ -442,6 +607,34 @@ class _WordSearchScreenState extends ConsumerState<WordSearchScreen> {
               }
             : null,
       ),
+    );
+  }
+}
+
+/// The mistake budget, above the board rather than in the app bar:
+/// three hearts alongside two icon buttons and a puzzle number is more
+/// than a 320dp app bar can hold, and the number the player is watching
+/// should not be the first thing to get squeezed.
+class _MistakesRow extends StatelessWidget {
+  const _MistakesRow({required this.mistakes});
+
+  final int mistakes;
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    final l10n = AppLocalizations.of(context);
+    return Row(
+      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+      children: [
+        Text(
+          l10n.mistakesLabel,
+          style: theme.textTheme.labelLarge?.copyWith(
+            color: theme.colorScheme.onSurfaceVariant,
+          ),
+        ),
+        LivesIndicator(mistakes: mistakes),
+      ],
     );
   }
 }
@@ -478,11 +671,18 @@ class _MusicToggleButton extends ConsumerWidget {
 class _CompletionCelebration extends StatelessWidget {
   const _CompletionCelebration({
     required this.l10n,
+    required this.reward,
     required this.onBackToPuzzles,
     required this.onNextPuzzle,
   });
 
   final AppLocalizations l10n;
+
+  /// Null only if the puzzle finished before its id was known, which
+  /// should not happen — the celebration degrades to the plain
+  /// congratulation rather than throwing on the player's best moment.
+  final SolveReward? reward;
+
   final VoidCallback onBackToPuzzles;
   final VoidCallback? onNextPuzzle;
 
@@ -543,11 +743,14 @@ class _CompletionCelebration extends StatelessWidget {
               ),
             ),
             const SizedBox(height: AppSpacing.xl),
-            Text(
-              l10n.puzzleCompletedTitle,
-              style: theme.textTheme.headlineSmall,
-              textAlign: TextAlign.center,
-            ),
+            if (reward != null)
+              RewardSummary(reward: reward!)
+            else
+              Text(
+                l10n.puzzleCompletedTitle,
+                style: theme.textTheme.headlineSmall,
+                textAlign: TextAlign.center,
+              ),
             const SizedBox(height: AppSpacing.sm),
             Text(
               l10n.puzzleCompletedMessage,

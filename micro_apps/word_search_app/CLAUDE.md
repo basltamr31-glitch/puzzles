@@ -263,6 +263,82 @@ oddity here is new. Only what's specific to this app is repeated below.
 
 ---
 
+## Mistake limit and rewards
+
+Two mechanics added together, sharing one module: `lib/features/rewards/`.
+The module is **identical in all three apps** (relative imports only, no
+app-specific colour tokens), so a fix here has to be applied in all three
+— the same trade the rest of `core/` makes.
+
+### Three mistakes and the run is over
+
+`maxMistakes` (3) lives in `rewards/domain/solve_reward.dart`. What counts
+as a mistake is the one genuinely per-app decision:
+
+A **released drag of two or more cells that spells nothing**. A
+one-cell selection is a tap, not a guess — the player brushed the board
+or thought better of a drag — and charging for that would make the grid
+feel hostile to touch.
+
+At the third mistake `state.isFailed` flips and **the board goes
+read-only** — entry, undo, erase, check and hint all refuse. That last one
+is deliberate: a run that is out of lives is over in both directions, and
+a hint that could rescue it would make the limit negotiable. The only ways
+on are restart or leave, which is exactly what `OutOfLivesDialog` offers.
+
+Three things are easy to get wrong here:
+
+1. **The counters are persisted per puzzle**, under
+   `StorageKeys.puzzleAttempt(id)`, not held in memory. A limit that resets
+   when the player backs out to the list and walks straight back in is not
+   a limit. They are cleared on restart and on a solve, so a replay always
+   starts on a full three lives.
+2. **They live in their own key, not in each app's saved progress.** The
+   three apps store progress in three different shapes (81 digits, a letter
+   map, a found-word set); one small shared record avoided three
+   serialization migrations.
+3. **The offending entry is marked at the same moment the life is spent.**
+   Counting a mistake without showing which entry cost it leaves the player
+   hunting for something they cannot see.
+
+Not built, deliberately: **no rewarded ad to continue a failed run.** That
+is a monetization change and needs to be asked for, not slipped in
+alongside a gameplay one. The hook for it is the one place
+`OutOfLivesDialog` is constructed.
+
+### What a solve earns
+
+`RewardsController.recordSolve` is the single entry point, called by each
+screen the moment the puzzle completes — **before** the interstitial, so an
+ad failing to load cannot cost the player the solve they just earned.
+
+- **Stars, 1-3.** Three for no mistakes and no hints, two for at most one
+  mistake and two hints, one otherwise. Never zero: finishing a hard puzzle
+  the messy way should not read as failure. Shown in the celebration and on
+  the solved rows of the puzzle list.
+- **A day streak**, counting *days*, not puzzles — a second solve on a day
+  already played extends nothing, or the streak could be farmed in one
+  sitting. `PlayerProgress.streakOn(now)` is what the UI must read: the
+  stored number can be a day stale, and showing a run the player has
+  already lost is worse than showing zero.
+- **Six badges**, on `/progress`, reachable from the puzzle list's trophy
+  button. Locked ones show how far off they are rather than hiding behind a
+  question mark — a target you can see is a reason to play another puzzle.
+
+`recordSolve` is safe to call again for an already-solved puzzle: the star
+total moves by the *improvement* on that puzzle's previous best, and the
+solved count does not move at all. Replaying for a cleaner result is meant
+to be worth something without being a way to grind the totals up on one
+easy grid. `test/features/rewards/rewards_test.dart` pins all of that.
+
+**The reward strings use ICU plurals, which fail at render time, not build
+time.** `reward_widgets_test.dart` renders every widget in all six locales
+across the plural boundaries for exactly that reason — the scoring unit
+tests never build a `MaterialApp`, so they would all pass while the
+celebration crashed on the player's screen.
+
+---
+
 ## Verify before reporting done
 
 ```bash

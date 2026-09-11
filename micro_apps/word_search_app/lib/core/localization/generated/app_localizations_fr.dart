@@ -118,6 +118,21 @@ class AppLocalizationsFr extends AppLocalizations {
   String get zoomOutButton => 'Zoom arrière';
 
   @override
+  String get zoomAreaLabel => 'Zone de zoom';
+
+  @override
+  String get zoomAreaTopLeft => 'En haut à gauche';
+
+  @override
+  String get zoomAreaTopRight => 'En haut à droite';
+
+  @override
+  String get zoomAreaBottomLeft => 'En bas à gauche';
+
+  @override
+  String get zoomAreaBottomRight => 'En bas à droite';
+
+  @override
   String get restartConfirmTitle => 'Recommencer cette grille ?';
 
   @override
@@ -326,4 +341,138 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get confirmButton => 'Confirmer';
+
+  @override
+  String get mistakesLabel => 'Erreurs';
+
+  @override
+  String livesRemaining(int remaining, int max) {
+    return '$remaining vies sur $max restantes';
+  }
+
+  @override
+  String get outOfLivesTitle => 'Plus de vies';
+
+  @override
+  String outOfLivesMessage(int max) {
+    return 'Cela fait $max erreurs. Recommencez cette grille pour un nouvel essai.';
+  }
+
+  @override
+  String get outOfLivesTryAgain => 'Réessayer';
+
+  @override
+  String get rewardHeadlineFlawless => 'Sans faute !';
+
+  @override
+  String get rewardHeadlineGreat => 'Belle résolution !';
+
+  @override
+  String get rewardHeadlineSolved => 'Résolu !';
+
+  @override
+  String get rewardNoMistakes => 'Aucune erreur';
+
+  @override
+  String rewardMistakesMade(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count erreurs',
+      one: '1 erreur',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String rewardStreakDays(int days) {
+    String _temp0 = intl.Intl.pluralLogic(
+      days,
+      locale: localeName,
+      other: 'série de $days jours',
+      one: 'série de 1 jour',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String rewardBestStreak(int days) {
+    return 'Nouvelle meilleure série : $days';
+  }
+
+  @override
+  String rewardBadgeUnlocked(String badge) {
+    return 'Nouveau badge : $badge';
+  }
+
+  @override
+  String rewardStarsEarned(int stars, int max) {
+    return '$stars étoiles sur $max';
+  }
+
+  @override
+  String get achievementsTitle => 'Progression';
+
+  @override
+  String get achievementsStreakLabel => 'Jours d\'affilée';
+
+  @override
+  String get achievementsSolvedLabel => 'Grilles résolues';
+
+  @override
+  String get achievementsStarsLabel => 'Étoiles gagnées';
+
+  @override
+  String get achievementsBestStreakLabel => 'Meilleure série';
+
+  @override
+  String get achievementsBadgesTitle => 'Badges';
+
+  @override
+  String achievementsEarnedSemantics(String badge) {
+    return '$badge, obtenu';
+  }
+
+  @override
+  String achievementsLockedSemantics(String badge) {
+    return '$badge, verrouillé';
+  }
+
+  @override
+  String get achievementFirstSolveTitle => 'Première résolution';
+
+  @override
+  String get achievementFirstSolveDescription =>
+      'Terminez votre première grille';
+
+  @override
+  String get achievementTenSolvesTitle => 'En chauffe';
+
+  @override
+  String get achievementTenSolvesDescription => 'Terminez 10 grilles';
+
+  @override
+  String get achievementFiftySolvesTitle => 'Habitué';
+
+  @override
+  String get achievementFiftySolvesDescription => 'Terminez 50 grilles';
+
+  @override
+  String get achievementHundredSolvesTitle => 'Centenaire';
+
+  @override
+  String get achievementHundredSolvesDescription => 'Terminez 100 grilles';
+
+  @override
+  String get achievementFlawlessFiveTitle => 'Perfectionniste';
+
+  @override
+  String get achievementFlawlessFiveDescription =>
+      'Obtenez trois étoiles sur 5 grilles';
+
+  @override
+  String get achievementWeekStreakTitle => 'Sept jours';
+
+  @override
+  String get achievementWeekStreakDescription => 'Jouez 7 jours d\'affilée';
 }

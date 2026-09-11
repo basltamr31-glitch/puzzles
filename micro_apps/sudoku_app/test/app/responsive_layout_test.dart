@@ -1,4 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
+import 'package:sudoku_app/features/rewards/presentation/achievements_screen.dart';
 import 'package:sudoku_app/core/widgets/app_card.dart';
 import 'package:sudoku_app/features/difficulty/presentation/difficulty_screen.dart';
 import 'package:sudoku_app/features/onboarding/presentation/welcome_screen.dart';
@@ -90,6 +91,21 @@ void main() {
         await pumpAtViewport(tester, layoutCase, child: const SettingsScreen());
         await pumpFrames(tester);
         expectRendered(find.byType(SettingsScreen));
+        expect(tester.takeException(), isNull);
+      });
+    }
+  });
+
+  group('progress screen', () {
+    for (final layoutCase in responsiveCases) {
+      testWidgets('lays out on $layoutCase', (tester) async {
+        await pumpAtViewport(
+          tester,
+          layoutCase,
+          child: const AchievementsScreen(),
+        );
+        await pumpFrames(tester);
+        expectRendered(find.byType(AchievementsScreen));
         expect(tester.takeException(), isNull);
       });
     }

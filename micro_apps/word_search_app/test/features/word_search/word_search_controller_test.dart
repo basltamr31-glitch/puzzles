@@ -3,6 +3,8 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:word_search_app/core/analytics/analytics_events.dart';
 import 'package:word_search_app/core/storage/local_storage_service.dart';
 import 'package:word_search_app/features/puzzle_list/domain/puzzle_summary.dart';
+import 'package:word_search_app/features/rewards/data/rewards_repository.dart';
+import 'package:word_search_app/features/rewards/domain/solve_reward.dart';
 import 'package:word_search_app/features/word_search/data/puzzle_repository.dart';
 import 'package:word_search_app/features/word_search/presentation/controllers/word_search_controller.dart';
 
@@ -100,6 +102,7 @@ void main() {
     // tests — same technique the crossword app's own controller test uses.
     final controller = WordSearchController(
       repository,
+      RewardsRepository(storage),
       analytics,
       container.read(Provider((ref) => ref)),
       _assetPath,
@@ -229,6 +232,7 @@ void main() {
 
     final second = WordSearchController(
       repository,
+      RewardsRepository(storage),
       analytics,
       container.read(Provider((ref) => ref)),
       _assetPath,
@@ -236,5 +240,74 @@ void main() {
     await _waitForLoad(second);
 
     expect(second.state.foundWords, {'CAT'});
+  });
+
+  group('the mistake limit', () {
+    /// A straight run of cells that spells nothing in the fixture grid.
+    void guessWrong(WordSearchController controller) {
+      _drag(controller, (1, 1), (1, 2));
+    }
+
+    test('a released drag that spells nothing costs a life', () async {
+      final controller = await loadController();
+
+      guessWrong(controller);
+
+      expect(controller.state.mistakes, 1);
+      expect(controller.state.wrongSelectionCells, isNotEmpty);
+      expect(controller.state.isFailed, isFalse);
+    });
+
+    test('finding a word costs nothing', () async {
+      final controller = await loadController();
+
+      _drag(controller, (0, 0), (0, 2)); // CAT
+
+      expect(controller.state.foundWords, contains('CAT'));
+      expect(controller.state.mistakes, 0);
+    });
+
+    test('the third wrong guess fails the puzzle and locks the board',
+        () async {
+      final controller = await loadController();
+
+      for (var i = 0; i < maxMistakes; i++) {
+        guessWrong(controller);
+      }
+      expect(controller.state.isFailed, isTrue);
+
+      // The board stops accepting drags, right answers included.
+      _drag(controller, (0, 0), (0, 2));
+      expect(controller.state.foundWords, isEmpty);
+    });
+
+    test('a spent life survives leaving and reopening the puzzle',
+        () async {
+      // A limit that resets by backing out to the list is not a limit.
+      final first = await loadController();
+      guessWrong(first);
+      await Future<void>.delayed(Duration.zero);
+
+      final second = await loadController();
+      expect(second.state.mistakes, 1);
+    });
+
+    test('restart gives the lives back', () async {
+      final controller = await loadController();
+      guessWrong(controller);
+
+      await controller.restart();
+
+      expect(controller.state.mistakes, 0);
+      expect(controller.state.isFailed, isFalse);
+    });
+
+    test('a hint costs a star, not a life', () async {
+      final controller = await loadController();
+      await controller.revealHint();
+
+      expect(controller.state.hintsUsed, 1);
+      expect(controller.state.mistakes, 0);
+    });
   });
 }

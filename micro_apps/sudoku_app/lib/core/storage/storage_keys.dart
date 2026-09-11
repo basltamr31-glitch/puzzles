@@ -28,7 +28,22 @@ class StorageKeys {
   static const String puzzlesCompletedSinceInterstitial =
       'puzzles_completed_since_interstitial';
 
+  /// The player's cross-puzzle progress — totals, streak, badges — as a
+  /// single JSON blob. One key rather than a field per stat so the whole
+  /// record is read and written atomically.
+  static const String playerProgress = 'player_progress';
+
   static String puzzleProgress(String puzzleId) => 'puzzle_progress_$puzzleId';
   static String puzzleCompleted(String puzzleId) =>
       'puzzle_completed_$puzzleId';
+
+  /// The best star result (1-3) the player has earned on this puzzle.
+  /// Absent means never solved, which is how a first solve is told apart
+  /// from a replay.
+  static String puzzleStars(String puzzleId) => 'puzzle_stars_$puzzleId';
+
+  /// Mistakes and hints spent on the *current* run at this puzzle, so the
+  /// mistake limit survives the player leaving the screen and coming back.
+  /// Cleared on restart and on a solve.
+  static String puzzleAttempt(String puzzleId) => 'puzzle_attempt_$puzzleId';
 }
