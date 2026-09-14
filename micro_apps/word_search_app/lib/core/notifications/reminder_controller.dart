@@ -12,18 +12,31 @@ final notificationServiceProvider = Provider<NotificationService>((ref) {
 /// How long a player must be away before the reminder fires.
 const int reminderAfterDays = 2;
 
+/// Whether a player who has never touched the setting gets reminders.
+///
+/// On by default. Settings turns them off and [setEnabled] records that,
+/// so this only ever applies to someone who has not decided for
+/// themselves — an existing player's choice is never overwritten.
+const bool defaultRemindersEnabled = true;
+
 /// Owns the "remind me to play" preference and keeps the single scheduled
 /// reminder in sync with it.
 ///
-/// Off by default, deliberately: a reminder the player never asked for is
-/// the fastest route to an uninstall, and Android 13+ would just show a
-/// permission prompt they'd deny anyway.
+/// The default is on, but it is never applied silently: on Android 13+ a
+/// reminder cannot be delivered at all without POST_NOTIFICATIONS, so
+/// [applyDefaultOptIn] asks once and stores the answer. A switch reading
+/// "on" that the OS would never deliver is worse than one honestly off.
 class ReminderController extends Notifier<bool> {
   @override
   bool build() {
     final storage = ref.watch(localStorageServiceProvider);
-    return storage.getBool(StorageKeys.remindersEnabled) ?? false;
+    return storage.getBool(StorageKeys.remindersEnabled) ??
+        defaultRemindersEnabled;
   }
+
+  /// Guards against the app widget's post-frame callback calling
+  /// [applyDefaultOptIn] again while the permission dialog is still open.
+  bool _optInInFlight = false;
 
   /// Turning reminders on asks for OS permission first. If the player
   /// declines, the setting stays off rather than silently pretending to be
@@ -44,6 +57,31 @@ class ReminderController extends Notifier<bool> {
     state = granted;
     if (granted) await rescheduleIfEnabled();
     return granted;
+  }
+
+  /// Applies [defaultRemindersEnabled] once per install, by asking for the
+  /// permission the default needs before claiming to be on.
+  ///
+  /// Returns immediately once any answer is stored — granted, denied, or
+  /// set later from the switch. That is what keeps this from re-prompting
+  /// on every launch, and what stops an upgrading player who had
+  /// deliberately turned reminders off from having them turned back on.
+  Future<void> applyDefaultOptIn() async {
+    if (!defaultRemindersEnabled || _optInInFlight) return;
+
+    final storage = ref.read(localStorageServiceProvider);
+    if (storage.getBool(StorageKeys.remindersEnabled) != null) return;
+
+    _optInInFlight = true;
+    try {
+      final notifications = ref.read(notificationServiceProvider);
+      final granted = await notifications.requestPermission();
+      await storage.setBool(StorageKeys.remindersEnabled, granted);
+      state = granted;
+      if (granted) await rescheduleIfEnabled();
+    } finally {
+      _optInInFlight = false;
+    }
   }
 
   /// Records that a puzzle was just opened and pushes the reminder back.

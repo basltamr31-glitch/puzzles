@@ -49,12 +49,18 @@ Uninstalling the App deletes all of it.
 
 ## Notifications
 
-If you switch on **play reminders** in Settings, the App schedules a
-reminder on your device to nudge you to come back and play. These
-notifications are generated entirely on your device. There is no push
-service, no server, and no device token is created or transmitted. The
-setting is off unless you turn it on, and turning it off cancels any
-pending reminder.
+**Play reminders** are on by default. If you have not played for a
+couple of days, the App schedules a single reminder on your device to
+nudge you to come back. These notifications are generated entirely on
+your device. There is no push service, no server, and no device token is
+created or transmitted.
+
+Because the reminder is on by default, the App asks for your device's
+notification permission the first time you use it. If you decline, no
+reminder is scheduled and the setting stays off. You can switch play
+reminders off at any time from **Settings**, which also cancels any
+pending reminder, and your choice is remembered — an update will not
+switch them back on.
 
 ## Information processed by third-party services
 

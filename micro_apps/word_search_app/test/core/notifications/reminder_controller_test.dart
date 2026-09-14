@@ -104,8 +104,64 @@ void main() {
 
   tearDown(() => container.dispose());
 
-  test('reminders are off by default', () {
-    expect(container.read(reminderControllerProvider), isFalse);
+  test('reminders are on by default', () {
+    expect(container.read(reminderControllerProvider), isTrue);
+  });
+
+  test('a player who turned reminders off stays off across launches', () {
+    // The whole point of storing the answer: an upgrade must not hand
+    // back a notification the player already refused.
+    storage.values[StorageKeys.remindersEnabled] = false;
+    final fresh = build();
+    addTearDown(fresh.dispose);
+
+    expect(fresh.read(reminderControllerProvider), isFalse);
+  });
+
+  group('the default opt-in', () {
+    test('asks for permission once and stores the grant', () async {
+      await container.read(reminderControllerProvider.notifier).applyDefaultOptIn();
+
+      expect(notifications.permissionRequests, 1);
+      expect(storage.values[StorageKeys.remindersEnabled], isTrue);
+      expect(container.read(reminderControllerProvider), isTrue);
+      expect(notifications.scheduleCount, greaterThan(0));
+    });
+
+    test('a denied permission is stored as off, not left claiming on', () async {
+      // Without this the switch would read "on" while Android delivers
+      // nothing — the default would be a lie rather than a default.
+      notifications.permissionGranted = false;
+
+      await container.read(reminderControllerProvider.notifier).applyDefaultOptIn();
+
+      expect(storage.values[StorageKeys.remindersEnabled], isFalse);
+      expect(container.read(reminderControllerProvider), isFalse);
+      expect(notifications.scheduleCount, 0);
+    });
+
+    test('never asks twice, however many launches it runs on', () async {
+      final controller = container.read(reminderControllerProvider.notifier);
+      await controller.applyDefaultOptIn();
+      await controller.applyDefaultOptIn();
+      await controller.applyDefaultOptIn();
+
+      expect(notifications.permissionRequests, 1);
+    });
+
+    test('leaves an existing choice alone', () async {
+      // An upgrading player who had already turned reminders off must not
+      // be re-prompted, and must not be switched back on.
+      storage.values[StorageKeys.remindersEnabled] = false;
+      final fresh = build();
+      addTearDown(fresh.dispose);
+
+      await fresh.read(reminderControllerProvider.notifier).applyDefaultOptIn();
+
+      expect(notifications.permissionRequests, 0);
+      expect(storage.values[StorageKeys.remindersEnabled], isFalse);
+      expect(fresh.read(reminderControllerProvider), isFalse);
+    });
   });
 
   test('enabling asks for OS permission and schedules once granted', () async {
@@ -174,8 +230,14 @@ void main() {
   });
 
   test('nothing is scheduled while reminders are disabled', () async {
+    // Explicitly off, not merely unset: since the default flipped to on,
+    // an unset preference would schedule and this would prove nothing.
+    await container.read(reminderControllerProvider.notifier).setEnabled(false);
+    final before = notifications.scheduleCount;
+
     await container.read(reminderControllerProvider.notifier).recordPlayed();
-    expect(notifications.scheduleCount, 0);
+
+    expect(notifications.scheduleCount, before);
   });
 
   test('a stored preference is restored on a fresh launch', () async {

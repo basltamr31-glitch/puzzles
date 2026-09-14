@@ -8,6 +8,7 @@ import '../core/localization/generated/app_localizations.dart';
 import '../core/localization/locale_controller.dart';
 import '../core/localization/supported_locales.dart';
 import '../core/notifications/reminder_controller.dart';
+import '../features/onboarding/onboarding_controller.dart';
 import '../features/settings/settings_controller.dart';
 import 'app_config.dart';
 import 'router.dart';
@@ -102,7 +103,14 @@ class _SudokuAppState extends ConsumerState<SudokuApp> with WidgetsBindingObserv
                     body: l10n.reminderBody,
                   ),
                 );
-            ref.read(reminderControllerProvider.notifier).rescheduleIfEnabled();
+            final reminders = ref.read(reminderControllerProvider.notifier);
+            // Only past the first-launch flow: a notification permission
+            // dialog thrown over the welcome screen is the one players
+            // deny without reading.
+            if (ref.read(onboardingControllerProvider)) {
+              reminders.applyDefaultOptIn();
+            }
+            reminders.rescheduleIfEnabled();
           });
           return child ?? const SizedBox.shrink();
         },
