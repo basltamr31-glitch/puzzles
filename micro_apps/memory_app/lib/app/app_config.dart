@@ -47,16 +47,18 @@ class AppConfig {
   /// Public URL of the hosted privacy policy.
   ///
   /// Google Play requires this in the store listing; the in-app screen
-  /// renders the same bundled file, so the two cannot disagree. Empty
-  /// until the policy is hosted — see assets/legal/privacy_policy.md.
-  /// Empty until this app's own policy is hosted: the crossword, sudoku
-  /// and word search policies are three separate documents at three
-  /// separate URLs, and pointing at a sibling's would misdescribe this
-  /// app's own AdMob and billing setup. `privacy_policy_test.dart`
-  /// enforces the pairing — an empty URL means the bundled document must
-  /// still carry its [[FILL IN]] placeholder, and filling that in
-  /// without setting this fails the suite.
-  static const String privacyPolicyUrl = '';
+  /// renders the same bundled file, so the two cannot disagree — keep
+  /// assets/legal/privacy_policy.md and the hosted page in step.
+  ///
+  /// This app's own document, not a sibling's: the crossword, sudoku and
+  /// word search policies are three separate documents at three separate
+  /// URLs, and pointing at one of those would misdescribe this app's own
+  /// AdMob and billing setup. `privacy_policy_test.dart` enforces the
+  /// pairing — a set URL means the bundled document must carry no
+  /// [[FILL IN]] placeholder, and emptying this without restoring the
+  /// placeholder fails the suite.
+  static const String privacyPolicyUrl =
+      'https://doc-hosting.flycricket.io/memory-match/c13f70a9-3bf1-4257-8e5f-25bb4add1544/privacy';
 
   static const String removeAdsProductId = 'remove_ads';
 

@@ -1,6 +1,6 @@
 # Privacy Policy — Memory Match
 
-_Last updated: 11 September 2026_
+_Last updated: 14 September 2026_
 
 BT Developer ("we", "us") operates the
 Memory Match mobile application (the "App"). This policy explains what data the
@@ -34,9 +34,11 @@ It is never transmitted to us, because we have no server to send it to:
 - Your app language selection
 - Your appearance choice (system, light, or dark)
 - Your selected difficulty
-- Puzzle progress: the digits and pencil marks you have entered, which
-  puzzles you have completed, and how long you have spent on the puzzle
-  you are currently solving
+- Puzzle progress: which cards you have already matched and which you
+  have turned over, which puzzles you have completed, and how long you
+  have spent on the puzzle you are currently playing
+- Your rewards: stars earned, puzzles solved, your current and best
+  daily streak, and which badges you have unlocked
 - Sound effect, vibration, and background music preferences
 - Whether play reminders are switched on, and the time you last opened a
   puzzle (used only to decide whether to send that reminder)
@@ -161,7 +163,7 @@ Ombudsman (Tietosuojavaltuutetun toimisto), tietosuoja.fi.
 We may update this policy from time to time. The "last updated" date at
 the top will change when we do, and the current version will always be
 available at
-[[FILL IN: hosted privacy policy URL]].
+https://doc-hosting.flycricket.io/memory-match/c13f70a9-3bf1-4257-8e5f-25bb4add1544/privacy.
 
 ## Contact
 

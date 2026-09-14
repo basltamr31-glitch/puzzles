@@ -248,5 +248,5 @@ store-side setup above that cannot be tested from here.
 - [ ] `remove_ads` product created at $1.00 and **activated** in Play Console
 - [ ] Upload keystore created (`android/key.properties`)
 - [ ] Release build verified on a real device
-- [ ] `store/PRIVACY_POLICY.md` hosted at a public URL and linked in Play Console
+- [x] Privacy policy hosted at a public URL (paste it into the Play Console listing)
 - [ ] After publishing: link the AdMob app to the Play listing (improves fill)

@@ -331,11 +331,12 @@ setup that only the owner can perform.
   as a test device in AdMob before opening a build with real IDs; tapping
   your own live ads is invalid traffic and the most common reason new
   AdMob accounts get suspended.
-- **Privacy policy**: `assets/legal/privacy_policy.md` is written and
-  bundled but still carries its `[[FILL IN]]` for the hosted URL, and
-  `AppConfig.privacyPolicyUrl` is empty. Host it (the three siblings use
-  doc-hosting.flycricket.io, one document each) and set both.
-  `privacy_policy_test.dart` enforces the pairing in both directions.
+- **Privacy policy**: done. Bundled at `assets/legal/privacy_policy.md`
+  and hosted on doc-hosting.flycricket.io (one document per app, as with
+  the three siblings), with the URL in `AppConfig.privacyPolicyUrl`.
+  `privacy_policy_test.dart` enforces the pairing in both directions, so
+  the two cannot drift apart. Still owner action: paste that URL into the
+  Play Console listing.
 - **Signing**: no keystore and no `android/key.properties` yet. The
   siblings use one keystore per app in `C:/Users/baslt/keys/`, alias
   `upload`, JKS, 2048-bit RSA. Release builds are debug-signed until
