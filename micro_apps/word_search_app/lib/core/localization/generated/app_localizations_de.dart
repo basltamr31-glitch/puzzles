@@ -295,6 +295,24 @@ class AppLocalizationsDe extends AppLocalizations {
       'Du besitzt bereits „Werbung entfernen“. Danke für deine Unterstützung!';
 
   @override
+  String get partnerUnlockTitle => 'Oder Banner kostenlos entfernen';
+
+  @override
+  String partnerUnlockDescription(String app) {
+    return 'Installiere $app und Bannerwerbung ist dauerhaft weg. Tipps und Extraleben nutzen weiterhin ein kurzes Video.';
+  }
+
+  @override
+  String partnerUnlockButton(String app) {
+    return '$app holen';
+  }
+
+  @override
+  String partnerUnlockActive(String app) {
+    return 'Bannerwerbung ist aus — danke, dass du $app installiert hast.';
+  }
+
+  @override
   String get purchasePending => 'Dein Kauf wird bearbeitet …';
 
   @override
@@ -360,6 +378,17 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get outOfLivesTryAgain => 'Erneut versuchen';
+
+  @override
+  String outOfLivesMessageRevive(int max) {
+    return 'Das waren $max Fehler. Du kannst ein weiteres Leben verdienen oder dieses Rätsel neu starten.';
+  }
+
+  @override
+  String get outOfLivesWatchAd => 'Video ansehen für ein weiteres Leben';
+
+  @override
+  String get outOfLivesExtraLife => 'Ein weiteres Leben holen';
 
   @override
   String get rewardHeadlineFlawless => 'Fehlerfrei!';

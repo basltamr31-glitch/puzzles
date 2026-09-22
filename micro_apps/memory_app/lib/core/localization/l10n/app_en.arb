@@ -135,6 +135,31 @@
   "settingsDeveloperName": "BT developer",
   "settingsCopyright": "© BaLa Dream",
   "removeAdsAlreadyOwned": "You already own Remove Ads. Thank you for your support!",
+  "partnerUnlockTitle": "Or remove banners for free",
+  "partnerUnlockDescription": "Install {app} and banner ads are gone for good. Hints and extra lives still use a short video.",
+  "@partnerUnlockDescription": {
+    "placeholders": {
+      "app": {
+        "type": "String"
+      }
+    }
+  },
+  "partnerUnlockButton": "Get {app}",
+  "@partnerUnlockButton": {
+    "placeholders": {
+      "app": {
+        "type": "String"
+      }
+    }
+  },
+  "partnerUnlockActive": "Banner ads are off — thanks for installing {app}.",
+  "@partnerUnlockActive": {
+    "placeholders": {
+      "app": {
+        "type": "String"
+      }
+    }
+  },
   "purchasePending": "Your purchase is being processed…",
   "purchaseError": "The purchase couldn't be completed. Please try again.",
   "purchaseStoreUnavailable": "The store isn't available right now. Check that you're signed in and try again.",
@@ -171,6 +196,16 @@
     }
   },
   "outOfLivesTryAgain": "Try again",
+  "outOfLivesMessageRevive": "That is {max} mistakes. You can earn one more life, or start this puzzle again.",
+  "@outOfLivesMessageRevive": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "outOfLivesWatchAd": "Watch a video for one more life",
+  "outOfLivesExtraLife": "Get one more life",
   "rewardHeadlineFlawless": "Flawless!",
   "rewardHeadlineGreat": "Great solve!",
   "rewardHeadlineSolved": "Solved!",

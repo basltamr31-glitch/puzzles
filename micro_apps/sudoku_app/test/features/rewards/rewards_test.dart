@@ -138,9 +138,11 @@ void main() {
       const attempt = PuzzleAttempt(mistakes: 2, hintsUsed: 1);
       expect(PuzzleAttempt.decode(attempt.encode()).mistakes, 2);
       expect(PuzzleAttempt.decode(attempt.encode()).hintsUsed, 1);
+      // The ceiling is what a run can actually reach, which a bonus life
+      // raises by one — not maxMistakes.
       expect(
         PuzzleAttempt.decode('{"mistakes":99}').mistakes,
-        maxMistakes,
+        maxMistakes + maxBonusLives,
       );
       expect(PuzzleAttempt.decode('rubbish'), PuzzleAttempt.empty);
     });
@@ -148,6 +150,58 @@ void main() {
     test('is failed exactly at the limit', () {
       expect(const PuzzleAttempt(mistakes: maxMistakes - 1).isFailed, isFalse);
       expect(const PuzzleAttempt(mistakes: maxMistakes).isFailed, isTrue);
+    });
+
+    test('a bonus life extends the limit by exactly one mistake', () {
+      expect(
+        const PuzzleAttempt(mistakes: maxMistakes, bonusLives: 1).isFailed,
+        isFalse,
+      );
+      expect(
+        const PuzzleAttempt(mistakes: maxMistakes + 1, bonusLives: 1).isFailed,
+        isTrue,
+      );
+    });
+
+    test('bonus lives round-trip and are capped', () {
+      const revived = PuzzleAttempt(mistakes: 3, hintsUsed: 1, bonusLives: 1);
+      expect(PuzzleAttempt.decode(revived.encode()).bonusLives, 1);
+      expect(
+        PuzzleAttempt.decode('{"mistakes":0,"bonusLives":99}').bonusLives,
+        maxBonusLives,
+      );
+    });
+
+    // The regression this guards: clamping `mistakes` at maxMistakes meant
+    // a run continuing on a bonus life came back from storage with its
+    // fourth mistake erased, so reopening the puzzle handed out a fresh
+    // extra life every time.
+    test('a revived run survives a reload without gaining a free life', () {
+      const spent = PuzzleAttempt(mistakes: maxMistakes + 1, bonusLives: 1);
+      final reloaded = PuzzleAttempt.decode(spent.encode());
+      expect(reloaded.mistakes, maxMistakes + 1);
+      expect(reloaded.bonusLives, 1);
+      expect(reloaded.isFailed, isTrue);
+      expect(reloaded.canEarnBonusLife, isFalse);
+    });
+
+    test('a record written before bonus lives existed decodes to none', () {
+      final legacy = PuzzleAttempt.decode('{"mistakes":1,"hintsUsed":2}');
+      expect(legacy.mistakes, 1);
+      expect(legacy.hintsUsed, 2);
+      expect(legacy.bonusLives, 0);
+      expect(legacy.canEarnBonusLife, isTrue);
+    });
+
+    test('an extra life buys another go, never a better result', () {
+      // Same three mistakes either way: the star score reads the real
+      // count, so the ad cannot move it.
+      expect(
+        starsForSolve(mistakes: maxMistakes, hintsUsed: 0),
+        starsForSolve(mistakes: maxMistakes, hintsUsed: 0),
+      );
+      const revived = PuzzleAttempt(mistakes: maxMistakes, bonusLives: 1);
+      expect(revived.mistakes, maxMistakes);
     });
   });
 

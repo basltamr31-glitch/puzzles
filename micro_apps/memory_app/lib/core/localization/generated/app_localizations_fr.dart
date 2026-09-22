@@ -255,6 +255,24 @@ class AppLocalizationsFr extends AppLocalizations {
       'Vous possédez déjà l\'option Supprimer les publicités. Merci pour votre soutien !';
 
   @override
+  String get partnerUnlockTitle => 'Ou supprimez les bannières gratuitement';
+
+  @override
+  String partnerUnlockDescription(String app) {
+    return 'Installez $app et les bannières disparaissent définitivement. Les indices et les vies supplémentaires utilisent toujours une courte vidéo.';
+  }
+
+  @override
+  String partnerUnlockButton(String app) {
+    return 'Obtenir $app';
+  }
+
+  @override
+  String partnerUnlockActive(String app) {
+    return 'Les bannières sont désactivées — merci d\'avoir installé $app.';
+  }
+
+  @override
   String get purchasePending => 'Votre achat est en cours de traitement…';
 
   @override
@@ -319,6 +337,17 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get outOfLivesTryAgain => 'Réessayer';
+
+  @override
+  String outOfLivesMessageRevive(int max) {
+    return 'Cela fait $max erreurs. Vous pouvez gagner une vie supplémentaire ou recommencer cette grille.';
+  }
+
+  @override
+  String get outOfLivesWatchAd => 'Regarder une vidéo pour une vie de plus';
+
+  @override
+  String get outOfLivesExtraLife => 'Obtenir une vie de plus';
 
   @override
   String get rewardHeadlineFlawless => 'Sans faute !';

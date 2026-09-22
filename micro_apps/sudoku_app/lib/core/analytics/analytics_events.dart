@@ -15,4 +15,5 @@ class AnalyticsEvents {
   static const String removeAdsPurchaseStarted = 'remove_ads_purchase_started';
   static const String removeAdsPurchaseCompleted =
       'remove_ads_purchase_completed';
+  static const String partnerUnlockGranted = 'partner_unlock_granted';
 }

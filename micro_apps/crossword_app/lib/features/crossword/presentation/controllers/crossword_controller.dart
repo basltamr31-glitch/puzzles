@@ -44,6 +44,7 @@ class CrosswordGameState extends Equatable {
     this.incorrectCells = const {},
     this.mistakes = 0,
     this.hintsUsed = 0,
+    this.bonusLives = 0,
     this.isCompleted = false,
     this.isLoading = true,
     this.errorMessage,
@@ -62,9 +63,18 @@ class CrosswordGameState extends Equatable {
   /// Hints spent on this run. Costs a star rather than a life.
   final int hintsUsed;
 
+  /// Extra lives earned on this run, each one paid for with a rewarded
+  /// ad (or free for a player who has removed ads).
+  ///
+  /// Kept apart from [mistakes] rather than discounting it, because
+  /// `starsForSolve` reads the mistake count — folding the two together
+  /// would let an ad quietly buy a better star rating instead of just
+  /// another go.
+  final int bonusLives;
+
   /// True once the player has spent every mistake. The grid stops
   /// accepting letters — the only ways on are restarting or leaving.
-  bool get isFailed => mistakes >= maxMistakes;
+  bool get isFailed => mistakes >= maxMistakes + bonusLives;
 
   final bool isCompleted;
   final bool isLoading;
@@ -87,6 +97,7 @@ class CrosswordGameState extends Equatable {
     Set<String>? incorrectCells,
     int? mistakes,
     int? hintsUsed,
+    int? bonusLives,
     bool? isCompleted,
     bool? isLoading,
     String? errorMessage,
@@ -100,6 +111,7 @@ class CrosswordGameState extends Equatable {
       incorrectCells: incorrectCells ?? this.incorrectCells,
       mistakes: mistakes ?? this.mistakes,
       hintsUsed: hintsUsed ?? this.hintsUsed,
+      bonusLives: bonusLives ?? this.bonusLives,
       isCompleted: isCompleted ?? this.isCompleted,
       isLoading: isLoading ?? this.isLoading,
       errorMessage: errorMessage ?? this.errorMessage,
@@ -116,6 +128,7 @@ class CrosswordGameState extends Equatable {
     incorrectCells,
     mistakes,
     hintsUsed,
+    bonusLives,
     isCompleted,
     isLoading,
     errorMessage,
@@ -165,6 +178,7 @@ class CrosswordController extends StateNotifier<CrosswordGameState> {
         letters: savedLetters,
         mistakes: attempt.mistakes,
         hintsUsed: attempt.hintsUsed,
+        bonusLives: attempt.bonusLives,
         isLoading: false,
         isCompleted: isCompleted,
         selectedRow: firstClue.cells.first.$1,
@@ -442,6 +456,23 @@ class CrosswordController extends StateNotifier<CrosswordGameState> {
     state = state.copyWith(incorrectCells: incorrect);
   }
 
+  /// Whether another life can still be bought on this run.
+  bool get canEarnBonusLife => state.bonusLives < maxBonusLives;
+
+  /// Hands back one life after the player has watched a rewarded ad (or
+  /// immediately, for a player who has removed ads).
+  ///
+  /// Only ever called from a user action, and only while the run is
+  /// actually failed — granting a life to a board that is still playable
+  /// would silently raise the limit for the rest of the run. The cap is
+  /// enforced here as well as in the dialog, because the dialog is one
+  /// caller and this is the rule.
+  Future<void> grantExtraLife() async {
+    if (!state.isFailed || !canEarnBonusLife) return;
+    state = state.copyWith(bonusLives: state.bonusLives + 1);
+    await _persistAttempt();
+  }
+
   Future<void> restart() async {
     final grid = state.grid;
     if (grid == null) return;
@@ -483,7 +514,11 @@ class CrosswordController extends StateNotifier<CrosswordGameState> {
     if (grid == null) return;
     await _rewards.saveAttempt(
       grid.puzzleId,
-      PuzzleAttempt(mistakes: state.mistakes, hintsUsed: state.hintsUsed),
+      PuzzleAttempt(
+        mistakes: state.mistakes,
+        hintsUsed: state.hintsUsed,
+        bonusLives: state.bonusLives,
+      ),
     );
   }
 

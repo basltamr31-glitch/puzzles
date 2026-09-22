@@ -52,6 +52,37 @@ class AppConfig {
 
   static const String removeAdsProductId = 'remove_ads';
 
+  /// The companion app whose install removes banner ads.
+  ///
+  /// Installing it grants **banners only** — interstitials keep showing
+  /// and rewarded video still pays for hints and extra lives. It is a
+  /// cross-promotion, not a second way to buy the product; see
+  /// `PartnerUnlockController` for why the two flags stay apart.
+  ///
+  /// Android only. The package must also appear in a `<queries>` entry in
+  /// AndroidManifest.xml or the lookup silently returns "not installed"
+  /// on Android 11+, where package visibility is filtered by default.
+  static const String partnerAppPackageId = 'com.basel.baladream';
+
+  /// The companion app's full store-listing title, used in the unlock
+  /// description. A brand name, so it is never translated — the ARB
+  /// strings take it as an {app} placeholder rather than spelling it out
+  /// once per locale.
+  static const String partnerAppName = 'Couples — A Space for Two';
+
+  /// The short form, for the button. `SecondaryButton` scales its label
+  /// down to fit, so the full title would render unreadably small on a
+  /// narrow phone at a large text scale.
+  static const String partnerAppShortName = 'Couples';
+
+  /// Where to send someone who has not got it yet. `market:` opens the
+  /// Play app directly; the https URL is the fallback for a device with
+  /// no Play Store app.
+  static const String partnerAppMarketUrl =
+      'market://details?id=$partnerAppPackageId';
+  static const String partnerAppStoreUrl =
+      'https://play.google.com/store/apps/details?id=$partnerAppPackageId';
+
   /// Real ad unit IDs are supplied at build time via `--dart-define`
   /// (e.g. `BANNER_AD_UNIT_ID=ca-app-pub-...`). Until that's configured:
   /// - Debug builds fall back to Google's public *test* ad unit IDs, so

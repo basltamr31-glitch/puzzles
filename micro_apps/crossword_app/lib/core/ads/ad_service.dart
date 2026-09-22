@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/widgets.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
@@ -30,6 +32,17 @@ abstract class AdService {
   /// Shows a rewarded ad. The caller must only invoke this from a user
   /// action (e.g. tapping "Watch ad for a hint"), never automatically.
   Future<RewardedAdResult> showRewarded({required String placementId});
+
+  /// Starts fetching a rewarded ad ahead of time so the next
+  /// [showRewarded] can play one already in hand.
+  ///
+  /// Fire-and-forget, idempotent, and safe to call before consent exists —
+  /// implementations must not let it request anything early. Skipping it
+  /// costs latency, never correctness.
+  void prewarm();
+
+  /// Releases cached ads and cancels pending retries.
+  void dispose();
 }
 
 class NoOpAdService implements AdService {
@@ -45,6 +58,12 @@ class NoOpAdService implements AdService {
   Future<RewardedAdResult> showRewarded({required String placementId}) async {
     return RewardedAdResult.unavailable;
   }
+
+  @override
+  void prewarm() {}
+
+  @override
+  void dispose() {}
 }
 
 /// Wraps an [AdService] so nothing reaches an ad SDK before the user's
@@ -56,7 +75,7 @@ class NoOpAdService implements AdService {
 /// fact. Gating here rather than at each call site means a new screen
 /// cannot forget to do it.
 class ConsentGatedAdService implements AdService {
-  const ConsentGatedAdService(this._inner, this._ready);
+  ConsentGatedAdService(this._inner, this._ready);
 
   final AdService _inner;
   final Future<void> _ready;
@@ -88,6 +107,18 @@ class ConsentGatedAdService implements AdService {
     await _ready;
     return _inner.showRewarded(placementId: placementId);
   }
+
+  /// Preloading is still an ad request, so it waits behind the same gate
+  /// as every other one rather than racing the consent form.
+  @override
+  void prewarm() {
+    unawaited(
+      _ready.then((_) => _inner.prewarm()).catchError((Object _) {}),
+    );
+  }
+
+  @override
+  void dispose() => _inner.dispose();
 }
 
 /// Consent first, then the ads SDK — in that order, always.
@@ -118,8 +149,15 @@ final adsReadyProvider = FutureProvider<void>((ref) async {
 });
 
 final adServiceProvider = Provider<AdService>((ref) {
-  return ConsentGatedAdService(
+  final service = ConsentGatedAdService(
     createAdService(ref.watch(adPolicyProvider)),
     ref.watch(adsReadyProvider.future),
   );
+  // Start fetching a rewarded ad now rather than when the player taps for
+  // a hint. It waits for consent internally, so this does not jump the
+  // gate — it only means the wait happens before the tap instead of
+  // during it.
+  service.prewarm();
+  ref.onDispose(service.dispose);
+  return service;
 });

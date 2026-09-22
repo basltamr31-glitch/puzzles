@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../../../app/app_config.dart';
 import '../../../app/theme/app_colors.dart';
@@ -7,8 +8,10 @@ import '../../../app/theme/app_spacing.dart';
 import '../../../core/billing/billing_service.dart';
 import '../../../core/billing/premium_state.dart';
 import '../../../core/localization/generated/app_localizations.dart';
+import '../../../core/promo/partner_unlock_controller.dart';
 import '../../../core/widgets/app_scaffold.dart';
 import '../../../core/widgets/primary_button.dart';
+import '../../../core/widgets/secondary_button.dart';
 
 /// The one-time "Remove Ads" purchase screen (spec §22). Purchase state
 /// flows entirely through [premiumStateProvider], which the ad decisions
@@ -25,7 +28,7 @@ class RemoveAdsScreen extends ConsumerWidget {
 
     return AppScaffold(
       title: l10n.removeAdsTitle,
-      body: Center(
+      body: SingleChildScrollView(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
@@ -64,6 +67,8 @@ class RemoveAdsScreen extends ConsumerWidget {
                   );
                 },
               ),
+            const SizedBox(height: AppSpacing.xxl),
+            const _PartnerUnlockSection(),
           ],
         ),
       ),
@@ -90,5 +95,83 @@ class RemoveAdsScreen extends ConsumerWidget {
       PurchaseResult.error => l10n.purchaseError,
     };
     messenger.showSnackBar(SnackBar(content: Text(message)));
+  }
+}
+
+/// The free route to banner-free play: install the companion app.
+///
+/// Shown alongside the purchase rather than instead of it, and left
+/// visible to someone who has already bought Remove Ads — they are not
+/// rival offers. The purchase is the whole product; this removes
+/// **banners only**, which is why it reads from [partnerUnlockProvider]
+/// and never touches the premium flag.
+class _PartnerUnlockSection extends ConsumerWidget {
+  const _PartnerUnlockSection();
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final l10n = AppLocalizations.of(context);
+    final theme = Theme.of(context);
+
+    if (ref.watch(partnerUnlockProvider)) {
+      return Text(
+        l10n.partnerUnlockActive(AppConfig.partnerAppName),
+        style: theme.textTheme.bodyMedium?.copyWith(
+          color: theme.colorScheme.onSurfaceVariant,
+        ),
+        textAlign: TextAlign.center,
+      );
+    }
+
+    return Column(
+      children: [
+        const Divider(),
+        const SizedBox(height: AppSpacing.lg),
+        Text(
+          l10n.partnerUnlockTitle,
+          style: theme.textTheme.titleMedium,
+          textAlign: TextAlign.center,
+        ),
+        const SizedBox(height: AppSpacing.sm),
+        Text(
+          l10n.partnerUnlockDescription(AppConfig.partnerAppName),
+          style: theme.textTheme.bodyMedium?.copyWith(
+            color: theme.colorScheme.onSurfaceVariant,
+          ),
+          textAlign: TextAlign.center,
+        ),
+        const SizedBox(height: AppSpacing.lg),
+        SecondaryButton(
+          label: l10n.partnerUnlockButton(AppConfig.partnerAppShortName),
+          onPressed: () => _openStore(context, l10n),
+        ),
+      ],
+    );
+  }
+
+  /// Opens the companion app's Play listing. `market:` hands straight to
+  /// the Play app; the https URL is the fallback for a device without
+  /// it. A failure is reported rather than swallowed — a tap that
+  /// silently does nothing reads as a broken app.
+  Future<void> _openStore(BuildContext context, AppLocalizations l10n) async {
+    final messenger = ScaffoldMessenger.of(context);
+    for (final url in [
+      AppConfig.partnerAppMarketUrl,
+      AppConfig.partnerAppStoreUrl,
+    ]) {
+      try {
+        if (await launchUrl(
+          Uri.parse(url),
+          mode: LaunchMode.externalApplication,
+        )) {
+          return;
+        }
+      } catch (_) {
+        // Try the next one.
+      }
+    }
+    messenger
+      ..hideCurrentSnackBar()
+      ..showSnackBar(SnackBar(content: Text(l10n.errorGeneric)));
   }
 }

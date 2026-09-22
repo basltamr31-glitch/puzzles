@@ -227,11 +227,30 @@ exactly one pending reminder in sync with it.
   "rated suitable for a general audience" — change one and you must
   change the other. `privacy_policy_test.dart` pins the policy half.
 - **Ads must not start before consent.** `main()` deliberately does *not*
-  initialize the Mobile Ads SDK; `adsReadyProvider` does, and only after
-  `consentRequestProvider` resolves. Every ad call goes through
-  `ConsentGatedAdService`, so a new screen cannot bypass it. Under GDPR an
-  ad request made before a lawful basis exists cannot be fixed afterwards
-  — see `test/core/ads/consent_gate_test.dart`.
+  initialize the Mobile Ads SDK itself; `adsReadyProvider` does, and only
+  after `consentRequestProvider` resolves. `main()` *does* now read
+  `adsReadyProvider` so that chain starts at launch instead of waiting for
+  the first ad widget to mount — that is not a bypass, because the
+  provider still awaits consent internally before `initializeAds()`. Every
+  ad call goes through `ConsentGatedAdService`, so a new screen cannot
+  bypass it, and **preloading goes through the same gate**: a warm ad is
+  still an ad request. Under GDPR an ad request made before a lawful basis
+  exists cannot be fixed afterwards — see
+  `test/core/ads/consent_gate_test.dart`.
+- **A rewarded ad fetched at tap time loses the race.** Loading only once
+  the player has tapped "watch an ad for a hint" put a large video
+  download on the critical path of a button press, and on mobile data it
+  routinely blew through the 8s load timeout — which the player read as
+  "no ad is available right now" on a perfectly good connection.
+  `GoogleMobileAdsService` keeps one rewarded ad warm from startup and
+  refills it the moment it is spent. Two things that are easy to get wrong
+  if you touch it: a cached rewarded ad **expires** after about an hour
+  (it is binned at 50 minutes, or showing it would fail), and a failed
+  load must **retry with backoff** — the banner had no retry at all, so a
+  single failure at cold start left the slot dead for the whole session.
+  Background retries stop after 5 attempts; a player tap always resets
+  that count, because giving up in the background must never mean giving
+  up on someone who just asked.
 - **`rootBundle` caches per asset path, across tests.** The cached Future
   is created in whichever `testWidgets` zone asked first, so every later
   test awaits a Future from a dead fake-async zone and hangs on a loading
@@ -304,6 +323,55 @@ screens to it rather than checking them by eye.
 
 ---
 
+## Banner-free play without paying: the companion-app unlock
+
+Installing `com.basel.baladream` removes **banner ads only**, for free,
+forever. `lib/core/promo/` owns this and it is duplicated per app like the
+rest of `core/`.
+
+**The invariant that matters: this is not premium.** `PartnerUnlockController`
+writes its own storage key and never touches `isAdsRemoved`. Merging the
+two would hand a free-app installer everything the purchase buys —
+interstitial-free play, free hints, free extra lives — and make a
+cross-promotion indistinguishable from a sale. Every banner slot reads
+`areBannersHiddenProvider`, the one place that knows both routes, so a new
+banner cannot honour one and forget the other.
+`test/core/promo/partner_unlock_test.dart` asserts the separation directly,
+including that interstitials still show for an unlocked player.
+
+Four things that are easy to get wrong:
+
+1. **The `<queries>` entry in AndroidManifest.xml is load-bearing.**
+   Android 11+ filters package visibility, so without naming the package
+   there `getPackageInfo` throws `NameNotFound` even when the app *is*
+   installed — the unlock would simply never fire, silently, on exactly
+   the devices most players use. One `<package>` entry grants visibility
+   of that one package; the app still cannot enumerate anything else.
+2. **The unlock is sticky and is never revoked.** Re-checking each launch
+   and taking it back would punish the honest majority — people who
+   installed the app and later tidied up their phone — to deter a minority
+   who would install-unlock-uninstall. What is being protected is a
+   banner. `refresh()` only ever moves false -> true.
+3. **Android only.** iOS cannot answer "is this bundle id installed" for
+   an app it does not own a URL scheme for, so `PartnerAppService` falls
+   back to `NoOpPartnerAppService` and nobody on iOS gets the unlock. If
+   iOS ever ships, the route is a deep-link handshake from the companion
+   app, not package detection.
+4. **The check runs on `resumed`, not just at launch.** That is the moment
+   someone comes back from the Play Store having just installed it, and it
+   is what makes the unlock feel automatic instead of needing a button.
+
+**The UI copy deliberately does not name the companion app.** Its Play
+listing title could not be verified, and inventing a brand name in shipped
+UI is worse than a neutral phrase. To name it, add the name to the four
+`partnerUnlock*` strings in every ARB. The copy also states that hints and
+extra lives still cost a video, because a player who installs expecting
+*all* ads to stop and then meets an interstitial was misled by the button,
+not by the ad.
+
+
+---
+
 ## Current state
 
 - **6 languages**: en, ar, de, fr, es, it — all with full UI translation
@@ -319,9 +387,19 @@ screens to it rather than checking them by eye.
   one at a time.
 - `tool/generate_audio.dart` **no longer writes music.** It used to
   synthesize placeholders there, which meant re-running it would destroy
-  real tracks. It still generates the key-tap SFX — as 22 kHz **WAV**, on
+  real tracks. It still generates the key-tap SFX — as **WAV**, on
   purpose: MP3 encoder delay and padding would add latency and an audible
-  gap to a 70 ms click.
+  gap to a click this short.
+- **The key tap is a noise transient, not a tone.** It used to be two pure
+  sine waves (900 Hz + 1800 Hz) held for 70 ms, and that is precisely why
+  it read as an electronic beep: a steady pitch held that long is long
+  enough for the ear to resolve it as a musical note. It is now a filtered
+  noise click over a low body that glides 210 Hz -> 150 Hz and is gone
+  inside 38 ms — the downward glide is most of what separates "a key" from
+  "a tone". The sample rate went 22 kHz -> 44.1 kHz with it, because noise
+  is the one thing a low rate audibly hurts; the file is still under 4 KB.
+  The noise is seeded, so regenerating produces identical bytes rather
+  than drifting. Memory's card flip plays this same asset.
 - Light mode carries per-difficulty accent colours and soft card shadows.
   `test/app/theme/color_contrast_test.dart` enforces WCAG ratios — if you
   change a palette value, that test is what catches an unreadable result.
@@ -355,8 +433,9 @@ A *different* wrong answer is a new guess and does cost a life.
 At the third mistake `state.isFailed` flips and **the board goes
 read-only** — entry, undo, erase, check and hint all refuse. That last one
 is deliberate: a run that is out of lives is over in both directions, and
-a hint that could rescue it would make the limit negotiable. The only ways
-on are restart or leave, which is exactly what `OutOfLivesDialog` offers.
+a hint that could rescue it would make the limit negotiable. The ways on are one
+bought extra life, restart, or leave — which is exactly what
+`OutOfLivesDialog` offers.
 
 Three things are easy to get wrong here:
 
@@ -373,10 +452,32 @@ Three things are easy to get wrong here:
    Counting a mistake without showing which entry cost it leaves the player
    hunting for something they cannot see.
 
-Not built, deliberately: **no rewarded ad to continue a failed run.** That
-is a monetization change and needs to be asked for, not slipped in
-alongside a gameplay one. The hook for it is the one place
-`OutOfLivesDialog` is constructed.
+**One extra life per run, bought with a rewarded ad.** This was parked as
+"not built, deliberately — a monetization change needs to be asked for";
+it has now been asked for, and it is built. Four things hold the rule
+together, and all four matter:
+
+1. **`bonusLives` is its own counter on `PuzzleAttempt`**, not a discount
+   on `mistakes`. `starsForSolve` reads the mistake count, so folding the
+   two together would let an ad quietly buy a *better result* instead of
+   just another go. A revived run still scores what it actually cost.
+2. **`maxBonusLives` is 1**, per attempt, resetting with it. A limit you
+   can always pay past is not a limit — unlimited continues would turn
+   "three mistakes" into "how many ads will you sit through".
+3. **`PuzzleAttempt.decode` clamps `mistakes` to `maxMistakes +
+   maxBonusLives`, not to `maxMistakes`.** Clamping at three was correct
+   until a run could legitimately reach four; afterwards it erased the
+   fourth mistake on every reload and handed the player a fresh extra
+   life each time they reopened the puzzle. `rewards_test.dart` pins this.
+4. **The cap is enforced in `grantExtraLife`, not only in the dialog.**
+   The dialog is one caller; the rule belongs with the state, and the
+   method also refuses on a run that is not actually failed.
+
+Players who have removed ads get the life free, no video — the same trade
+the hint button already makes for them. A rewarded ad that fails to load
+costs nothing and **reopens the dialog**: dismissing it would strand the
+player on a locked board with no way forward, which reads as a crash
+rather than as a policy.
 
 ### What a solve earns
 

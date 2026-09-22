@@ -300,6 +300,24 @@ class AppLocalizationsEs extends AppLocalizations {
       'Ya tienes la opción Quitar anuncios. ¡Gracias por tu apoyo!';
 
   @override
+  String get partnerUnlockTitle => 'O quita los banners gratis';
+
+  @override
+  String partnerUnlockDescription(String app) {
+    return 'Instala $app y los banners desaparecen para siempre. Las pistas y las vidas extra siguen usando un vídeo corto.';
+  }
+
+  @override
+  String partnerUnlockButton(String app) {
+    return 'Conseguir $app';
+  }
+
+  @override
+  String partnerUnlockActive(String app) {
+    return 'Los banners están desactivados — gracias por instalar $app.';
+  }
+
+  @override
   String get purchasePending => 'Tu compra se está procesando…';
 
   @override
@@ -364,6 +382,17 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get outOfLivesTryAgain => 'Intentar de nuevo';
+
+  @override
+  String outOfLivesMessageRevive(int max) {
+    return 'Son $max errores. Puedes conseguir una vida más o reiniciar este puzle.';
+  }
+
+  @override
+  String get outOfLivesWatchAd => 'Ver un vídeo para una vida más';
+
+  @override
+  String get outOfLivesExtraLife => 'Conseguir una vida más';
 
   @override
   String get rewardHeadlineFlawless => '¡Impecable!';

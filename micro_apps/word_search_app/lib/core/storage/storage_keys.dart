@@ -19,6 +19,12 @@ class StorageKeys {
   static const String lastMusicTrack = 'last_music_track';
   static const String isAdsRemoved = 'is_ads_removed';
 
+  /// Set once the companion app has been seen on the device. Grants
+  /// banner-free play and nothing else, and is never cleared — see
+  /// `PartnerUnlockController.refresh`.
+  static const String bannersUnlockedByPartner =
+      'banners_unlocked_by_partner';
+
   /// Whether the player opted into "come back and play" reminders.
   static const String remindersEnabled = 'reminders_enabled';
 

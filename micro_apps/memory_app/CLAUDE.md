@@ -273,8 +273,9 @@ the top of this file.
 At the third mistake `state.isFailed` flips and **the board goes
 read-only** — flips and hints both refuse. That last one is deliberate: a
 run that is out of lives is over in both directions, and a hint that
-could rescue it would make the limit negotiable. The only ways on are
-restart or leave, which is what `OutOfLivesDialog` offers.
+could rescue it would make the limit negotiable. The ways on are one bought
+extra life, restart, or leave — which is what `OutOfLivesDialog`
+offers.
 
 Stars, the day streak and the six badges work exactly as they do in the
 siblings; `rewards_test.dart` pins the scoring. `RewardsController
@@ -282,9 +283,32 @@ siblings; `rewards_test.dart` pins the scoring. `RewardsController
 interstitial, so an ad failing to load cannot cost the player the solve
 they just earned.
 
-Not built, deliberately: **no rewarded ad to continue a failed run.**
-That is a monetization change and needs to be asked for, not slipped in
-alongside a gameplay one.
+**One extra life per run, bought with a rewarded ad.** This was parked as
+"not built, deliberately — a monetization change needs to be asked for";
+it has now been asked for, and it is built. Four things hold the rule
+together, and all four matter:
+
+1. **`bonusLives` is its own counter on `PuzzleAttempt`**, not a discount
+   on `mistakes`. `starsForSolve` reads the mistake count, so folding the
+   two together would let an ad quietly buy a *better result* instead of
+   just another go. A revived run still scores what it actually cost.
+2. **`maxBonusLives` is 1**, per attempt, resetting with it. A limit you
+   can always pay past is not a limit — unlimited continues would turn
+   "three mistakes" into "how many ads will you sit through".
+3. **`PuzzleAttempt.decode` clamps `mistakes` to `maxMistakes +
+   maxBonusLives`, not to `maxMistakes`.** Clamping at three was correct
+   until a run could legitimately reach four; afterwards it erased the
+   fourth mistake on every reload and handed the player a fresh extra
+   life each time they reopened the puzzle. `rewards_test.dart` pins this.
+4. **The cap is enforced in `grantExtraLife`, not only in the dialog.**
+   The dialog is one caller; the rule belongs with the state, and the
+   method also refuses on a run that is not actually failed.
+
+Players who have removed ads get the life free, no video — the same trade
+the hint button already makes for them. A rewarded ad that fails to load
+costs nothing and **reopens the dialog**: dismissing it would strand the
+player on a locked board with no way forward, which reads as a crash
+rather than as a policy.
 
 ---
 
@@ -296,6 +320,55 @@ flutter analyze && flutter test && flutter build apk --release
 
 All three must pass. Report real output; never claim console/account
 setup that only the owner can perform.
+
+---
+
+## Banner-free play without paying: the companion-app unlock
+
+Installing `com.basel.baladream` removes **banner ads only**, for free,
+forever. `lib/core/promo/` owns this and it is duplicated per app like the
+rest of `core/`.
+
+**The invariant that matters: this is not premium.** `PartnerUnlockController`
+writes its own storage key and never touches `isAdsRemoved`. Merging the
+two would hand a free-app installer everything the purchase buys —
+interstitial-free play, free hints, free extra lives — and make a
+cross-promotion indistinguishable from a sale. Every banner slot reads
+`areBannersHiddenProvider`, the one place that knows both routes, so a new
+banner cannot honour one and forget the other.
+`test/core/promo/partner_unlock_test.dart` asserts the separation directly,
+including that interstitials still show for an unlocked player.
+
+Four things that are easy to get wrong:
+
+1. **The `<queries>` entry in AndroidManifest.xml is load-bearing.**
+   Android 11+ filters package visibility, so without naming the package
+   there `getPackageInfo` throws `NameNotFound` even when the app *is*
+   installed — the unlock would simply never fire, silently, on exactly
+   the devices most players use. One `<package>` entry grants visibility
+   of that one package; the app still cannot enumerate anything else.
+2. **The unlock is sticky and is never revoked.** Re-checking each launch
+   and taking it back would punish the honest majority — people who
+   installed the app and later tidied up their phone — to deter a minority
+   who would install-unlock-uninstall. What is being protected is a
+   banner. `refresh()` only ever moves false -> true.
+3. **Android only.** iOS cannot answer "is this bundle id installed" for
+   an app it does not own a URL scheme for, so `PartnerAppService` falls
+   back to `NoOpPartnerAppService` and nobody on iOS gets the unlock. If
+   iOS ever ships, the route is a deep-link handshake from the companion
+   app, not package detection.
+4. **The check runs on `resumed`, not just at launch.** That is the moment
+   someone comes back from the Play Store having just installed it, and it
+   is what makes the unlock feel automatic instead of needing a button.
+
+**The UI copy deliberately does not name the companion app.** Its Play
+listing title could not be verified, and inventing a brand name in shipped
+UI is worse than a neutral phrase. To name it, add the name to the four
+`partnerUnlock*` strings in every ARB. The copy also states that hints and
+extra lives still cost a video, because a player who installs expecting
+*all* ads to stop and then meets an interstitial was misled by the button,
+not by the ad.
+
 
 ---
 

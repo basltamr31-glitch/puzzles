@@ -3,6 +3,18 @@ import 'achievement.dart';
 /// How many mistakes a puzzle allows before it is failed.
 const int maxMistakes = 3;
 
+/// How many extra lives one run may buy with a rewarded ad.
+///
+/// One, not unlimited. A mistake limit you can always pay your way past
+/// is not a limit, and an endless continue button would quietly turn a
+/// three-mistake rule into "how many ads will you sit through". The cap
+/// is per attempt and resets with it, so a restart or a solve always
+/// begins on a clean three.
+///
+/// Note this does *not* enter `starsForSolve`: a bought life buys another
+/// go at the puzzle, never a better result on it.
+const int maxBonusLives = 1;
+
 /// Stars for a solve. Three is the clean solve players chase: no mistakes
 /// and no hints. Two allows a wobble. One is still a solve, and is
 /// deliberately never zero — finishing a hard puzzle the messy way should

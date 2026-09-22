@@ -281,6 +281,24 @@ class AppLocalizationsAr extends AppLocalizations {
       'أنت تملك بالفعل إزالة الإعلانات. شكرًا لدعمك!';
 
   @override
+  String get partnerUnlockTitle => 'أو أزل لافتات الإعلانات مجانًا';
+
+  @override
+  String partnerUnlockDescription(String app) {
+    return 'ثبّت $app وستختفي لافتات الإعلانات نهائيًا. أما التلميحات والحيوات الإضافية فما زالت تتطلب مشاهدة فيديو قصير.';
+  }
+
+  @override
+  String partnerUnlockButton(String app) {
+    return 'احصل على $app';
+  }
+
+  @override
+  String partnerUnlockActive(String app) {
+    return 'تم إيقاف لافتات الإعلانات — شكرًا لتثبيتك $app.';
+  }
+
+  @override
   String get purchasePending => 'جارٍ معالجة عملية الشراء…';
 
   @override
@@ -345,6 +363,17 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get outOfLivesTryAgain => 'حاول مرة أخرى';
+
+  @override
+  String outOfLivesMessageRevive(int max) {
+    return 'لقد ارتكبت $max أخطاء. يمكنك الحصول على حياة إضافية أو إعادة بدء هذا اللغز.';
+  }
+
+  @override
+  String get outOfLivesWatchAd => 'شاهد فيديو للحصول على حياة إضافية';
+
+  @override
+  String get outOfLivesExtraLife => 'احصل على حياة إضافية';
 
   @override
   String get rewardHeadlineFlawless => 'بلا أخطاء!';

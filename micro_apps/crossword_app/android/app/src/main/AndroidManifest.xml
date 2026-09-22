@@ -80,5 +80,11 @@
             <action android:name="android.intent.action.VIEW" />
             <data android:scheme="https" />
         </intent>
+        <!-- The companion app whose install removes banner ads. Android
+             11+ filters package visibility, so without naming it here
+             getPackageInfo throws NameNotFound even when it *is*
+             installed, and the unlock would never fire. Declaring one
+             package grants visibility of that package only. -->
+        <package android:name="com.basel.baladream" />
     </queries>
 </manifest>

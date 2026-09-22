@@ -12,6 +12,8 @@ class _RecordingAdService implements AdService {
   int bannerBuilds = 0;
   int interstitials = 0;
   int rewardeds = 0;
+  int prewarms = 0;
+  int disposes = 0;
 
   @override
   Widget buildBanner({required String placementId}) {
@@ -28,6 +30,16 @@ class _RecordingAdService implements AdService {
   Future<RewardedAdResult> showRewarded({required String placementId}) async {
     rewardeds++;
     return RewardedAdResult.rewarded;
+  }
+
+  @override
+  void prewarm() {
+    prewarms++;
+  }
+
+  @override
+  void dispose() {
+    disposes++;
   }
 }
 
@@ -104,5 +116,20 @@ void main() {
     final completed = ConsentGatedAdService(inner, Future<void>.value());
     await completed.maybeShowInterstitial(trigger: 'test');
     expect(inner.interstitials, 1);
+  });
+
+  // Preloading exists to move the wait off the button press, but a
+  // preloaded ad is still an ad request — it has to sit behind the same
+  // consent gate as every other one, or the optimization would be the one
+  // thing in the app that breaks GDPR.
+  test('preloading waits for consent before requesting anything', () async {
+    final (:inner, :consent, :gated) = makeGate();
+    gated.prewarm();
+    await Future<void>.delayed(Duration.zero);
+    expect(inner.prewarms, 0, reason: 'an ad was preloaded pre-consent');
+
+    consent.complete();
+    await Future<void>.delayed(Duration.zero);
+    expect(inner.prewarms, 1, reason: 'never preloaded after consent');
   });
 }

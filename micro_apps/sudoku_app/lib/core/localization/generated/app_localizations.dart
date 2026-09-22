@@ -598,6 +598,30 @@ abstract class AppLocalizations {
   /// **'You already own Remove Ads. Thank you for your support!'**
   String get removeAdsAlreadyOwned;
 
+  /// No description provided for @partnerUnlockTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Or remove banners for free'**
+  String get partnerUnlockTitle;
+
+  /// No description provided for @partnerUnlockDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Install {app} and banner ads are gone for good. Hints and extra lives still use a short video.'**
+  String partnerUnlockDescription(String app);
+
+  /// No description provided for @partnerUnlockButton.
+  ///
+  /// In en, this message translates to:
+  /// **'Get {app}'**
+  String partnerUnlockButton(String app);
+
+  /// No description provided for @partnerUnlockActive.
+  ///
+  /// In en, this message translates to:
+  /// **'Banner ads are off — thanks for installing {app}.'**
+  String partnerUnlockActive(String app);
+
   /// No description provided for @purchasePending.
   ///
   /// In en, this message translates to:
@@ -711,6 +735,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Try again'**
   String get outOfLivesTryAgain;
+
+  /// No description provided for @outOfLivesMessageRevive.
+  ///
+  /// In en, this message translates to:
+  /// **'That is {max} mistakes. You can earn one more life, or start this puzzle again.'**
+  String outOfLivesMessageRevive(int max);
+
+  /// No description provided for @outOfLivesWatchAd.
+  ///
+  /// In en, this message translates to:
+  /// **'Watch a video for one more life'**
+  String get outOfLivesWatchAd;
+
+  /// No description provided for @outOfLivesExtraLife.
+  ///
+  /// In en, this message translates to:
+  /// **'Get one more life'**
+  String get outOfLivesExtraLife;
 
   /// No description provided for @rewardHeadlineFlawless.
   ///

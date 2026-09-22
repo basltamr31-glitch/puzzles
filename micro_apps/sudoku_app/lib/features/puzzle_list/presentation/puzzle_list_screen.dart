@@ -5,9 +5,9 @@ import 'package:go_router/go_router.dart';
 import '../../../app/theme/app_colors.dart';
 import '../../../app/theme/app_spacing.dart';
 import '../../../core/ads/ad_service.dart';
-import '../../../core/billing/premium_state.dart';
 import '../../../core/haptics/haptic_service.dart';
 import '../../../core/localization/generated/app_localizations.dart';
+import '../../../core/promo/partner_unlock_controller.dart';
 import '../../../core/widgets/app_card.dart';
 import '../../../core/widgets/app_scaffold.dart';
 import '../../rewards/presentation/widgets/star_rating.dart';
@@ -303,8 +303,10 @@ class _PuzzleListBanner extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final isAdsRemoved = ref.watch(isAdsRemovedProvider);
-    if (isAdsRemoved) return const SizedBox.shrink();
+    // Either route to banner-free play: the purchase, or the companion
+    // app. One provider knows both so a banner cannot honour one and
+    // forget the other.
+    if (ref.watch(areBannersHiddenProvider)) return const SizedBox.shrink();
     return ref.watch(adServiceProvider).buildBanner(placementId: 'puzzle_list_bottom');
   }
 }

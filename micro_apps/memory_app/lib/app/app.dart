@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -8,6 +9,7 @@ import '../core/localization/generated/app_localizations.dart';
 import '../core/localization/locale_controller.dart';
 import '../core/localization/supported_locales.dart';
 import '../core/notifications/reminder_controller.dart';
+import '../core/promo/partner_unlock_controller.dart';
 import '../features/onboarding/onboarding_controller.dart';
 import '../features/settings/settings_controller.dart';
 import 'app_config.dart';
@@ -43,6 +45,10 @@ class _MemoryAppState extends ConsumerState<MemoryApp> with WidgetsBindingObserv
       if (track != MusicTrack.off) {
         ref.read(soundServiceProvider).playMusic(track);
       }
+      // Someone may have installed the companion app since last launch,
+      // or on another device. Fire-and-forget: it is a bonus, and a
+      // failed lookup just means no unlock.
+      unawaited(ref.read(partnerUnlockProvider.notifier).refresh());
     });
   }
 
@@ -62,6 +68,10 @@ class _MemoryAppState extends ConsumerState<MemoryApp> with WidgetsBindingObserv
         soundService.pauseMusic();
       case AppLifecycleState.resumed:
         soundService.resumeMusic();
+        // The moment that matters: a player who just came back from the
+        // Play Store gets their banners removed without having to find
+        // a button and tell us they installed it.
+        unawaited(ref.read(partnerUnlockProvider.notifier).refresh());
       case AppLifecycleState.detached:
         break;
     }

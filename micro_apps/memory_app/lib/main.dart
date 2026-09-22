@@ -4,6 +4,7 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'app/app.dart';
+import 'core/ads/ad_service.dart';
 import 'core/analytics/analytics_events.dart';
 import 'core/analytics/analytics_service.dart';
 import 'core/consent/consent_service.dart';
@@ -28,11 +29,14 @@ Future<void> main() async {
 
   container.read(analyticsServiceProvider).logEvent(AnalyticsEvents.appOpen);
   // Fire-and-forget so startup is not blocked, but started here so the
-  // consent form appears as early as possible. The ads SDK is NOT
-  // initialized here: `adsReadyProvider` does that only after this
-  // resolves, because Google requires the consent signal to exist before
-  // the Mobile Ads SDK starts.
+  // consent form appears as early as possible.
   unawaited(container.read(consentRequestProvider.future));
+  // The ads SDK follows right behind it. `adsReadyProvider` waits for the
+  // consent signal internally — Google requires that before the Mobile
+  // Ads SDK starts — so this does not jump the gate. Starting it here,
+  // rather than letting the first ad widget trigger it, takes SDK startup
+  // off the critical path of the first banner and the first hint.
+  unawaited(container.read(adsReadyProvider.future));
 
   runApp(
     UncontrolledProviderScope(

@@ -12,6 +12,7 @@ import '../../../core/audio/sound_service.dart';
 import '../../../core/billing/premium_state.dart';
 import '../../../core/haptics/haptic_service.dart';
 import '../../../core/localization/generated/app_localizations.dart';
+import '../../../core/promo/partner_unlock_controller.dart';
 import '../../../core/utils/motion.dart';
 import '../../../core/widgets/app_scaffold.dart';
 import '../../../core/widgets/decorative_art.dart';
@@ -223,8 +224,10 @@ class _MemoryScreenState extends ConsumerState<MemoryScreen>
   }
 
   Widget _buildBanner() {
-    final isAdsRemoved = ref.watch(isAdsRemovedProvider);
-    if (isAdsRemoved) return const SizedBox.shrink();
+    // Either route to banner-free play: the purchase, or the companion
+    // app. One provider knows both so a banner cannot honour one and
+    // forget the other.
+    if (ref.watch(areBannersHiddenProvider)) return const SizedBox.shrink();
     return ref.watch(adServiceProvider).buildBanner(placementId: 'memory_bottom');
   }
 
@@ -345,10 +348,22 @@ class _MemoryScreenState extends ConsumerState<MemoryScreen>
     _failureHandled = true;
 
     ref.read(hapticServiceProvider).play(HapticIntent.heavy);
+    // Read before the dialog is built: a player who has removed ads gets
+    // the life without watching anything, the same trade the hint button
+    // already makes for them.
+    final isAdsRemoved = ref.read(isAdsRemovedProvider);
+    final canRevive = _notifier.canEarnBonusLife;
     showDialog<void>(
       context: context,
       barrierDismissible: false,
       builder: (dialogContext) => OutOfLivesDialog(
+        extraLifeCostsAd: !isAdsRemoved,
+        onExtraLife: canRevive
+            ? () {
+                Navigator.of(dialogContext).pop();
+                _handleExtraLife(isAdsRemoved);
+              }
+            : null,
         onRestart: () {
           Navigator.of(dialogContext).pop();
           _failureHandled = false;
@@ -360,6 +375,43 @@ class _MemoryScreenState extends ConsumerState<MemoryScreen>
         },
       ),
     );
+  }
+
+  /// Grants the extra life, after an ad where one is owed.
+  ///
+  /// The life is only ever handed over on [RewardedAdResult.rewarded].
+  /// An ad that fails to load costs the player nothing and says so — and
+  /// crucially puts the dialog back, because dismissing it would leave
+  /// them staring at a locked board with no way forward.
+  Future<void> _handleExtraLife(bool isAdsRemoved) async {
+    final l10n = AppLocalizations.of(context);
+    final messenger = ScaffoldMessenger.of(context);
+
+    if (!isAdsRemoved) {
+      final result = await ref
+          .read(adServiceProvider)
+          .showRewarded(placementId: 'extra_life');
+      if (result != RewardedAdResult.rewarded) {
+        if (result == RewardedAdResult.unavailable) {
+          messenger.showSnackBar(
+            SnackBar(content: Text(l10n.errorAdUnavailable)),
+          );
+        }
+        _failureHandled = false;
+        if (mounted) _onOutOfLives();
+        return;
+      }
+      ref
+          .read(analyticsServiceProvider)
+          .logEvent(AnalyticsEvents.rewardedAdCompleted);
+    }
+
+    await _notifier.grantExtraLife();
+    if (!mounted) return;
+    // Cleared last: the board is playable again, so the next genuine
+    // failure has to be able to raise this dialog afresh.
+    _failureHandled = false;
+    ref.read(hapticServiceProvider).play(HapticIntent.light);
   }
 
   Future<void> _onPuzzleCompleted() async {

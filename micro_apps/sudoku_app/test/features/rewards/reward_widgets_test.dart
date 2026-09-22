@@ -98,6 +98,58 @@ void main() {
         await tester.pump(const Duration(milliseconds: 600));
         expect(tester.takeException(), isNull);
       });
+
+      // Three actions instead of two, and the longest label in the
+      // dialog. This is the variant most likely to overflow a small
+      // phone at a large text scale, which is exactly what an
+      // unconsumed Flutter error here would catch.
+      testWidgets('the out-of-lives dialog renders an ad-paid extra life',
+          (tester) async {
+        await tester.pumpWidget(
+          harness(
+            OutOfLivesDialog(
+              onRestart: () {},
+              onBackToPuzzles: () {},
+              onExtraLife: () {},
+            ),
+            locale,
+          ),
+        );
+        await tester.pump(const Duration(milliseconds: 600));
+        expect(tester.takeException(), isNull);
+      });
+
+      testWidgets('the out-of-lives dialog renders a free extra life',
+          (tester) async {
+        await tester.pumpWidget(
+          harness(
+            OutOfLivesDialog(
+              onRestart: () {},
+              onBackToPuzzles: () {},
+              onExtraLife: () {},
+              extraLifeCostsAd: false,
+            ),
+            locale,
+          ),
+        );
+        await tester.pump(const Duration(milliseconds: 600));
+        expect(tester.takeException(), isNull);
+      });
+
+      testWidgets('the extra life button is absent once the cap is spent',
+          (tester) async {
+        await tester.pumpWidget(
+          harness(
+            OutOfLivesDialog(onRestart: () {}, onBackToPuzzles: () {}),
+            locale,
+          ),
+        );
+        await tester.pump(const Duration(milliseconds: 600));
+        final l10n = await AppLocalizations.delegate.load(locale);
+        expect(find.text(l10n.outOfLivesWatchAd), findsNothing);
+        expect(find.text(l10n.outOfLivesExtraLife), findsNothing);
+        expect(find.text(l10n.outOfLivesTryAgain), findsOneWidget);
+      });
     });
   }
 }

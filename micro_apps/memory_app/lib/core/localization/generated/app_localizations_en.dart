@@ -253,6 +253,24 @@ class AppLocalizationsEn extends AppLocalizations {
       'You already own Remove Ads. Thank you for your support!';
 
   @override
+  String get partnerUnlockTitle => 'Or remove banners for free';
+
+  @override
+  String partnerUnlockDescription(String app) {
+    return 'Install $app and banner ads are gone for good. Hints and extra lives still use a short video.';
+  }
+
+  @override
+  String partnerUnlockButton(String app) {
+    return 'Get $app';
+  }
+
+  @override
+  String partnerUnlockActive(String app) {
+    return 'Banner ads are off — thanks for installing $app.';
+  }
+
+  @override
   String get purchasePending => 'Your purchase is being processed…';
 
   @override
@@ -317,6 +335,17 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get outOfLivesTryAgain => 'Try again';
+
+  @override
+  String outOfLivesMessageRevive(int max) {
+    return 'That is $max mistakes. You can earn one more life, or start this puzzle again.';
+  }
+
+  @override
+  String get outOfLivesWatchAd => 'Watch a video for one more life';
+
+  @override
+  String get outOfLivesExtraLife => 'Get one more life';
 
   @override
   String get rewardHeadlineFlawless => 'Flawless!';
