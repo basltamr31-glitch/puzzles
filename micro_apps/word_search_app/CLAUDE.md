@@ -188,6 +188,22 @@ web/desktop builds stay clean.
   threshold was crossed, not where the finger landed**, which selected a
   cell or two along from the one touched. The grid's recognizer sets
   `DragStartBehavior.down`.
+- **The board's reading direction comes from the *puzzle*, not the app.**
+  `WordSearchGridView` sets its own `Directionality` from
+  `puzzle.language`, the same way `CrosswordGridView` does. Inheriting the
+  ambient one was wrong in both directions — an English board under an
+  Arabic UI mirrored, an Arabic board under an English UI did not — but
+  the damaging half was subtler: the `Row` of cells flipped while
+  `_cellAt` kept doing left-to-right arithmetic on the pointer position,
+  because `localPosition` has its origin at the top-left whatever the text
+  direction is. Dragging a word in Arabic therefore selected the cells
+  *opposite* the finger, so a correct drag spelled nothing, was rejected,
+  and **cost a life**. Anything that turns a coordinate into a position or
+  back — `_cellAt` and the painter's `centerOf` — has to go through
+  `mirrorCol`; a `CustomPaint` canvas is never flipped by `Directionality`
+  either, so the strike-through line must be mirrored by hand.
+  `word_search_grid_direction_test.dart` pins every half of this, and it
+  really does fail if the mirroring is removed — verified by removing it.
 - **A `WidgetTester` drag written with one big `moveTo` cannot reproduce
   either bug.** A single large jump crosses both recognizers' thresholds
   in the same event, and the arena then awards the gesture to the
@@ -411,13 +427,32 @@ Four things that are easy to get wrong:
    someone comes back from the Play Store having just installed it, and it
    is what makes the unlock feel automatic instead of needing a button.
 
-**The UI copy deliberately does not name the companion app.** Its Play
-listing title could not be verified, and inventing a brand name in shipped
-UI is worse than a neutral phrase. To name it, add the name to the four
-`partnerUnlock*` strings in every ARB. The copy also states that hints and
-extra lives still cost a video, because a player who installs expecting
-*all* ads to stop and then meets an interstitial was misled by the button,
-not by the ad.
+**The companion app is named in the UI**: "Couples — A Space for Two" in
+the description, "Couples" on the button. Both live in `AppConfig`
+(`partnerAppName`, `partnerAppShortName`) and reach the strings through an
+`{app}` placeholder, because a brand name is not translated and should not
+be spelled out once per locale. The short form exists because
+`SecondaryButton` scales its label down inside a `FittedBox` — the full
+listing title renders unreadably small on a narrow phone at a large text
+scale. The copy also states that hints and extra lives still cost a video,
+because a player who installs expecting *all* ads to stop and then meets
+an interstitial was misled by the button, not by the ad.
+
+**Owner decision (2026-09-24): Remove Ads *is* the companion download.**
+The Remove Ads screen offers only "Get Couples" — there is no paid button
+on it any more. Removing ads means banners and nothing else: hints and the
+extra life cost a rewarded video for **every** player (the old free-hint /
+free-life path for `isAdsRemoved` is gone), and interstitials keep showing.
+A legacy `isAdsRemoved` flag still hides banners via
+`areBannersHiddenProvider` and still skips interstitials in `AdPolicy`.
+Do not reintroduce a purchase or free hints without the owner asking.
+
+**Release builds must go through `micro_apps/build_release.ps1`.** Ad unit
+IDs come only from `--dart-define-from-file=ad_config.json`; a plain
+`flutter build apk --release` ships an app with *no ads at all* (every unit
+ID resolves to empty). The 2026-09-22 APKs were built that way and showed
+no banners and no rewarded video. The script builds with the config and
+fails unless the real banner ID is found inside `libapp.so`.
 
 
 ---

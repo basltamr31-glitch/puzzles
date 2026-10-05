@@ -18,7 +18,7 @@ final partnerAppServiceProvider = Provider<PartnerAppService>(
 /// [isAdsRemovedProvider] because the two grant different things: the
 /// purchase is the full product, while this covers **banners only**.
 /// Interstitials still show, hints and extra lives are still paid for
-/// with a rewarded video, and the Remove Ads purchase is still offered —
+/// with a rewarded video, and a legacy purchase still means more —
 /// folding this into the premium flag would hand all of that away for
 /// free and make a cross-promotion indistinguishable from a sale.
 class PartnerUnlockController extends Notifier<bool> {

@@ -12,7 +12,6 @@ import '../../../core/ads/ad_service.dart';
 import '../../../core/analytics/analytics_events.dart';
 import '../../../core/analytics/analytics_service.dart';
 import '../../../core/audio/sound_service.dart';
-import '../../../core/billing/premium_state.dart';
 import '../../../core/haptics/haptic_service.dart';
 import '../../../core/localization/generated/app_localizations.dart';
 import '../../../core/utils/motion.dart';
@@ -330,24 +329,11 @@ class _SudokuScreenState extends ConsumerState<SudokuScreen>
     }
   }
 
-  /// Premium (ads-removed) users get an instant free hint; everyone else
-  /// hints via a user-initiated rewarded ad — the reward is only ever
-  /// granted after [RewardedAdResult.rewarded], and an unavailable ad
-  /// shows a friendly message without penalizing the player.
-  Future<void> _handleHintTap(BuildContext context, AppLocalizations l10n) {
-    final isAdsRemoved = ref.read(isAdsRemovedProvider);
-    return isAdsRemoved
-        ? _confirmFreeHint(context, l10n)
-        : _confirmWatchAdForHint(context, l10n);
-  }
-
-  Future<void> _confirmFreeHint(BuildContext context, AppLocalizations l10n) async {
-    final confirmed = await _confirmHintDialog(context, l10n, l10n.hintConfirmMessage);
-    if (confirmed != true) return;
-    _grantHint();
-  }
-
-  Future<void> _confirmWatchAdForHint(BuildContext context, AppLocalizations l10n) async {
+  /// Hints always cost a user-initiated rewarded video — for every
+  /// player, including anyone who has removed banner ads. The reward
+  /// is only ever granted after [RewardedAdResult.rewarded], and an
+  /// unavailable ad shows a friendly message without penalizing them.
+  Future<void> _handleHintTap(BuildContext context, AppLocalizations l10n) async {
     final confirmed = await _confirmHintDialog(context, l10n, l10n.watchAdForHint);
     if (confirmed != true || !context.mounted) return;
 
@@ -404,20 +390,16 @@ class _SudokuScreenState extends ConsumerState<SudokuScreen>
     _failureHandled = true;
 
     ref.read(hapticServiceProvider).play(HapticIntent.heavy);
-    // Read before the dialog is built: a player who has removed ads gets
-    // the life without watching anything, the same trade the hint button
-    // already makes for them.
-    final isAdsRemoved = ref.read(isAdsRemovedProvider);
     final canRevive = _notifier.canEarnBonusLife;
     showDialog<void>(
       context: context,
       barrierDismissible: false,
       builder: (dialogContext) => OutOfLivesDialog(
-        extraLifeCostsAd: !isAdsRemoved,
+        extraLifeCostsAd: true,
         onExtraLife: canRevive
             ? () {
                 Navigator.of(dialogContext).pop();
-                _handleExtraLife(isAdsRemoved);
+                _handleExtraLife();
               }
             : null,
         onRestart: () {
@@ -439,28 +421,26 @@ class _SudokuScreenState extends ConsumerState<SudokuScreen>
   /// An ad that fails to load costs the player nothing and says so — and
   /// crucially puts the dialog back, because dismissing it would leave
   /// them staring at a locked board with no way forward.
-  Future<void> _handleExtraLife(bool isAdsRemoved) async {
+  Future<void> _handleExtraLife() async {
     final l10n = AppLocalizations.of(context);
     final messenger = ScaffoldMessenger.of(context);
 
-    if (!isAdsRemoved) {
-      final result = await ref
-          .read(adServiceProvider)
-          .showRewarded(placementId: 'extra_life');
-      if (result != RewardedAdResult.rewarded) {
-        if (result == RewardedAdResult.unavailable) {
-          messenger.showSnackBar(
-            SnackBar(content: Text(l10n.errorAdUnavailable)),
-          );
-        }
-        _failureHandled = false;
-        if (mounted) _onOutOfLives();
-        return;
+    final result = await ref
+        .read(adServiceProvider)
+        .showRewarded(placementId: 'extra_life');
+    if (result != RewardedAdResult.rewarded) {
+      if (result == RewardedAdResult.unavailable) {
+        messenger.showSnackBar(
+          SnackBar(content: Text(l10n.errorAdUnavailable)),
+        );
       }
-      ref
-          .read(analyticsServiceProvider)
-          .logEvent(AnalyticsEvents.rewardedAdCompleted);
+      _failureHandled = false;
+      if (mounted) _onOutOfLives();
+      return;
     }
+    ref
+        .read(analyticsServiceProvider)
+        .logEvent(AnalyticsEvents.rewardedAdCompleted);
 
     await _notifier.grantExtraLife();
     if (!mounted) return;

@@ -2,6 +2,7 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 
 import '../../../../app/theme/word_search_colors.dart';
+import '../../../../shared/models/game_locale.dart';
 import '../../domain/word_search_models.dart';
 
 /// A pan recognizer that wins the gesture arena against the scroll view
@@ -75,13 +76,40 @@ class WordSearchGridView extends StatelessWidget {
   final void Function(int row, int col) onDragUpdate;
   final VoidCallback onDragEnd;
 
+  /// The board's reading direction comes from the **puzzle**, not the app.
+  ///
+  /// Inheriting the ambient direction was wrong in both directions,
+  /// because the UI language and the game language are chosen separately:
+  /// an English board under an Arabic UI was mirrored, and an Arabic board
+  /// under an English UI was not.
+  bool get _isRtl => GameLocale.byCode(puzzle.language).isRtl;
+
+  /// Converts between a logical column and the one on screen.
+  ///
+  /// The engine keeps a single coordinate system — `east` always means
+  /// "towards increasing column" — and a right-to-left board is *rendered*
+  /// mirrored so an `east` word still reads the natural way. Every place
+  /// that turns a coordinate into a position, or a position back into a
+  /// coordinate, has to apply this. Mirroring is its own inverse, so one
+  /// function serves both directions.
+  static int mirrorCol(int col, int size, {required bool isRtl}) =>
+      isRtl ? size - 1 - col : col;
+
   (int, int)? _cellAt(Offset local, double cellSize) {
-    final col = (local.dx / cellSize).floor();
+    // `localPosition` has its origin at the top-left whatever the text
+    // direction is, so this is a *visual* column and has to be mirrored
+    // back to a logical one. Missing that is what made a drag in Arabic
+    // select the cells opposite the finger, spell nothing, and cost a
+    // life.
+    final visualCol = (local.dx / cellSize).floor();
     final row = (local.dy / cellSize).floor();
-    if (row < 0 || row >= puzzle.size || col < 0 || col >= puzzle.size) {
+    if (row < 0 ||
+        row >= puzzle.size ||
+        visualCol < 0 ||
+        visualCol >= puzzle.size) {
       return null;
     }
-    return (row, col);
+    return (row, mirrorCol(visualCol, puzzle.size, isRtl: _isRtl));
   }
 
   @override
@@ -89,97 +117,107 @@ class WordSearchGridView extends StatelessWidget {
     final colors = context.wordSearchColors;
     final liveSet = {for (final (r, c) in liveSelection) '$r,$c'};
 
-    return AspectRatio(
-      aspectRatio: 1,
-      child: LayoutBuilder(
-        builder: (context, constraints) {
-          final cellSize = constraints.maxWidth / puzzle.size;
+    return Directionality(
+      // Set here rather than inherited, so the board mirrors for an Arabic
+      // *puzzle* and only for one. The Row below is what actually flips;
+      // `_cellAt` and the painter mirror their own arithmetic to match.
+      textDirection: _isRtl ? TextDirection.rtl : TextDirection.ltr,
+      child: AspectRatio(
+        aspectRatio: 1,
+        child: LayoutBuilder(
+          builder: (context, constraints) {
+            final cellSize = constraints.maxWidth / puzzle.size;
 
-          void handlePan(Offset local) {
-            final cell = _cellAt(local, cellSize);
-            if (cell != null) onDragUpdate(cell.$1, cell.$2);
-          }
+            void handlePan(Offset local) {
+              final cell = _cellAt(local, cellSize);
+              if (cell != null) onDragUpdate(cell.$1, cell.$2);
+            }
 
-          return Container(
-            decoration: BoxDecoration(
-              border: Border.all(color: colors.cellBorder, width: 1.5),
-              borderRadius: BorderRadius.circular(12),
-            ),
-            clipBehavior: Clip.antiAlias,
-            child: RawGestureDetector(
-              behavior: HitTestBehavior.opaque,
-              gestures: <Type, GestureRecognizerFactory>{
-                _GridPanGestureRecognizer:
-                    GestureRecognizerFactoryWithHandlers<
-                      _GridPanGestureRecognizer
-                    >(_GridPanGestureRecognizer.new, (instance) {
-                      instance
-                        // Report the drag from where the finger actually
-                        // landed. The default, DragStartBehavior.start,
-                        // reports it from wherever the slop threshold was
-                        // crossed instead, which selected a cell or two
-                        // along from the one the player touched.
-                        ..dragStartBehavior = DragStartBehavior.down
-                        ..onStart = (details) {
-                          final cell = _cellAt(details.localPosition, cellSize);
-                          if (cell != null) onDragStart(cell.$1, cell.$2);
-                        }
-                        ..onUpdate = (details) {
-                          handlePan(details.localPosition);
-                        }
-                        ..onEnd = (_) {
-                          onDragEnd();
-                        }
-                        ..onCancel = onDragEnd;
-                    }),
-              },
-              child: Stack(
-                fit: StackFit.expand,
-                children: [
-                  Column(
-                    children: List.generate(puzzle.size, (r) {
-                      return Expanded(
-                        child: Row(
-                          children: List.generate(puzzle.size, (c) {
-                            final key = '$r,$c';
-                            return Expanded(
-                              child: _LetterCell(
-                                letter: puzzle.letterAt(r, c),
-                                isFound: foundCells.contains(key),
-                                isSelected: liveSet.contains(key),
-                                isWrong: wrongSelectionCells.contains(key),
-                              ),
+            return Container(
+              decoration: BoxDecoration(
+                border: Border.all(color: colors.cellBorder, width: 1.5),
+                borderRadius: BorderRadius.circular(12),
+              ),
+              clipBehavior: Clip.antiAlias,
+              child: RawGestureDetector(
+                behavior: HitTestBehavior.opaque,
+                gestures: <Type, GestureRecognizerFactory>{
+                  _GridPanGestureRecognizer:
+                      GestureRecognizerFactoryWithHandlers<
+                        _GridPanGestureRecognizer
+                      >(_GridPanGestureRecognizer.new, (instance) {
+                        instance
+                          // Report the drag from where the finger actually
+                          // landed. The default, DragStartBehavior.start,
+                          // reports it from wherever the slop threshold was
+                          // crossed instead, which selected a cell or two
+                          // along from the one the player touched.
+                          ..dragStartBehavior = DragStartBehavior.down
+                          ..onStart = (details) {
+                            final cell = _cellAt(
+                              details.localPosition,
+                              cellSize,
                             );
-                          }),
+                            if (cell != null) onDragStart(cell.$1, cell.$2);
+                          }
+                          ..onUpdate = (details) {
+                            handlePan(details.localPosition);
+                          }
+                          ..onEnd = (_) {
+                            onDragEnd();
+                          }
+                          ..onCancel = onDragEnd;
+                      }),
+                },
+                child: Stack(
+                  fit: StackFit.expand,
+                  children: [
+                    Column(
+                      children: List.generate(puzzle.size, (r) {
+                        return Expanded(
+                          child: Row(
+                            children: List.generate(puzzle.size, (c) {
+                              final key = '$r,$c';
+                              return Expanded(
+                                child: _LetterCell(
+                                  letter: puzzle.letterAt(r, c),
+                                  isFound: foundCells.contains(key),
+                                  isSelected: liveSet.contains(key),
+                                  isWrong: wrongSelectionCells.contains(key),
+                                ),
+                              );
+                            }),
+                          ),
+                        );
+                      }),
+                    ),
+                    IgnorePointer(
+                      child: CustomPaint(
+                        painter: _FoundWordLinesPainter(
+                          gridSize: puzzle.size,
+                          isRtl: _isRtl,
+                          placements: puzzle.placements,
+                          foundWords: {
+                            for (final p in puzzle.placements)
+                              if (foundCells.containsAll([
+                                for (final c in p.cells) '${c.$1},${c.$2}',
+                              ]))
+                                p.word,
+                          },
+                          liveSelection: liveSelection,
+                          isWrongSelection: wrongSelectionCells.isNotEmpty,
+                          foundLine: colors.foundLine,
+                          selectionLine: colors.selectionLine,
+                          wrongLine: colors.wrongSelection,
                         ),
-                      );
-                    }),
-                  ),
-                  IgnorePointer(
-                    child: CustomPaint(
-                      painter: _FoundWordLinesPainter(
-                        gridSize: puzzle.size,
-                        placements: puzzle.placements,
-                        foundWords: {
-                          for (final p in puzzle.placements)
-                            if (foundCells.containsAll(
-                              [for (final c in p.cells) '${c.$1},${c.$2}'],
-                            ))
-                              p.word,
-                        },
-                        liveSelection: liveSelection,
-                        isWrongSelection: wrongSelectionCells.isNotEmpty,
-                        foundLine: colors.foundLine,
-                        selectionLine: colors.selectionLine,
-                        wrongLine: colors.wrongSelection,
                       ),
                     ),
-                  ),
-                ],
+                  ],
+                ),
               ),
-            ),
-          );
-        },
+            );
+          },
+        ),
       ),
     );
   }
@@ -240,6 +278,7 @@ class _LetterCell extends StatelessWidget {
 class _FoundWordLinesPainter extends CustomPainter {
   const _FoundWordLinesPainter({
     required this.gridSize,
+    required this.isRtl,
     required this.placements,
     required this.foundWords,
     required this.liveSelection,
@@ -250,6 +289,12 @@ class _FoundWordLinesPainter extends CustomPainter {
   });
 
   final int gridSize;
+
+  /// A canvas is never flipped by [Directionality] — its origin stays at
+  /// the top-left — so a mirrored board has to be mirrored here by hand,
+  /// or the line lands opposite the letters it is meant to strike through.
+  final bool isRtl;
+
   final List<WordPlacement> placements;
   final Set<String> foundWords;
   final List<(int, int)> liveSelection;
@@ -264,7 +309,8 @@ class _FoundWordLinesPainter extends CustomPainter {
     final strokeWidth = cellSize * 0.34;
 
     Offset centerOf((int, int) cell) => Offset(
-      (cell.$2 + 0.5) * cellSize,
+      (WordSearchGridView.mirrorCol(cell.$2, gridSize, isRtl: isRtl) + 0.5) *
+          cellSize,
       (cell.$1 + 0.5) * cellSize,
     );
 
@@ -295,6 +341,7 @@ class _FoundWordLinesPainter extends CustomPainter {
   bool shouldRepaint(_FoundWordLinesPainter oldDelegate) {
     return oldDelegate.foundWords.length != foundWords.length ||
         oldDelegate.liveSelection != liveSelection ||
-        oldDelegate.isWrongSelection != isWrongSelection;
+        oldDelegate.isWrongSelection != isWrongSelection ||
+        oldDelegate.isRtl != isRtl;
   }
 }

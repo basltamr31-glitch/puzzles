@@ -361,13 +361,32 @@ Four things that are easy to get wrong:
    someone comes back from the Play Store having just installed it, and it
    is what makes the unlock feel automatic instead of needing a button.
 
-**The UI copy deliberately does not name the companion app.** Its Play
-listing title could not be verified, and inventing a brand name in shipped
-UI is worse than a neutral phrase. To name it, add the name to the four
-`partnerUnlock*` strings in every ARB. The copy also states that hints and
-extra lives still cost a video, because a player who installs expecting
-*all* ads to stop and then meets an interstitial was misled by the button,
-not by the ad.
+**The companion app is named in the UI**: "Couples — A Space for Two" in
+the description, "Couples" on the button. Both live in `AppConfig`
+(`partnerAppName`, `partnerAppShortName`) and reach the strings through an
+`{app}` placeholder, because a brand name is not translated and should not
+be spelled out once per locale. The short form exists because
+`SecondaryButton` scales its label down inside a `FittedBox` — the full
+listing title renders unreadably small on a narrow phone at a large text
+scale. The copy also states that hints and extra lives still cost a video,
+because a player who installs expecting *all* ads to stop and then meets
+an interstitial was misled by the button, not by the ad.
+
+**Owner decision (2026-09-24): Remove Ads *is* the companion download.**
+The Remove Ads screen offers only "Get Couples" — there is no paid button
+on it any more. Removing ads means banners and nothing else: hints and the
+extra life cost a rewarded video for **every** player (the old free-hint /
+free-life path for `isAdsRemoved` is gone), and interstitials keep showing.
+A legacy `isAdsRemoved` flag still hides banners via
+`areBannersHiddenProvider` and still skips interstitials in `AdPolicy`.
+Do not reintroduce a purchase or free hints without the owner asking.
+
+**Release builds must go through `micro_apps/build_release.ps1`.** Ad unit
+IDs come only from `--dart-define-from-file=ad_config.json`; a plain
+`flutter build apk --release` ships an app with *no ads at all* (every unit
+ID resolves to empty). The 2026-09-22 APKs were built that way and showed
+no banners and no rewarded video. The script builds with the config and
+fails unless the real banner ID is found inside `libapp.so`.
 
 
 ---
