@@ -1,7 +1,7 @@
 name: sudoku_app
 description: "Offline Sudoku — the second app in the puzzle portfolio."
 publish_to: 'none'
-version: 1.0.2+3
+version: 1.0.3+4
 
 environment:
   sdk: ^3.10.4

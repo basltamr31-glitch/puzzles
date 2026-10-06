@@ -1,7 +1,7 @@
 name: word_search_app
 description: "Offline Word Search — the third app in the puzzle portfolio."
 publish_to: 'none'
-version: 1.0.1+2
+version: 1.0.3+4
 
 environment:
   sdk: ^3.10.4
